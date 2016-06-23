@@ -1,0 +1,237 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_model.py" timestamp="1466606180315">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/builder.py" timestamp="1466671476073">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_eval.py" timestamp="1466599655122">
+        <mark key="'" line="164" column="4" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input.py" timestamp="1466599706186">
+        <mark key="'" line="248" column="43" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
+        <mark key="'" line="432" column="9" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="432" column="9" />
+        <mark key="^" line="432" column="9" />
+        <mark key="." line="432" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_train.py" timestamp="1466599612519">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/stub.py" timestamp="1466613919095">
+        <mark key="'" line="70" column="45" />
+        <mark key="[" line="250" column="34" />
+        <mark key="]" line="250" column="41" />
+        <mark key="^" line="250" column="41" />
+        <mark key="." line="250" column="41" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/asfdg.py" timestamp="1466589535615">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input_test.py" timestamp="1466600008826">
+        <mark key="'" line="65" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="432" column="9" filename="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" />
+      <jump line="211" column="16" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_model.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_model.py" />
+      <jump line="17" column="30" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
+      <jump line="430" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="388" column="46" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="393" column="58" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="395" column="75" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="409" column="70" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="357" column="23" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="350" column="36" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="311" column="39" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="312" column="49" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="313" column="47" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="315" column="57" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="316" column="54" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="321" column="45" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="324" column="39" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="329" column="41" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="276" column="115" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="262" column="53" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="191" column="57" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="195" column="57" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="196" column="16" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="342" column="31" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="257" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="194" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="193" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="192" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="190" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="189" column="16" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="161" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="157" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="385" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="372" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="371" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="370" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="369" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="367" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="366" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="365" column="18" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="337" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="331" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="322" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="317" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="314" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="310" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="309" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="308" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="307" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="306" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="305" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="304" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="303" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="302" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="270" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="43" column="44" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_train.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_train.py" />
+      <jump line="121" column="41" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_train.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_train.py" />
+      <jump line="165" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_eval.py" />
+      <jump line="164" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_eval.py" />
+      <jump line="0" column="28" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input.py" />
+      <jump line="249" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input.py" />
+      <jump line="248" column="43" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input_test.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input_test.py" />
+      <jump line="65" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input_test.py" />
+      <jump line="100" column="34" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+      <jump line="290" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
+      <jump line="196" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
+      <jump line="218" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
+      <jump line="72" column="45" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB0ZW5zb3IuCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+      <register name="/" type="4">
+        <text>get_data</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">bGF5ZXJzID0gW2J1aWxkZXIuQ29udig1LCA1LCAzLCA2NCwgMSwgMSwgMSwgMC4wKSwKICAgICAgICAgIGJ1aWxkZXIuUG9vbCgzLCAzLCAyLCAyLCAxKSwKICAgICAgICAgIGJ1aWxkZXIuTHJuKDQsIDEuMCwgMC4wMDEgLyA5LjAsIDAuNzUpLAogICAgICAgICAgYnVpbGRlci5Db252KDUsIDUsIDY0LCA2NCwgMSwgMSwgMSwgMC4xKSwKICAgICAgICAgIGJ1aWxkZXIuTHJuKDQsIDEuMCwgMC4wMDEgLyA5LjAsIDAuNzUpLAogICAgICAgICAgYnVpbGRlci5Qb29sKDMsIDMsIDIsIDIsIDEpLAogICAgICAgICAgYnVpbGRlci5EZW5zZSgzODQsIDAuMSwgMC4wNCwgMC4wMDQpLAogICAgICAgICAgYnVpbGRlci5SZWx1KCksCiAgICAgICAgICBidWlsZGVyLkRlbnNlKDE5MiwgMC4xLCAwLjA0LCAwLjAwNCksCiAgICAgICAgICBidWlsZGVyLlJlbHUoKSwKICAgICAgICAgIGJ1aWxkZXIuRGVuc2UoMTAsIDAuMCwgMSAvIDE5Mi4wLCAwLjApLAogICAgICAgICAgXQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICB0ZW5zb3IuCg==</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="118" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="91" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBCYXRjaCBOb3JtYWxpemF0aW9uIHBhcmFtcwpCQVRDSE5PUk1fTU9WSU5HX0FWRVJBR0VfREVDQVkgPSAwLjk1CkJOX0NPTExFQ1RJT04gPSAnYm5fdXBkYXRlcycKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CmltcG9ydCBzaXgK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBweWxpbnQ6IGRpc2FibGU9bWlzc2luZy1kb2NzdHJpbmcK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CgojIElmIGEgbW9kZWwgaXMgdHJhaW5lZCB3aXRoIG11bHRpcGxlIEdQVXMsIHByZWZpeCBhbGwgT3AgbmFtZXMgd2l0aCB0b3dlcl9uYW1lCiMgdG8gZGlmZmVyZW50aWF0ZSB0aGUgb3BlcmF0aW9ucy4gTm90ZSB0aGF0IHRoaXMgcHJlZml4IGlzIHJlbW92ZWQgZnJvbSB0aGUKIyBuYW1lcyBvZiB0aGUgc3VtbWFyaWVzIHdoZW4gdmlzdWFsaXppbmcgYSBtb2RlbC4KVE9XRVJfTkFNRSA9ICd0b3dlcicK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CkRBVEFfVVJMID0gJ2h0dHA6Ly93d3cuY3MudG9yb250by5lZHUvfmtyaXovY2lmYXItMTAtYmluYXJ5LnRhci5neicK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBpbXBvcnQgZ3ppcAppbXBvcnQgb3MKaW1wb3J0IHJlCmltcG9ydCBzeXMKaW1wb3J0IHRhcmZpbGUK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">RkxBR1MgPSB0Zi5hcHAuZmxhZ3MuRkxBR1MK</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>get_data</last-search>
+      <last-offset />
+      <last-pattern>get_data</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>print</entry>
+        <entry>los</entry>
+        <entry>get_data</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

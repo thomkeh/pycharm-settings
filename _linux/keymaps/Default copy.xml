@@ -1,0 +1,65 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="InsertLiveTemplate" />
+  <action id="IntroduceVariable" />
+  <action id="OverrideMethods" />
+  <action id="ParameterInfo" />
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl insert" />
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="VimPluginToggle" />
+</keymap>
