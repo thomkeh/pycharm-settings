@@ -17,6 +17,11 @@
         <mark key="." line="157" column="39" />
         <mark key="^" line="157" column="39" />
       </file>
+      <file name="/Dummy.txt" timestamp="1466691901943">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_eval.py" timestamp="1466599655122">
         <mark key="'" line="164" column="4" />
       </file>
@@ -137,7 +142,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>Add initialization value for biases.
+
+It somehow didn't work otherwise.</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
@@ -148,8 +155,10 @@
       <register name="0" type="2">
         <text encoding="base64">bGF5ZXJzID0gW2J1aWxkZXIuQ29udig1LCA1LCAzLCA2NCwgMSwgMSwgMSwgMC4wKSwKICAgICAgICAgIGJ1aWxkZXIuUG9vbCgzLCAzLCAyLCAyLCAxKSwKICAgICAgICAgIGJ1aWxkZXIuTHJuKDQsIDEuMCwgMC4wMDEgLyA5LjAsIDAuNzUpLAogICAgICAgICAgYnVpbGRlci5Db252KDUsIDUsIDY0LCA2NCwgMSwgMSwgMSwgMC4xKSwKICAgICAgICAgIGJ1aWxkZXIuTHJuKDQsIDEuMCwgMC4wMDEgLyA5LjAsIDAuNzUpLAogICAgICAgICAgYnVpbGRlci5Qb29sKDMsIDMsIDIsIDIsIDEpLAogICAgICAgICAgYnVpbGRlci5EZW5zZSgzODQsIDAuMSwgMC4wNCwgMC4wMDQpLAogICAgICAgICAgYnVpbGRlci5SZWx1KCksCiAgICAgICAgICBidWlsZGVyLkRlbnNlKDE5MiwgMC4xLCAwLjA0LCAwLjAwNCksCiAgICAgICAgICBidWlsZGVyLlJlbHUoKSwKICAgICAgICAgIGJ1aWxkZXIuRGVuc2UoMTAsIDAuMCwgMSAvIDE5Mi4wLCAwLjApLAogICAgICAgICAgXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBkYXRhID0gdGYuaWRlbnRpdHkoZGF0YSwgbmFtZT0nZmluYWxfbGF5ZXInKQogIGZvcl9zdW1tYXJ5LmFwcGVuZChkYXRhKQo=</text>
+      <register name="1" type="4">
+        <text>Add initialization value for biases.
+
+It somehow didn't work otherwise.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -162,28 +171,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYXRhID0gdGYuaWRlbnRpdHkoZGF0YSwgbmFtZT0nZmluYWxfbGF5ZXInKQogIGZvcl9zdW1tYXJ5LmFwcGVuZChkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhc3NlcnQgaXNpbnN0YW5jZShpbnB1dCwgdGYuVGVuc29yKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICBhc3NlcnQgaXNpbnN0YW5jZShpbnB1dCwgdGYuVGVuc29yKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmb3Jfc3VtbWFyeSA9IFtdCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsYXllcl9udW0gPSAwCg==</text>
+        <text encoding="base64">ICBmb3Jfc3VtbWFyeSA9IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsYXN0c2NvcGUgPSAiIgo=</text>
+        <text encoding="base64">ICBsYXllcl9udW0gPSAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICBsYXN0c2NvcGUgPSAiIgo=</text>
       </register>
     </registers>
     <search>
