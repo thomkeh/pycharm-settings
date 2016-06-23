@@ -10,10 +10,10 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/builder.py" timestamp="1466671476073">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/builder.py" timestamp="1466687921871">
+        <mark key="[" line="180" column="38" />
+        <mark key="]" line="180" column="38" />
+        <mark key="." line="180" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_eval.py" timestamp="1466599655122">
         <mark key="'" line="164" column="4" />
@@ -131,11 +131,11 @@
       <jump line="72" column="45" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0ZW5zb3IuCg==</text>
+      <register name="&quot;" type="4">
+        <text>, Batchn.m_av_dec, Batchn.coll_name, Batchn.var_eps</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>, Batchn.m_av_dec, Batchn.coll_name, Batchn.var_eps</text>
       </register>
       <register name="/" type="4">
         <text>get_data</text>
