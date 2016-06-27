@@ -41,6 +41,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" timestamp="1467036528063">
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="51" column="13" />
+        <mark key="." line="51" column="13" />
+        <mark key="^" line="51" column="13" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/asfdg.py" timestamp="1466589535615">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -53,14 +59,17 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" timestamp="1467031894860">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="22" column="23" />
-        <mark key="^" line="22" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" timestamp="1467035144361">
+        <mark key="'" line="14" column="25" />
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467032063175">
-        <mark key="'" line="44" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467033211356">
+        <mark key="'" line="189" column="25" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="82" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
         <mark key="'" line="432" column="9" />
@@ -162,26 +171,24 @@
       <jump line="186" column="67" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
       <jump line="172" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
       <jump line="44" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
+      <jump line="189" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
+      <jump line="14" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Fix the numbering of the layers
-
-In order to do this, the class LayerCreator was disassembled again.</text>
+        <text>entry.name</text>
       </register>
       <register name="-" type="4">
-        <text>sig</text>
+        <text>entry.name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfZGF0YVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZWZ0X2NoYW5uZWwsIHJpZ2h0X2NoYW5uZWwgPSBucC5oc3BsaXQoZGF0YSwgMikKICBzaWcgPSBsZWZ0X2NoYW5uZWwuZmxhdHRlbigpICsgcmlnaHRfY2hhbm5lbC5mbGF0dGVuKCkK</text>
+        <text encoding="base64">ZnJvbSBzY2lweS5pbyBpbXBvcnQgd2F2ZmlsZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Fix the numbering of the layers
-
-In order to do this, the class LayerCreator was disassembled again.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcGFzcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -193,29 +200,31 @@ In order to do this, the class LayerCreator was disassembled again.</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBsZWZ0X2NoYW5uZWwsIHJpZ2h0X2NoYW5uZWwgPSBucC5oc3BsaXQoZGF0YSwgMikKICBzaWcgPSBsZWZ0X2NoYW5uZWwuZmxhdHRlbigpICsgcmlnaHRfY2hhbm5lbC5mbGF0dGVuKCkKICBjb2VmZnMgPSBweXd0LndhdmVkZWMoc2lnLCAnZGI3JywgbGV2ZWw9MTQpCiAgY29lZmZzID0gY29lZmZzWy0xNDotMl0KICBuY29lZmZzID0gW10KICBmb3IgY29lZmYgaW4gY29lZmZzOgogICAgbmNvZWZmcy5hcHBlbmQobnAuYXNhcnJheShjb2VmZiwgZHR5cGU9bnAuZmxvYXQzMikpCiAgIyBhMCwgYTEsIGEyLCBhMywgYTQsIGE1ICxhNiwgYTcsIGE4LCBhOSA9IGNvZWZmcw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmlzZmlsZShzYW1wbGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHB5d3QK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgIyBucC5zYXZlel9jb21wcmVzc2VkKG91dHB1dF9maWxlLCApCg==</text>
+        <text encoding="base64">ICBkaXJlY3RvcnkgPSAiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ClRoZSBmdW5jdGlvbiBidWlsZF9tb2RlbCBub3cgYWNjZXB0cyBuZXN0ZWQgbGlzdHMgYW5kIGJ1aWxkcwpkaXZlcmdpbmcgZ3JhcGhzIGZyb20gdGhlbS4gVGhlIHN1YmdyYXBocyBhcmUgY3JlYXRlZCBieQpjYWxsaW5nIGJ1aWxkX21vZGVsIHJlY3Vyc2l2ZWx5LgoKVG8gc2ltcGxpZnkgdGhlIGNvZGUsIGEgbmV3IGNsYXNzIG5vdyBoYW5kbGVzIGtlZXBpbmcgdHJhY2sgb2YKdGhlIGxheWVyIG51bWJlciBhbmQgdGhlIGxhc3Qgc2NvcGUu</text>
+        <text encoding="base64">ICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcihkZXNjcmlwdGlvbj0nQ3JlYXRlIGEgZGF0YWJhc2Ugb2YgYXVkaW8gc2FtcGxlcy4nKQogIHBhcnNlci5hZGRfYXJndW1lbnQoJycp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbmRwb2ludHNbJ2lucHV0cyddID0gaW5wdXRzCg==</text>
+        <text encoding="base64">ICBwYXNzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBlbmRwb2ludHNbJ2xvZ2l0cyddID0gbG9naXRzCg==</text>
+      <register name="8" type="4">
+        <text>Fix the numbering of the layers
+
+In order to do this, the class LayerCreator was disassembled again.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBsZWZ0X2NoYW5uZWwsIHJpZ2h0X2NoYW5uZWwgPSBucC5oc3BsaXQoZGF0YSwgMikKICBzaWcgPSBsZWZ0X2NoYW5uZWwuZmxhdHRlbigpICsgcmlnaHRfY2hhbm5lbC5mbGF0dGVuKCkKICBjb2VmZnMgPSBweXd0LndhdmVkZWMoc2lnLCAnZGI3JywgbGV2ZWw9MTQpCiAgY29lZmZzID0gY29lZmZzWy0xNDotMl0KICBuY29lZmZzID0gW10KICBmb3IgY29lZmYgaW4gY29lZmZzOgogICAgbmNvZWZmcy5hcHBlbmQobnAuYXNhcnJheShjb2VmZiwgZHR5cGU9bnAuZmxvYXQzMikpCiAgIyBhMCwgYTEsIGEyLCBhMywgYTQsIGE1ICxhNiwgYTcsIGE4LCBhOSA9IGNvZWZmcw==</text>
       </register>
     </registers>
     <search>
