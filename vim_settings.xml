@@ -41,12 +41,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" timestamp="1467043755313">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" timestamp="1467047499571">
         <mark key="'" line="31" column="31" />
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="24" />
+        <mark key="[" line="10" column="128" />
+        <mark key="]" line="10" column="138" />
+        <mark key="." line="10" column="138" />
+        <mark key="^" line="10" column="138" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/asfdg.py" timestamp="1466589535615">
         <mark key="[" line="0" column="0" />
@@ -86,11 +86,11 @@
         <mark key="^" line="90" column="9" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/read.py" timestamp="1467045133912">
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="32" column="17" />
-        <mark key="." line="32" column="17" />
-        <mark key="^" line="32" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/read.py" timestamp="1467047367366">
+        <mark key="[" line="43" column="34" />
+        <mark key="]" line="43" column="34" />
+        <mark key="." line="43" column="34" />
+        <mark key="^" line="44" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input_test.py" timestamp="1466600008826">
         <mark key="'" line="65" column="4" />
@@ -186,19 +186,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>20000000</text>
+        <text>wav</text>
       </register>
       <register name="-" type="4">
-        <text>20000000</text>
+        <text>wav</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfZGF0YVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICBtYWluKCkK</text>
+        <text encoding="base64">ICBmaW5hbF9vZmZzZXQsIGZpbmFsX2xlbmd0aCA9IGMuZmV0Y2hvbmUoKQogIHJldHVybiBmaW5hbF9vZmZzZXQgKyBmaW5hbF9sZW5ndGgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlKQo=</text>
+        <text encoding="base64">ICAjIHJldHVybiB0aGUgaGlnaGVzdCBvZmZzZXQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -211,28 +211,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZS5jbG9zZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZSA9IHNxbGl0ZTMuY29ubmVjdChkYXRhYmFzZV9wYXRoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcmludChyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgIHJhdGUsIHNpZyA9IHdhdmZpbGUucmVhZChwYXRoKQogICAgIyBpZiBub3QgcmF0ZSA9PSA0ODAwMDoKICAgICMgICBwcmludCgiV2FybmluZzogcmF0ZSBpcyBub3QgNDgwMDAiKQogICAgbGVuZ3RoID0gbGVuKHNpZykKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZV9wYXRoID0gZGlyZWN0b3J5ICsgJy8nICsgZGF0YWJhc2VfZmlsZV9uYW1lCiAgaWYgbm90IG9zLnBhdGguaXNmaWxlKGRhdGFiYXNlX3BhdGgpOgogICAgcHJpbnQoJ05vIGRhdGFiYXNlIGZvdW5kLicpCiAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gZW50cnkubmFtZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyB0aGUgbmFtaW5nIHNjaGVtZSBvZiB0aGUgYXVkaW8gZmlsZXMK</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQocmF0ZSkK</text>
+        <text encoding="base64">ICBkYXRhYmFzZS5jbG9zZSgpCg==</text>
       </register>
     </registers>
     <search>
