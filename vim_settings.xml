@@ -53,11 +53,14 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" timestamp="1467030971832">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" timestamp="1467031894860">
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467032063175">
+        <mark key="'" line="44" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
         <mark key="'" line="432" column="9" />
@@ -158,6 +161,7 @@
       <jump line="161" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
       <jump line="186" column="67" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
       <jump line="172" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -169,7 +173,7 @@ In order to do this, the class LayerCreator was disassembled again.</text>
         <text>sig</text>
       </register>
       <register name="/" type="4">
-        <text>layer_n</text>
+        <text encoding="base64">XDxnZXRfZGF0YVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsZWZ0X2NoYW5uZWwsIHJpZ2h0X2NoYW5uZWwgPSBucC5oc3BsaXQoZGF0YSwgMikKICBzaWcgPSBsZWZ0X2NoYW5uZWwuZmxhdHRlbigpICsgcmlnaHRfY2hhbm5lbC5mbGF0dGVuKCkK</text>
@@ -215,9 +219,9 @@ In order to do this, the class LayerCreator was disassembled again.</text>
       </register>
     </registers>
     <search>
-      <last-search>layer_n</last-search>
+      <last-search encoding="base64">XDxnZXRfZGF0YVw+</last-search>
       <last-offset />
-      <last-pattern>layer_n</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfZGF0YVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -227,6 +231,7 @@ In order to do this, the class LayerCreator was disassembled again.</text>
         <entry>los</entry>
         <entry>get_data</entry>
         <entry>layer_n</entry>
+        <entry encoding="base64">XDxnZXRfZGF0YVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
