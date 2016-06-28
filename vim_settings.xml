@@ -70,12 +70,12 @@
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467131734172">
-        <mark key="'" line="185" column="37" />
-        <mark key="[" line="50" column="51" />
-        <mark key="]" line="50" column="51" />
-        <mark key="." line="50" column="51" />
-        <mark key="^" line="50" column="51" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467132689036">
+        <mark key="'" line="390" column="8" />
+        <mark key="[" line="348" column="20" />
+        <mark key="]" line="348" column="30" />
+        <mark key="." line="348" column="30" />
+        <mark key="^" line="348" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
         <mark key="'" line="432" column="9" />
@@ -91,19 +91,18 @@
         <mark key="^" line="90" column="9" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/read.py" timestamp="1467128079656">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/read.py" timestamp="1467132586342">
         <mark key="'" line="5" column="15" />
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="38" column="46" />
-        <mark key="." line="38" column="46" />
-        <mark key="^" line="38" column="46" />
+        <mark key="[" line="16" column="72" />
+        <mark key="]" line="16" column="86" />
+        <mark key="." line="16" column="86" />
+        <mark key="^" line="16" column="86" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input_test.py" timestamp="1466600008826">
         <mark key="'" line="65" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="30" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
       <jump line="430" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
@@ -203,6 +202,7 @@
       <jump line="355" column="60" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="172" column="53" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="185" column="37" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
+      <jump line="388" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -212,7 +212,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>values</text>
+        <text encoding="base64">XDxldmFsX29uY2VcPg==</text>
       </register>
       <register name="0" type="4">
         <text>t_endpoints['inputs']</text>
@@ -260,9 +260,11 @@
       </register>
     </registers>
     <search>
-      <last-search>values</last-search>
+      <last-search encoding="base64">XDxldmFsX29uY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>values</last-pattern>
+      <last-pattern encoding="base64">XDxldmFsX29uY2VcPg==</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>values</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -277,6 +279,7 @@
         <entry encoding="base64">XDxjb21wdXRlX2xvc3NcPg==</entry>
         <entry encoding="base64">XDxtb25pdG9yaW5nX2NoYW5uZWxzXD4=</entry>
         <entry>values</entry>
+        <entry encoding="base64">XDxldmFsX29uY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
