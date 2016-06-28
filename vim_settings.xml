@@ -22,7 +22,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1466773061851">
+      <file name="/Python Console" timestamp="1467125026226">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1467125070678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_eval.py" timestamp="1466599655122">
@@ -41,12 +44,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" timestamp="1467120896198">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" timestamp="1467124007666">
         <mark key="'" line="31" column="31" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="71" column="28" />
+        <mark key="[" line="83" column="59" />
+        <mark key="]" line="83" column="59" />
+        <mark key="." line="83" column="59" />
+        <mark key="^" line="83" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/asfdg.py" timestamp="1466589535615">
         <mark key="[" line="0" column="0" />
@@ -88,12 +91,12 @@
         <mark key="^" line="90" column="9" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/read.py" timestamp="1467122486644">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/read.py" timestamp="1467125332882">
         <mark key="'" line="5" column="15" />
-        <mark key="[" line="79" column="16" />
-        <mark key="]" line="79" column="26" />
-        <mark key="." line="79" column="26" />
-        <mark key="^" line="79" column="26" />
+        <mark key="[" line="90" column="50" />
+        <mark key="]" line="90" column="56" />
+        <mark key="." line="90" column="56" />
+        <mark key="^" line="90" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input_test.py" timestamp="1466600008826">
         <mark key="'" line="65" column="4" />
@@ -191,19 +194,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>np.</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>np.</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfZGF0YVw+</text>
       </register>
       <register name="0" type="4">
-        <text>DataSet.calculate_feature_length(</text>
+        <text>position - offset</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dHNbaSwgOiwgOl0gPSBkYXRhW2RhdGEuZmlsZXNbcG9zaXRpb24gLSBvZmZzZXQ6c2VsZi5mZWF0dXJlX2xlbmd0aF1dCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -216,28 +219,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcmF0ZSwgc2lnID0gd2F2ZmlsZS5yZWFkKHBhdGgpCiAgICAjIGlmIG5vdCByYXRlID09IDQ4MDAwOgogICAgIyAgIHByaW50KCJXYXJuaW5nOiByYXRlIGlzIG5vdCA0ODAwMCIpCiAgICAjIGxlbmd0aCA9IGxlbihzaWcpCg==</text>
+        <text encoding="base64">ICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUoZGF0YWJhc2VfcGF0aCk6CiAgICBwcmludCgnTm8gZGF0YWJhc2UgZm91bmQuJykKICAgIHJldHVybgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG5wLmxvYWQocGF0aCkK</text>
+      <register name="3" type="4">
+        <text>,
+               nativeness text, filename text, length int</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzY2lweS5pbyBpbXBvcnQgd2F2ZmlsZQo=</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICMgcmF0ZSwgc2lnID0gd2F2ZmlsZS5yZWFkKHBhdGgpCiAgICAjIGlmIG5vdCByYXRlID09IDQ4MDAwOgogICAgIyAgIHByaW50KCJXYXJuaW5nOiByYXRlIGlzIG5vdCA0ODAwMCIpCiAgICAjIGxlbmd0aCA9IGxlbihzaWcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi50b3RhbF9sZW5ndGggPSBzZWxmLmxpbWl0X3ZpZGVvcyhsaW1pdCkK</text>
+        <text encoding="base64">ICAgIG5wLmxvYWQocGF0aCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi50b3RhbF9sZW5ndGggPSBzZWxmLmdldF90b3RhbF9sZW5ndGgoKQo=</text>
+        <text encoding="base64">ZnJvbSBzY2lweS5pbyBpbXBvcnQgd2F2ZmlsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aXRoIHNxbGl0ZTMuY29ubmVjdChkYXRhYmFzZV9wYXRoKSBhcyBkYXRhYmFzZToK</text>
+        <text encoding="base64">ICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGYuCg==</text>
+        <text encoding="base64">ICAgICAgc2VsZi50b3RhbF9sZW5ndGggPSBzZWxmLmxpbWl0X3ZpZGVvcyhsaW1pdCkK</text>
       </register>
     </registers>
     <search>
