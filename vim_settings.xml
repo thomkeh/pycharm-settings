@@ -88,11 +88,11 @@
         <mark key="^" line="90" column="9" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/read.py" timestamp="1467116627312">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="25" />
-        <mark key="^" line="12" column="62" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/read.py" timestamp="1467118201185">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input_test.py" timestamp="1466600008826">
         <mark key="'" line="65" column="4" />
@@ -188,10 +188,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>base</text>
+        <text>==</text>
       </register>
       <register name="-" type="4">
-        <text>base</text>
+        <text>==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfZGF0YVw+</text>
