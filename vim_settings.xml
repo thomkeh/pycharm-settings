@@ -88,11 +88,12 @@
         <mark key="^" line="90" column="9" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/read.py" timestamp="1467118201185">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-        <mark key="^" line="18" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/read.py" timestamp="1467118942803">
+        <mark key="'" line="5" column="15" />
+        <mark key="[" line="64" column="34" />
+        <mark key="]" line="65" column="9" />
+        <mark key="." line="65" column="9" />
+        <mark key="^" line="65" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input_test.py" timestamp="1466600008826">
         <mark key="'" line="65" column="4" />
@@ -185,13 +186,15 @@
       <jump line="22" column="26" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
       <jump line="31" column="31" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
+      <jump line="64" column="17" filename="$USER_HOME$/PycharmProjects/ytaudio/read.py" />
+      <jump line="5" column="15" filename="$USER_HOME$/PycharmProjects/ytaudio/read.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2VsZi50b3RhbF9sZW5ndGggPSBzZWxmLmxpbWl0X3ZpZGVvcyhsaW1pdCkK</text>
       </register>
       <register name="-" type="4">
-        <text>==</text>
+        <text encoding="base64">IGlzIE5vbmU=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfZGF0YVw+</text>
@@ -200,7 +203,7 @@
         <text encoding="base64">ICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUoZGF0YWJhc2VfcGF0aCk6CiAgICBwcmludCgnTm8gZGF0YWJhc2UgZm91bmQuJykKICAgIHJldHVybgogIHdpdGggc3FsaXRlMy5jb25uZWN0KGRhdGFiYXNlX3BhdGgpIGFzIGRhdGFiYXNlOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aXRoIHNxbGl0ZTMuY29ubmVjdChkYXRhYmFzZV9wYXRoKSBhcyBkYXRhYmFzZToK</text>
+        <text encoding="base64">ICAgICAgc2VsZi50b3RhbF9sZW5ndGggPSBzZWxmLmxpbWl0X3ZpZGVvcyhsaW1pdCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -213,28 +216,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGYuCg==</text>
+        <text encoding="base64">ICAgICAgc2VsZi50b3RhbF9sZW5ndGggPSBzZWxmLmdldF90b3RhbF9sZW5ndGgoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwYXNzCg==</text>
+        <text encoding="base64">ICB3aXRoIHNxbGl0ZTMuY29ubmVjdChkYXRhYmFzZV9wYXRoKSBhcyBkYXRhYmFzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNlbGYuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QWRkIGxvZ2FyaXRobWljIGZpbHRlciBiYW5rIGZlYXR1cmUgZXh0cmFjdG9yCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIHJldHVybiB0aGUgaGlnaGVzdCBvZmZzZXQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gCg==</text>
+        <text encoding="base64">QWRkIGxvZ2FyaXRobWljIGZpbHRlciBiYW5rIGZlYXR1cmUgZXh0cmFjdG9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIHJldHVybiB0aGUgaGlnaGVzdCBvZmZzZXQK</text>
       </register>
     </registers>
     <search>
