@@ -17,10 +17,8 @@
         <mark key="." line="167" column="58" />
         <mark key="^" line="167" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1467047597271">
+      <file name="/Dummy.txt" timestamp="1467135575147">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1467125026226">
         <mark key="[" line="0" column="0" />
@@ -76,12 +74,12 @@
         <mark key="." line="27" column="43" />
         <mark key="^" line="27" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467132689036">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467135329331">
         <mark key="'" line="390" column="8" />
-        <mark key="[" line="348" column="20" />
-        <mark key="]" line="348" column="30" />
-        <mark key="." line="348" column="30" />
-        <mark key="^" line="348" column="30" />
+        <mark key="[" line="36" column="54" />
+        <mark key="]" line="36" column="54" />
+        <mark key="." line="36" column="54" />
+        <mark key="^" line="36" column="54" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
         <mark key="'" line="432" column="9" />
@@ -212,13 +210,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxldmFsX29uY2VcPg==</text>
+        <text>ImageSu</text>
       </register>
       <register name="0" type="4">
         <text>t_endpoints['inputs']</text>
@@ -262,13 +260,13 @@
         <text encoding="base64">ICAgICMgcmF0ZSwgc2lnID0gd2F2ZmlsZS5yZWFkKHBhdGgpCiAgICAjIGlmIG5vdCByYXRlID09IDQ4MDAwOgogICAgIyAgIHByaW50KCJXYXJuaW5nOiByYXRlIGlzIG5vdCA0ODAwMCIpCiAgICAjIGxlbmd0aCA9IGxlbihzaWcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>354</text>
+        <text>58</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxldmFsX29uY2VcPg==</last-search>
+      <last-search>ImageSu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxldmFsX29uY2VcPg==</last-pattern>
+      <last-pattern>ImageSu</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>values</last-substitute>
       <last-dir>1</last-dir>
@@ -286,12 +284,14 @@
         <entry encoding="base64">XDxtb25pdG9yaW5nX2NoYW5uZWxzXD4=</entry>
         <entry>values</entry>
         <entry encoding="base64">XDxldmFsX29uY2VcPg==</entry>
+        <entry>ImageSu</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
         <entry>278</entry>
         <entry>115</entry>
         <entry>354</entry>
+        <entry>58</entry>
       </history-cmd>
       <history-expr />
       <history-input />
