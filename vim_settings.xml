@@ -74,12 +74,12 @@
         <mark key="." line="27" column="43" />
         <mark key="^" line="27" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467194313310">
-        <mark key="'" line="406" column="2" />
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467205532209">
+        <mark key="'" line="408" column="2" />
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="28" />
+        <mark key="." line="59" column="28" />
+        <mark key="^" line="59" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
         <mark key="'" line="432" column="9" />
@@ -210,10 +210,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>_many</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>_many</text>
       </register>
       <register name="/" type="4">
         <text>ImageSu</text>
