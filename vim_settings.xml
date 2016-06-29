@@ -20,7 +20,7 @@
       <file name="/Dummy.txt" timestamp="1467135584840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1467125026226">
+      <file name="/Python Console" timestamp="1467194108929">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1467125070678">
@@ -74,12 +74,12 @@
         <mark key="." line="27" column="43" />
         <mark key="^" line="27" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467135329331">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467194033522">
         <mark key="'" line="390" column="8" />
-        <mark key="[" line="36" column="54" />
-        <mark key="]" line="36" column="54" />
-        <mark key="." line="36" column="54" />
-        <mark key="^" line="36" column="54" />
+        <mark key="[" line="36" column="115" />
+        <mark key="]" line="36" column="114" />
+        <mark key="." line="36" column="114" />
+        <mark key="^" line="36" column="114" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
         <mark key="'" line="432" column="9" />
@@ -329,6 +329,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
