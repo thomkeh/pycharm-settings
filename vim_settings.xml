@@ -17,10 +17,10 @@
         <mark key="." line="167" column="58" />
         <mark key="^" line="167" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1467222049010">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1467222340254">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="/Python Console" timestamp="1467208566119">
         <mark key="[" line="0" column="0" />
@@ -209,14 +209,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Create minimal working example
+        <text>dd read function for the TFRecord files
 
-With these changes I was able to run tensorflow.
-
-- read from feature files not from wavefiles
-- reduce the apparent size of the samples by the length of the clip we 
-  want, so that we are guaranteed to find a 5 second clip
-- assign an ID to every language by just enumerating them</text>
+(The code is completely untested yet.)</text>
       </register>
       <register name="-" type="4">
         <text>slice(audio_features, )</text>
@@ -228,14 +223,9 @@ With these changes I was able to run tensorflow.
         <text encoding="base64">ICAgIGdlbmRlcl9sYWJlbCA9IHRmLmNhc3QoZmVhdHVyZXNbJ2dlbmRlcl9sYWJlbCddLCB0Zi5pbnQzMikK</text>
       </register>
       <register name="1" type="4">
-        <text>Create minimal working example
+        <text>dd read function for the TFRecord files
 
-With these changes I was able to run tensorflow.
-
-- read from feature files not from wavefiles
-- reduce the apparent size of the samples by the length of the clip we 
-  want, so that we are guaranteed to find a 5 second clip
-- assign an ID to every language by just enumerating them</text>
+(The code is completely untested yet.)</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -247,32 +237,39 @@ With these changes I was able to run tensorflow.
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1ZGlvX2ZlYXR1cmVzID0gCg==</text>
+      <register name="2" type="4">
+        <text>Create minimal working example
+
+With these changes I was able to run tensorflow.
+
+- read from feature files not from wavefiles
+- reduce the apparent size of the samples by the length of the clip we 
+  want, so that we are guaranteed to find a 5 second clip
+- assign an ID to every language by just enumerating them</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGF1ZGlvX2ZlYXR1cmVzID0gCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBjb250ZW50ID0gCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
     'length': _int64_feature(length),
     'num_features': _int64_feature(num_features),
     'features_raw': content}</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB9KSkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBucC5zYXZleihvdXRwdXRfZmlsZSwgKmZiYW5rX2ZlYXQpCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIGVucXVldWVfb3AgPSB0X2VuZHBvaW50c1snZW5xdWV1ZV9vcCddCiAgICBhc3NlcnQgaXNpbnN0YW5jZShlbnF1ZXVlX29wLCB0Zi5PcGVyYXRpb24pCiAgICBmb3IgayBpbiByYW5nZSgxMDApOgogICAgICBmZWVkX2RpY3QgPSBkc2V0LmZpbGxfYmF0Y2godF9lbmRwb2ludHNbJ2lucHV0cyddLCB0X2VuZHBvaW50c1snZ2VuZGVyX2xhYmVscyddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdF9lbmRwb2ludHNbJ2FnZV9sYWJlbHMnXSwgdF9lbmRwb2ludHNbJ2xhbmd1YWdlX2xhYmVscyddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdF9lbmRwb2ludHNbJ25hdGl2ZV9sYWJlbHMnXSkKICAgICAgZW5xdWV1ZV9vcC5ydW4oZmVlZF9kaWN0PWZlZWRfZGljdCk=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdF9lbmRwb2ludHNbJ2VucXVldWVfb3AnXQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/gender/nativeness/g</text>
@@ -351,6 +348,9 @@ With these changes I was able to run tensorflow.
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
