@@ -68,13 +68,12 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" timestamp="1467221328940">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" timestamp="1467710349770">
         <mark key="a" line="66" column="16" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="2" />
-        <mark key="]" line="55" column="11" />
-        <mark key="." line="55" column="11" />
-        <mark key="^" line="55" column="11" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467214740762">
         <mark key="'" line="45" column="4" />
@@ -208,7 +207,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZSA9IHNxbGl0ZTMuY29ubmVjdChkYXRhYmFzZV9wYXRoKQogIGMgPSBkYXRhYmFzZS5jdXJzb3IoKQoKICAjIGRlbGV0ZSBvbGQgZGF0YQogIGMuZXhlY3V0ZSgiRFJPUCBUQUJMRSBJRiBFWElTVFMgc2FtcGxlcyIpCiAgYy5leGVjdXRlKCJEUk9QIFRBQkxFIElGIEVYSVNUUyBsYW5ndWFnZXMiKQoKICAjIGNyZWF0ZSBkYXRhYmFzZQogIGMuZXhlY3V0ZSgnJydDUkVBVEUgVEFCTEUgc2FtcGxlcwogICAgICAgICAgICAgICAob2Zmc2V0IGludCwgdmlkZW9faWQgdGV4dCwgY291bnQgaW50LCBnZW5kZXIgdGV4dCwgYWdlIGludCwgbGFuZ3VhZ2UgdGV4dCwKICAgICAgICAgICAgICAgbmF0aXZlbmVzcyB0ZXh0LCBmaWxlbmFtZSB0ZXh0LCBsZW5ndGggaW50KScnJykKICBjLmV4ZWN1dGUoJycnQ1JFQVRFIFRBQkxFIGxhbmd1YWdlcwogICAgICAgICAgICAgICAoaWQgSU5URUdFUiBQUklNQVJZIEtFWSwgbGFuZ3VhZ2UgdGV4dCknJycpCiAgZGF0YWJhc2UuY29tbWl0KCkKCiAgb2Zmc2V0ID0gMAo=</text>
+        <text encoding="base64">ICAKICBhID0gdHJhaW4uRXhhbXBsZS5Gcm9tU3RyaW5nKCJhc2ZkIikKICBiID0gYS5mZWF0dXJlcwogIGIuCg==</text>
       </register>
       <register name="-" type="4">
         <text>audio</text>
@@ -220,7 +219,7 @@
         <text encoding="base64">ICAgIGdlbmRlcl9sYWJlbCA9IHRmLmNhc3QoZmVhdHVyZXNbJ2dlbmRlcl9sYWJlbCddLCB0Zi5pbnQzMikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZSA9IHNxbGl0ZTMuY29ubmVjdChkYXRhYmFzZV9wYXRoKQogIGMgPSBkYXRhYmFzZS5jdXJzb3IoKQoKICAjIGRlbGV0ZSBvbGQgZGF0YQogIGMuZXhlY3V0ZSgiRFJPUCBUQUJMRSBJRiBFWElTVFMgc2FtcGxlcyIpCiAgYy5leGVjdXRlKCJEUk9QIFRBQkxFIElGIEVYSVNUUyBsYW5ndWFnZXMiKQoKICAjIGNyZWF0ZSBkYXRhYmFzZQogIGMuZXhlY3V0ZSgnJydDUkVBVEUgVEFCTEUgc2FtcGxlcwogICAgICAgICAgICAgICAob2Zmc2V0IGludCwgdmlkZW9faWQgdGV4dCwgY291bnQgaW50LCBnZW5kZXIgdGV4dCwgYWdlIGludCwgbGFuZ3VhZ2UgdGV4dCwKICAgICAgICAgICAgICAgbmF0aXZlbmVzcyB0ZXh0LCBmaWxlbmFtZSB0ZXh0LCBsZW5ndGggaW50KScnJykKICBjLmV4ZWN1dGUoJycnQ1JFQVRFIFRBQkxFIGxhbmd1YWdlcwogICAgICAgICAgICAgICAoaWQgSU5URUdFUiBQUklNQVJZIEtFWSwgbGFuZ3VhZ2UgdGV4dCknJycpCiAgZGF0YWJhc2UuY29tbWl0KCkKCiAgb2Zmc2V0ID0gMAo=</text>
+        <text encoding="base64">ICAKICBhID0gdHJhaW4uRXhhbXBsZS5Gcm9tU3RyaW5nKCJhc2ZkIikKICBiID0gYS5mZWF0dXJlcwogIGIuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -233,14 +232,20 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICB0cmFpbi5FeGFtcGxlLkZyb21TdHJpbmcoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkYXRhYmFzZSA9IHNxbGl0ZTMuY29ubmVjdChkYXRhYmFzZV9wYXRoKQogIGMgPSBkYXRhYmFzZS5jdXJzb3IoKQoKICAjIGRlbGV0ZSBvbGQgZGF0YQogIGMuZXhlY3V0ZSgiRFJPUCBUQUJMRSBJRiBFWElTVFMgc2FtcGxlcyIpCiAgYy5leGVjdXRlKCJEUk9QIFRBQkxFIElGIEVYSVNUUyBsYW5ndWFnZXMiKQoKICAjIGNyZWF0ZSBkYXRhYmFzZQogIGMuZXhlY3V0ZSgnJydDUkVBVEUgVEFCTEUgc2FtcGxlcwogICAgICAgICAgICAgICAob2Zmc2V0IGludCwgdmlkZW9faWQgdGV4dCwgY291bnQgaW50LCBnZW5kZXIgdGV4dCwgYWdlIGludCwgbGFuZ3VhZ2UgdGV4dCwKICAgICAgICAgICAgICAgbmF0aXZlbmVzcyB0ZXh0LCBmaWxlbmFtZSB0ZXh0LCBsZW5ndGggaW50KScnJykKICBjLmV4ZWN1dGUoJycnQ1JFQVRFIFRBQkxFIGxhbmd1YWdlcwogICAgICAgICAgICAgICAoaWQgSU5URUdFUiBQUklNQVJZIEtFWSwgbGFuZ3VhZ2UgdGV4dCknJycpCiAgZGF0YWJhc2UuY29tbWl0KCkKCiAgb2Zmc2V0ID0gMAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">IiIiCkRlZmF1bHQgbGVuZ3RoIG9mIHRoZSBhdWRpbyBjbGlwcyB1c2VkIGZvciB0cmFpbmluZyBpbiBzZWNvbmRzCiIiIgpkZWZhdWx0X2NsaXBfbGVuZ3RoID0gNQoK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>dd read function for the TFRecord files
 
 (The code is completely untested yet.)</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>Create minimal working example
 
 With these changes I was able to run tensorflow.
@@ -250,23 +255,17 @@ With these changes I was able to run tensorflow.
   want, so that we are guaranteed to find a 5 second clip
 - assign an ID to every language by just enumerating them</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGF1ZGlvX2ZlYXR1cmVzID0gCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBjb250ZW50ID0gCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>{
     'length': _int64_feature(length),
     'num_features': _int64_feature(num_features),
     'features_raw': content}</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB9KSkK</text>
       </register>
       <register name=":" type="4">
         <text>s/gender/nativeness/g</text>
