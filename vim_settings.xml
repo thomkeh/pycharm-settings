@@ -93,7 +93,7 @@
         <mark key="^" line="90" column="9" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/read.py" timestamp="1467221944704">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/read.py" timestamp="1467709334341">
         <mark key="'" line="139" column="4" />
         <mark key="[" line="134" column="58" />
         <mark key="]" line="134" column="61" />
@@ -349,6 +349,9 @@ With these changes I was able to run tensorflow.
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
