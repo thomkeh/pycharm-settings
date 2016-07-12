@@ -43,6 +43,13 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" timestamp="1468330125441">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="38" column="61" />
+        <mark key="]" line="38" column="61" />
+        <mark key="." line="38" column="61" />
+        <mark key="^" line="38" column="61" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/asfdg.py" timestamp="1466589535615">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -54,6 +61,13 @@
         <mark key="]" line="19" column="24" />
         <mark key="." line="19" column="24" />
         <mark key="^" line="24" column="36" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" timestamp="1468330231765">
+        <mark key="'" line="63" column="2" />
+        <mark key="[" line="101" column="6" />
+        <mark key="]" line="101" column="29" />
+        <mark key="." line="101" column="29" />
+        <mark key="^" line="101" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467826930126">
         <mark key="'" line="421" column="43" />
@@ -77,13 +91,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
-      <jump line="194" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
-      <jump line="193" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
-      <jump line="192" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
-      <jump line="190" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
-      <jump line="189" column="16" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
-      <jump line="161" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
       <jump line="157" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
       <jump line="385" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
       <jump line="372" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
@@ -166,7 +173,6 @@
       <jump line="136" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/read.py" />
       <jump line="137" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/read.py" />
       <jump line="138" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/read.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
       <jump line="55" column="36" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
       <jump line="392" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="182" column="52" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
@@ -177,22 +183,30 @@
       <jump line="190" column="39" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="403" column="43" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="50" column="21" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" />
+      <jump line="48" column="26" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" />
+      <jump line="64" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" />
+      <jump line="83" column="15" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" />
+      <jump line="75" column="60" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
+      <jump line="20" column="49" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
+      <jump line="38" column="60" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
+      <jump line="47" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
+      <jump line="63" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHJhbmRpbnQK</text>
+      <register name="&quot;" type="4">
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgJy8nICs=</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
-        <text>keys()</text>
+        <text>assert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiBub3Qgb3ZlcndyaXRlIGFuZCBvcy5wYXRoLmlzZmlsZShkYXRhYmFzZV9wYXRoKToKICAgIHByaW50KCdEYXRhYmFzZSBhbHJlYWR5IGV4aXN0cy4nKQogICAgcmV0dXJuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHJhbmRpbnQK</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -205,37 +219,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgbWFpbigpCg==</text>
+        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHJhbmRpbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmRlZiBtYWluKCk6CiAgZGF0YV9wYXRoID0gIi9ob21lL3Rtay9NdXNpYy9mZWF0dXJlcy8iCiAgcG9zaXRpb24gPSByYW5kaW50KDAsdG90YWwpCiAgIyBwcmludChwb3NpdGlvbikKICAjIHByaW50KGVuZCkKICAjIHByaW50KGNsaXApCiAgIyBwcmludChkcy5maWxsX2JhdGNoKCJpbnB1dHMiLCAiZ2VuZGVyIiwgImFnZSIsICJsYW5ndWFnZSIsICJuYXRpdmVuZXNzIikpCg==</text>
+        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgbWFpbigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNxbGl0ZTMK</text>
+        <text encoding="base64">CmRlZiBtYWluKCk6CiAgZGF0YV9wYXRoID0gIi9ob21lL3Rtay9NdXNpYy9mZWF0dXJlcy8iCiAgcG9zaXRpb24gPSByYW5kaW50KDAsdG90YWwpCiAgIyBwcmludChwb3NpdGlvbikKICAjIHByaW50KGVuZCkKICAjIHByaW50KGNsaXApCiAgIyBwcmludChkcy5maWxsX2JhdGNoKCJpbnB1dHMiLCAiZ2VuZGVyIiwgImFnZSIsICJsYW5ndWFnZSIsICJuYXRpdmVuZXNzIikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJUd28gY2hhbm5lbHMhIikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBlbGlmIGRhdGEuc2hhcGVbMV0gPT0gMToK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNpZyA9IGRhdGEK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHNxbGl0ZTMK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJUd28gY2hhbm5lbHMhIikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBlbGlmIGRhdGEuc2hhcGVbMV0gPT0gMToK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHNpZyA9IGRhdGEK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIG5wLnNhdmV0eHQoZGF0YWJhc2VfcGF0aCwgKGZpbGVfbGlzdCwgbGVuZ3RoX2xpc3QpLCBoZWFkZXI9ImZpbGVuYW1lXHRsZW5ndGgiKQo=</text>
+        <text encoding="base64">aW1wb3J0IHNxbGl0ZTMK</text>
       </register>
       <register name=":" type="4">
         <text>388</text>
       </register>
     </registers>
     <search>
-      <last-search>keys()</last-search>
+      <last-search>assert</last-search>
       <last-offset />
-      <last-pattern>keys()</last-pattern>
+      <last-pattern>assert</last-pattern>
       <last-replace>nativeness</last-replace>
       <last-substitute>gender</last-substitute>
       <last-dir>1</last-dir>
@@ -258,6 +272,7 @@
         <entry encoding="base64">XDxkZWZhdWx0X2NsaXBfbGVuZ3RoXD4=</entry>
         <entry>\.values()</entry>
         <entry>keys()</entry>
+        <entry>assert</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
