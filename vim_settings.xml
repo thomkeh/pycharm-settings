@@ -43,12 +43,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" timestamp="1467883707572">
-        <mark key="[" line="75" column="72" />
-        <mark key="]" line="75" column="72" />
-        <mark key="." line="75" column="72" />
-        <mark key="^" line="75" column="72" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/asfdg.py" timestamp="1466589535615">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -61,19 +55,8 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" timestamp="1467881282986">
-        <mark key="'" line="51" column="21" />
-        <mark key="[" line="53" column="11" />
-        <mark key="]" line="53" column="21" />
-        <mark key="." line="53" column="21" />
-        <mark key="^" line="53" column="21" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467826930126">
-        <mark key="'" line="403" column="43" />
-        <mark key="[" line="200" column="52" />
-        <mark key="]" line="200" column="52" />
-        <mark key="." line="200" column="52" />
-        <mark key="^" line="200" column="43" />
+        <mark key="'" line="421" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
         <mark key="'" line="432" column="9" />
@@ -88,11 +71,6 @@
         <mark key="]" line="67" column="30" />
         <mark key="^" line="90" column="9" />
         <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/read.py" timestamp="1467883171003">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input_test.py" timestamp="1466600008826">
         <mark key="'" line="65" column="4" />
