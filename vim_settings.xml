@@ -79,12 +79,9 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1468927263331">
-        <mark key="'" line="421" column="43" />
-        <mark key="[" line="390" column="22" />
-        <mark key="]" line="390" column="14" />
-        <mark key="^" line="390" column="14" />
-        <mark key="." line="390" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1468928763422">
+        <mark key="'" line="456" column="2" />
+        <mark key="^" line="85" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/convert.py" timestamp="1468927146908">
         <mark key="[" line="7" column="81" />
@@ -118,11 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="365" column="18" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
-      <jump line="337" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
-      <jump line="331" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
-      <jump line="322" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
-      <jump line="317" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
       <jump line="314" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
       <jump line="310" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
       <jump line="309" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
@@ -198,7 +190,6 @@
       <jump line="387" column="68" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="389" column="51" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="37" column="35" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
-      <jump line="203" column="52" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="190" column="39" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="403" column="43" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="50" column="21" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" />
@@ -218,10 +209,16 @@
       <jump line="29" column="21" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_dataset.py" />
       <jump line="56" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/parse_dataset.py" />
       <jump line="64" column="18" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/parse_dataset.py" />
+      <jump line="123" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
+      <jump line="455" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
+      <jump line="203" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
+      <jump line="456" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBvcy4KICBhID0gMQo=</text>
+        <text encoding="base64">ICBsYW5nYXVnZV9sb3NzID0gY2VfbG9zcyhsb2dpdHNbJ2xhbmd1YWdlJ10sIGxhYmVsc1snbGFuZ3VhZ2UnXSwgJ2xhbmd1YWdlJykK</text>
       </register>
       <register name="-" type="4">
         <text>mkdir()</text>
@@ -230,7 +227,7 @@
         <text>assert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dHJhaW5fZGlyID0gb3MucGF0aC5qb2luKHRhcmdldF9kaXIsICJ0cmFpbiIpCg==</text>
+        <text encoding="base64">ICBsYW5nYXVnZV9sb3NzID0gY2VfbG9zcyhsb2dpdHNbJ2xhbmd1YWdlJ10sIGxhYmVsc1snbGFuZ3VhZ2UnXSwgJ2xhbmd1YWdlJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBvcy4KICBhID0gMQo=</text>
