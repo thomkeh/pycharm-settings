@@ -21,10 +21,10 @@
         <mark key="]" line="85" column="17" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1468504537716">
+      <file name="/Python Console" timestamp="1468927152069">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1468503298554">
+      <file name="/fragment.py" timestamp="1468927179283">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_eval.py" timestamp="1466599655122">
@@ -72,21 +72,25 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" timestamp="1468489446353">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" timestamp="1468927103437">
         <mark key="c" line="55" column="47" />
-        <mark key="[" line="59" column="34" />
-        <mark key="]" line="59" column="34" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="59" column="34" />
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1467826930126">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt.py" timestamp="1468927263331">
         <mark key="'" line="421" column="43" />
+        <mark key="[" line="390" column="22" />
+        <mark key="]" line="390" column="14" />
+        <mark key="^" line="390" column="14" />
+        <mark key="." line="390" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/convert.py" timestamp="1468504528979">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="29" />
-        <mark key="^" line="7" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/convert.py" timestamp="1468927146908">
+        <mark key="[" line="7" column="81" />
+        <mark key="]" line="7" column="80" />
+        <mark key="." line="7" column="80" />
+        <mark key="^" line="7" column="80" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
         <mark key="'" line="432" column="9" />
@@ -216,11 +220,11 @@
       <jump line="64" column="18" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/parse_dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cruvadom/temp/NAS/data_work/Gil/YouTube/audio_ver2_converted'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBvcy4KICBhID0gMQo=</text>
       </register>
       <register name="-" type="4">
-        <text>cruvadom/temp/NAS/data_work/Gil/YouTube/audio_ver2_converted'</text>
+        <text>mkdir()</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
@@ -229,7 +233,7 @@
         <text encoding="base64">dHJhaW5fZGlyID0gb3MucGF0aC5qb2luKHRhcmdldF9kaXIsICJ0cmFpbiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBwcmVwYXJlIHRhcmdldCBkaXJlY3Rvcmllcwo=</text>
+        <text encoding="base64">ICBvcy4KICBhID0gMQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -242,28 +246,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIGQgaW4gW3RyYWluX2RpciwgdGVzdF9kaXJdOgo=</text>
+        <text encoding="base64">IyBwcmVwYXJlIHRhcmdldCBkaXJlY3Rvcmllcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiBub3Qgb3MucGF0aC5pc2RpcihkKToKICAgIG9zLm1rZGlyKGQpCg==</text>
+        <text encoding="base64">Zm9yIGQgaW4gW3RyYWluX2RpciwgdGVzdF9kaXJdOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiBub3Qgb3MucGF0aC5pc2RpcihkKToKICAgIG9zLm1rZGlyKGQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBDb252ZXJ0IGVhY2ggd2F2IGZpbGUKZm9yIHJvb3QsIGRpcmVjdG9yaWVzLCBmaWxlbmFtZXMgaW4gb3Mud2Fsayhzb3VyY2VfZGlyKToKICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgogICAgICBwcmludChmaWxlbmFtZSkKICAgICAgbWFpbihvcy5wYXRoLmpvaW4ocm9vdCwgZmlsZW5hbWUpLCBvcy5wYXRoLmpvaW4odGFyZ2V0X2RpciwgZmlsZW5hbWUpWzotM10gKyAndGZyJykKICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGZpbGVuYW1lLmVuZHN3aXRoKCd3YXYnKToK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBDb252ZXJ0IGVhY2ggd2F2IGZpbGUKZm9yIHJvb3QsIGRpcmVjdG9yaWVzLCBmaWxlbmFtZXMgaW4gb3Mud2Fsayhzb3VyY2VfZGlyKToKICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgogICAgICBwcmludChmaWxlbmFtZSkKICAgICAgbWFpbihvcy5wYXRoLmpvaW4ocm9vdCwgZmlsZW5hbWUpLCBvcy5wYXRoLmpvaW4odGFyZ2V0X2RpciwgZmlsZW5hbWUpWzotM10gKyAndGZyJykKICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIGZpbGVuYW1lLmVuZHN3aXRoKCd3YXYnKToK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgdHIsIHRlID0gc3BsaXRfZGF0YXNldCgiL2hvbWUvdG1rL011c2ljL3lvdXR1YmUiLCAxMDApCiAgcHJpbnQodHIpCiAgcHJpbnQoIi0tLS0tLS0tLS0iKQogIHByaW50KHRlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYXNzCg==</text>
+        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgdHIsIHRlID0gc3BsaXRfZGF0YXNldCgiL2hvbWUvdG1rL011c2ljL3lvdXR1YmUiLCAxMDApCiAgcHJpbnQodHIpCiAgcHJpbnQoIi0tLS0tLS0tLS0iKQogIHByaW50KHRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>388</text>
