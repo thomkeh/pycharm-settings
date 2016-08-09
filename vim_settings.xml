@@ -19,8 +19,10 @@
       <file name="/Python Console" timestamp="1470738973869">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1470738309534">
+      <file name="/fragment.py" timestamp="1470741511289">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1468489716009">
         <mark key="[" line="0" column="0" />
@@ -121,12 +123,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470738423575">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470742060877">
         <mark key="'" line="220" column="4" />
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="32" column="76" />
-        <mark key="." line="32" column="76" />
-        <mark key="^" line="32" column="76" />
+        <mark key="[" line="34" column="49" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="49" />
+        <mark key="^" line="34" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/typing/.idea/typ.py" timestamp="1468930317600">
         <mark key="[" line="8" column="10" />
@@ -253,10 +255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>labels.get_shape()[0].value</text>
+        <text>, 2</text>
       </register>
       <register name="-" type="4">
-        <text>labels.get_shape()[0].value</text>
+        <text>, 2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtc2VfbG9zc1w+</text>
