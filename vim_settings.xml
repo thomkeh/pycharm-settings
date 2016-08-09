@@ -70,11 +70,11 @@
         <mark key="." line="7" column="80" />
         <mark key="^" line="7" column="80" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" timestamp="1470738198885">
-        <mark key="'" line="52" column="13" />
-        <mark key="[" line="134" column="50" />
-        <mark key="]" line="134" column="54" />
-        <mark key="." line="134" column="54" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" timestamp="1470744039422">
+        <mark key="'" line="121" column="15" />
+        <mark key="[" line="52" column="58" />
+        <mark key="]" line="52" column="58" />
+        <mark key="." line="52" column="58" />
         <mark key="^" line="134" column="54" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
@@ -123,12 +123,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470742060877">
-        <mark key="'" line="220" column="4" />
-        <mark key="[" line="34" column="49" />
-        <mark key="]" line="34" column="49" />
-        <mark key="." line="34" column="49" />
-        <mark key="^" line="34" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470743791376">
+        <mark key="'" line="80" column="20" />
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="13" />
+        <mark key="." line="34" column="13" />
+        <mark key="^" line="34" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/typing/.idea/typ.py" timestamp="1468930317600">
         <mark key="[" line="8" column="10" />
@@ -152,17 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input.py" />
-      <jump line="248" column="43" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input_test.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input_test.py" />
-      <jump line="65" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input_test.py" />
-      <jump line="100" column="34" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
-      <jump line="290" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
-      <jump line="196" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
-      <jump line="218" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
-      <jump line="72" column="45" filename="$USER_HOME$/PycharmProjects/ytaudio/stub.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
       <jump line="186" column="67" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
       <jump line="172" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
       <jump line="189" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
@@ -250,18 +239,29 @@
       <jump line="86" column="19" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
       <jump line="134" column="64" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
       <jump line="5" column="34" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
-      <jump line="52" column="13" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
       <jump line="219" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
+      <jump line="65" column="40" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
+      <jump line="84" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
+      <jump line="45" column="9" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
+      <jump line="111" column="36" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
+      <jump line="52" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
+      <jump line="56" column="38" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
+      <jump line="60" column="32" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
+      <jump line="113" column="43" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
+      <jump line="67" column="54" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
+      <jump line="79" column="18" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
+      <jump line="80" column="20" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
+      <jump line="121" column="15" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 2</text>
+        <text encoding="base64">IC8gMTAwLjA=</text>
       </register>
       <register name="-" type="4">
-        <text>, 2</text>
+        <text encoding="base64">IC8gMTAwLjA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtc2VfbG9zc1w+</text>
+        <text encoding="base64">XDxjb21wdXRlX2xvc3NcPg==</text>
       </register>
       <register name="0" type="4">
         <text>/nas/staff/data_work/Gil/YouTube/audio_ver2_converted</text>
@@ -308,9 +308,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtc2VfbG9zc1w+</last-search>
+      <last-search encoding="base64">XDxjb21wdXRlX2xvc3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtc2VfbG9zc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wdXRlX2xvc3NcPg==</last-pattern>
       <last-replace>nativeness</last-replace>
       <last-substitute>gender</last-substitute>
       <last-dir>1</last-dir>
@@ -318,10 +318,7 @@
     </search>
     <history>
       <history-search>
-        <entry>get_data</entry>
-        <entry>layer_n</entry>
         <entry>gender_lab</entry>
-        <entry encoding="base64">XDxjb21wdXRlX2xvc3NcPg==</entry>
         <entry encoding="base64">XDxtb25pdG9yaW5nX2NoYW5uZWxzXD4=</entry>
         <entry>values</entry>
         <entry encoding="base64">XDxldmFsX29uY2VcPg==</entry>
@@ -338,6 +335,9 @@
         <entry encoding="base64">XDxtYWluX2xvb3BcPg==</entry>
         <entry>age_acc</entry>
         <entry encoding="base64">XDxtc2VfbG9zc1w+</entry>
+        <entry>age_s</entry>
+        <entry>age_lo</entry>
+        <entry encoding="base64">XDxjb21wdXRlX2xvc3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
