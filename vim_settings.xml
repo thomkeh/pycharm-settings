@@ -68,7 +68,8 @@
         <mark key="." line="7" column="80" />
         <mark key="^" line="7" column="80" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" timestamp="1470674416938">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" timestamp="1470737191399">
+        <mark key="'" line="89" column="4" />
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="95" />
         <mark key="." line="19" column="42" />
@@ -148,7 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="44" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_train.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_train.py" />
       <jump line="121" column="41" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_train.py" />
       <jump line="144" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_train.py" />
@@ -248,6 +248,7 @@
       <jump line="17" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
       <jump line="21" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
       <jump line="127" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
+      <jump line="89" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -257,7 +258,7 @@
         <text>home/tmk/out</text>
       </register>
       <register name="/" type="4">
-        <text>SUM</text>
+        <text encoding="base64">XDxjcmVhdGVfbW9kZWxcPg==</text>
       </register>
       <register name="0" type="4">
         <text>/nas/staff/data_work/Gil/YouTube/audio_ver2_converted</text>
@@ -304,9 +305,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SUM</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVfbW9kZWxcPg==</last-search>
       <last-offset />
-      <last-pattern>SUM</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVfbW9kZWxcPg==</last-pattern>
       <last-replace>nativeness</last-replace>
       <last-substitute>gender</last-substitute>
       <last-dir>1</last-dir>
@@ -332,6 +333,7 @@
         <entry>assert</entry>
         <entry>to_summ</entry>
         <entry>SUM</entry>
+        <entry encoding="base64">XDxjcmVhdGVfbW9kZWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
