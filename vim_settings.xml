@@ -16,7 +16,7 @@
         <mark key="]" line="85" column="17" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1470738973869">
+      <file name="/Python Console" timestamp="1470750464378">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1470741511289">
@@ -50,7 +50,12 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/read_common.py" timestamp="1470748348698" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/read_common.py" timestamp="1470750941397">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="52" />
+        <mark key="^" line="6" column="45" />
+        <mark key="." line="5" column="52" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/read_yt.py" timestamp="1470748613719">
         <mark key="[" line="86" column="77" />
         <mark key="]" line="86" column="77" />
@@ -257,10 +262,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tmp</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>tmp</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wdXRlX2xvc3NcPg==</text>
