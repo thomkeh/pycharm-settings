@@ -37,10 +37,6 @@
       <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_input.py" timestamp="1466599706186">
         <mark key="'" line="248" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/wavelet.py" timestamp="1467030961596">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="55" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" timestamp="1468330125441">
         <mark key="'" line="47" column="4" />
         <mark key="[" line="18" column="61" />
@@ -54,7 +50,12 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/read_yt.py" timestamp="1470747755060" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/read_common.py" timestamp="1470748348698" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/read_yt.py" timestamp="1470748613719">
+        <mark key="[" line="86" column="77" />
+        <mark key="]" line="86" column="77" />
+        <mark key="." line="86" column="77" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/typing/typ.py" timestamp="1468930573475">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="21" />
@@ -71,7 +72,7 @@
         <mark key="." line="7" column="80" />
         <mark key="^" line="7" column="80" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" timestamp="1470746317146">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" timestamp="1470748421048">
         <mark key="'" line="121" column="15" />
         <mark key="[" line="61" column="42" />
         <mark key="]" line="61" column="42" />
@@ -124,12 +125,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470746187116">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470748863670">
         <mark key="'" line="80" column="20" />
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="34" column="13" />
-        <mark key="." line="34" column="13" />
-        <mark key="^" line="34" column="13" />
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+        <mark key="^" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/typing/.idea/typ.py" timestamp="1468930317600">
         <mark key="[" line="8" column="10" />
@@ -153,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="67" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
       <jump line="172" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
       <jump line="189" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="14" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" />
@@ -253,13 +253,14 @@
       <jump line="79" column="18" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
       <jump line="80" column="20" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
       <jump line="121" column="15" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
+      <jump line="86" column="74" filename="$USER_HOME$/PycharmProjects/ytaudio/read_yt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>tmp</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>tmp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wdXRlX2xvc3NcPg==</text>
@@ -396,6 +397,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
