@@ -10,11 +10,11 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/builder.py" timestamp="1470823107306">
-        <mark key="[" line="90" column="32" />
-        <mark key="]" line="91" column="41" />
-        <mark key="^" line="91" column="41" />
-        <mark key="." line="91" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/builder.py" timestamp="1470840645942">
+        <mark key="[" line="94" column="28" />
+        <mark key="]" line="94" column="31" />
+        <mark key="^" line="94" column="31" />
+        <mark key="." line="94" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_dataset.py" timestamp="1468490167595">
         <mark key="'" line="29" column="21" />
@@ -137,12 +137,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470823245623">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470840671005">
         <mark key="'" line="3" column="19" />
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="23" column="32" />
-        <mark key="." line="23" column="32" />
-        <mark key="^" line="23" column="32" />
+        <mark key="[" line="58" column="48" />
+        <mark key="]" line="58" column="48" />
+        <mark key="." line="58" column="48" />
+        <mark key="^" line="58" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/typing/.idea/typ.py" timestamp="1468930317600">
         <mark key="[" line="8" column="10" />
@@ -269,10 +269,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>plit</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>plit</text>
       </register>
       <register name="/" type="4">
         <text>SUM</text>
@@ -280,8 +280,8 @@
       <register name="0" type="4">
         <text>/nas/staff/data_work/Gil/YouTube/audio_ver2_converted</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dGYuYXBwLmZsYWdzLkRFRklORV9zdHJpbmcoJ3Jlc3RvcmVfcGF0aCcsICcvaG9tZS9jcnV2YWRvbS90ZW1wL291dC90cmFuc2Zlci9sb2NhbC0xMDAnLCAncGF0aCBmb3IgdGhlIGNoZWNrcG9pbnQgdG8gcmVzdG9yZSBmcm9tJykK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgWydhZ2VuZGVyJywKICAgICAgIGJsLl0=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -294,28 +294,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiID0gZignZm9vJykK</text>
+        <text encoding="base64">dGYuYXBwLmZsYWdzLkRFRklORV9zdHJpbmcoJ3Jlc3RvcmVfcGF0aCcsICcvaG9tZS9jcnV2YWRvbS90ZW1wL291dC90cmFuc2Zlci9sb2NhbC0xMDAnLCAncGF0aCBmb3IgdGhlIGNoZWNrcG9pbnQgdG8gcmVzdG9yZSBmcm9tJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhLgo=</text>
+        <text encoding="base64">ICBiID0gZignZm9vJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvcy4KICBhID0gMQo=</text>
+        <text encoding="base64">ICBhLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwcmVwYXJlIHRhcmdldCBkaXJlY3Rvcmllcwo=</text>
+        <text encoding="base64">ICBvcy4KICBhID0gMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yIGQgaW4gW3RyYWluX2RpciwgdGVzdF9kaXJdOgo=</text>
+        <text encoding="base64">IyBwcmVwYXJlIHRhcmdldCBkaXJlY3Rvcmllcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiBub3Qgb3MucGF0aC5pc2RpcihkKToKICAgIG9zLm1rZGlyKGQpCg==</text>
+        <text encoding="base64">Zm9yIGQgaW4gW3RyYWluX2RpciwgdGVzdF9kaXJdOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiBub3Qgb3MucGF0aC5pc2RpcihkKToKICAgIG9zLm1rZGlyKGQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBDb252ZXJ0IGVhY2ggd2F2IGZpbGUKZm9yIHJvb3QsIGRpcmVjdG9yaWVzLCBmaWxlbmFtZXMgaW4gb3Mud2Fsayhzb3VyY2VfZGlyKToKICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgogICAgICBwcmludChmaWxlbmFtZSkKICAgICAgbWFpbihvcy5wYXRoLmpvaW4ocm9vdCwgZmlsZW5hbWUpLCBvcy5wYXRoLmpvaW4odGFyZ2V0X2RpciwgZmlsZW5hbWUpWzotM10gKyAndGZyJykKICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>388</text>
