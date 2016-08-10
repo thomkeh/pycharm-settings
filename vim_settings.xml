@@ -81,11 +81,11 @@
         <mark key="." line="7" column="80" />
         <mark key="^" line="7" column="80" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" timestamp="1470823231398">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" timestamp="1470848123705">
         <mark key="'" line="61" column="5" />
-        <mark key="[" line="61" column="26" />
-        <mark key="]" line="61" column="26" />
-        <mark key="." line="61" column="26" />
+        <mark key="[" line="52" column="59" />
+        <mark key="]" line="52" column="60" />
+        <mark key="." line="52" column="60" />
         <mark key="^" line="61" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
