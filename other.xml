@@ -66,4 +66,11 @@
   <component name="PyCodeInsightSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
   </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda3/bin/python3.5" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
