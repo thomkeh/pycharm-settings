@@ -133,12 +133,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470911574383">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470914269171">
         <mark key="'" line="3" column="19" />
-        <mark key="[" line="55" column="57" />
-        <mark key="]" line="55" column="67" />
-        <mark key="." line="55" column="67" />
-        <mark key="^" line="55" column="67" />
+        <mark key="[" line="58" column="44" />
+        <mark key="]" line="58" column="46" />
+        <mark key="." line="58" column="46" />
+        <mark key="^" line="58" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/typing/.idea/typ.py" timestamp="1468930317600">
         <mark key="[" line="8" column="10" />
@@ -265,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SAME</text>
+        <text>256</text>
       </register>
       <register name="-" type="4">
-        <text>SAME</text>
+        <text>256</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
