@@ -23,7 +23,7 @@
         <mark key="]" line="85" column="17" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1470912057961">
+      <file name="/Python Console" timestamp="1470915703521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1470741511289">
@@ -82,11 +82,11 @@
         <mark key="." line="7" column="80" />
         <mark key="^" line="7" column="80" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" timestamp="1470848123705">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" timestamp="1470916035393">
         <mark key="'" line="61" column="5" />
-        <mark key="[" line="52" column="59" />
-        <mark key="]" line="52" column="60" />
-        <mark key="." line="52" column="60" />
+        <mark key="[" line="52" column="58" />
+        <mark key="]" line="52" column="58" />
+        <mark key="." line="52" column="58" />
         <mark key="^" line="61" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
@@ -133,7 +133,7 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470914269171">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470916024237">
         <mark key="'" line="3" column="19" />
         <mark key="[" line="58" column="44" />
         <mark key="]" line="58" column="46" />
@@ -265,16 +265,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>256</text>
+        <text encoding="base64">IC8gMi4w</text>
       </register>
       <register name="-" type="4">
-        <text>256</text>
+        <text encoding="base64">IC8gMi4w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="4">
-        <text>subgraph_</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGJsLlJlbHUoKSwKICAgIGJsLkRlbnNlKGRpbT0zMDAsIHdfc3RkPXdfc3RkLCBiaWFzPVRydWUsIGJfaW5pdD1iX2luaXQsIHNjb3BlPSdkZW5zZTEnKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBlbHNlOgo=</text>
