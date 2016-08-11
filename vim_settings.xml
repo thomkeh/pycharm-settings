@@ -10,11 +10,12 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/builder.py" timestamp="1470846252166">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="6" />
-        <mark key="." line="60" column="6" />
-        <mark key="^" line="58" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/builder.py" timestamp="1470906860702">
+        <mark key="'" line="28" column="29" />
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="27" />
+        <mark key="^" line="31" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_dataset.py" timestamp="1468490167595">
         <mark key="'" line="29" column="21" />
@@ -159,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="6" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
-      <jump line="156" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="341" column="5" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="7" column="21" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="336" column="45" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
@@ -259,22 +258,24 @@
       <jump line="293" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
       <jump line="3" column="19" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
+      <jump line="27" column="72" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
+      <jump line="28" column="29" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgZXhpc3Rpbmdfb3V0cHV0czoKICAgICAgICBuZXN0ZWRfb3V0cHV0cyA9IGJ1aWxkX21vZGVsKGRhdGEsIGxheWVyWzE6XSwgaXNfdHJhaW4sIGxheWVyX251bSwgZXhpc3Rpbmdfb3V0cHV0cz1vdXRwdXRzKQogICAgICBlbHNlOgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, existing_outputs=None</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>SUM</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbmVzdGVkX291dHB1dHMgPSBidWlsZF9tb2RlbChkYXRhLCBsYXllclsxOl0sIGlzX3RyYWluLCBsYXllcl9udW0pCg==</text>
+      <register name="0" type="4">
+        <text>['scope']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgZXhpc3Rpbmdfb3V0cHV0czoKICAgICAgICBuZXN0ZWRfb3V0cHV0cyA9IGJ1aWxkX21vZGVsKGRhdGEsIGxheWVyWzE6XSwgaXNfdHJhaW4sIGxheWVyX251bSwgZXhpc3Rpbmdfb3V0cHV0cz1vdXRwdXRzKQogICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgbGF5ZXJfbnVtICs9IDEK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -287,45 +288,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiBleGlzdGluZ19vdXRwdXRzOgogICAgb3V0cHV0cyA9IGV4aXN0aW5nX291dHB1dHMK</text>
+        <text encoding="base64">ICAgICAgbGF5ZXJfbnVtICs9IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbHNlOgo=</text>
+        <text encoding="base64">ICBsYXllcl9udW0gPSBzdGFydF9sYXllcl9udW0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgaWYgZXhpc3Rpbmdfb3V0cHV0czoKICAgICAgICBuZXN0ZWRfb3V0cHV0cyA9IGJ1aWxkX21vZGVsKGRhdGEsIGxheWVyWzE6XSwgaXNfdHJhaW4sIGxheWVyX251bSwgZXhpc3Rpbmdfb3V0cHV0cz1vdXRwdXRzKQogICAgICBlbHNlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiBleGlzdGluZ19vdXRwdXRzOgo=</text>
+        <text encoding="base64">ICBpZiBleGlzdGluZ19vdXRwdXRzOgogICAgb3V0cHV0cyA9IGV4aXN0aW5nX291dHB1dHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlbHNlOgogICAgb3V0cHV0cyA9IHt9Cg==</text>
+        <text encoding="base64">ICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJsLlJlbHUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgWydnZW5kZXInLAogICAgIyAgYmwuRGVuc2UoMiwgd19zdGQsIFRydWUsIGJfaW5pdCwgJ2dlbmRlcl9zb2Z0bWF4JyldLAogICAgIyBbJ2FnZScsCiAgICAjICBibC5EZW5zZSgxLCB3X3N0ZCwgVHJ1ZSwgYl9pbml0LCAnYWdlJyldLAogICAgIyBbJ2xhbmd1YWdlJywKICAgICMgIGJsLkRlbnNlKE5fTEFOR1VBR0VTLCB3X3N0ZCwgVHJ1ZSwgYl9pbml0LCAnbGFuZ3VhZ2Vfc29mdG1heCcpXQogIF0K</text>
+        <text encoding="base64">ICBpZiBleGlzdGluZ19vdXRwdXRzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGF0YSA9IHRmLnNsaWNlKGZsYXR0ZW4oZGF0YSksIFtsYXllci5vZmZzZXRdLCBbbGF5ZXIuZGltXSwgbmFtZT1sYXllci5zY29wZSkK</text>
+        <text encoding="base64">ICBlbHNlOgogICAgb3V0cHV0cyA9IHt9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>388</text>
+        <text encoding="base64">JzwsJz5zLyAvJywgJy8=</text>
       </register>
     </registers>
     <search>
-      <last-search>SUM</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>SUM</last-pattern>
-      <last-replace>nativeness</last-replace>
-      <last-substitute>gender</last-substitute>
+      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-replace>', '</last-replace>
+      <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxldmFsX29uY2VcPg==</entry>
         <entry>ImageSu</entry>
         <entry encoding="base64">XDxnZXRfZGF0YVw+</entry>
         <entry>gender</entry>
@@ -345,6 +345,7 @@
         <entry encoding="base64">XDxsYW5nYXVnZV9sb3NzXD4=</entry>
         <entry encoding="base64">XDxzY2FsYXJfc3VtbWFyeVw+</entry>
         <entry>SUM</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
@@ -356,6 +357,8 @@
         <entry>s/gender/language/g</entry>
         <entry>s/gender/nativeness/g</entry>
         <entry>388</entry>
+        <entry encoding="base64">JzwsJz5zLyAvJywgJy9n</entry>
+        <entry encoding="base64">JzwsJz5zLyAvJywgJy8=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
