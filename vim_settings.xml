@@ -133,7 +133,7 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470916024237">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470933399898">
         <mark key="'" line="3" column="19" />
         <mark key="[" line="58" column="44" />
         <mark key="]" line="58" column="46" />
@@ -264,17 +264,17 @@
       <jump line="28" column="29" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q29weSAgPSBuYW1lZHR1cGxlKCdDb3B5JywgIFsnc2NvcGUnXSkK</text>
+      <register name="&quot;" type="4">
+        <text>128</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8gMi4w</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJsLlJlbHUoKSwKICAgIGJsLkRlbnNlKGRpbT0zMDAsIHdfc3RkPXdfc3RkLCBiaWFzPVRydWUsIGJfaW5pdD1iX2luaXQsIHNjb3BlPSdkZW5zZTEnKSwK</text>
+        <text encoding="base64">ICAgICAgIGJsLkRlbnNlKGRpbT0yMCwgd19zdGQ9d19zdGQsIGJpYXM9VHJ1ZSwgYl9pbml0PWJfaW5pdCwgc2NvcGU9J2RlbnNlX2xhbmd1YWdlJyksCiAgICAgICBibC5SZWx1KCksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Q29weSAgPSBuYW1lZHR1cGxlKCdDb3B5JywgIFsnc2NvcGUnXSkK</text>
