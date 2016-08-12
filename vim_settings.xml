@@ -23,7 +23,7 @@
         <mark key="]" line="85" column="17" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1470915703521">
+      <file name="/Python Console" timestamp="1470996092616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1470741511289">
@@ -133,12 +133,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470994729529">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" timestamp="1470995652729">
         <mark key="'" line="3" column="19" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="58" column="46" />
+        <mark key="[" line="62" column="84" />
+        <mark key="]" line="63" column="13" />
+        <mark key="." line="63" column="13" />
+        <mark key="^" line="63" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/typing/.idea/typ.py" timestamp="1468930317600">
         <mark key="[" line="8" column="10" />
@@ -264,11 +264,11 @@
       <jump line="28" column="29" filename="$USER_HOME$/PycharmProjects/ytaudio/builder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJsLlJlbHUoKSwKICAgIGJsLkRlbnNlKGRpbT0xMDAsIHdfc3RkPXdfc3RkLCBiaWFzPVRydWUsIGJfaW5pdD1iX2luaXQsIHNjb3BlPSdkZW5zZTInKSwK</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>256</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
