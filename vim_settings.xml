@@ -116,12 +116,12 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/youtube.py" timestamp="1472742298128">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/youtube.py" timestamp="1472744140212">
         <mark key="'" line="7" column="40" />
-        <mark key="[" line="105" column="65" />
-        <mark key="]" line="105" column="66" />
-        <mark key="^" line="105" column="66" />
-        <mark key="." line="105" column="66" />
+        <mark key="[" line="103" column="74" />
+        <mark key="]" line="103" column="80" />
+        <mark key="^" line="103" column="80" />
+        <mark key="." line="103" column="80" />
       </file>
       <file name="/Dummy.txt" timestamp="1467222340254">
         <mark key="[" line="0" column="12" />
@@ -303,16 +303,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>last_dim</text>
+        <text>reduce_mean</text>
       </register>
       <register name="-" type="4">
-        <text>last_dim</text>
+        <text>reduce_mean</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxhc3RfZGltID0gdC5nZXRfc2hhcGUoKVstMV0udmFsdWUKICAgIHJlc2hhcGVkID0gdGYucmVzaGFwZSh0LCBbRkxBR1MudGVzdF9tYiwgRkxBR1MudGVzdF9zYW1wbGVzLCBsYXN0X2RpbV0pCg==</text>
+      <register name="0" type="4">
+        <text>channels['last_age']</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxhc3RfZGltID0gdC5nZXRfc2hhcGUoKVstMV0udmFsdWUK</text>
