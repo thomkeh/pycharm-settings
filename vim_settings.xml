@@ -127,10 +127,10 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/youtube.py" timestamp="1473425006271">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/youtube.py" timestamp="1473430838199">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1467222340254">
         <mark key="[" line="0" column="12" />
@@ -331,8 +331,8 @@
       <jump line="374" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>results</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB5dC5zdm0gaW1wb3J0IHN2bQo=</text>
       </register>
       <register name="-" type="4">
         <text>results</text>
@@ -344,7 +344,7 @@
         <text encoding="base64">ICAgIGFnZ3JlZ2F0b3JzID0ge2s6IDAuMCBmb3IgayBpbiB0X2NoYW5uZWxzLmtleXMoKX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSAoMCwgbGVuKGFnZ3JlZ2F0b3JzKSk6CiAgICAgICAgICBhZ2dyZWdhdG9ycyA9IFswXSAqIGxlbih0X2NoYW5uZWxzKQo=</text>
+        <text encoding="base64">ZnJvbSB5dC5zdm0gaW1wb3J0IHN2bQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -357,28 +357,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdW1tYXJ5X3N0ciA9IAo=</text>
+        <text encoding="base64">ZnJvbSB5dC5tb2RlbCBpbXBvcnQgRGVuc2UsIGJ1aWxkX21vZGVsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbl9jaGFubmVsc19udW1weSA9IHJldFsxOi0xXQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSAoMCwgbGVuKGFnZ3JlZ2F0b3JzKSk6CiAgICAgICAgICBhZ2dyZWdhdG9ycyA9IFswXSAqIGxlbih0X2NoYW5uZWxzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFnZ3JlZ2F0b3JzID0gWzBdICogbGVuKHRfY2hhbm5lbHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdW1tYXJ5X3N0ciA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbl9jaGFubmVsc19udW1weSA9IHJldFsxOi0xXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCA9IHYgLyBmbG9hdCh0b3RhbF9zYW1wbGVfY291bnQpCiAgICAgICAgICBzdW1tYXJ5LnZhbHVlLmFkZCh0YWc9aywgc2ltcGxlX3ZhbHVlPXZhbCkK</text>
+        <text encoding="base64">ICAgIGFnZ3JlZ2F0b3JzID0gWzBdICogbGVuKHRfY2hhbm5lbHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdG9ycyA9IFswXSAqIGxlbihtWydjaGFubmVscyddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHBhcnNlX2JhdGNoKGJhdGNoKToKICBpbnB1dHMgPSBiYXRjaFswXQogIGxhYmVscyA9IHsnc2xlZXBpbmVzcyc6IGJhdGNoWzFdfQogIHJldHVybiBpbnB1dHMsIGxhYmVscwoK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCA9IHYgLyBmbG9hdCh0b3RhbF9zYW1wbGVfY291bnQpCiAgICAgICAgICBzdW1tYXJ5LnZhbHVlLmFkZCh0YWc9aywgc2ltcGxlX3ZhbHVlPXZhbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHBhcnNlX2JhdGNoKGJhdGNoKToKICBpbnB1dHMgPSBiYXRjaFswXQogIGxhYmVscyA9IHsnbGFuZ3VhZ2UnOiBiYXRjaFsxXX0KICByZXR1cm4gaW5wdXRzLCBsYWJlbHMKCg==</text>
+        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdG9ycyA9IFswXSAqIGxlbihtWydjaGFubmVscyddKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyAvJywgJy8=</text>
