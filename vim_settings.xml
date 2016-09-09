@@ -195,8 +195,8 @@
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/model.py" timestamp="1472745925349">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1473428877978">
-        <mark key="'" line="247" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1473429805887">
+        <mark key="'" line="374" column="10" />
         <mark key="[" line="240" column="21" />
         <mark key="]" line="240" column="31" />
         <mark key="." line="240" column="31" />
@@ -229,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="49" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
       <jump line="38" column="60" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
       <jump line="47" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
       <jump line="63" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" />
@@ -329,6 +328,7 @@
       <jump line="345" column="30" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="191" column="32" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="247" column="23" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="374" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
