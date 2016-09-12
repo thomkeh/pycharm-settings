@@ -229,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="60" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
       <jump line="47" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_database.py" />
       <jump line="63" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/logfbank.py" />
       <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/extractors/convert.sh" />
@@ -329,6 +328,7 @@
       <jump line="191" column="32" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="247" column="23" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="374" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="30" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
