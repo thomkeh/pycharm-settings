@@ -137,6 +137,13 @@
         <mark key="." line="26" column="60" />
         <mark key="^" line="26" column="60" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/avec20132014.py" timestamp="1473773712904">
+        <mark key="'" line="26" column="45" />
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/yt/svm.py" timestamp="1472569883202">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="6" />
@@ -261,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="456" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/yt.py" />
       <jump line="12" column="1" filename="$USER_HOME$/PycharmProjects/ytaudio/common.py" />
       <jump line="8" column="24" filename="$USER_HOME$/PycharmProjects/ytaudio/common.py" />
       <jump line="55" column="52" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
@@ -361,22 +367,23 @@
       <jump line="167" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
       <jump line="41" column="69" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
+      <jump line="26" column="45" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/avec20132014.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICs=</text>
+        <text>eating</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICs=</text>
+        <text>eating</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b184a1w+</text>
+        <text>Eating</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjcmVhdGVfZGF0YWJhc2UoJy9uYXMvc3RhZmYvZGF0YV93b3JrL0dpbC9Zb3VUdWJlL2RhdGFzZXRzL2F2ZWMyMDEzMjAxNC9jb252ZXJ0ZWQvdHJhaW4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmVhdHVyZXMsIGxlbmd0aCwgbnVtX2ZlYXR1cmVzID0gZXh0cmFjdF9sb2dmYmFuayhvcy5wYXRoLmpvaW4oZGF0YV9yb290LCB4WzBdKSkK</text>
+        <text encoding="base64">ZnJvbSB5dC5zdm0gaW1wb3J0IHN2bQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -389,45 +396,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkYXRhID0gYXJmZi5sb2FkKG9wZW4oYXJmZl9maWxlLCAncmInKSkK</text>
+        <text encoding="base64">ZnJvbSB5dC5tb2RlbCBpbXBvcnQgRGVuc2UsIGJ1aWxkX21vZGVsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBGCg==</text>
+        <text encoding="base64">IyBJbXBvcnQgZnJvbSBzdGFuZGFyZCBsaWJyYXJpZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkYXRhID0gYXJmZi5sb2FkKG9wZW4oYXJmZl9maWxlLCAncmInKSkK</text>
+        <text encoding="base64">ICAgICAgZmVhdHVyZXMsIGxlbmd0aCwgbnVtX2ZlYXR1cmVzID0gZXh0cmFjdF9sb2dmYmFuayhvcy5wYXRoLmpvaW4oZGF0YV9yb290LCB4WzBdKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICBkYXRhID0gYXJmZi5sb2FkKG9wZW4oYXJmZl9maWxlLCAncmInKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IHByaW50X2Z1bmN0aW9uCg==</text>
+        <text encoding="base64">ICBGCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JycnCkV2ZXJ5IHdhdiBmb2xkZXIgc2hvdWxkIE5PVCBiZSBpbiBhIDI0LWJpdCBmb3JtYXQsIGJlY2F1c2Ugc2NpcHkuaW8ud2F2ZmlsZS5yZWFkIGdldHMgd3Jvbmcgb3RoZXJ3aXNlCicnJwo=</text>
+        <text encoding="base64">ICBkYXRhID0gYXJmZi5sb2FkKG9wZW4oYXJmZl9maWxlLCAncmInKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBST09UX0RJUiA9ICcvaG9tZS9jcnV2YWRvbS90ZW1wL05BUy9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvJwo=</text>
+        <text encoding="base64">ICA6cmV0dXJuOiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JycnCmFyZmZfZmlsZTogRnVsbCBwYXRoIHRvIHRoZSBhcmZmIGZpbGUKZGF0YV9yb290OiB0aGUgcGF0aHMgaW4gdGhlIGFyZmYgYXJlIHJlbGF0aXZlIHdpdGggcmVzcGVjdCB0byB0aGlzIGZvbGRlcgpkZXN0X2ZvbGRlcjogd2hlcmUgLnRmciBmaWxlcyB3aWxsIGJlIHBhbGNlZAonJycK</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IHByaW50X2Z1bmN0aW9uCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyAvJywgJy8=</text>
+        <text encoding="base64">JzwsJz5zL0VhdGluZy9hdmVjMjAxMzIwMTQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b184a1w+</last-search>
+      <last-search>Eating</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b184a1w+</last-pattern>
-      <last-replace>', '</last-replace>
-      <last-substitute encoding="base64">IA==</last-substitute>
+      <last-pattern>Eating</last-pattern>
+      <last-replace>avec20132014</last-replace>
+      <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtc2VfbG9zc1w+</entry>
         <entry>age_s</entry>
         <entry>age_lo</entry>
         <entry encoding="base64">XDxjb21wdXRlX2xvc3NcPg==</entry>
@@ -447,6 +453,7 @@
         <entry>run(</entry>
         <entry>values</entry>
         <entry encoding="base64">XDx0b184a1w+</entry>
+        <entry>Eating</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
@@ -460,6 +467,7 @@
         <entry>388</entry>
         <entry encoding="base64">JzwsJz5zLyAvJywgJy9n</entry>
         <entry encoding="base64">JzwsJz5zLyAvJywgJy8=</entry>
+        <entry encoding="base64">JzwsJz5zL0VhdGluZy9hdmVjMjAxMzIwMTQvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
