@@ -123,10 +123,6 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" timestamp="1473771220551">
         <mark key="'" line="40" column="69" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="203" column="87" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
         <mark key="'" line="432" column="9" />
@@ -212,12 +208,12 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_avec20132014.py" timestamp="1473770466542">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_avec20132014.py" timestamp="1473771844907">
         <mark key="'" line="33" column="7" />
-        <mark key="[" line="48" column="56" />
-        <mark key="]" line="48" column="56" />
-        <mark key="." line="48" column="56" />
-        <mark key="^" line="48" column="56" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+        <mark key="^" line="4" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_nativeness.py" timestamp="1473697752586">
         <mark key="'" line="0" column="0" />
@@ -367,11 +363,11 @@
       <jump line="41" column="69" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZmVhdHVyZXMsIGxlbmd0aCwgbnVtX2ZlYXR1cmVzID0gZXh0cmFjdF9sb2dmYmFuayhvcy5wYXRoLmpvaW4oZGF0YV9yb290LCB4WzBdKSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICs=</text>
       </register>
       <register name="-" type="4">
-        <text>train</text>
+        <text encoding="base64">ICs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b184a1w+</text>
