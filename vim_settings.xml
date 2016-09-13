@@ -164,7 +164,7 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1473781206013">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1473783982405">
         <mark key="[" line="42" column="39" />
         <mark key="]" line="42" column="45" />
         <mark key="." line="42" column="45" />
@@ -376,10 +376,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>train</text>
+        <text>eating</text>
       </register>
       <register name="-" type="4">
-        <text>train</text>
+        <text>eating</text>
       </register>
       <register name="/" type="4">
         <text>Eating</text>
