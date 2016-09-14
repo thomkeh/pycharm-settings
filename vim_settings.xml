@@ -158,10 +158,10 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1473847819276">
-        <mark key="[" line="52" column="29" />
-        <mark key="]" line="52" column="29" />
-        <mark key="." line="52" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1473848936302">
+        <mark key="[" line="43" column="45" />
+        <mark key="]" line="43" column="46" />
+        <mark key="." line="43" column="46" />
         <mark key="^" line="52" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/parse_dataset.py" timestamp="1468503495315">
@@ -214,8 +214,8 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/model.py" timestamp="1473848088460">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/model.py" timestamp="1473848985696">
+        <mark key="'" line="246" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_avec20132014.py" timestamp="1473845221058">
         <mark key="'" line="69" column="1" />
@@ -231,7 +231,8 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1473781565176">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1473848916994">
+        <mark key="'" line="27" column="32" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="64" />
       </file>
@@ -256,10 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="52" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
-      <jump line="124" column="41" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
-      <jump line="139" column="42" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
-      <jump line="150" column="42" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
       <jump line="127" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
       <jump line="89" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
       <jump line="71" column="19" filename="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" />
@@ -356,6 +353,10 @@
       <jump line="26" column="45" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/avec20132014.py" />
       <jump line="211" column="19" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
       <jump line="69" column="1" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_avec20132014.py" />
+      <jump line="27" column="32" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="192" column="35" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/model.py" />
+      <jump line="245" column="13" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/model.py" />
+      <jump line="246" column="56" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -365,7 +366,7 @@
         <text>()</text>
       </register>
       <register name="/" type="4">
-        <text>Eating</text>
+        <text>n_recu</text>
       </register>
       <register name="0" type="4">
         <text>os.path.join(ROOT_LONG, 'converted/test')</text>
@@ -412,9 +413,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Eating</last-search>
+      <last-search>n_recu</last-search>
       <last-offset />
-      <last-pattern>Eating</last-pattern>
+      <last-pattern>n_recu</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -422,9 +423,6 @@
     </search>
     <history>
       <history-search>
-        <entry>age_s</entry>
-        <entry>age_lo</entry>
-        <entry encoding="base64">XDxjb21wdXRlX2xvc3NcPg==</entry>
         <entry>SUMM</entry>
         <entry encoding="base64">XDxsYW5nYXVnZV9sb3NzXD4=</entry>
         <entry encoding="base64">XDxzY2FsYXJfc3VtbWFyeVw+</entry>
@@ -442,6 +440,9 @@
         <entry>values</entry>
         <entry encoding="base64">XDx0b184a1w+</entry>
         <entry>Eating</entry>
+        <entry>read_and</entry>
+        <entry>get_inpu</entry>
+        <entry>n_recu</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
