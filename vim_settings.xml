@@ -40,11 +40,6 @@
         <mark key="." line="93" column="11" />
         <mark key="^" line="93" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/slc.py" timestamp="1473427209304">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/convert.sh" timestamp="1468410491359">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="23" column="31" />
@@ -106,7 +101,7 @@
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
-        <mark key="^" line="152" column="76" />
+        <mark key="^" line="161" column="76" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/convert.py" timestamp="1468927146908">
         <mark key="[" line="7" column="81" />
@@ -121,12 +116,11 @@
         <mark key="." line="52" column="58" />
         <mark key="^" line="61" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" timestamp="1473782964820">
-        <mark key="'" line="211" column="19" />
-        <mark key="[" line="207" column="80" />
-        <mark key="]" line="207" column="83" />
-        <mark key="." line="207" column="83" />
-        <mark key="^" line="207" column="83" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" timestamp="1473845667479">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="76" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
         <mark key="'" line="432" column="9" />
@@ -220,12 +214,12 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_avec20132014.py" timestamp="1473776349370">
-        <mark key="'" line="47" column="7" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="54" column="5" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_avec20132014.py" timestamp="1473845221058">
+        <mark key="'" line="69" column="1" />
+        <mark key="[" line="73" column="53" />
+        <mark key="]" line="73" column="57" />
+        <mark key="." line="73" column="57" />
+        <mark key="^" line="73" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_nativeness.py" timestamp="1473697752586">
         <mark key="'" line="0" column="0" />
@@ -235,22 +229,8 @@
         <mark key="^" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1473781565176">
-        <mark key="'" line="374" column="10" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="64" />
-        <mark key="." line="240" column="31" />
-        <mark key="^" line="240" column="31" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/eating.py" timestamp="1473425463693">
-        <mark key="[" line="45" column="64" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/nativeness.py" timestamp="1473427197096">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_eating.py" timestamp="1473693840095">
         <mark key="[" line="0" column="0" />
@@ -273,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="24" filename="$USER_HOME$/PycharmProjects/ytaudio/common.py" />
       <jump line="55" column="52" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
       <jump line="124" column="41" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
       <jump line="139" column="42" filename="$USER_HOME$/PycharmProjects/ytaudio/train_common.py" />
@@ -373,22 +352,23 @@
       <jump line="41" column="69" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
       <jump line="26" column="45" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/avec20132014.py" />
       <jump line="211" column="19" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
+      <jump line="69" column="1" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_avec20132014.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>eating</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCA4MWZlZTBiMTI5MTBlZjQyYTRhYWJhOTkwY2NjZWY2YjliNmNkMWE1Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>eating</text>
+        <text>, sys</text>
       </register>
       <register name="/" type="4">
         <text>Eating</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBhcmZmX3RvX3RmcignL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvYXZlYzIwMTMyMDE0L2F2ZWMyMDEzMjAxNF90cmFpbi5hcmZmJywKICAgICAgICAgICAgICAnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvYXZlYzIwMTMyMDE0JywKICAgICAgICAgICAgICAnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvYXZlYzIwMTMyMDE0L2NvbnZlcnRlZC90cmFpbicpCg==</text>
+      <register name="0" type="4">
+        <text>os.path.join(ROOT_LONG, 'converted/test')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjcmVhdGVfZGF0YWJhc2UoJy9uYXMvc3RhZmYvZGF0YV93b3JrL0dpbC9Zb3VUdWJlL2RhdGFzZXRzL2F2ZWMyMDEzMjAxNC9jb252ZXJ0ZWQvdHJhaW4nKQogIGNyZWF0ZV9kYXRhYmFzZSgnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvYXZlYzIwMTMyMDE0L2NvbnZlcnRlZC90ZXN0JykK</text>
+        <text encoding="base64">PDw8PDw8PCA4MWZlZTBiMTI5MTBlZjQyYTRhYWJhOTkwY2NjZWY2YjliNmNkMWE1Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -401,25 +381,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">PT09PT09PQppbXBvcnQgbnVtcHkgYXMgbnAsIHdhcm5pbmdzLCBzb2NrZXQsIG9zLCBhcmZmLCB0ZW5zb3JmbG93IGFzIHRmCj4+Pj4+Pj4gQWRkIGZ1bmN0aW9uIGBjb252ZXJ0X3RvX3dhdmVgIHdoaWNoIGNvbnZlcnRzIGF1ZGlvIHRvIHdhdmUgZmlsZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMgUGFyYW1ldGVycyBmb3IgU1ZNCnN2bV90cmFpbl9zYW1wbGVzID0gMwpzdm1fdHJhaW5fbWIgPSAyMAo=</text>
+        <text encoding="base64">PDw8PDw8PCA4MWZlZTBiMTI5MTBlZjQyYTRhYWJhOTkwY2NjZWY2YjliNmNkMWE1CicnJwphcmZmX2ZpbGU6IEZ1bGwgcGF0aCB0byB0aGUgYXJmZiBmaWxlCmRhdGFfcm9vdDogdGhlIHBhdGhzIGluIHRoZSBhcmZmIGFyZSByZWxhdGl2ZSB3aXRoIHJlc3BlY3QgdG8gdGhpcyBmb2xkZXIKZGVzdF9mb2xkZXI6IHdoZXJlIC50ZnIgZmlsZXMgd2lsbCBiZSBwYWxjZWQKJycnCj09PT09PT0KCj4+Pj4+Pj4gQWRkIGZ1bmN0aW9uIGBjb252ZXJ0X3RvX3dhdmVgIHdoaWNoIGNvbnZlcnRzIGF1ZGlvIHRvIHdhdmUgZmlsZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">RG9lcyBub3Qgb3ZlcndyaXRlIGZpbGVzISBEZWxldGUgdGFyZ2V0IGZvbGRlciBmaXJzdC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBkZWYgY3JlYXRlX3N2bV9maWxlbmFtZV9xdWV1ZShpc190cmFpbiwgZmlsZXMsIGxlbmd0aHMpOgojICAgaWYgaXNfdHJhaW46CiMgICAgIHJldHVybiB0Zi50cmFpbi5zdHJpbmdfaW5wdXRfcHJvZHVjZXIoZmlsZXMsIG51bV9lcG9jaHM9RkxBR1Muc3ZtX3RyYWluX3NhbXBsZXMpCiMgICBlbHNlOgojICAgICByZXR1cm4gdGYudHJhaW4uc3RyaW5nX2lucHV0X3Byb2R1Y2VyKGZpbGVzLCBudW1fZXBvY2hzPTEpCgo=</text>
+        <text encoding="base64">ICBhcmZmX3RvX3RmcignL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvYXZlYzIwMTMyMDE0L2F2ZWMyMDEzMjAxNF90cmFpbi5hcmZmJywKICAgICAgICAgICAgICAnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvYXZlYzIwMTMyMDE0JywKICAgICAgICAgICAgICAnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvYXZlYzIwMTMyMDE0L2NvbnZlcnRlZC90cmFpbicpCiAgYXJmZl90b190ZnIoJy9uYXMvc3RhZmYvZGF0YV93b3JrL0dpbC9Zb3VUdWJlL2RhdGFzZXRzL2F2ZWMyMDEzMjAxNC9hdmVjMjAxMzIwMTRfdGVzdC5hcmZmJywKICAgICAgICAgICAgICAnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvYXZlYzIwMTMyMDE0JywKICAgICAgICAgICAgICAnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvYXZlYzIwMTMyMDE0L2NvbnZlcnRlZC90ZXN0JykKICBjcmVhdGVfZGF0YWJhc2UoJy9uYXMvc3RhZmYvZGF0YV93b3JrL0dpbC9Zb3VUdWJlL2RhdGFzZXRzL2F2ZWMyMDEzMjAxNC9jb252ZXJ0ZWQvdHJhaW4nKQogIGNyZWF0ZV9kYXRhYmFzZSgnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvYXZlYzIwMTMyMDE0L2NvbnZlcnRlZC90ZXN0JykKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcmludChzb3VyY2VfZGlycykKICBwcmludCh0YXJnZXRfZGlycykK</text>
+        <text encoding="base64">ICBhcmZmX3RvX3RmcignL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvYXZlYzIwMTMyMDE0L2F2ZWMyMDEzMjAxNF90ZXN0LmFyZmYnLAogICAgICAgICAgICAgICcvbmFzL3N0YWZmL2RhdGFfd29yay9HaWwvWW91VHViZS9kYXRhc2V0cy9hdmVjMjAxMzIwMTQnLAogICAgICAgICAgICAgICcvbmFzL3N0YWZmL2RhdGFfd29yay9HaWwvWW91VHViZS9kYXRhc2V0cy9hdmVjMjAxMzIwMTQvY29udmVydGVkL3Rlc3QnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgbG9vcCB0aHJvdWdoIHRoZSBsYWJlbHNfZGlyCgo=</text>
+        <text encoding="base64">ZnJvbSB5dC5leHRyYWN0b3JzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGguam9pbihST09UX0xPTkcsIHdhdmRpcikK</text>
+        <text encoding="base64">ICBjcmVhdGVfZGF0YWJhc2UoJy9uYXMvc3RhZmYvZGF0YV93b3JrL0dpbC9Zb3VUdWJlL2RhdGFzZXRzL2F2ZWMyMDEzMjAxNC9jb252ZXJ0ZWQvdHJhaW4nKQogIGNyZWF0ZV9kYXRhYmFzZSgnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvYXZlYzIwMTMyMDE0L2NvbnZlcnRlZC90ZXN0JykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAK</text>
