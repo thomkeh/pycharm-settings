@@ -15,12 +15,12 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/apply.py" timestamp="1474044144544">
-        <mark key="'" line="152" column="13" />
-        <mark key="[" line="161" column="11" />
-        <mark key="]" line="161" column="13" />
-        <mark key="^" line="161" column="13" />
-        <mark key="." line="161" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/apply.py" timestamp="1474281512420">
+        <mark key="'" line="154" column="13" />
+        <mark key="[" line="80" column="45" />
+        <mark key="]" line="80" column="70" />
+        <mark key="^" line="80" column="69" />
+        <mark key="." line="80" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/train_yt.py" timestamp="1470916035393">
         <mark key="'" line="61" column="5" />
@@ -56,12 +56,12 @@
         <mark key="." line="64" column="38" />
         <mark key="^" line="64" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1474030228661">
-        <mark key="'" line="55" column="28" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="40" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1474280727806">
+        <mark key="'" line="59" column="28" />
+        <mark key="[" line="51" column="44" />
+        <mark key="]" line="51" column="109" />
+        <mark key="." line="51" column="109" />
+        <mark key="^" line="51" column="109" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/common.py" timestamp="1470912045978">
         <mark key="'" line="8" column="24" />
@@ -137,7 +137,7 @@
         <mark key="." line="68" column="38" />
         <mark key="^" line="68" column="38" />
       </file>
-      <file name="/Python Console" timestamp="1473858891451">
+      <file name="/Python Console" timestamp="1474281515364">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1473336249967">
@@ -341,16 +341,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>start</text>
+        <text>length</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncmFwaFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBmb3IgbSBpbiB0ZXN0X21vZHVsZXM6CiAgICBnID0gdGYuR3JhcGgoKSAKICAgIHdpdGggZy5hc19kZWZhdWx0KCk6CiAgICAgIG1bJ25fZXhhbXBsZXMnXSwgYmF0Y2ggPSBnZXRfaW5wdXQoCiAgICAgICAgRmFsc2UsIAogICAgICAgIG1bJ21vZHVsZSddLnRhc2tfZGF0YVsndGVzdF9hcmZmJ10sIAogICAgICAgIG1bJ21vZHVsZSddLnRhc2tfZGF0YVsndGVzdF9kYXRhX2RpciddLCAKICAgICAgICBGTEFHUy5zYW1wbGVfbGVuZ3RoLCAKICAgICAgICBtWydtb2R1bGUnXS50ZXN0X21iLCAKICAgICAgICBtWydtb2R1bGUnXS5jcmVhdGVfZmlsZW5hbWVfcXVldWUsCiAgICAgICAgbVsnbW9kdWxlJ10udGVzdF9zYW1wbGVzKQogICAgICBwcmludCgnbnVtYmVyIG9mIHRlc3QgY2xpcHMgZm9yIGRhdGFzZXQge306IHt9Jy5mb3JtYXQobVsnbW9kdWxlJ10ubmFtZSwgbVsnbl9leGFtcGxlcyddKSkKICAgICAgbVsnZmVhdHVyZXMnXSA9IGJhdGNoWydmZWF0dXJlcyddCiAgICAgICMgZXZlcnl0aGluZyBpbiB0aGUgYmF0Y2ggZXhjZXB0IHRoZSBmZWF0dXJlcwogICAgICBtWydsYWJlbHMnXSA9IHtrOiB2IGZvciAoaywgdikgaW4gaXRlcml0ZW1zKGJhdGNoKSBpZiBrIGlzIG5vdCAnZmVhdHVyZXMnfQogICAgICBtWydncmFwaCddID0gZwogICAgCiAgIyBDb25zdHJ1Y3QgdGhlIGV2YWwgZ3JhcGggYW5kIG1ha2Ugb3RoZXIgcHJlcGFyYXRpb25zCiAgd2l0aCB0Zi5kZXZpY2UoJy9ncHU6JyArIEZMQUdTLmdwdSk6CiAgICBlX3N1bW1hcnlfd3JpdGVyLCBlX2VuZHBvaW50cyA9IHByZXBhcmVfZXZhbHVhdGlvbigKICAgICAgdGVzdF9tb2R1bGVzLCAKICAgICAgaW5mZXJlbmNlX2JvdHRsZW5lY2ssIAogICAgICBtb2RlbF9uYW1lKQo=</text>
+      <register name="0" type="4">
+        <text>tf.maximum(0, l - length)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAjIFByaW50IHRoZSBoZWFkZXIKICBwcmludCgnLS0tLS0gVEVTVCBNT05JVE9SIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQoK</text>
