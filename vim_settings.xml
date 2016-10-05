@@ -140,11 +140,11 @@
         <mark key="." line="52" column="58" />
         <mark key="^" line="61" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" timestamp="1475673615138">
-        <mark key="[" line="180" column="55" />
-        <mark key="]" line="180" column="55" />
-        <mark key="." line="180" column="55" />
-        <mark key="^" line="180" column="55" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" timestamp="1475675682700">
+        <mark key="[" line="185" column="93" />
+        <mark key="]" line="185" column="93" />
+        <mark key="." line="185" column="93" />
+        <mark key="^" line="187" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
         <mark key="'" line="432" column="9" />
@@ -373,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tensors['datatype']</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>tensors['datatype']</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>get_check</text>
