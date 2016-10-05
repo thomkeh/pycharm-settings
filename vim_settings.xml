@@ -79,10 +79,6 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/conflict.py" timestamp="1474291910630">
         <mark key="'" line="6" column="25" />
-        <mark key="[" line="65" column="39" />
-        <mark key="]" line="65" column="40" />
-        <mark key="." line="65" column="40" />
-        <mark key="^" line="65" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1474280727806">
         <mark key="'" line="6" column="28" />
@@ -121,7 +117,7 @@
         <mark key="." line="4" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_avec20132014.py" timestamp="1474021055522">
-        <mark key="'" line="73" column="1" />
+        <mark key="'" line="69" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_nativeness.py" timestamp="1473697752586">
         <mark key="'" line="0" column="0" />
@@ -131,21 +127,14 @@
         <mark key="^" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1474288939848">
-        <mark key="'" line="75" column="6" />
-        <mark key="[" line="369" column="0" />
-        <mark key="]" line="369" column="53" />
+        <mark key="'" line="66" column="6" />
+        <mark key="[" line="360" column="0" />
+        <mark key="]" line="360" column="53" />
         <mark key="." line="21" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/eating.py" timestamp="1473858758180">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="36" column="16" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/avic.py" timestamp="1474291970889">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="64" column="37" />
-        <mark key="]" line="64" column="38" />
-        <mark key="." line="64" column="38" />
-        <mark key="^" line="64" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/ytaudio_model.py" timestamp="1466606180315">
         <mark key="'" line="24" column="0" />
@@ -253,10 +242,6 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/model.py" timestamp="1474291870893">
         <mark key="'" line="31" column="20" />
-        <mark key="[" line="256" column="27" />
-        <mark key="]" line="256" column="30" />
-        <mark key="." line="256" column="30" />
-        <mark key="^" line="256" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_eating.py" timestamp="1473693840095">
         <mark key="[" line="0" column="0" />
