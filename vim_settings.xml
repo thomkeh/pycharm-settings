@@ -45,11 +45,11 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" timestamp="1475673388470">
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="29" column="41" />
-        <mark key="." line="29" column="41" />
-        <mark key="^" line="29" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" timestamp="1475673532659">
+        <mark key="[" line="54" column="5" />
+        <mark key="]" line="54" column="12" />
+        <mark key="." line="54" column="12" />
+        <mark key="^" line="54" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/slc.py" timestamp="1474292058580">
         <mark key="'" line="6" column="25" />
@@ -140,11 +140,11 @@
         <mark key="." line="52" column="58" />
         <mark key="^" line="61" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" timestamp="1475672809128">
-        <mark key="[" line="73" column="11" />
-        <mark key="]" line="73" column="36" />
-        <mark key="." line="73" column="36" />
-        <mark key="^" line="73" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" timestamp="1475673615138">
+        <mark key="[" line="180" column="55" />
+        <mark key="]" line="180" column="55" />
+        <mark key="." line="180" column="55" />
+        <mark key="^" line="180" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/.idea/stub.py" timestamp="1466589716207">
         <mark key="'" line="432" column="9" />
@@ -372,11 +372,11 @@
       <jump line="17" column="20" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/apply.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>tensors['datatype']</text>
       </register>
       <register name="-" type="4">
-        <text>line.replace('#', '').strip()</text>
+        <text>tensors['datatype']</text>
       </register>
       <register name="/" type="4">
         <text>get_check</text>
