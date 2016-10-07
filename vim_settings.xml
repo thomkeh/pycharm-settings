@@ -241,11 +241,11 @@
         <mark key="." line="23" column="60" />
         <mark key="^" line="23" column="60" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/yt_silk.py" timestamp="1475836335720">
-        <mark key="[" line="40" column="59" />
-        <mark key="]" line="40" column="60" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/yt_silk.py" timestamp="1475839897807">
+        <mark key="[" line="75" column="46" />
+        <mark key="]" line="75" column="46" />
         <mark key="^" line="40" column="60" />
-        <mark key="." line="40" column="60" />
+        <mark key="." line="75" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/agender.py" timestamp="1473427145658">
         <mark key="[" line="43" column="0" />
@@ -395,16 +395,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>32</text>
+        <text>, speaker_loss</text>
       </register>
       <register name="-" type="4">
-        <text>32</text>
+        <text>, speaker_loss</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVwYXJlX3RyYWluXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJ2ZlYXR1cmVzX3Jhdyc6IHRmLkZpeGVkTGVuRmVhdHVyZShbXSwgdGYuc3RyaW5nKSwK</text>
+        <text encoding="base64">ICByZXR1cm4gW2dlbmRlcl9sb3NzLCBhZ2VfbG9zcywgbGFuZ3VhZ2VfbG9zcywgc3BlYWtlcl9sb3NzXQo=</text>
       </register>
       <register name="1" type="4">
         <text>}
