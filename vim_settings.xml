@@ -10,7 +10,7 @@
         <mark key="." line="20" column="65" />
         <mark key="^" line="20" column="65" />
       </file>
-      <file name="/start_script.py" timestamp="1480948297931">
+      <file name="/start_script.py" timestamp="1480951443751">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/builder.py" timestamp="1473344471049">
@@ -19,7 +19,7 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1480949736857">
+      <file name="/Python Console" timestamp="1480951864052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_silk_yt.py" timestamp="1475681127335">
@@ -50,24 +50,24 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/exp_manager.py" timestamp="1480948108515">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" timestamp="1480946907350">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="27" column="64" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" timestamp="1480951370238">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_yt_silk.py" timestamp="1475831073120">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="63" />
         <mark key="." line="5" column="63" />
         <mark key="^" line="5" column="63" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/recola.py" timestamp="1480951253232">
+        <mark key="'" line="418" column="14" />
+        <mark key="[" line="2" column="60" />
+        <mark key="]" line="2" column="60" />
+        <mark key="." line="2" column="60" />
+        <mark key="^" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_agender.py" timestamp="1473693890877">
         <mark key="[" line="52" column="11" />
@@ -127,12 +127,11 @@
         <mark key="." line="7" column="80" />
         <mark key="^" line="7" column="80" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" timestamp="1480949731718">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" timestamp="1480950799489">
         <mark key="'" line="270" column="1" />
-        <mark key="[" line="382" column="106" />
-        <mark key="]" line="383" column="38" />
-        <mark key="." line="383" column="38" />
-        <mark key="^" line="383" column="38" />
+        <mark key="[" line="383" column="0" />
+        <mark key="]" line="383" column="0" />
+        <mark key="." line="383" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/yt/svm.py" timestamp="1472569883202">
         <mark key="[" line="8" column="5" />
@@ -192,6 +191,12 @@
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_avec20132014.py" timestamp="1474021055522">
         <mark key="'" line="69" column="1" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1480952684339">
+        <mark key="'" line="283" column="11" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="64" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/nativeness.py" timestamp="1480947621090">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="22" column="76" />
@@ -212,21 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="28" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" />
-      <jump line="86" column="16" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/youtube.py" />
-      <jump line="66" column="61" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/youtube.py" />
-      <jump line="356" column="19" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="14" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="162" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="193" column="32" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="292" column="48" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="354" column="5" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="307" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="345" column="30" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="191" column="32" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="247" column="23" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="374" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="30" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/model.py" />
       <jump line="38" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_yt.py" />
       <jump line="181" column="58" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_yt.py" />
       <jump line="221" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_yt.py" />
@@ -312,22 +302,37 @@
       <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/nativeness.py" />
       <jump line="166" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
       <jump line="270" column="1" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
+      <jump line="195" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/recola.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/recola.py" />
+      <jump line="2" column="62" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/recola.py" />
+      <jump line="335" column="18" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/recola.py" />
+      <jump line="418" column="14" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/recola.py" />
+      <jump line="92" column="17" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" />
+      <jump line="540" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="417" column="9" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="477" column="44" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="478" column="38" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="501" column="11" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="532" column="9" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="37" column="9" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="283" column="11" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/exp_manager.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQogIHMgPSB0ZXh0X3R5cGUoanNvbi5kdW1wcyh0ZnJfc3RydWN0dXJlX2RpY3QsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCj4+Pj4+Pj4gU3RvcmUgdGZyIHN0cnVjdHVyZXMgYXMgSlNPTiBmaWxlcyBpbnN0ZWFkIG9mIHBpY2tsZQo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbiwgYWJzb2x1dGVfaW1wb3J0LCBwcmludF9mdW5jdGlvbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>dumps</text>
+        <text>has</text>
       </register>
-      <register name="0" type="4">
-        <text>, indent=2</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbiwgYWJzb2x1dGVfaW1wb3J0LCBwcmludF9mdW5jdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQogIHMgPSB0ZXh0X3R5cGUoanNvbi5kdW1wcyh0ZnJfc3RydWN0dXJlX2RpY3QsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCj4+Pj4+Pj4gU3RvcmUgdGZyIHN0cnVjdHVyZXMgYXMgSlNPTiBmaWxlcyBpbnN0ZWFkIG9mIHBpY2tsZQo=</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93IGltcG9ydCBjb25jYXQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -340,16 +345,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCAwZTY2ZDY0MjdhYTMwYmJjNTVhZjE2MTU3Y2M0MzE4ZDdkZDFjNDlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCAwZTY2ZDY0MjdhYTMwYmJjNTVhZjE2MTU3Y2M0MzE4ZDdkZDFjNDlkCg==</text>
+        <text encoding="base64">dGYuX2NvbmNhdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogICAgcyA9IHRleHRfdHlwZShqc29uLmR1bXBzKHRmcl9zdHJ1Y3R1cmVfZGljdCwgZW5zdXJlX2FzY2lpPUZhbHNlKSkKPj4+Pj4+PiBTdG9yZSB0ZnIgc3RydWN0dXJlcyBhcyBKU09OIGZpbGVzIGluc3RlYWQgb2YgcGlja2xlCg==</text>
+        <text encoding="base64">dGYuY29uY2F0KDAsIDEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCAwZTY2ZDY0MjdhYTMwYmJjNTVhZjE2MTU3Y2M0MzE4ZDdkZDFjNDlkCg==</text>
+        <text encoding="base64">ICBjID0gY3JlYXRlX2RlZmF1bHRfdGZyX3N0cnVjdHVyZV9maWxlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">PT09PT09PQogIHMgPSB0ZXh0X3R5cGUoanNvbi5kdW1wcyh0ZnJfc3RydWN0dXJlX2RpY3QsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCj4+Pj4+Pj4gU3RvcmUgdGZyIHN0cnVjdHVyZXMgYXMgSlNPTiBmaWxlcyBpbnN0ZWFkIG9mIHBpY2tsZQo=</text>
@@ -358,19 +363,19 @@
         <text encoding="base64">PDw8PDw8PCAwZTY2ZDY0MjdhYTMwYmJjNTVhZjE2MTU3Y2M0MzE4ZDdkZDFjNDlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQogIHMgPSB0ZXh0X3R5cGUoanNvbi5kdW1wcyh0ZnJfc3RydWN0dXJlX2RpY3QsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCj4+Pj4+Pj4gU3RvcmUgdGZyIHN0cnVjdHVyZXMgYXMgSlNPTiBmaWxlcyBpbnN0ZWFkIG9mIHBpY2tsZQo=</text>
+        <text encoding="base64">PDw8PDw8PCAwZTY2ZDY0MjdhYTMwYmJjNTVhZjE2MTU3Y2M0MzE4ZDdkZDFjNDlkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmID0gb3BlbihvdXRfcGF0aCwgIndiIikKICBjUGlja2xlLmR1bXAodGZyX3N0cnVjdHVyZV9kaWN0LCBmKQogIGYuY2xvc2UoKQo=</text>
+        <text encoding="base64">PT09PT09PQogICAgcyA9IHRleHRfdHlwZShqc29uLmR1bXBzKHRmcl9zdHJ1Y3R1cmVfZGljdCwgZW5zdXJlX2FzY2lpPUZhbHNlKSkKPj4+Pj4+PiBTdG9yZSB0ZnIgc3RydWN0dXJlcyBhcyBKU09OIGZpbGVzIGluc3RlYWQgb2YgcGlja2xlCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0VhdGluZy9hdmVjMjAxMzIwMTQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>dumps</last-search>
+      <last-search>has</last-search>
       <last-offset />
-      <last-pattern>dumps</last-pattern>
+      <last-pattern>has</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -378,9 +383,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Eating</entry>
-        <entry>read_and</entry>
-        <entry>get_inpu</entry>
         <entry>n_recu</entry>
         <entry>get_inp</entry>
         <entry encoding="base64">XDxTbGljZVw+</entry>
@@ -398,6 +400,9 @@
         <entry>dump</entry>
         <entry>pkl</entry>
         <entry>dumps</entry>
+        <entry>cPickle</entry>
+        <entry>bases</entry>
+        <entry>has</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
@@ -461,6 +466,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
