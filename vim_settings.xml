@@ -3,8 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/gemep.py" timestamp="1474292030709">
-        <mark key="'" line="6" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/gemep.py" timestamp="1480947605138">
+        <mark key="'" line="70" column="2" />
+        <mark key="[" line="20" column="62" />
+        <mark key="]" line="20" column="65" />
+        <mark key="." line="20" column="65" />
+        <mark key="^" line="20" column="65" />
+      </file>
+      <file name="/start_script.py" timestamp="1480948297931">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/builder.py" timestamp="1473344471049">
         <mark key="[" line="24" column="5" />
@@ -12,7 +19,7 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1480941188548">
+      <file name="/Python Console" timestamp="1480949736857">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_silk_yt.py" timestamp="1475681127335">
@@ -20,6 +27,18 @@
         <mark key="]" line="180" column="0" />
         <mark key="^" line="180" column="5" />
         <mark key="." line="180" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_recola.py" timestamp="1480949670440">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="75" column="57" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_svhn.py" timestamp="1480949677400">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="40" column="50" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
         <mark key="[" line="0" column="0" />
@@ -30,6 +49,19 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/exp_manager.py" timestamp="1480948108515">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" timestamp="1480946907350">
+        <mark key="'" line="18" column="25" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="27" column="64" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_yt_silk.py" timestamp="1475831073120">
         <mark key="[" line="5" column="57" />
@@ -42,6 +74,13 @@
         <mark key="]" line="53" column="23" />
         <mark key="." line="53" column="23" />
         <mark key="^" line="53" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_cifar.py" timestamp="1480949652628">
+        <mark key="'" line="16" column="50" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="45" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/asfdg.py" timestamp="1466589535615">
         <mark key="[" line="0" column="0" />
@@ -87,6 +126,13 @@
         <mark key="]" line="7" column="80" />
         <mark key="." line="7" column="80" />
         <mark key="^" line="7" column="80" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" timestamp="1480949731718">
+        <mark key="'" line="270" column="1" />
+        <mark key="[" line="382" column="106" />
+        <mark key="]" line="383" column="38" />
+        <mark key="." line="383" column="38" />
+        <mark key="^" line="383" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/yt/svm.py" timestamp="1472569883202">
         <mark key="[" line="8" column="5" />
@@ -146,21 +192,26 @@
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_avec20132014.py" timestamp="1474021055522">
         <mark key="'" line="69" column="1" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/nativeness.py" timestamp="1480947621090">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="22" column="76" />
+        <mark key="]" line="22" column="79" />
+        <mark key="." line="22" column="79" />
+        <mark key="^" line="22" column="79" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_eating.py" timestamp="1473693840095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/cifar.py" timestamp="1480947582179">
+        <mark key="[" line="27" column="76" />
+        <mark key="]" line="27" column="79" />
+        <mark key="." line="27" column="79" />
+        <mark key="^" line="27" column="79" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="83" column="38" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/model.py" />
-      <jump line="294" column="23" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="45" column="7" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train_yt.py" />
-      <jump line="166" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train_yt.py" />
-      <jump line="30" column="28" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" />
-      <jump line="61" column="1" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" />
       <jump line="31" column="28" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" />
       <jump line="86" column="16" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/youtube.py" />
       <jump line="66" column="61" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/youtube.py" />
@@ -188,7 +239,6 @@
       <jump line="33" column="7" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_avec20132014.py" />
       <jump line="12" column="21" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
       <jump line="171" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
-      <jump line="167" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
       <jump line="41" column="69" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
       <jump line="26" column="45" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/avec20132014.py" />
@@ -253,22 +303,31 @@
       <jump line="219" column="18" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="55" column="24" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="54" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="167" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
+      <jump line="18" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/exp_manager.py" />
+      <jump line="15" column="50" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_cifar.py" />
+      <jump line="193" column="14" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
+      <jump line="70" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/gemep.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/nativeness.py" />
+      <jump line="166" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
+      <jump line="270" column="1" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PT09PT09PQogIHMgPSB0ZXh0X3R5cGUoanNvbi5kdW1wcyh0ZnJfc3RydWN0dXJlX2RpY3QsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCj4+Pj4+Pj4gU3RvcmUgdGZyIHN0cnVjdHVyZXMgYXMgSlNPTiBmaWxlcyBpbnN0ZWFkIG9mIHBpY2tsZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
-        <text>unicod</text>
+        <text>dumps</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIENvbnYoaGVpZ2h0PTUsIHdpZHRoPTEsIGZlYXR1cmVfbWFwcz0xMjgsIHdfc3RkPXdfc3RkLCBiaWFzPVRydWUsIGJfaW5pdD1iX2luaXQsCiAgICAgICAgIHBhZGRpbmc9J1ZBTElEJywgc2NvcGU9J2NvbnYyJyksCiAgICBSZWx1KCksCiAgICBQb29sKGhlaWdodD0yLCB3aWR0aD0xLCBzdHJpZGVfeD0yLCBzdHJpZGVfeT0xLCBzdHJpZGVfY2g9MSwgc2NvcGU9J3Bvb2wyJyksCg==</text>
+      <register name="0" type="4">
+        <text>, indent=2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJlbHUoKSwK</text>
+        <text encoding="base64">PT09PT09PQogIHMgPSB0ZXh0X3R5cGUoanNvbi5kdW1wcyh0ZnJfc3RydWN0dXJlX2RpY3QsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCj4+Pj4+Pj4gU3RvcmUgdGZyIHN0cnVjdHVyZXMgYXMgSlNPTiBmaWxlcyBpbnN0ZWFkIG9mIHBpY2tsZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -280,39 +339,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>}
-  channels[</text>
+      <register name="2" type="2">
+        <text encoding="base64">PDw8PDw8PCAwZTY2ZDY0MjdhYTMwYmJjNTVhZjE2MTU3Y2M0MzE4ZDdkZDFjNDlkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgRm9ybWF0OgogIFdBViwgT1BVUyA9IHJhbmdlKDIpCgoK</text>
+        <text encoding="base64">PDw8PDw8PCAwZTY2ZDY0MjdhYTMwYmJjNTVhZjE2MTU3Y2M0MzE4ZDdkZDFjNDlkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmluYWxseToKICAgICAgY29vcmQucmVxdWVzdF9zdG9wKCkgICMjI3RhZzpRdWV1ZXMjIyMKICAgICAgY29vcmQuam9pbih0aHJlYWRzLCBzdG9wX2dyYWNlX3BlcmlvZF9zZWNzPTEwKQo=</text>
+        <text encoding="base64">PT09PT09PQogICAgcyA9IHRleHRfdHlwZShqc29uLmR1bXBzKHRmcl9zdHJ1Y3R1cmVfZGljdCwgZW5zdXJlX2FzY2lpPUZhbHNlKSkKPj4+Pj4+PiBTdG9yZSB0ZnIgc3RydWN0dXJlcyBhcyBKU09OIGZpbGVzIGluc3RlYWQgb2YgcGlja2xlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aXRoIHRmLlNlc3Npb24oKSBhcyBzZXNzOgo=</text>
+        <text encoding="base64">PDw8PDw8PCAwZTY2ZDY0MjdhYTMwYmJjNTVhZjE2MTU3Y2M0MzE4ZDdkZDFjNDlkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PT09PT09PQogIHMgPSB0ZXh0X3R5cGUoanNvbi5kdW1wcyh0ZnJfc3RydWN0dXJlX2RpY3QsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCj4+Pj4+Pj4gU3RvcmUgdGZyIHN0cnVjdHVyZXMgYXMgSlNPTiBmaWxlcyBpbnN0ZWFkIG9mIHBpY2tsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvciByZWNvcmQgaW4gdGYucHl0aG9uX2lvLnRmX3JlY29yZF9pdGVyYXRvcihwYXRoKToK</text>
+        <text encoding="base64">PDw8PDw8PCAwZTY2ZDY0MjdhYTMwYmJjNTVhZjE2MTU3Y2M0MzE4ZDdkZDFjNDlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhhbXBsZSA9IHRmLnBhcnNlX3NpbmdsZV9leGFtcGxlKHJlY29yZCwgZmVhdHVyZXM9ewogICAgICAgICAgJ2xlbmd0aCc6IHRmLkZpeGVkTGVuRmVhdHVyZShbXSwgdGYuaW50NjQpLAogICAgICAgICAgJ251bV9mZWF0dXJlcyc6IHRmLkZpeGVkTGVuRmVhdHVyZShbXSwgdGYuaW50NjQpLAogICAgICAgICAgJ2RhdGF0eXBlJzogdGYuRml4ZWRMZW5GZWF0dXJlKFtdLCB0Zi5zdHJpbmcpLAogICAgICAgICAgfSkK</text>
+        <text encoding="base64">PT09PT09PQogIHMgPSB0ZXh0X3R5cGUoanNvbi5kdW1wcyh0ZnJfc3RydWN0dXJlX2RpY3QsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCj4+Pj4+Pj4gU3RvcmUgdGZyIHN0cnVjdHVyZXMgYXMgSlNPTiBmaWxlcyBpbnN0ZWFkIG9mIHBpY2tsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRmcl9saXN0LmFwcGVuZCgpCg==</text>
+        <text encoding="base64">ICBmID0gb3BlbihvdXRfcGF0aCwgIndiIikKICBjUGlja2xlLmR1bXAodGZyX3N0cnVjdHVyZV9kaWN0LCBmKQogIGYuY2xvc2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0VhdGluZy9hdmVjMjAxMzIwMTQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>unicod</last-search>
+      <last-search>dumps</last-search>
       <last-offset />
-      <last-pattern>unicod</last-pattern>
+      <last-pattern>dumps</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -320,10 +378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>run</entry>
-        <entry>run(</entry>
-        <entry>values</entry>
-        <entry encoding="base64">XDx0b184a1w+</entry>
         <entry>Eating</entry>
         <entry>read_and</entry>
         <entry>get_inpu</entry>
@@ -340,6 +394,10 @@
         <entry>encode</entry>
         <entry>unicode</entry>
         <entry>unicod</entry>
+        <entry>pickle</entry>
+        <entry>dump</entry>
+        <entry>pkl</entry>
+        <entry>dumps</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
