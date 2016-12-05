@@ -262,7 +262,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVwYXJlX3RyYWluXD4=</text>
+        <text>unicod</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIENvbnYoaGVpZ2h0PTUsIHdpZHRoPTEsIGZlYXR1cmVfbWFwcz0xMjgsIHdfc3RkPXdfc3RkLCBiaWFzPVRydWUsIGJfaW5pdD1iX2luaXQsCiAgICAgICAgIHBhZGRpbmc9J1ZBTElEJywgc2NvcGU9J2NvbnYyJyksCiAgICBSZWx1KCksCiAgICBQb29sKGhlaWdodD0yLCB3aWR0aD0xLCBzdHJpZGVfeD0yLCBzdHJpZGVfeT0xLCBzdHJpZGVfY2g9MSwgc2NvcGU9J3Bvb2wyJyksCg==</text>
@@ -310,9 +310,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVwYXJlX3RyYWluXD4=</last-search>
+      <last-search>unicod</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVwYXJlX3RyYWluXD4=</last-pattern>
+      <last-pattern>unicod</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -320,9 +320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_input</entry>
-        <entry>labels</entry>
-        <entry>parse</entry>
         <entry>run</entry>
         <entry>run(</entry>
         <entry>values</entry>
@@ -340,6 +337,9 @@
         <entry>get_check</entry>
         <entry>queue</entry>
         <entry encoding="base64">XDxwcmVwYXJlX3RyYWluXD4=</entry>
+        <entry>encode</entry>
+        <entry>unicode</entry>
+        <entry>unicod</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
