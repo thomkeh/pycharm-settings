@@ -32,6 +32,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
       </file>
+      <file name="/a.dummy" timestamp="1481039595810">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" timestamp="1481039127601">
         <mark key="'" line="153" column="23" />
         <mark key="[" line="6" column="0" />
@@ -80,8 +83,8 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1481027892733">
-        <mark key="'" line="628" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1481039646773">
+        <mark key="'" line="10" column="66" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/eating.py" timestamp="1481037045136">
         <mark key="'" line="58" column="8" />
@@ -117,9 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/alc.py" />
-      <jump line="76" column="41" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/gemep.py" />
-      <jump line="6" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/gemep.py" />
       <jump line="62" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/simis.py" />
       <jump line="66" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/simis.py" />
       <jump line="6" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/simis.py" />
@@ -217,6 +217,9 @@
       <jump line="151" column="23" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" />
       <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/youtube.py" />
       <jump line="78" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/agender.py" />
+      <jump line="28" column="39" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="107" column="33" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="10" column="66" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -226,7 +229,7 @@
         <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>monitoring</text>
+        <text encoding="base64">XDxhZGRfZG9tYWluX2NsYXNzaWZpZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY3NbJ3t9X2dlbmRlcl9VQVInLmZvcm1hdChzZWxmLm5hbWUpXSA9IHVhcl9nZW5kZXIK</text>
@@ -273,9 +276,9 @@
       </register>
     </registers>
     <search>
-      <last-search>monitoring</last-search>
+      <last-search encoding="base64">XDxhZGRfZG9tYWluX2NsYXNzaWZpZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>monitoring</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRfZG9tYWluX2NsYXNzaWZpZXJcPg==</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -283,9 +286,6 @@
     </search>
     <history>
       <history-search>
-        <entry>values</entry>
-        <entry encoding="base64">XDx0b184a1w+</entry>
-        <entry>Eating</entry>
         <entry>read_and</entry>
         <entry>get_inpu</entry>
         <entry>n_recu</entry>
@@ -303,6 +303,9 @@
         <entry encoding="base64">XDxtYXRoXD4=</entry>
         <entry>arf</entry>
         <entry>monitoring</entry>
+        <entry>analy</entry>
+        <entry>cross</entry>
+        <entry encoding="base64">XDxhZGRfZG9tYWluX2NsYXNzaWZpZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
