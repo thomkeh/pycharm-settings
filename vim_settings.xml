@@ -32,7 +32,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
       </file>
-      <file name="/a.dummy" timestamp="1481046695199">
+      <file name="/a.dummy" timestamp="1481202833626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" timestamp="1481039127601">
@@ -233,7 +233,7 @@
         <text encoding="base64">YXNzZXJ0IEZhbHNlLCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRfZG9tYWluX2NsYXNzaWZpZXJcPg==</text>
+        <text>decay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY3NbJ3t9X2dlbmRlcl9VQVInLmZvcm1hdChzZWxmLm5hbWUpXSA9IHVhcl9nZW5kZXIK</text>
@@ -280,9 +280,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRfZG9tYWluX2NsYXNzaWZpZXJcPg==</last-search>
+      <last-search>decay</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRfZG9tYWluX2NsYXNzaWZpZXJcPg==</last-pattern>
+      <last-pattern>decay</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -290,7 +290,6 @@
     </search>
     <history>
       <history-search>
-        <entry>read_and</entry>
         <entry>get_inpu</entry>
         <entry>n_recu</entry>
         <entry>get_inp</entry>
@@ -310,6 +309,7 @@
         <entry>analy</entry>
         <entry>cross</entry>
         <entry encoding="base64">XDxhZGRfZG9tYWluX2NsYXNzaWZpZXJcPg==</entry>
+        <entry>decay</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
