@@ -87,8 +87,8 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1482161962510">
-        <mark key="'" line="323" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1482404724707">
+        <mark key="'" line="360" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/eating.py" timestamp="1481037045136">
         <mark key="'" line="58" column="8" />
@@ -124,15 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/apply.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/apply.py" />
-      <jump line="29" column="28" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/apply.py" />
-      <jump line="23" column="5" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="169" column="12" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="172" column="12" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="177" column="12" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="186" column="81" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="188" column="12" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="218" column="12" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="312" column="29" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="148" column="13" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/apply.py" />
@@ -224,6 +215,15 @@
       <jump line="271" column="19" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="320" column="11" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="323" column="9" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="20" column="34" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="342" column="19" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="343" column="22" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="344" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="345" column="54" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="346" column="29" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="348" column="14" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="358" column="21" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
+      <jump line="360" column="42" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -233,7 +233,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>checkpoint</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGYuYXBwLmZsYWdzLkRFRklORV9zdHJpbmcoJ3Jlc3RvcmVfcGF0aCcsICcvaG9tZS90bWsvb3V0L3RlbnNvcmZsb3cvdHJhbnNmZXIvMjAxNi0xMi0xNl8xOS0wMy0xNy40NjIyODUtNjAwMCcsICcnKQo=</text>
@@ -280,9 +280,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>checkpoint</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>checkpoint</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -290,7 +290,6 @@
     </search>
     <history>
       <history-search>
-        <entry>n_recu</entry>
         <entry>get_inp</entry>
         <entry encoding="base64">XDxTbGljZVw+</entry>
         <entry>eval</entry>
@@ -310,6 +309,7 @@
         <entry encoding="base64">XDxhZGRfZG9tYWluX2NsYXNzaWZpZXJcPg==</entry>
         <entry>decay</entry>
         <entry>save</entry>
+        <entry>checkpoint</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
