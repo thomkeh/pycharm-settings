@@ -100,11 +100,11 @@
         <mark key="." line="54" column="87" />
         <mark key="^" line="54" column="87" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/typing/typ.py" timestamp="1468930573475">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="8" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/typing/typ.py" timestamp="1484670308986">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/apply.py" timestamp="1474304440981">
         <mark key="[" line="86" column="0" />
@@ -316,10 +316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.has_key(label)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.has_key(label)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>has</text>
