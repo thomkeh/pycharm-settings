@@ -106,11 +106,11 @@
         <mark key="." line="2" column="64" />
         <mark key="^" line="2" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1486376774815">
-        <mark key="[" line="125" column="35" />
-        <mark key="]" line="125" column="38" />
-        <mark key="." line="125" column="38" />
-        <mark key="^" line="125" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1486379654877">
+        <mark key="[" line="454" column="9" />
+        <mark key="]" line="454" column="20" />
+        <mark key="." line="454" column="20" />
+        <mark key="^" line="454" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/eating.py" timestamp="1486145070284">
         <mark key="[" line="72" column="25" />
@@ -414,10 +414,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>print_aggregators</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>print_aggregators</text>
       </register>
       <register name="/" type="4">
         <text>cPi</text>
@@ -426,7 +426,7 @@
         <text>['age']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcmludF9hZ2dyZWdhdG9ycyA9IHt9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -448,30 +448,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzaXggaW1wb3J0IGl0ZXJpdGVtcwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBmcm9tIHNpeC5tb3ZlcyBpbXBvcnQgcmVkdWNlCg==</text>
+        <text encoding="base64">ZnJvbSBzaXggaW1wb3J0IGl0ZXJpdGVtcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB5dC5zdm0gaW1wb3J0IHN2bQo=</text>
+        <text encoding="base64">IyBmcm9tIHNpeC5tb3ZlcyBpbXBvcnQgcmVkdWNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB5dC5tb2RlbCBpbXBvcnQgbW9kZWxfbXVsdGl0YXNrMSwgbW9kZWxfb25lX3JlY3VycmVudCwganVzdF9yZWN1cnJlbnQsIG1vZGVsX3NpbXBsZSwgbW9kZWxfcmVjb2xhLCBtb2RlbF9jaWZhcgo=</text>
+        <text encoding="base64">ZnJvbSB5dC5zdm0gaW1wb3J0IHN2bQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB5dC5kYXRhc2V0cyBpbXBvcnQgYWdlbmRlciwgYWxjLCBhdmVjMjAxMzIwMTQsIGF2aWMsIGNpZmFyLCBjb25mbGljdCwgY29ycmVjdG5lc3MsIGVhdGluZywgZ2VtZXAsIG5hdGl2ZW5lc3MsIHJlY29sYSwgc2ltaXMsIHNsYywgeW91dHViZQo=</text>
+        <text encoding="base64">ZnJvbSB5dC5tb2RlbCBpbXBvcnQgbW9kZWxfbXVsdGl0YXNrMSwgbW9kZWxfb25lX3JlY3VycmVudCwganVzdF9yZWN1cnJlbnQsIG1vZGVsX3NpbXBsZSwgbW9kZWxfcmVjb2xhLCBtb2RlbF9jaWZhcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnbG9iYWxfZW5kcG9pbnRzID0ge30KICBpbnB1dHMgPSB0Zi5jb25jYXQoMCwgW2VbJ2JvdHRsZW5lY2tfaW5wdXRzJ10gZm9yIGUgaW4gbW9kdWxlX2VuZHBvaW50c10pCiAgZ2xvYmFsX2VuZHBvaW50c1snaW5wdXRzJ10gPSBpbnB1dHMKICBvdXQgPSBpbnB1dHMK</text>
+        <text encoding="base64">ZnJvbSB5dC5kYXRhc2V0cyBpbXBvcnQgYWdlbmRlciwgYWxjLCBhdmVjMjAxMzIwMTQsIGF2aWMsIGNpZmFyLCBjb25mbGljdCwgY29ycmVjdG5lc3MsIGVhdGluZywgZ2VtZXAsIG5hdGl2ZW5lc3MsIHJlY29sYSwgc2ltaXMsIHNsYywgeW91dHViZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHl0Lm1haW4K</text>
+        <text encoding="base64">ICBnbG9iYWxfZW5kcG9pbnRzID0ge30KICBpbnB1dHMgPSB0Zi5jb25jYXQoMCwgW2VbJ2JvdHRsZW5lY2tfaW5wdXRzJ10gZm9yIGUgaW4gbW9kdWxlX2VuZHBvaW50c10pCiAgZ2xvYmFsX2VuZHBvaW50c1snaW5wdXRzJ10gPSBpbnB1dHMKICBvdXQgPSBpbnB1dHMK</text>
       </register>
-      <register name="9" type="4">
-        <text>from yt.common import datasets_root, dense, ce_loss, Channel, calc_UAR_numpy, classification_accuracy
-from yt.model import Dense, build_model, common_branch
-from yt.svm import svm</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHl0Lm1haW4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0VhdGluZy9hdmVjMjAxMzIwMTQvZw==</text>
