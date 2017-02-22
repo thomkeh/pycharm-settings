@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/models.py" timestamp="1487780146817">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/builder.py" timestamp="1473344471049">
         <mark key="[" line="24" column="5" />
         <mark key="]" line="24" column="7" />
@@ -15,17 +20,15 @@
         <mark key="^" line="40" column="50" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1486391664786">
+      <file name="/a.dummy" timestamp="1487781451753">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/recola.py" timestamp="1486376662279">
-        <mark key="'" line="132" column="69" />
-        <mark key="[" line="161" column="60" />
-        <mark key="]" line="161" column="64" />
-        <mark key="^" line="161" column="64" />
-        <mark key="." line="161" column="64" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/svm.py" timestamp="1487780170066">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/asfdg.py" timestamp="1466589535615">
         <mark key="[" line="0" column="0" />
@@ -45,18 +48,22 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/exp_manager.py" timestamp="1487780117264">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/typing/typ.py" timestamp="1485947054149">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/apply.py" timestamp="1486137888567">
-        <mark key="'" line="105" column="7" />
-        <mark key="[" line="105" column="7" />
-        <mark key="]" line="105" column="7" />
-        <mark key="^" line="28" column="29" />
-        <mark key="." line="105" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/blocks.py" timestamp="1487780059900">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="63" />
+        <mark key="." line="0" column="63" />
+        <mark key="^" line="0" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/simis.py" timestamp="1486143638266">
         <mark key="[" line="73" column="25" />
@@ -64,23 +71,16 @@
         <mark key="^" line="7" column="57" />
         <mark key="." line="73" column="25" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/applications/recola.py" timestamp="1487781489653">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/yt/svm.py" timestamp="1472569883202">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="6" />
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="6" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/conflict.py" timestamp="1486145095018">
-        <mark key="'" line="5" column="25" />
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/laughter.py" timestamp="1486145225018">
-        <mark key="'" line="74" column="26" />
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1487778917857">
         <mark key="[" line="7" column="30" />
@@ -100,6 +100,11 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="24" column="36" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/applications/simple.py" timestamp="1487781503291">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_avec20132014.py" timestamp="1486138056144">
         <mark key="[" line="2" column="65" />
         <mark key="]" line="2" column="64" />
@@ -112,11 +117,21 @@
         <mark key="." line="454" column="20" />
         <mark key="^" line="454" column="20" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/applications/audio.py" timestamp="1487781471150">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/eating.py" timestamp="1486145070284">
         <mark key="[" line="72" column="25" />
         <mark key="]" line="72" column="25" />
         <mark key="^" line="7" column="57" />
         <mark key="." line="72" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/applications/vision.py" timestamp="1487781511108">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/cifar.py" timestamp="1486143792360">
         <mark key="[" line="1" column="22" />
@@ -128,13 +143,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/gemep.py" timestamp="1486143927865">
-        <mark key="'" line="72" column="54" />
-        <mark key="[" line="105" column="35" />
-        <mark key="]" line="105" column="35" />
-        <mark key="^" line="7" column="57" />
-        <mark key="." line="105" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/analysis.py" timestamp="1487702010272">
         <mark key="[" line="95" column="52" />
@@ -154,20 +162,18 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="75" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1487778920317">
+      <file name="/Python Console" timestamp="1487781244828">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/losses.py" timestamp="1487780135968">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/exp_manager.py" timestamp="1486377735016">
-        <mark key="'" line="121" column="30" />
-        <mark key="[" line="27" column="39" />
-        <mark key="]" line="27" column="39" />
-        <mark key="." line="27" column="39" />
-        <mark key="^" line="27" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" timestamp="1486137907846">
         <mark key="[" line="2" column="5" />
@@ -180,13 +186,6 @@
         <mark key="]" line="5" column="63" />
         <mark key="." line="5" column="63" />
         <mark key="^" line="5" column="63" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/slc.py" timestamp="1486144212202">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="73" column="27" />
-        <mark key="^" line="7" column="57" />
-        <mark key="." line="72" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/svm.py" timestamp="1486137914583">
         <mark key="[" line="10" column="5" />
@@ -204,30 +203,11 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_cifar.py" timestamp="1486138031130">
-        <mark key="'" line="16" column="50" />
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/alc.py" timestamp="1486145053675">
-        <mark key="'" line="5" column="25" />
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/read_yt.py" timestamp="1470761489994">
         <mark key="[" line="54" column="87" />
         <mark key="]" line="54" column="87" />
         <mark key="." line="54" column="87" />
         <mark key="^" line="54" column="87" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_yt.py" timestamp="1486138196442">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/convert.py" timestamp="1468927146908">
         <mark key="[" line="7" column="81" />
@@ -246,12 +226,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/datasets_common.py" timestamp="1486144666410">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="55" column="16" />
-        <mark key="]" line="55" column="37" />
-        <mark key="." line="55" column="37" />
-        <mark key="^" line="55" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="498" column="33" />
+        <mark key="]" line="498" column="33" />
+        <mark key="." line="498" column="33" />
+        <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/correctness.py" timestamp="1486376623286">
         <mark key="[" line="43" column="83" />
@@ -259,12 +239,24 @@
         <mark key="^" line="43" column="90" />
         <mark key="." line="43" column="90" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/main.py" timestamp="1487780387473">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+        <mark key="^" line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/applications/avec20132014.py" timestamp="1487781481016">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ide_test/main.py" timestamp="1480957048895">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="2" />
         <mark key="^" line="2" column="10" />
         <mark key="." line="3" column="2" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/common.py" timestamp="1487781048763" />
       <file name="$USER_HOME$/PycharmProjects/ytaudio/train_agender.py" timestamp="1470674680659">
         <mark key="[" line="23" column="51" />
         <mark key="]" line="23" column="60" />
@@ -301,11 +293,15 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/nativeness.py" timestamp="1486145246102">
-        <mark key="'" line="5" column="25" />
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/optimization.py" timestamp="1487780156368">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/read.py" timestamp="1487780164034">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_eating.py" timestamp="1473693840095">
         <mark key="[" line="0" column="0" />
@@ -314,8 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="44" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/avec20132014.py" />
-      <jump line="92" column="1" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/youtube.py" />
       <jump line="31" column="20" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/model.py" />
       <jump line="100" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/youtube.py" />
       <jump line="7" column="38" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/youtube.py" />
@@ -414,22 +408,26 @@
       <jump line="5" column="20" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/exp_manager.py" />
       <jump line="84" column="9" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/exp_manager.py" />
       <jump line="117" column="30" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/exp_manager.py" />
+      <jump line="497" column="1" filename="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="8">
+        <text>XYZ.
+XYZ.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>XYZ.</text>
       </register>
       <register name="/" type="4">
-        <text>cPi</text>
+        <text>getatt</text>
       </register>
       <register name="0" type="4">
         <text>['age']</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBwcmludF9hZ2dyZWdhdG9ycyA9IHt9Cg==</text>
+      <register name="1" type="8">
+        <text>XYZ.
+XYZ.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -450,38 +448,57 @@
           <key char="101" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="8">
+        <text>XYZ.
+XYZ.
+XYZ.
+XYZ.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzaXggaW1wb3J0IGl0ZXJpdGVtcwo=</text>
+      <register name="3" type="8">
+        <text>XYZ.
+XYZ.
+XYZ.
+XYZ.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBmcm9tIHNpeC5tb3ZlcyBpbXBvcnQgcmVkdWNlCg==</text>
+      <register name="4" type="8">
+        <text>XYZ.
+XYZ.
+XYZ.
+XYZ.
+XYZ.
+XYZ.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB5dC5zdm0gaW1wb3J0IHN2bQo=</text>
+      <register name="5" type="8">
+        <text>XYZ.
+XYZ.
+XYZ.
+XYZ.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB5dC5tb2RlbCBpbXBvcnQgbW9kZWxfbXVsdGl0YXNrMSwgbW9kZWxfb25lX3JlY3VycmVudCwganVzdF9yZWN1cnJlbnQsIG1vZGVsX3NpbXBsZSwgbW9kZWxfcmVjb2xhLCBtb2RlbF9jaWZhcgo=</text>
+        <text encoding="base64">ZnJvbSBYWVouY28K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB5dC5kYXRhc2V0cyBpbXBvcnQgYWdlbmRlciwgYWxjLCBhdmVjMjAxMzIwMTQsIGF2aWMsIGNpZmFyLCBjb25mbGljdCwgY29ycmVjdG5lc3MsIGVhdGluZywgZ2VtZXAsIG5hdGl2ZW5lc3MsIHJlY29sYSwgc2ltaXMsIHNsYywgeW91dHViZQo=</text>
+        <text encoding="base64">ZnJvbSBjb3JlLmJsb2NrcyBpbXBvcnQgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBnbG9iYWxfZW5kcG9pbnRzID0ge30KICBpbnB1dHMgPSB0Zi5jb25jYXQoMCwgW2VbJ2JvdHRsZW5lY2tfaW5wdXRzJ10gZm9yIGUgaW4gbW9kdWxlX2VuZHBvaW50c10pCiAgZ2xvYmFsX2VuZHBvaW50c1snaW5wdXRzJ10gPSBpbnB1dHMKICBvdXQgPSBpbnB1dHMK</text>
+      <register name="8" type="8">
+        <text>XYZ.
+XYZ.
+XYZ.
+XYZ.
+XYZ.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHl0Lm1haW4K</text>
+      <register name="9" type="8">
+        <text>XYZ.core
+XYZ.core</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0VhdGluZy9hdmVjMjAxMzIwMTQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>cPi</last-search>
+      <last-search>getatt</last-search>
       <last-offset />
-      <last-pattern>cPi</last-pattern>
+      <last-pattern>getatt</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -489,7 +506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_inp</entry>
         <entry encoding="base64">XDxTbGljZVw+</entry>
         <entry>eval</entry>
         <entry encoding="base64">XDxncmFwaFw+</entry>
@@ -509,6 +525,7 @@
         <entry>bases</entry>
         <entry>has</entry>
         <entry>cPi</entry>
+        <entry>getatt</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
