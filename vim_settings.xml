@@ -14,6 +14,13 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" timestamp="1487857593941">
+        <mark key="'" line="351" column="4" />
+        <mark key="[" line="317" column="135" />
+        <mark key="]" line="317" column="135" />
+        <mark key="." line="317" column="135" />
+        <mark key="^" line="317" column="130" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_svhn.py" timestamp="1486138188539">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="5" />
@@ -331,7 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="38" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/youtube.py" />
       <jump line="66" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/slc.py" />
       <jump line="6" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/slc.py" />
       <jump line="66" column="35" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/alc.py" />
@@ -431,16 +437,17 @@
       <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" />
       <jump line="89" column="28" filename="$USER_HOME$/PycharmProjects/ytaudio/core/blocks.py" />
       <jump line="130" column="13" filename="$USER_HOME$/PycharmProjects/ytaudio/main.py" />
+      <jump line="351" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0LCBfID0gcGF0Y2hlc1swXQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">J2RvbWFpbicsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text encoding="base64">J2RvbWFpbicsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>getatt</text>
+        <text>concate</text>
       </register>
       <register name="0" type="4">
         <text>['age']</text>
@@ -507,13 +514,13 @@ XYZ.</text>
         <text encoding="base64">ZnJvbSBjb3JlLmJsb2NrcyBpbXBvcnQgCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0VhdGluZy9hdmVjMjAxMzIwMTQvZw==</text>
+        <text>365</text>
       </register>
     </registers>
     <search>
-      <last-search>getatt</last-search>
+      <last-search>concate</last-search>
       <last-offset />
-      <last-pattern>getatt</last-pattern>
+      <last-pattern>concate</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -521,7 +528,6 @@ XYZ.</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTbGljZVw+</entry>
         <entry>eval</entry>
         <entry encoding="base64">XDxncmFwaFw+</entry>
         <entry>restore</entry>
@@ -541,6 +547,7 @@ XYZ.</text>
         <entry>has</entry>
         <entry>cPi</entry>
         <entry>getatt</entry>
+        <entry>concate</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
@@ -555,6 +562,9 @@ XYZ.</text>
         <entry encoding="base64">JzwsJz5zLyAvJywgJy9n</entry>
         <entry encoding="base64">JzwsJz5zLyAvJywgJy8=</entry>
         <entry encoding="base64">JzwsJz5zL0VhdGluZy9hdmVjMjAxMzIwMTQvZw==</entry>
+        <entry>204</entry>
+        <entry>240</entry>
+        <entry>365</entry>
       </history-cmd>
       <history-expr />
       <history-input />
