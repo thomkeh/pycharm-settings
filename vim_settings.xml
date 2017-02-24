@@ -95,7 +95,8 @@
         <mark key="]" line="11" column="5" />
         <mark key="." line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" timestamp="1487859725001">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" timestamp="1487937005257">
+        <mark key="'" line="99" column="34" />
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="8" />
         <mark key="^" line="2" column="8" />
@@ -384,11 +385,6 @@
       <file name="$USER_HOME$/PycharmProjects/ytaudio/core/evaluation.py" timestamp="1487862364334" />
     </filemarks>
     <jumps>
-      <jump line="6" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/conflict.py" />
-      <jump line="55" column="28" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" />
-      <jump line="53" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/avec20132014.py" />
-      <jump line="55" column="73" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/avec20132014.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/simis.py" />
       <jump line="9" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/apply.py" />
       <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/apply.py" />
       <jump line="29" column="28" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/apply.py" />
@@ -484,6 +480,11 @@
       <jump line="167" column="21" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/audio.py" />
       <jump line="70" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/audio.py" />
       <jump line="96" column="23" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/audio.py" />
+      <jump line="41" column="18" filename="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" />
+      <jump line="93" column="15" filename="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" />
+      <jump line="97" column="49" filename="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" />
+      <jump line="98" column="32" filename="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" />
+      <jump line="99" column="34" filename="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -493,7 +494,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>common</text>
+        <text>cache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRhdGFzZXRfZGlyID0gb3MucGF0aC5qb2luKGRhdGFzZXRzX3Jvb3QsICdDaWZhcjEwJykKICAgIHN1cGVyKENpZmFyMTAsIHNlbGYpLl9faW5pdF9fKCdjaWZhcjEwJywgZGF0YXNldF9kaXI9ZGF0YXNldF9kaXIsIG5fY2xhc3Nlcz0xMCwgbGFiZWxzPSdsYWJlbCcpCg==</text>
@@ -551,9 +552,9 @@ self.</text>
       </register>
     </registers>
     <search>
-      <last-search>common</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>common</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -561,7 +562,6 @@ self.</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxncmFwaFw+</entry>
         <entry>restore</entry>
         <entry>get_checkpo</entry>
         <entry>get_check</entry>
@@ -581,6 +581,7 @@ self.</text>
         <entry>getatt</entry>
         <entry>concate</entry>
         <entry>common</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
