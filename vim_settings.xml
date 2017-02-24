@@ -32,7 +32,7 @@
         <mark key="^" line="40" column="50" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1487862454335">
+      <file name="/a.dummy" timestamp="1487935282775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -123,11 +123,11 @@
       <file name="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" timestamp="1487862592347">
         <mark key="'" line="323" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/simple.py" timestamp="1487932661006">
-        <mark key="[" line="20" column="73" />
-        <mark key="]" line="20" column="73" />
-        <mark key="^" line="20" column="82" />
-        <mark key="." line="20" column="73" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/simple.py" timestamp="1487934910761">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="44" column="8" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/parse_dataset.py" timestamp="1468503495315">
         <mark key="[" line="110" column="0" />
@@ -146,6 +146,12 @@
         <mark key="]" line="419" column="15" />
         <mark key="." line="419" column="15" />
         <mark key="^" line="419" column="15" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/vision.py" timestamp="1487935443493">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="66" column="1" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/applications/simple.py" timestamp="1487781503291">
         <mark key="[" line="6" column="5" />
@@ -180,12 +186,12 @@
         <mark key="]" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/audio.py" timestamp="1487934063295">
-        <mark key="'" line="174" column="21" />
-        <mark key="[" line="144" column="43" />
-        <mark key="]" line="144" column="47" />
-        <mark key="^" line="144" column="47" />
-        <mark key="." line="144" column="47" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/audio.py" timestamp="1487935100254">
+        <mark key="'" line="99" column="23" />
+        <mark key="[" line="183" column="57" />
+        <mark key="]" line="183" column="67" />
+        <mark key="^" line="183" column="67" />
+        <mark key="." line="183" column="67" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/cifar.py" timestamp="1486143792360">
         <mark key="[" line="1" column="22" />
@@ -215,9 +221,6 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
         <mark key="^" line="75" column="57" />
-      </file>
-      <file name="/Python Console" timestamp="1487781244828">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/losses.py" timestamp="1487780135968">
         <mark key="[" line="1" column="5" />
@@ -381,8 +384,6 @@
       <file name="$USER_HOME$/PycharmProjects/ytaudio/core/evaluation.py" timestamp="1487862364334" />
     </filemarks>
     <jumps>
-      <jump line="6" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/simis.py" />
-      <jump line="64" column="9" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/conflict.py" />
       <jump line="6" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/conflict.py" />
       <jump line="55" column="28" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" />
       <jump line="53" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/avec20132014.py" />
@@ -481,22 +482,24 @@
       <jump line="323" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
       <jump line="201" column="3" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/audio.py" />
       <jump line="167" column="21" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/audio.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/audio.py" />
+      <jump line="96" column="23" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/audio.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eval</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>eval</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>common</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgX19pbml0X18oc2VsZiwgdHJhaW5fZmlsZXM9dHJfZmlsZXNfbWV0YWRhdGFfc3R5bGUsIGV2YWxfZmlsZXM9dHJfZmlsZXNfbWV0YWRhdGFfc3R5bGUpOgo=</text>
+        <text encoding="base64">ICAgIGRhdGFzZXRfZGlyID0gb3MucGF0aC5qb2luKGRhdGFzZXRzX3Jvb3QsICdDaWZhcjEwJykKICAgIHN1cGVyKENpZmFyMTAsIHNlbGYpLl9faW5pdF9fKCdjaWZhcjEwJywgZGF0YXNldF9kaXI9ZGF0YXNldF9kaXIsIG5fY2xhc3Nlcz0xMCwgbGFiZWxzPSdsYWJlbCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgX19pbml0X18oc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYubl9jbGFzc2VzID0gMTAKICAgIHNlbGYubGFiZWxzID0gJ2xhYmVsJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -518,28 +521,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgX19pbml0X18oc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYubl9jbGFzc2VzID0gMTAKICAgIHNlbGYubGFiZWxzID0gJ2xhYmVsJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgIioqa3dhcmdzIiBwYXNzZXMgYWxsIGFkZGl0aW9uYWwgcGFyYW1ldGVycyB0byB0aGUgY29uc3RydWN0b3Igb2YgdGhlIHN1cGVyY2xhc3MKICAgICMgaWYgYSBwYXJhbWV0ZXIgaXMgcGFzc2VkIHRoYXQgdGhlIHN1cGVyY2xhc3MgZG9lc24ndCBhY2NlcHQsIGl0IHJlc3VsdHMgaW4gYW4gZXJyb3IK</text>
+        <text encoding="base64">ICAgIHNlbGYuZGF0YXNldF9kaXIgPSBvcy5wYXRoLmpvaW4oZGF0YXNldHNfcm9vdCwgJ0NpZmFyMTAwJykKICAgIHNlbGYubl9jbGFzc2VzID0gMTAwCiAgICBzZWxmLmxhYmVscyA9ICdsYWJlbCcKICAgIHN1cGVyKENpZmFyMTAwLCBzZWxmKS5fX2luaXRfXygnY2lmYXIxMDAnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjb3JlLmxvc3NlcyBpbXBvcnQgY2VfbG9zcwpmcm9tIGNvcmUuZXZhbHVhdGlvbiBpbXBvcnQgYmFzaWNfc3RhdHNfbnVtcHkKZnJvbSBjb3JlLm1vZGVscyBpbXBvcnQgY29tbW9uX2JyYW5jaAo=</text>
+        <text encoding="base64">ICAgIHNlbGYubl9jbGFzc2VzID0gMTAKICAgIHNlbGYubGFiZWxzID0gJ2xhYmVsJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBmZWF0dXJlcyBpbXBvcnQgbG9nZmJhbmsK</text>
+        <text encoding="base64">ZnJvbSBjb3JlLmxvc3NlcyBpbXBvcnQgY2VfbG9zcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByb290ID0gb3MucGF0aC5qb2luKGRhdGFzZXRzX3Jvb3QsIGZvbGRlcl9uYW1lKQo=</text>
+        <text encoding="base64">ICAgIAogICAgIyBKdXN0IHRvIGFsbG93IG5vbi1saXN0cyBpbiBjYXNlIG9mIG9ubHkgb25lIGxhYmVsCiAgICBpZiBub3QgaXNpbnN0YW5jZShzZWxmLmxhYmVscywgbGlzdCk6CiAgICAgIHNlbGYubGFiZWxzID0gW3NlbGYubGFiZWxzXQogICAgICBzZWxmLm5fY2xhc3NlcyA9IFtzZWxmLm5fY2xhc3Nlc10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB5dC5jb21tb24gaW1wb3J0IGRhdGFiYXNlX2ZpbGVfbmFtZSwgZGF0YXNldHNfcm9vdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGF0YWJhc2VfZmlsZV9uYW1lID0gJ21ldGFkYXRhLmRhdCcK</text>
+      <register name="8" type="8">
+        <text>self.
+self.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0LCBfID0gcGF0Y2hlc1swXQo=</text>
+      <register name="9" type="8">
+        <text>self.
+self.</text>
       </register>
       <register name=":" type="4">
         <text>365</text>
