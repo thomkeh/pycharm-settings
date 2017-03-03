@@ -167,6 +167,12 @@
         <mark key="." line="2" column="64" />
         <mark key="^" line="2" column="64" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/queue_test/main.py" timestamp="1488540171323">
+        <mark key="[" line="37" column="2" />
+        <mark key="]" line="37" column="14" />
+        <mark key="^" line="37" column="14" />
+        <mark key="." line="37" column="14" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1486379654877">
         <mark key="[" line="454" column="9" />
         <mark key="]" line="454" column="20" />
@@ -229,6 +235,9 @@
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
+      </file>
+      <file name="/Python Console" timestamp="1488540297249">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
         <mark key="[" line="0" column="0" />
@@ -489,10 +498,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>etp</text>
+        <text>files, mapping, length = create_mapping()</text>
       </register>
       <register name="-" type="4">
-        <text>etp</text>
+        <text>files, mapping, length = create_mapping()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9xdWV1ZV9ydW5uZXJzXD4=</text>
