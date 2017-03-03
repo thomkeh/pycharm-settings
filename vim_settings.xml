@@ -167,12 +167,12 @@
         <mark key="." line="2" column="64" />
         <mark key="^" line="2" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/queue_test/main.py" timestamp="1488551543176">
-        <mark key="'" line="94" column="25" />
-        <mark key="[" line="55" column="27" />
-        <mark key="]" line="56" column="17" />
-        <mark key="." line="56" column="17" />
-        <mark key="^" line="56" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/queue_test/main.py" timestamp="1488552412894">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="31" />
+        <mark key="." line="68" column="31" />
+        <mark key="^" line="68" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1486379654877">
         <mark key="[" line="454" column="9" />
@@ -237,7 +237,7 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1488550505279">
+      <file name="/Python Console" timestamp="1488552415237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
@@ -396,8 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="24" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
-      <jump line="54" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="167" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
       <jump line="18" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/exp_manager.py" />
@@ -496,22 +494,24 @@
       <jump line="543" column="55" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="548" column="77" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="550" column="65" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
+      <jump line="51" column="29" filename="$USER_HOME$/PycharmProjects/queue_test/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/queue_test/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sess</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>sess</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
       </register>
       <register name="0" type="4">
-        <text>ms[m]['sess']</text>
+        <text>ms[m]['</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgY29uID0gdGYuY29udGFpbmVyKCdiYXRjaHF1ZXVlJykK</text>
+        <text encoding="base64">IyBxID10Zi5nZXRfY29sbGVjdGlvbih0Zi5HcmFwaEtleXMuUVVFVUVfUlVOTkVSUylbMF0KIyBJblszXTogcQojIE91dFs0XToKIyA8dGVuc29yZmxvdy5weXRob24udHJhaW5pbmcucXVldWVfcnVubmVyX2ltcGwuUXVldWVSdW5uZXIgYXQgMHg3ZmRkZDYwMjUyZTg+CiMgSW5bNF06IHRocmVhZHNzID0gcS5jcmVhdGVfdGhyZWFkcyhzLCBjb29yZCwgZGVhbW9uPVRydWUsIHN0YXJ0PVRydWUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -533,28 +533,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb29yZDIgPSB0Zi50cmFpbi5Db29yZGluYXRvcigpCg==</text>
+        <text encoding="base64">ICAgICMgY29uID0gdGYuY29udGFpbmVyKCdiYXRjaHF1ZXVlJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpbWl0ZWRfZm4sIGVwb2NocyA9IGxpbWl0X2Vwb2Nocyhwb3NpdGlvbiwgbnVtX2Vwb2Nocz0xMCkK</text>
+        <text encoding="base64">ICBjb29yZDIgPSB0Zi50cmFpbi5Db29yZGluYXRvcigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludCgiLS0tLSIpCiAgIyBzLnJ1bihlcG9jaHMuYXNzaWduKDApKQogICMgcHJpbnQocy5ydW4obGltaXRlZF9mbikpCiAgcHJpbnQoIi0tLS0iKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBsaW1pdGVkX2ZuLCBlcG9jaHMgPSBsaW1pdF9lcG9jaHMocG9zaXRpb24sIG51bV9lcG9jaHM9MTApCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAjIGNvb3JkMiA9IHRmLnRyYWluLkNvb3JkaW5hdG9yKCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGxpbWl0ZWRfZm4sIGVwb2NocyA9IGxpbWl0X2Vwb2Nocyhwb3NpdGlvbiwgbnVtX2Vwb2Nocz0xMCkK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcmludCgiLS0tLSIpCiAgIyBzLnJ1bihlcG9jaHMuYXNzaWduKDApKQogICMgcHJpbnQocy5ydW4obGltaXRlZF9mbikpCiAgcHJpbnQoIi0tLS0iKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBsaW1pdGVkX2ZuLCBlcG9jaHMgPSBsaW1pdF9lcG9jaHMocG9zaXRpb24sIG51bV9lcG9jaHM9MTApCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAjIGNvb3JkMiA9IHRmLnRyYWluLkNvb3JkaW5hdG9yKCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIgPSB0Zi50cmFpbi5TZXJ2ZXIuY3JlYXRlX2xvY2FsX3NlcnZlcigpCg==</text>
+        <text encoding="base64">ICAgIGxpbWl0ZWRfZm4sIGVwb2NocyA9IGxpbWl0X2Vwb2Nocyhwb3NpdGlvbiwgbnVtX2Vwb2Nocz0xMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsaW1pdGVkX2ZuLCBlcG9jaHMgPSBsaW1pdF9lcG9jaHMocG9zaXRpb24sIG51bV9lcG9jaHM9MTApCg==</text>
+        <text encoding="base64">ICBzZXJ2ZXIgPSB0Zi50cmFpbi5TZXJ2ZXIuY3JlYXRlX2xvY2FsX3NlcnZlcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>365</text>
