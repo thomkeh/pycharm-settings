@@ -164,11 +164,12 @@
         <mark key="." line="2" column="64" />
         <mark key="^" line="2" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/queue_test/main.py" timestamp="1488557047845">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="54" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/queue_test/main.py" timestamp="1488557164582">
+        <mark key="'" line="42" column="45" />
+        <mark key="[" line="95" column="40" />
+        <mark key="]" line="95" column="53" />
+        <mark key="." line="95" column="53" />
+        <mark key="^" line="95" column="53" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1486379654877">
         <mark key="[" line="454" column="9" />
@@ -393,8 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="2" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
-      <jump line="18" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/exp_manager.py" />
       <jump line="15" column="50" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_cifar.py" />
       <jump line="193" column="14" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_common.py" />
@@ -493,16 +492,18 @@
       <jump line="550" column="65" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="51" column="29" filename="$USER_HOME$/PycharmProjects/queue_test/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/queue_test/main.py" />
+      <jump line="34" column="2" filename="$USER_HOME$/PycharmProjects/queue_test/main.py" />
+      <jump line="42" column="45" filename="$USER_HOME$/PycharmProjects/queue_test/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1zW21dWydzZXNzJ10ucnVuKHRmLmluaXRpYWxpemVfbG9jYWxfdmFyaWFibGVzKCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>initialize_</text>
       </register>
       <register name="-" type="4">
-        <text>enqueue_threads2</text>
+        <text>initialize_</text>
       </register>
       <register name="/" type="4">
-        <text>sess</text>
+        <text>local</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBmb3IgbSBpbiBtczoKICAgIG1zW21dWydjb29yZCddLmpvaW4obXNbbV1bJ3RocmVhZHMnXSkK</text>
@@ -558,9 +559,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sess</last-search>
+      <last-search>local</last-search>
       <last-offset />
-      <last-pattern>sess</last-pattern>
+      <last-pattern>local</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -568,7 +569,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pkl</entry>
         <entry>dumps</entry>
         <entry>cPickle</entry>
         <entry>bases</entry>
@@ -588,6 +588,7 @@
         <entry encoding="base64">XDxldmFsX29uY2VcPg==</entry>
         <entry>input</entry>
         <entry>sess</entry>
+        <entry>local</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
