@@ -14,11 +14,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" timestamp="1488555358649">
-        <mark key="'" line="550" column="65" />
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="398" column="8" />
-        <mark key="." line="398" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" timestamp="1488557835657">
+        <mark key="'" line="551" column="65" />
+        <mark key="[" line="399" column="74" />
+        <mark key="]" line="399" column="74" />
+        <mark key="." line="399" column="74" />
+        <mark key="^" line="398" column="67" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/core/common.py" timestamp="1487942844841">
         <mark key="[" line="220" column="0" />
@@ -95,12 +96,12 @@
         <mark key="]" line="11" column="5" />
         <mark key="." line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" timestamp="1488550783152">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" timestamp="1488558737444">
         <mark key="'" line="14" column="43" />
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="8" />
+        <mark key="[" line="267" column="47" />
+        <mark key="]" line="267" column="52" />
+        <mark key="^" line="267" column="52" />
+        <mark key="." line="267" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/main.py" timestamp="1488554731647">
         <mark key="[" line="50" column="35" />
@@ -236,7 +237,7 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1488556573269">
+      <file name="/Python Console" timestamp="1488557990162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
@@ -497,16 +498,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>initialize_</text>
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>initialize_</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBmb3IgbSBpbiBtczoKICAgIG1zW21dWydjb29yZCddLmpvaW4obXNbbV1bJ3RocmVhZHMnXSkK</text>
+      <register name="0" type="4">
+        <text>'{}_test_mb'.format(m['module'].name)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1zW21dWydzZXNzJ10ucnVuKHRmLmluaXRpYWxpemVfbG9jYWxfdmFyaWFibGVzKCkpCg==</text>
