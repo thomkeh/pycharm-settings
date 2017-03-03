@@ -167,11 +167,12 @@
         <mark key="." line="2" column="64" />
         <mark key="^" line="2" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/queue_test/main.py" timestamp="1488540171323">
-        <mark key="[" line="37" column="2" />
-        <mark key="]" line="37" column="14" />
-        <mark key="^" line="37" column="14" />
-        <mark key="." line="37" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/queue_test/main.py" timestamp="1488541258618">
+        <mark key="'" line="74" column="25" />
+        <mark key="[" line="81" column="9" />
+        <mark key="]" line="81" column="9" />
+        <mark key="^" line="81" column="9" />
+        <mark key="." line="81" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1486379654877">
         <mark key="[" line="454" column="9" />
@@ -236,7 +237,7 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1488540297249">
+      <file name="/Python Console" timestamp="1488540655216">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
@@ -395,7 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="29" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="148" column="13" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/apply.py" />
       <jump line="361" column="37" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
       <jump line="63" column="38" filename="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" />
@@ -495,22 +495,23 @@
       <jump line="565" column="23" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="572" column="30" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="398" column="45" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
+      <jump line="74" column="25" filename="$USER_HOME$/PycharmProjects/queue_test/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>files, mapping, length = create_mapping()</text>
+        <text encoding="base64">ICsg</text>
       </register>
       <register name="-" type="4">
-        <text>files, mapping, length = create_mapping()</text>
+        <text encoding="base64">ICsg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9xdWV1ZV9ydW5uZXJzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlbGYuYXJvdXNhbF9jbGFzc2VzID0gMgo=</text>
+        <text encoding="base64">ICBzLnJ1bih0Zi5sb2NhbF92YXJpYWJsZXNfaW5pdGlhbGl6ZXIoKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBhc3MgPSBlcG9jaHMuYXNzaWduKDApCiAgcy5ydW4oYXNzKQogIHByaW50KHMucnVuKGVwb2Nocykp</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -534,29 +535,29 @@
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="8">
         <text>self.
 self.
 self.</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>self.
 self.</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGZvciBrIGluIHZhbF9kaWN0OgogICAgICB2YWxfZGljdFtrXSA9IHRmLmV4cGFuZF9kaW1zKHZhbF9kaWN0W2tdLCAwKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHZhbF9kaWN0ID0gZXhwYW5kX2FsbF9kaW1zKHZhbF9kaWN0KSBpZiBub3QgaXNfdHJhaW4gZWxzZSB2YWxfZGljdAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKZGVmIGV4cGFuZF9hbGxfZGltcyhkKToKICByZXR1cm4gZAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb3IgayBpbiBkLmtleXMoKToKICAgIGRba10gPSB0Zi5leHBhbmRfZGltcyhkW2tdLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAKZGVmIGV4cGFuZF9hbGxfZGltcyhkKToKICByZXR1cm4gZAo=</text>
       </register>
       <register name=":" type="4">
         <text>365</text>
