@@ -121,12 +121,12 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488801946162">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488808042819">
         <mark key="'" line="64" column="56" />
-        <mark key="[" line="67" column="92" />
-        <mark key="]" line="69" column="11" />
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="49" />
         <mark key="^" line="69" column="11" />
-        <mark key="." line="69" column="11" />
+        <mark key="." line="19" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1487778917857">
         <mark key="[" line="7" column="30" />
@@ -247,7 +247,7 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1488562395130">
+      <file name="/Python Console" timestamp="1488808051761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
