@@ -121,12 +121,12 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488814029597">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488814616132">
         <mark key="'" line="67" column="56" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
-        <mark key="^" line="180" column="0" />
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="16" column="49" />
+        <mark key="." line="16" column="49" />
+        <mark key="^" line="216" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1487778917857">
         <mark key="[" line="7" column="30" />
@@ -247,7 +247,7 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1488813499968">
+      <file name="/Python Console" timestamp="1488814557758">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
@@ -402,7 +402,6 @@
         <mark key="[" line="102" column="33" />
         <mark key="]" line="102" column="34" />
         <mark key="." line="102" column="34" />
-        <mark key="^" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_eating.py" timestamp="1473693840095">
         <mark key="[" line="0" column="0" />
@@ -513,20 +512,20 @@
       <jump line="64" column="56" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBvdXQgPSBkZW5zZShvdXQsIEZMQUdTLmh3X25fZmVhdHVyZXMsIDAuMCwgMC4wLCB3aXRoX2JpYXM9VHJ1ZSwgc2NvcGVfbmFtZT0nZGVuc2VfbGFzdCcpCgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>window</text>
       </register>
-      <register name="0" type="4">
-        <text>dense(out, FLAGS.hw_n_features, 0.0, 0.0, with_bias=True, scope_name='dense_last')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBnbG9iYWxfZW5kcG9pbnRzWydib3R0bGVuZWNrJ10gPSBfZmluYWxfMmRfZGVuc2Uob3V0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZQo=</text>
+        <text encoding="base64">ICBvdXQgPSBkZW5zZShvdXQsIEZMQUdTLmh3X25fZmVhdHVyZXMsIDAuMCwgMC4wLCB3aXRoX2JpYXM9VHJ1ZSwgc2NvcGVfbmFtZT0nZGVuc2VfbGFzdCcpCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -548,28 +547,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvdXQgPSBkZW5zZShvdXQsIEZMQUdTLmh3X25fZmVhdHVyZXMgKiBGTEFHUy5od190YXJnZXRfZnJhbWVzLCAwLjAsIDAuMCwgd2l0aF9iaWFzPVRydWUsIHNjb3BlX25hbWU9J2RlbnNlX2xhc3QnKQogIAogIG91dCA9IHRmLnJlc2hhcGUob3V0LCBbLTEsIEZMQUdTLmh3X3RhcmdldF9mcmFtZXMsIEZMQUdTLmh3X25fZmVhdHVyZXNdKQo=</text>
+        <text encoding="base64">ICBvdXQgPSBkZW5zZShvdXQsIEZMQUdTLmh3X25fZmVhdHVyZXMsIDAuMCwgMC4wLCB3aXRoX2JpYXM9VHJ1ZSwgc2NvcGVfbmFtZT0nZGVuc2VfbGFzdCcpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvdXQgPSBkZW5zZShvdXQsIEZMQUdTLmh3X25fZmVhdHVyZXMsIDAuMCwgMC4wLCB3aXRoX2JpYXM9VHJ1ZSwgc2NvcGVfbmFtZT0nZGVuc2VfbGFzdCcpCiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIF9maW5hbF8yZF9kZW5zZShvdXQpOgogIG91dCA9IGRlbnNlKG91dCwgRkxBR1MuaHdfbl9mZWF0dXJlcyAqIEZMQUdTLmh3X3RhcmdldF9mcmFtZXMsIDAuMCwgMC4wLCB3aXRoX2JpYXM9VHJ1ZSwgc2NvcGVfbmFtZT0nZGVuc2VfbGFzdCcpCiAgcmV0dXJuIHRmLnJlc2hhcGUob3V0LCBbLTEsIEZMQUdTLmh3X3RhcmdldF9mcmFtZXMsIEZMQUdTLmh3X25fZmVhdHVyZXNdKQoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvdXQgPSBkZW5zZShvdXQsIEZMQUdTLmh3X25fZmVhdHVyZXMgKiBGTEFHUy5od190YXJnZXRfZnJhbWVzLCAwLjAsIDAuMCwgd2l0aF9iaWFzPVRydWUsIHNjb3BlX25hbWU9J2RlbnNlX2xhc3QnKQoKICBvdXQgPSB0Zi5yZXNoYXBlKG91dCwgWy0xLCBGTEFHUy5od190YXJnZXRfZnJhbWVzLCBGTEFHUy5od19uX2ZlYXR1cmVzXSkK</text>
+        <text encoding="base64">ICBnbG9iYWxfZW5kcG9pbnRzWydib3R0bGVuZWNrJ10gPSBvdXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvdXQgPSBkZW5zZShvdXQsIEZMQUdTLmh3X25fZmVhdHVyZXMsIDAuMCwgMC4wLCB3aXRoX2JpYXM9VHJ1ZSwgc2NvcGVfbmFtZT0nZGVuc2VfbGFzdCcpCiAgICAK</text>
+        <text encoding="base64">ICBnbG9iYWxfZW5kcG9pbnRzWydib3R0bGVuZWNrJ10gPSBvdXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZW5ndGggPSBsZW5ndGgyICsgMQo=</text>
+        <text encoding="base64">ICByZQo=</text>
       </register>
       <register name=":" type="4">
         <text>365</text>
