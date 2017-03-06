@@ -121,12 +121,12 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488808930799">
-        <mark key="'" line="64" column="56" />
-        <mark key="[" line="67" column="35" />
-        <mark key="]" line="68" column="7" />
-        <mark key="." line="68" column="7" />
-        <mark key="^" line="68" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488810282919">
+        <mark key="'" line="67" column="56" />
+        <mark key="[" line="75" column="80" />
+        <mark key="]" line="75" column="80" />
+        <mark key="." line="75" column="80" />
+        <mark key="^" line="75" column="70" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1487778917857">
         <mark key="[" line="7" column="30" />
@@ -398,6 +398,12 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/preprocess.py" timestamp="1488809976244">
+        <mark key="[" line="102" column="33" />
+        <mark key="]" line="102" column="34" />
+        <mark key="." line="102" column="34" />
+        <mark key="^" line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_eating.py" timestamp="1473693840095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
@@ -508,19 +514,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, target_len</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, target_len</text>
       </register>
       <register name="/" type="4">
         <text>window</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIG92ZXJ3cml0ZSBuX2V4YW1wbGVzIHdpdGggdGhlIHJlYWwgbnVtYmVyCg==</text>
+        <text encoding="base64">ICBsZW5fYWZ0ZXIgPSBsZW5ndGggLy8gMgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZWxzZToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICBsZW5ndGggPSBsZW5ndGgyICsgMQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -542,31 +548,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgRkxBR1MuaHdfdGFyZ2V0X2ZyYW1lcyA9PSAxOgo=</text>
+        <text encoding="base64">JycnClBhZHMgYSB0ZW5zb3Igb24gdGhlIGZpcnN0IGRpbWVuc2lvbiwgZnJvbSBib3RoIHNpZGVzLCB0byBhbGxvdyBhIHdpbmRvd3Mgb2Ygc2l6ZSAnbGVuZ3RoJyB0byBiZSBjZW50ZXJlZAppbiBlYWNoIGVsZW1lbnQgb2YgdGhlIGZpcnN0IGRpbWVuc2lvbgonJycK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZWxzZToKICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaWYgRkxBR1MuaHdfdGFyZ2V0X2ZyYW1lcyA9PSAxOgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIyBUYWtlIG9ubHkgdGhlIG1pZGRsZSBmcmFtZSBmcm9tIHRoZSBjbGVhbiBvbmUK</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text>uawei
 uawei
 uawei
 uawei</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIyBSYW5kb20gVW5pZm9ybWx5IGFjcm9zcyBmaWxlcwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgV2UgYWxsb3cgbm90IHVzaW5nIGNhY2hlIG9ubHkgZm9yIHRyYWluaW5nIHNldC4gRXZhbCBzZXQgd2lsbCBhbHdheXMgYmUgY2FjaGVkLiAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyB3aGlsZSBUcnVlOgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRpbnVlCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGV4YW1wbGVzX2Zvcl9sYXN0X2JhdGNoID09IDA6Cg==</text>
+        <text encoding="base64">ICAgICMgV2UgYWxsb3cgbm90IHVzaW5nIGNhY2hlIG9ubHkgZm9yIHRyYWluaW5nIHNldC4gRXZhbCBzZXQgd2lsbCBhbHdheXMgYmUgY2FjaGVkLiAK</text>
       </register>
       <register name=":" type="4">
         <text>365</text>
