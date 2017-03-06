@@ -102,11 +102,11 @@
         <mark key="^" line="176" column="19" />
         <mark key="." line="190" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/main.py" timestamp="1488563266602">
-        <mark key="[" line="45" column="39" />
-        <mark key="]" line="45" column="42" />
-        <mark key="." line="45" column="42" />
-        <mark key="^" line="45" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/main.py" timestamp="1488812952363">
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="45" column="52" />
+        <mark key="." line="45" column="52" />
+        <mark key="^" line="45" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/yt/svm.py" timestamp="1472569883202">
         <mark key="[" line="8" column="5" />
@@ -121,12 +121,12 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488811847866">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488812576973">
         <mark key="'" line="67" column="56" />
-        <mark key="[" line="81" column="53" />
-        <mark key="]" line="81" column="63" />
-        <mark key="." line="81" column="63" />
-        <mark key="^" line="81" column="63" />
+        <mark key="[" line="93" column="32" />
+        <mark key="]" line="93" column="45" />
+        <mark key="." line="93" column="45" />
+        <mark key="^" line="93" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1487778917857">
         <mark key="[" line="7" column="30" />
@@ -247,7 +247,7 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1488810628514">
+      <file name="/Python Console" timestamp="1488812958009">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
@@ -514,10 +514,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FLAGS.hw_window_frames,</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>FLAGS.hw_window_frames,</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>window</text>
