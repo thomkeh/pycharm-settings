@@ -102,11 +102,11 @@
         <mark key="^" line="176" column="19" />
         <mark key="." line="190" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/main.py" timestamp="1488812952363">
-        <mark key="[" line="45" column="48" />
-        <mark key="]" line="45" column="52" />
-        <mark key="." line="45" column="52" />
-        <mark key="^" line="45" column="52" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/main.py" timestamp="1488813173213">
+        <mark key="[" line="48" column="52" />
+        <mark key="]" line="48" column="56" />
+        <mark key="." line="48" column="56" />
+        <mark key="^" line="48" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/yt/svm.py" timestamp="1472569883202">
         <mark key="[" line="8" column="5" />
@@ -121,12 +121,12 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488812576973">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488814029597">
         <mark key="'" line="67" column="56" />
-        <mark key="[" line="93" column="32" />
-        <mark key="]" line="93" column="45" />
-        <mark key="." line="93" column="45" />
-        <mark key="^" line="93" column="45" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
+        <mark key="^" line="180" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1487778917857">
         <mark key="[" line="7" column="30" />
@@ -247,7 +247,7 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1488812958009">
+      <file name="/Python Console" timestamp="1488813499968">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
@@ -514,19 +514,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>window</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrc2l6ZXM9WzEsIEZMQUdTLmh3X3dpbmRvd19mcmFtZXMsIHNlbGYubl9mZWF0dXJlcywgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyaWRlcz1bMSwgMSwgc2VsZi5uX2ZlYXR1cmVzLCAxXSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmF0ZXM9WzEsIDEsIDEsIDFdLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nPSdWQUxJRCcpCg==</text>
+      <register name="0" type="4">
+        <text>dense(out, FLAGS.hw_n_features, 0.0, 0.0, with_bias=True, scope_name='dense_last')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICByZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -548,31 +548,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZW5ndGggPSBsZW5ndGgyICsgMQo=</text>
+        <text encoding="base64">ICBvdXQgPSBkZW5zZShvdXQsIEZMQUdTLmh3X25fZmVhdHVyZXMgKiBGTEFHUy5od190YXJnZXRfZnJhbWVzLCAwLjAsIDAuMCwgd2l0aF9iaWFzPVRydWUsIHNjb3BlX25hbWU9J2RlbnNlX2xhc3QnKQogIAogIG91dCA9IHRmLnJlc2hhcGUob3V0LCBbLTEsIEZMQUdTLmh3X3RhcmdldF9mcmFtZXMsIEZMQUdTLmh3X25fZmVhdHVyZXNdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JycnClBhZHMgYSB0ZW5zb3Igb24gdGhlIGZpcnN0IGRpbWVuc2lvbiwgZnJvbSBib3RoIHNpZGVzLCB0byBhbGxvdyBhIHdpbmRvd3Mgb2Ygc2l6ZSAnbGVuZ3RoJyB0byBiZSBjZW50ZXJlZAppbiBlYWNoIGVsZW1lbnQgb2YgdGhlIGZpcnN0IGRpbWVuc2lvbgonJycK</text>
+        <text encoding="base64">ICBvdXQgPSBkZW5zZShvdXQsIEZMQUdTLmh3X25fZmVhdHVyZXMsIDAuMCwgMC4wLCB3aXRoX2JpYXM9VHJ1ZSwgc2NvcGVfbmFtZT0nZGVuc2VfbGFzdCcpCiAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZWxzZToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICBvdXQgPSBkZW5zZShvdXQsIEZMQUdTLmh3X25fZmVhdHVyZXMgKiBGTEFHUy5od190YXJnZXRfZnJhbWVzLCAwLjAsIDAuMCwgd2l0aF9iaWFzPVRydWUsIHNjb3BlX25hbWU9J2RlbnNlX2xhc3QnKQoKICBvdXQgPSB0Zi5yZXNoYXBlKG91dCwgWy0xLCBGTEFHUy5od190YXJnZXRfZnJhbWVzLCBGTEFHUy5od19uX2ZlYXR1cmVzXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgRkxBR1MuaHdfdGFyZ2V0X2ZyYW1lcyA9PSAxOgo=</text>
+        <text encoding="base64">ICBvdXQgPSBkZW5zZShvdXQsIEZMQUdTLmh3X25fZmVhdHVyZXMsIDAuMCwgMC4wLCB3aXRoX2JpYXM9VHJ1ZSwgc2NvcGVfbmFtZT0nZGVuc2VfbGFzdCcpCiAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBUYWtlIG9ubHkgdGhlIG1pZGRsZSBmcmFtZSBmcm9tIHRoZSBjbGVhbiBvbmUK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="8" type="8">
-        <text>uawei
-uawei
-uawei
-uawei</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyBSYW5kb20gVW5pZm9ybWx5IGFjcm9zcyBmaWxlcwo=</text>
+        <text encoding="base64">ICBsZW5ndGggPSBsZW5ndGgyICsgMQo=</text>
       </register>
       <register name=":" type="4">
         <text>365</text>
