@@ -33,7 +33,7 @@
         <mark key="^" line="40" column="50" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1488895540873">
+      <file name="/a.dummy" timestamp="1488905572444">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -120,12 +120,12 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488895720438">
-        <mark key="'" line="75" column="86" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="35" />
-        <mark key="^" line="16" column="35" />
-        <mark key="." line="16" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488905872605">
+        <mark key="'" line="142" column="27" />
+        <mark key="[" line="198" column="25" />
+        <mark key="]" line="199" column="0" />
+        <mark key="^" line="199" column="0" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1487778917857">
         <mark key="[" line="7" column="30" />
@@ -133,7 +133,7 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" timestamp="1488561308836">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" timestamp="1488904876339">
         <mark key="'" line="231" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/simple.py" timestamp="1488886534586">
@@ -249,7 +249,7 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1488895724336">
+      <file name="/Python Console" timestamp="1488905456027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
@@ -412,10 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
-      <jump line="289" column="4" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
-      <jump line="526" column="53" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
-      <jump line="583" column="34" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="603" column="34" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="14" column="43" filename="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" />
       <jump line="543" column="55" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
@@ -512,23 +508,26 @@
       <jump line="28" column="11" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" />
       <jump line="74" column="86" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" />
       <jump line="75" column="86" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" />
+      <jump line="170" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" />
+      <jump line="196" column="29" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" />
+      <jump line="132" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" />
+      <jump line="142" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_no_nin</text>
+        <text>FLAGS.hw_n_features</text>
       </register>
       <register name="-" type="4">
-        <text>_no_nin</text>
+        <text>FLAGS.hw_n_features</text>
       </register>
       <register name="/" type="4">
-        <text>hw_str</text>
+        <text>kernel</text>
       </register>
-      <register name="0" type="4">
-        <text>, FLAGS.hw_eval_strides</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBvdXQgPSBjb252MmQob3V0LCBbMSwgMV0sIFsxLDEsMSwxXSwgRkxBR1Mubl9mbWFwcywgRkxBR1Mud19zdGQsIEZMQUdTLmJfaW5pdCwgRmFsc2UsICdTQU1FJywgJ2NvbnYxXzEnKQogIG91dCA9IGJhdGNoX25vcm0oaXNfdHJhaW4sIG91dCwgJ2NvbnYxXzEnKQogIG91dCA9IHRmLm5uLnJlbHUob3V0KQogIAogIG91dCA9IHRmLm5uLm1heF9wb29sKG91dCwga3NpemU9WzEsIDIsIDEsIDFdLCBzdHJpZGVzPVsxLCAyLCAxLCAxXSwgcGFkZGluZz0nU0FNRScpCiAgCiAgb3V0ID0gY29udjJkKG91dCwgW0ZMQUdTLmtlcm5lbF9zaXplLCBGTEFHUy5od19uX2ZlYXR1cmVzXSwgWzEsMSwxLDFdLCBGTEFHUy5uX2ZtYXBzLCBGTEFHUy53X3N0ZCwgRkxBR1MuYl9pbml0LCBGYWxzZSwgJ1NBTUUnLCAnY29udjInKQogIG91dCA9IGJhdGNoX25vcm0oaXNfdHJhaW4sIG91dCwgJ2NvbnYyJykKICBvdXQgPSB0Zi5ubi5yZWx1KG91dCkKICAKICBvdXQgPSBjb252MmQob3V0LCBbMSwgMV0sIFsxLDEsMSwxXSwgRkxBR1Mubl9mbWFwcywgRkxBR1Mud19zdGQsIEZMQUdTLmJfaW5pdCwgRmFsc2UsICdTQU1FJywgJ2NvbnYyXzEnKQogIG91dCA9IGJhdGNoX25vcm0oaXNfdHJhaW4sIG91dCwgJ2NvbnYyXzEnKQogIG91dCA9IHRmLm5uLnJlbHUob3V0KQogIAogIG91dCA9IHRmLm5uLm1heF9wb29sKG91dCwga3NpemU9WzEsIDIsIDEsIDFdLCBzdHJpZGVzPVsxLCAyLCAxLCAxXSwgcGFkZGluZz0nU0FNRScpCiAgCiAgb3V0ID0gZmxhdHRlbihvdXQpCiAgCiAgb3V0ID0gZGVuc2Uob3V0LCBGTEFHUy5uX2RlbnNlX3VuaXRzLCBGTEFHUy53X3N0ZCwgRkxBR1MuYl9pbml0LCB3aXRoX2JpYXM9RmFsc2UsIHNjb3BlX25hbWU9J2RlbnNlMScpCiAgb3V0ID0gYmF0Y2hfbm9ybShpc190cmFpbiwgb3V0LCAnZGVuc2UxJykKICBvdXQgPSB0Zi5ubi5yZWx1KG91dCkKICAKICBnbG9iYWxfZW5kcG9pbnRzWydib3R0bGVuZWNrJ10gPSBfZmluYWxfMmRfZGVuc2Uob3V0KQoKICByZXR1cm4gZ2xvYmFsX2VuZHBvaW50cwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>']
-']</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -549,39 +548,40 @@
           <key char="101" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>']
+']</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2xlYW5fcGFkZGVkID0gcGFkXzFEX2Zvcl93aW5kb3dpbmcodmFsX2RpY3RbJ2NsZWFuX2ZlYXR1cmVzJ10sIHRhcmdldF9sZW4pCiAgICAgIGNsZWFuX3dpbmRvd3MgPSB0Zi5leHRyYWN0X2ltYWdlX3BhdGNoZXModGYuZXhwYW5kX2RpbXModGYuZXhwYW5kX2RpbXMoY2xlYW5fcGFkZGVkLCBheGlzPTApLCBheGlzPTMpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtzaXplcz1bMSwgdGFyZ2V0X2xlbiwgc2VsZi5uX2ZlYXR1cmVzLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJpZGVzPVsxLCBGTEFHUy5od19ldmFsX3N0cmlkZXMsIHNlbGYubl9mZWF0dXJlcywgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmF0ZXM9WzEsIDEsIDEsIDFdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc9J1ZBTElEJykKICAgICAgY2xlYW5fd2luZG93cyA9IHRmLnJlc2hhcGUoY2xlYW5fd2luZG93cywgWy0xLCB0YXJnZXRfbGVuLCBzZWxmLm5fZmVhdHVyZXNdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbm9pc3lfcGFkZGVkID0gcGFkXzFEX2Zvcl93aW5kb3dpbmcodmFsX2RpY3RbJ25vaXN5X2ZlYXR1cmVzJ10sIHNvdXJjZV9sZW4pCiAgICAgIG5vaXN5X3dpbmRvd3MgPSB0Zi5leHRyYWN0X2ltYWdlX3BhdGNoZXModGYuZXhwYW5kX2RpbXModGYuZXhwYW5kX2RpbXMobm9pc3lfcGFkZGVkLCBheGlzPTApLCBheGlzPTMpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtzaXplcz1bMSwgc291cmNlX2xlbiwgc2VsZi5uX2ZlYXR1cmVzLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJpZGVzPVsxLCBGTEFHUy5od19ldmFsX3N0cmlkZXMsIHNlbGYubl9mZWF0dXJlcywgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmF0ZXM9WzEsIDEsIDEsIDFdLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nPSdWQUxJRCcpCiAgICAgIG5vaXN5X3dpbmRvd3MgPSB0Zi5yZXNoYXBlKG5vaXN5X3dpbmRvd3MsIFstMSwgc291cmNlX2xlbiwgc2VsZi5uX2ZlYXR1cmVzXSkKICAgICAgdmFsX2RpY3RbJ25vaXN5X2ZlYXR1cmVzJ10gPSBub2lzeV93aW5kb3dzCg==</text>
+        <text encoding="base64">ICAgICAgY2xlYW5fcGFkZGVkID0gcGFkXzFEX2Zvcl93aW5kb3dpbmcodmFsX2RpY3RbJ2NsZWFuX2ZlYXR1cmVzJ10sIHRhcmdldF9sZW4pCiAgICAgIGNsZWFuX3dpbmRvd3MgPSB0Zi5leHRyYWN0X2ltYWdlX3BhdGNoZXModGYuZXhwYW5kX2RpbXModGYuZXhwYW5kX2RpbXMoY2xlYW5fcGFkZGVkLCBheGlzPTApLCBheGlzPTMpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtzaXplcz1bMSwgdGFyZ2V0X2xlbiwgc2VsZi5uX2ZlYXR1cmVzLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJpZGVzPVsxLCBGTEFHUy5od19ldmFsX3N0cmlkZXMsIHNlbGYubl9mZWF0dXJlcywgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmF0ZXM9WzEsIDEsIDEsIDFdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc9J1ZBTElEJykKICAgICAgY2xlYW5fd2luZG93cyA9IHRmLnJlc2hhcGUoY2xlYW5fd2luZG93cywgWy0xLCB0YXJnZXRfbGVuLCBzZWxmLm5fZmVhdHVyZXNdKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbm9pc3lfcGFkZGVkID0gcGFkXzFEX2Zvcl93aW5kb3dpbmcodmFsX2RpY3RbJ25vaXN5X2ZlYXR1cmVzJ10sIHNvdXJjZV9sZW4pCiAgICAgIG5vaXN5X3dpbmRvd3MgPSB0Zi5leHRyYWN0X2ltYWdlX3BhdGNoZXModGYuZXhwYW5kX2RpbXModGYuZXhwYW5kX2RpbXMobm9pc3lfcGFkZGVkLCBheGlzPTApLCBheGlzPTMpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtzaXplcz1bMSwgc291cmNlX2xlbiwgc2VsZi5uX2ZlYXR1cmVzLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJpZGVzPVsxLCBGTEFHUy5od19ldmFsX3N0cmlkZXMsIHNlbGYubl9mZWF0dXJlcywgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmF0ZXM9WzEsIDEsIDEsIDFdLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nPSdWQUxJRCcpCiAgICAgIG5vaXN5X3dpbmRvd3MgPSB0Zi5yZXNoYXBlKG5vaXN5X3dpbmRvd3MsIFstMSwgc291cmNlX2xlbiwgc2VsZi5uX2ZlYXR1cmVzXSkKICAgICAgdmFsX2RpY3RbJ25vaXN5X2ZlYXR1cmVzJ10gPSBub2lzeV93aW5kb3dzCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBhc3NlcnQgbl9mZWF0dXJlcwo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>noisy_
 noisy_</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBwYXNzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzaXggaW1wb3J0IGl0ZXJpdGVtcwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>365</text>
       </register>
     </registers>
     <search>
-      <last-search>hw_str</last-search>
+      <last-search>kernel</last-search>
       <last-offset />
-      <last-pattern>hw_str</last-pattern>
+      <last-pattern>kernel</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -589,8 +589,6 @@ noisy_</text>
     </search>
     <history>
       <history-search>
-        <entry>Session(</entry>
-        <entry>prepar</entry>
         <entry>eval_o</entry>
         <entry encoding="base64">XDxldmFsX29uY2VcPg==</entry>
         <entry>input</entry>
@@ -609,6 +607,8 @@ noisy_</text>
         <entry>eval_</entry>
         <entry>eval_s</entry>
         <entry>hw_str</entry>
+        <entry encoding="base64">XDxrZXJuZWxfc2l6ZVw+</entry>
+        <entry>kernel</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
