@@ -120,12 +120,12 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488905872605">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488906739265">
         <mark key="'" line="142" column="27" />
-        <mark key="[" line="198" column="25" />
-        <mark key="]" line="199" column="0" />
-        <mark key="^" line="199" column="0" />
-        <mark key="." line="199" column="0" />
+        <mark key="[" line="189" column="41" />
+        <mark key="]" line="189" column="42" />
+        <mark key="^" line="187" column="1" />
+        <mark key="." line="189" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1487778917857">
         <mark key="[" line="7" column="30" />
@@ -514,8 +514,8 @@
       <jump line="142" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>FLAGS.hw_n_features</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBvdXQgPSBjb252MmQob3V0LCBbMSwgMV0sIFsxLCAxLCAxLCAxXSwgRkxBR1Mubl9mbWFwcywgRkxBR1Mud19zdGQsIEZMQUdTLmJfaW5pdCwgRmFsc2UsICdTQU1FJywgJ2NvbnYyXzEnKQogIG91dCA9IGJhdGNoX25vcm0oaXNfdHJhaW4sIG91dCwgJ2NvbnYyXzEnKQogIG91dCA9IHRmLm5uLnJlbHUob3V0KQo=</text>
       </register>
       <register name="-" type="4">
         <text>FLAGS.hw_n_features</text>
@@ -524,7 +524,7 @@
         <text>kernel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvdXQgPSBjb252MmQob3V0LCBbMSwgMV0sIFsxLDEsMSwxXSwgRkxBR1Mubl9mbWFwcywgRkxBR1Mud19zdGQsIEZMQUdTLmJfaW5pdCwgRmFsc2UsICdTQU1FJywgJ2NvbnYxXzEnKQogIG91dCA9IGJhdGNoX25vcm0oaXNfdHJhaW4sIG91dCwgJ2NvbnYxXzEnKQogIG91dCA9IHRmLm5uLnJlbHUob3V0KQogIAogIG91dCA9IHRmLm5uLm1heF9wb29sKG91dCwga3NpemU9WzEsIDIsIDEsIDFdLCBzdHJpZGVzPVsxLCAyLCAxLCAxXSwgcGFkZGluZz0nU0FNRScpCiAgCiAgb3V0ID0gY29udjJkKG91dCwgW0ZMQUdTLmtlcm5lbF9zaXplLCBGTEFHUy5od19uX2ZlYXR1cmVzXSwgWzEsMSwxLDFdLCBGTEFHUy5uX2ZtYXBzLCBGTEFHUy53X3N0ZCwgRkxBR1MuYl9pbml0LCBGYWxzZSwgJ1NBTUUnLCAnY29udjInKQogIG91dCA9IGJhdGNoX25vcm0oaXNfdHJhaW4sIG91dCwgJ2NvbnYyJykKICBvdXQgPSB0Zi5ubi5yZWx1KG91dCkKICAKICBvdXQgPSBjb252MmQob3V0LCBbMSwgMV0sIFsxLDEsMSwxXSwgRkxBR1Mubl9mbWFwcywgRkxBR1Mud19zdGQsIEZMQUdTLmJfaW5pdCwgRmFsc2UsICdTQU1FJywgJ2NvbnYyXzEnKQogIG91dCA9IGJhdGNoX25vcm0oaXNfdHJhaW4sIG91dCwgJ2NvbnYyXzEnKQogIG91dCA9IHRmLm5uLnJlbHUob3V0KQogIAogIG91dCA9IHRmLm5uLm1heF9wb29sKG91dCwga3NpemU9WzEsIDIsIDEsIDFdLCBzdHJpZGVzPVsxLCAyLCAxLCAxXSwgcGFkZGluZz0nU0FNRScpCiAgCiAgb3V0ID0gZmxhdHRlbihvdXQpCiAgCiAgb3V0ID0gZGVuc2Uob3V0LCBGTEFHUy5uX2RlbnNlX3VuaXRzLCBGTEFHUy53X3N0ZCwgRkxBR1MuYl9pbml0LCB3aXRoX2JpYXM9RmFsc2UsIHNjb3BlX25hbWU9J2RlbnNlMScpCiAgb3V0ID0gYmF0Y2hfbm9ybShpc190cmFpbiwgb3V0LCAnZGVuc2UxJykKICBvdXQgPSB0Zi5ubi5yZWx1KG91dCkKICAKICBnbG9iYWxfZW5kcG9pbnRzWydib3R0bGVuZWNrJ10gPSBfZmluYWxfMmRfZGVuc2Uob3V0KQoKICByZXR1cm4gZ2xvYmFsX2VuZHBvaW50cwo=</text>
+        <text encoding="base64">ICBvdXQgPSBjb252MmQob3V0LCBbMSwgMV0sIFsxLCAxLCAxLCAxXSwgRkxBR1Mubl9mbWFwcywgRkxBR1Mud19zdGQsIEZMQUdTLmJfaW5pdCwgRmFsc2UsICdTQU1FJywgJ2NvbnYyXzEnKQogIG91dCA9IGJhdGNoX25vcm0oaXNfdHJhaW4sIG91dCwgJ2NvbnYyXzEnKQogIG91dCA9IHRmLm5uLnJlbHUob3V0KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwYXNzCg==</text>
