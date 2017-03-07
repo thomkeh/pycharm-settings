@@ -33,7 +33,7 @@
         <mark key="^" line="40" column="50" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1488894772621">
+      <file name="/a.dummy" timestamp="1488895540873">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -102,10 +102,10 @@
         <mark key="^" line="176" column="19" />
         <mark key="." line="190" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/main.py" timestamp="1488885741900">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/main.py" timestamp="1488895633143">
+        <mark key="[" line="93" column="82" />
+        <mark key="]" line="93" column="82" />
+        <mark key="." line="93" column="82" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/yt/svm.py" timestamp="1472569883202">
         <mark key="[" line="8" column="5" />
@@ -120,7 +120,7 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488894759779">
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488895720438">
         <mark key="'" line="75" column="86" />
         <mark key="[" line="16" column="34" />
         <mark key="]" line="16" column="35" />
@@ -249,7 +249,7 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1488890946564">
+      <file name="/Python Console" timestamp="1488895724336">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
@@ -515,10 +515,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ia</text>
+        <text>_no_nin</text>
       </register>
       <register name="-" type="4">
-        <text>ia</text>
+        <text>_no_nin</text>
       </register>
       <register name="/" type="4">
         <text>hw_str</text>
