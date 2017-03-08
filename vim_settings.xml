@@ -14,8 +14,8 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" timestamp="1488562869109">
-        <mark key="'" line="316" column="147" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" timestamp="1488990707227">
+        <mark key="'" line="142" column="25" />
         <mark key="[" line="407" column="0" />
         <mark key="]" line="407" column="0" />
         <mark key="^" line="405" column="9" />
@@ -412,7 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="603" column="34" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="14" column="43" filename="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" />
       <jump line="543" column="55" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="548" column="77" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
@@ -512,6 +511,7 @@
       <jump line="196" column="29" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" />
       <jump line="132" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" />
       <jump line="142" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" />
+      <jump line="142" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -521,7 +521,7 @@
         <text>FLAGS.hw_n_features</text>
       </register>
       <register name="/" type="4">
-        <text>kernel</text>
+        <text>checkpoint</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvdXQgPSBjb252MmQob3V0LCBbMSwgMV0sIFsxLCAxLCAxLCAxXSwgRkxBR1Mubl9mbWFwcywgRkxBR1Mud19zdGQsIEZMQUdTLmJfaW5pdCwgRmFsc2UsICdTQU1FJywgJ2NvbnYyXzEnKQogIG91dCA9IGJhdGNoX25vcm0oaXNfdHJhaW4sIG91dCwgJ2NvbnYyXzEnKQogIG91dCA9IHRmLm5uLnJlbHUob3V0KQo=</text>
@@ -579,9 +579,9 @@ noisy_</text>
       </register>
     </registers>
     <search>
-      <last-search>kernel</last-search>
+      <last-search>checkpoint</last-search>
       <last-offset />
-      <last-pattern>kernel</last-pattern>
+      <last-pattern>checkpoint</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -589,7 +589,6 @@ noisy_</text>
     </search>
     <history>
       <history-search>
-        <entry>eval_o</entry>
         <entry encoding="base64">XDxldmFsX29uY2VcPg==</entry>
         <entry>input</entry>
         <entry>sess</entry>
@@ -609,6 +608,7 @@ noisy_</text>
         <entry>hw_str</entry>
         <entry encoding="base64">XDxrZXJuZWxfc2l6ZVw+</entry>
         <entry>kernel</entry>
+        <entry>checkpoint</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
