@@ -16,10 +16,9 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" timestamp="1488990707227">
         <mark key="'" line="142" column="25" />
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="407" column="0" />
-        <mark key="^" line="405" column="9" />
-        <mark key="." line="407" column="0" />
+        <mark key="[" line="406" column="0" />
+        <mark key="]" line="406" column="0" />
+        <mark key="." line="406" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/core/common.py" timestamp="1487942844841">
         <mark key="[" line="220" column="0" />
@@ -102,11 +101,6 @@
         <mark key="^" line="176" column="19" />
         <mark key="." line="190" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/main.py" timestamp="1488895633143">
-        <mark key="[" line="93" column="82" />
-        <mark key="]" line="93" column="82" />
-        <mark key="." line="93" column="82" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/yt/svm.py" timestamp="1472569883202">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="6" />
@@ -122,10 +116,6 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" timestamp="1488911839066">
         <mark key="'" line="142" column="27" />
-        <mark key="[" line="189" column="41" />
-        <mark key="]" line="189" column="42" />
-        <mark key="^" line="187" column="1" />
-        <mark key="." line="189" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1487778917857">
         <mark key="[" line="7" column="30" />
@@ -137,7 +127,7 @@
         <mark key="'" line="231" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/simple.py" timestamp="1488886534586">
-        <mark key="'" line="140" column="6" />
+        <mark key="'" line="144" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/parse_dataset.py" timestamp="1468503495315">
         <mark key="[" line="110" column="0" />
