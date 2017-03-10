@@ -14,17 +14,11 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" timestamp="1488990707227">
-        <mark key="'" line="142" column="25" />
-        <mark key="[" line="406" column="0" />
-        <mark key="]" line="406" column="0" />
-        <mark key="." line="406" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/core/common.py" timestamp="1487942844841">
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="." line="221" column="0" />
-        <mark key="^" line="221" column="0" />
+        <mark key="[" line="280" column="0" />
+        <mark key="]" line="281" column="0" />
+        <mark key="." line="281" column="0" />
+        <mark key="^" line="281" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_svhn.py" timestamp="1486138188539">
         <mark key="[" line="3" column="5" />
@@ -94,12 +88,6 @@
         <mark key="[" line="11" column="5" />
         <mark key="]" line="11" column="5" />
         <mark key="." line="11" column="5" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" timestamp="1488563382628">
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="37" />
-        <mark key="^" line="176" column="19" />
-        <mark key="." line="190" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/yt/svm.py" timestamp="1472569883202">
         <mark key="[" line="8" column="5" />
