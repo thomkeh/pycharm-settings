@@ -10,7 +10,7 @@
         <entry key="affine" value="2.0.0" />
         <entry key="alabaster" value="0.7.10" />
         <entry key="alpaca_static" value="1.5.22" />
-        <entry key="anaconda" value="4.3.0" />
+        <entry key="anaconda" value="4.3.1" />
         <entry key="anaconda-build" value="1.15.0" />
         <entry key="anaconda-clean" value="1.1.0" />
         <entry key="anaconda-client" value="1.6.2" />
@@ -1101,6 +1101,7 @@
               <option value="4.1.0" />
               <option value="4.2.0" />
               <option value="4.3.0" />
+              <option value="4.3.1" />
             </list>
           </value>
         </entry>
@@ -10841,6 +10842,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1489159562615" />
+    <option name="LAST_TIME_CHECKED" value="1489404730420" />
   </component>
 </application>
