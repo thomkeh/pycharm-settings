@@ -43,11 +43,11 @@
         <mark key="^" line="93" column="62" />
         <mark key="." line="93" column="62" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/.gitignore" timestamp="1489405535600">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="6" />
-        <mark key="^" line="10" column="6" />
-        <mark key="." line="10" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/.gitignore" timestamp="1489405616050">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="6" />
+        <mark key="^" line="14" column="6" />
+        <mark key="." line="14" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/asfdg.py" timestamp="1466589535615">
         <mark key="[" line="0" column="0" />
@@ -505,10 +505,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>numpy</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>numpy</text>
       </register>
       <register name="/" type="4">
         <text>checkpoint</text>
