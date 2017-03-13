@@ -308,11 +308,10 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/code.py" timestamp="1489411874229">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="/code.py" timestamp="1489412965235">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
         <mark key="'" line="6" column="0" />
@@ -510,11 +509,11 @@
       <jump line="142" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>numpy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGx0Lgo=</text>
       </register>
       <register name="-" type="4">
-        <text>numpy</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>checkpoint</text>
@@ -522,10 +521,8 @@
       <register name="0" type="4">
         <text>True when constructing the training graph.</text>
       </register>
-      <register name="1" type="8">
-        <text>:param
-:param
-:param</text>
+      <register name="1" type="2">
+        <text encoding="base64">cGx0Lgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -547,25 +544,27 @@
         </keys>
       </register>
       <register name="2" type="8">
-        <text encoding="base64">OnBhcmFtIAo6cGFyYW0gCjpwYXJhbSAKOnBhcmFtIAo6cGFyYW0gCjpwYXJhbSA=</text>
+        <text>:param
+:param
+:param</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICByPSIiIgoKICA6cmV0dXJuOiAKICAiIiIK</text>
+      <register name="3" type="8">
+        <text encoding="base64">OnBhcmFtIAo6cGFyYW0gCjpwYXJhbSAKOnBhcmFtIAo6cGFyYW0gCjpwYXJhbSA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiIiIKICByPSIiIgoKICA6cmV0dXJuOiAKICAiIiIK</text>
+        <text encoding="base64">ICByPSIiIgoKICA6cmV0dXJuOiAKICAiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiIiIKICByPSIiIgoKICA6cmV0dXJuOiAKICAiIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlbnNvcjogCiAgICBrZXJuZWxfc2hhcGU6IAogICAgc3RyaWRlczogCiAgICBvdXRfY2hhbm5lbHM6IAogICAgd19zdGQ6IAogICAgYl9pbml0OiAKICAgIHdpdGhfYmlhczogCiAgICBwYWRkaW5nOiAKICAgIHNjb3BlX25hbWU6IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlbnNvcjogSW5wdXQgZm9yIHRoZSBjb252b2x1dGlvbmFsIGxheWVyLiBTaGFwZSBzaG91bGQgYmUgW2JhdGNoLCBoZWlnaHQsIHdpZHRoLCBjaGFubmVsc10uCiAgICBrZXJuZWxfc2hhcGU6IFNpemUgb2YgdGhlIGtlcm5lbC4gU2hhcGUgc2hvdWxkIGJlIFtoZWlnaHQsIHdpZHRoXS4KICAgIHN0cmlkZXM6IFN0cmlkZXMgZm9yIHRoZSBjb252b2x1dGlvbi4gU2hhcGUgc2hvdWxkIGJlIFtiYXRjaF9zdHJpZGUsIGhlaWdodF9zdHJpZGUsIHdlaWdodF9zdHJpZGUsCiAgY2hhbm5lbF9zdHJpZGVdLgogICAgb3V0X2NoYW5uZWxzOiBOdW1iZXIgb2YgZmVhdHVyZSBtYXBzIHRvIGV4dHJhY3QuCiAgICB3X3N0ZDogU3RhbmRhcmQgZGV2aWF0aW9uIGZvciB0aGUgaW5pdGlhbCB2YWx1ZXMgb2YgdGhlIHdlaWdodHMuCiAgICBiX2luaXQ6IEluaXRpYWwgdmFsdWUgZm9yIHRoZSBiaWFzZXMuCiAgICB3aXRoX2JpYXM6IFdoZXRoZXIgb3Igbm90IHRvIHVzZSBhIGJpYXMuCiAgICBwYWRkaW5nOiAnVkFMSUQnIGZvciBubyBwYWRkaW5nLCAnU0FNRScgZm9yIHBhZGRpbmcuCiAgICBzY29wZV9uYW1lOiBOYW1lIHRvIGRpc2FtYmlndWF0ZSB0aGUgdmFyaWFibGVzLgo=</text>
+        <text encoding="base64">ICAgIHRlbnNvcjogCiAgICBrZXJuZWxfc2hhcGU6IAogICAgc3RyaWRlczogCiAgICBvdXRfY2hhbm5lbHM6IAogICAgd19zdGQ6IAogICAgYl9pbml0OiAKICAgIHdpdGhfYmlhczogCiAgICBwYWRkaW5nOiAKICAgIHNjb3BlX25hbWU6IAo=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">OnBhcmFtIAo6cGFyYW0gCjpwYXJhbSAKOnBhcmFtIAo6cGFyYW0gCjpwYXJhbSA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRlbnNvcjogSW5wdXQgZm9yIHRoZSBjb252b2x1dGlvbmFsIGxheWVyLiBTaGFwZSBzaG91bGQgYmUgW2JhdGNoLCBoZWlnaHQsIHdpZHRoLCBjaGFubmVsc10uCiAgICBrZXJuZWxfc2hhcGU6IFNpemUgb2YgdGhlIGtlcm5lbC4gU2hhcGUgc2hvdWxkIGJlIFtoZWlnaHQsIHdpZHRoXS4KICAgIHN0cmlkZXM6IFN0cmlkZXMgZm9yIHRoZSBjb252b2x1dGlvbi4gU2hhcGUgc2hvdWxkIGJlIFtiYXRjaF9zdHJpZGUsIGhlaWdodF9zdHJpZGUsIHdlaWdodF9zdHJpZGUsCiAgY2hhbm5lbF9zdHJpZGVdLgogICAgb3V0X2NoYW5uZWxzOiBOdW1iZXIgb2YgZmVhdHVyZSBtYXBzIHRvIGV4dHJhY3QuCiAgICB3X3N0ZDogU3RhbmRhcmQgZGV2aWF0aW9uIGZvciB0aGUgaW5pdGlhbCB2YWx1ZXMgb2YgdGhlIHdlaWdodHMuCiAgICBiX2luaXQ6IEluaXRpYWwgdmFsdWUgZm9yIHRoZSBiaWFzZXMuCiAgICB3aXRoX2JpYXM6IFdoZXRoZXIgb3Igbm90IHRvIHVzZSBhIGJpYXMuCiAgICBwYWRkaW5nOiAnVkFMSUQnIGZvciBubyBwYWRkaW5nLCAnU0FNRScgZm9yIHBhZGRpbmcuCiAgICBzY29wZV9uYW1lOiBOYW1lIHRvIGRpc2FtYmlndWF0ZSB0aGUgdmFyaWFibGVzLgo=</text>
       </register>
       <register name="9" type="8">
         <text encoding="base64">OnBhcmFtIAo6cGFyYW0gCjpwYXJhbSAKOnBhcmFtIAo6cGFyYW0gCjpwYXJhbSA=</text>
@@ -660,7 +659,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -677,6 +676,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
