@@ -239,6 +239,9 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="/Python Console" timestamp="1490201785423">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1474285796078">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -284,11 +287,11 @@
         <mark key="." line="54" column="87" />
         <mark key="^" line="54" column="87" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/blocks.py" timestamp="1490201245193">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="2" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/blocks.py" timestamp="1490201768419">
+        <mark key="[" line="131" column="14" />
+        <mark key="]" line="131" column="14" />
         <mark key="^" line="2" column="42" />
-        <mark key="." line="2" column="42" />
+        <mark key="." line="131" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/convert.py" timestamp="1468927146908">
         <mark key="[" line="7" column="81" />
@@ -514,11 +517,11 @@
       <jump line="142" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByIiIiQmF0Y2ggbm9ybWFsaXphdGlvbi4KICBBcyBkZXNjcmliZWQgaW4gaHR0cDovL2FyeGl2Lm9yZy9hYnMvMTUwMi4wMzE2Ny4KICBOb3JtYWxpemVzIGEgdGVuc29yIGJ5IGBtZWFuYCBhbmQgYHZhcmlhbmNlYCwgYW5kIGFwcGxpZXMgKG9wdGlvbmFsbHkpIGEKICBgc2NhbGVgIFxcKFxnYW1tYVxcKSB0byBpdCwgYXMgd2VsbCBhcyBhbiBgb2Zmc2V0YCBcXChcYmV0YVxcKToKICBcXChcZnJhY3tcZ2FtbWEoeC1cbXUpfXtcc2lnbWF9K1xiZXRhXFwpCiAgYG1lYW5gLCBgdmFyaWFuY2VgLCBgb2Zmc2V0YCBhbmQgYHNjYWxlYCBhcmUgYWxsIGV4cGVjdGVkIHRvIGJlIG9mIG9uZSBvZiB0d28KICBzaGFwZXM6CiAgICAqIEluIGFsbCBnZW5lcmFsaXR5LCB0aGV5IGNhbiBoYXZlIHRoZSBzYW1lIG51bWJlciBvZiBkaW1lbnNpb25zIGFzIHRoZQogICAgICBpbnB1dCBgeGAsIHdpdGggaWRlbnRpY2FsIHNpemVzIGFzIGB4YCBmb3IgdGhlIGRpbWVuc2lvbnMgdGhhdCBhcmUgbm90CiAgICAgIG5vcm1hbGl6ZWQgb3ZlciAodGhlICdkZXB0aCcgZGltZW5zaW9uKHMpKSwgYW5kIGRpbWVuc2lvbiAxIGZvciB0aGUKICAgICAgb3RoZXJzIHdoaWNoIGFyZSBiZWluZyBub3JtYWxpemVkIG92ZXIuCiAgICAgIGBtZWFuYCBhbmQgYHZhcmlhbmNlYCBpbiB0aGlzIGNhc2Ugd291bGQgdHlwaWNhbGx5IGJlIHRoZSBvdXRwdXRzIG9mCiAgICAgIGB0Zi5ubi5tb21lbnRzKC4uLiwga2VlcF9kaW1zPVRydWUpYCBkdXJpbmcgdHJhaW5pbmcsIG9yIHJ1bm5pbmcgYXZlcmFnZXMKICAgICAgdGhlcmVvZiBkdXJpbmcgaW5mZXJlbmNlLgogICAgKiBJbiB0aGUgY29tbW9uIGNhc2Ugd2hlcmUgdGhlICdkZXB0aCcgZGltZW5zaW9uIGlzIHRoZSBsYXN0IGRpbWVuc2lvbiBpbgogICAgICB0aGUgaW5wdXQgdGVuc29yIGB4YCwgdGhleSBtYXkgYmUgb25lIGRpbWVuc2lvbmFsIHRlbnNvcnMgb2YgdGhlIHNhbWUKICAgICAgc2l6ZSBhcyB0aGUgJ2RlcHRoJyBkaW1lbnNpb24uCiAgICAgIFRoaXMgaXMgdGhlIGNhc2UgZm9yIGV4YW1wbGUgZm9yIHRoZSBjb21tb24gYFtiYXRjaCwgZGVwdGhdYCBsYXlvdXQgb2YKICAgICAgZnVsbHktY29ubmVjdGVkIGxheWVycywgYW5kIGBbYmF0Y2gsIGhlaWdodCwgd2lkdGgsIGRlcHRoXWAgZm9yCiAgICAgIGNvbnZvbHV0aW9ucy4KICAgICAgYG1lYW5gIGFuZCBgdmFyaWFuY2VgIGluIHRoaXMgY2FzZSB3b3VsZCB0eXBpY2FsbHkgYmUgdGhlIG91dHB1dHMgb2YKICAgICAgYHRmLm5uLm1vbWVudHMoLi4uLCBrZWVwX2RpbXM9RmFsc2UpYCBkdXJpbmcgdHJhaW5pbmcsIG9yIHJ1bm5pbmcgYXZlcmFnZXMKICAgICAgdGhlcmVvZiBkdXJpbmcgaW5mZXJlbmNlLgogIEFyZ3M6CiAgICB4OiBJbnB1dCBgVGVuc29yYCBvZiBhcmJpdHJhcnkgZGltZW5zaW9uYWxpdHkuCiAgICBtZWFuOiBBIG1lYW4gYFRlbnNvcmAuCiAgICB2YXJpYW5jZTogQSB2YXJpYW5jZSBgVGVuc29yYC4KICAgIG9mZnNldDogQW4gb2Zmc2V0IGBUZW5zb3JgLCBvZnRlbiBkZW5vdGVkIFxcKFxiZXRhXFwpIGluIGVxdWF0aW9ucywgb3IKICAgICAgTm9uZS4gSWYgcHJlc2VudCwgd2lsbCBiZSBhZGRlZCB0byB0aGUgbm9ybWFsaXplZCB0ZW5zb3IuCiAgICBzY2FsZTogQSBzY2FsZSBgVGVuc29yYCwgb2Z0ZW4gZGVub3RlZCBcXChcZ2FtbWFcXCkgaW4gZXF1YXRpb25zLCBvcgogICAgICBgTm9uZWAuIElmIHByZXNlbnQsIHRoZSBzY2FsZSBpcyBhcHBsaWVkIHRvIHRoZSBub3JtYWxpemVkIHRlbnNvci4KICAgIHZhcmlhbmNlX2Vwc2lsb246IEEgc21hbGwgZmxvYXQgbnVtYmVyIHRvIGF2b2lkIGRpdmlkaW5nIGJ5IDAuCiAgICBuYW1lOiBBIG5hbWUgZm9yIHRoaXMgb3BlcmF0aW9uIChvcHRpb25hbCkuCiAgUmV0dXJuczoKICAgIHRoZSBub3JtYWxpemVkLCBzY2FsZWQsIG9mZnNldCB0ZW5zb3IuCiAgIiIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>tf.nn.</text>
       </register>
       <register name="-" type="4">
-        <text>, 1</text>
+        <text>tf.nn.</text>
       </register>
       <register name="/" type="4">
         <text>checkpoint</text>
