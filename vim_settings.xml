@@ -239,9 +239,6 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1490192813337">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1474285796078">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -262,6 +259,12 @@
         <mark key="]" line="5" column="63" />
         <mark key="." line="5" column="63" />
         <mark key="^" line="5" column="63" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/models.py" timestamp="1490199857951">
+        <mark key="[" line="176" column="85" />
+        <mark key="]" line="176" column="85" />
+        <mark key="^" line="176" column="85" />
+        <mark key="." line="176" column="85" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/svm.py" timestamp="1486137914583">
         <mark key="[" line="10" column="5" />
@@ -509,11 +512,11 @@
       <jump line="142" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGx0Lgo=</text>
+      <register name="&quot;" type="4">
+        <text>, 1</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>, 1</text>
       </register>
       <register name="/" type="4">
         <text>checkpoint</text>
