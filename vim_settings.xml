@@ -287,11 +287,11 @@
         <mark key="." line="54" column="87" />
         <mark key="^" line="54" column="87" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/blocks.py" timestamp="1490201768419">
-        <mark key="[" line="131" column="14" />
-        <mark key="]" line="131" column="14" />
-        <mark key="^" line="2" column="42" />
-        <mark key="." line="131" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/blocks.py" timestamp="1490203287930">
+        <mark key="[" line="142" column="7" />
+        <mark key="]" line="142" column="8" />
+        <mark key="^" line="142" column="8" />
+        <mark key="." line="142" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/convert.py" timestamp="1468927146908">
         <mark key="[" line="7" column="81" />
@@ -518,10 +518,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tf.nn.</text>
+        <text>ops</text>
       </register>
       <register name="-" type="4">
-        <text>tf.nn.</text>
+        <text>ops</text>
       </register>
       <register name="/" type="4">
         <text>checkpoint</text>
