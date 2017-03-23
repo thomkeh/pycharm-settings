@@ -261,11 +261,11 @@
         <mark key="." line="5" column="63" />
         <mark key="^" line="5" column="63" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/models.py" timestamp="1490203951909">
-        <mark key="[" line="243" column="26" />
-        <mark key="]" line="243" column="32" />
-        <mark key="^" line="243" column="32" />
-        <mark key="." line="243" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/models.py" timestamp="1490270045413">
+        <mark key="[" line="178" column="7" />
+        <mark key="]" line="178" column="7" />
+        <mark key="^" line="178" column="7" />
+        <mark key="." line="178" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/svm.py" timestamp="1486137914583">
         <mark key="[" line="10" column="5" />
@@ -324,12 +324,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" timestamp="1490204744482">
-        <mark key="'" line="29" column="39" />
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="23" />
-        <mark key="^" line="37" column="23" />
-        <mark key="." line="37" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" timestamp="1490269944214">
+        <mark key="'" line="40" column="17" />
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="17" />
+        <mark key="^" line="40" column="17" />
+        <mark key="." line="40" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
         <mark key="'" line="6" column="0" />
@@ -425,8 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="548" column="77" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
-      <jump line="550" column="65" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="51" column="29" filename="$USER_HOME$/PycharmProjects/queue_test/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/queue_test/main.py" />
       <jump line="34" column="2" filename="$USER_HOME$/PycharmProjects/queue_test/main.py" />
@@ -525,13 +523,15 @@
       <jump line="142" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="143" column="11" filename="$USER_HOME$/PycharmProjects/XYZ/core/blocks.py" />
       <jump line="29" column="39" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
+      <jump line="38" column="25" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
+      <jump line="40" column="17" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0Zi5hcHAuZmxhZ3MuREVGSU5FX3N0cmluZygnbG9zc19mdW5jdGlvbicsICdjb3JlLmxvc3Nlcy5jZV9sb3NzJywgJycpCiAgdGYuYXBwLmZsYWdzLkRFRklORV9zdHJpbmcoJ251bXB5X2NoYW5uZWxzJywgJycsICcnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>norm</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>norm</text>
       </register>
       <register name="/" type="4">
         <text>checkpoint</text>
