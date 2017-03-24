@@ -152,11 +152,11 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1490368851129">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1490380184848">
         <mark key="[" line="25" column="34" />
-        <mark key="]" line="25" column="38" />
-        <mark key="." line="25" column="38" />
-        <mark key="^" line="25" column="38" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/applications/simple.py" timestamp="1487781503291">
         <mark key="[" line="6" column="5" />
@@ -250,7 +250,7 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1490379131610">
+      <file name="/Python Console" timestamp="1490381007818">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
@@ -270,12 +270,12 @@
         <mark key="." line="5" column="63" />
         <mark key="^" line="5" column="63" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/models.py" timestamp="1490372046776">
-        <mark key="'" line="579" column="80" />
-        <mark key="[" line="573" column="0" />
-        <mark key="]" line="573" column="0" />
-        <mark key="^" line="546" column="16" />
-        <mark key="." line="573" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/models.py" timestamp="1490380994896">
+        <mark key="'" line="580" column="80" />
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="237" column="26" />
+        <mark key="^" line="237" column="26" />
+        <mark key="." line="237" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/svm.py" timestamp="1486137914583">
         <mark key="[" line="10" column="5" />
@@ -339,7 +339,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" timestamp="1490379128249">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" timestamp="1490379973700">
         <mark key="'" line="45" column="27" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="91" />
@@ -542,11 +542,11 @@
       <jump line="579" column="80" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBnbG9iYWxfZW5kcG9pbnRzWydpbnB1dHMnXSA9IGlucHV0cwo=</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>random</text>
