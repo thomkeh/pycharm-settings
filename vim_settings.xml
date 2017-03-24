@@ -339,12 +339,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" timestamp="1490379973700">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" timestamp="1490382139510">
         <mark key="'" line="45" column="27" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="91" />
-        <mark key="^" line="57" column="20" />
-        <mark key="." line="63" column="0" />
+        <mark key="[" line="51" column="70" />
+        <mark key="]" line="52" column="67" />
+        <mark key="^" line="52" column="67" />
+        <mark key="." line="52" column="67" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
         <mark key="'" line="6" column="0" />
@@ -542,11 +542,11 @@
       <jump line="579" column="80" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvZ3Byb2JzID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>random</text>
@@ -555,7 +555,7 @@
         <text encoding="base64">ICBsb2NhbDMgPSB0Zi5jb250cmliLmxheWVycy5mdWxseV9jb25uZWN0ZWQocG9vbDIsIDM4NCwgdGYubm4ucmVsdSwgTm9uZSwge30sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRmLnRydW5jYXRlZF9ub3JtYWxfaW5pdGlhbGl6ZXIoc3RkZGV2PTAuMDQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0Zi5jb250cmliLmxheWVycy5sMl9yZWd1bGFyaXplcigwLjAwNCksIHRmLmNvbnN0YW50X2luaXRpYWxpemVyKDAuMSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjb3BlPSdsb2NhbDMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnbG9iYWxfZW5kcG9pbnRzWydpbnB1dHMnXSA9IGlucHV0cwo=</text>
+        <text encoding="base64">ICAgIGxvZ3Byb2JzID0gCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -580,25 +580,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbnB1dHMgPSB0Zi5jb25jYXQoYXhpcz0wLCB2YWx1ZXM9W2VbJ2ZlYXR1cmVzJ10gZm9yIGUgaW4gbW9kdWxlX2VuZHBvaW50c10pCg==</text>
+        <text encoding="base64">ICBnbG9iYWxfZW5kcG9pbnRzWydpbnB1dHMnXSA9IGlucHV0cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBuX2ZlYXR1cmVzID0gaW5wdXRzLmdldF9zaGFwZSgpWzJdLnZhbHVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBuX2ZlYXR1cmVzID0gaW5wdXRzLmdldF9zaGFwZSgpWzJdLnZhbHVlCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICBpbnB1dHMgPSB0Zi5jb25jYXQoYXhpcz0wLCB2YWx1ZXM9W2VbJ2ZlYXR1cmVzJ10gZm9yIGUgaW4gbW9kdWxlX2VuZHBvaW50c10pCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBuX2ZlYXR1cmVzID0gaW5wdXRzLmdldF9zaGFwZSgpWzJdLnZhbHVlCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbF9kaWN0ID0gc3VwZXIoQ2lmYXIxMCwgc2VsZikucG9zdGNhY2hlX3Byb2Nlc3NpbmcoaXNfdHJhaW4sIHZhbF9kaWN0LCB0ZnJfc3RydWN0dXJlKQo=</text>
+        <text encoding="base64">ICBuX2ZlYXR1cmVzID0gaW5wdXRzLmdldF9zaGFwZSgpWzJdLnZhbHVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvdXQgPSBpbnB1dHMK</text>
+        <text encoding="base64">ICBpbnB1dHMgPSB0Zi5jb25jYXQoYXhpcz0wLCB2YWx1ZXM9W2VbJ2ZlYXR1cmVzJ10gZm9yIGUgaW4gbW9kdWxlX2VuZHBvaW50c10pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbF9kaWN0ID0gc3VwZXIoQ2lmYXIxMCwgc2VsZikucG9zdGNhY2hlX3Byb2Nlc3NpbmcoaXNfdHJhaW4sIHZhbF9kaWN0LCB0ZnJfc3RydWN0dXJlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>365</text>
