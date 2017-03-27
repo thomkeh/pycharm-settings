@@ -335,10 +335,11 @@
         <mark key="." line="154" column="125" />
         <mark key="^" line="154" column="125" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490611691212">
+      <file name="/Dummy.txt" timestamp="1490611730966">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1489412965235">
         <mark key="[" line="5" column="0" />
@@ -446,7 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="390" column="35" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="521" column="33" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="522" column="56" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="524" column="44" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
@@ -546,13 +546,14 @@
       <jump line="576" column="84" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
       <jump line="177" column="59" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
       <jump line="579" column="80" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>Add alexnet</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>Add alexnet</text>
       </register>
       <register name="/" type="4">
         <text>random</text>
