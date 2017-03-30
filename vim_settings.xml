@@ -434,6 +434,9 @@
         <mark key="." line="453" column="73" />
         <mark key="^" line="453" column="73" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/train.py" timestamp="1490880594465">
+        <mark key="'" line="56" column="7" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/run.py" timestamp="1486147051467">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="1" column="5" />
@@ -462,7 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="551" column="11" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="552" column="82" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="286" column="1" filename="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" />
@@ -562,6 +564,7 @@
       <jump line="76" column="5" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_common.py" />
       <jump line="185" column="6" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
       <jump line="49" column="22" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
+      <jump line="56" column="7" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -571,7 +574,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>random</text>
+        <text encoding="base64">XDxoYXNhdHRyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgbG9naXRzID0gY29uY2F0ZV9hZ2dyZWdhdG9yc1sne31fe31fbG9naXRzJy5mb3JtYXQoc2VsZi5yYXdfbmFtZSwgc2VsZi5sYWJlbHNbMF0pXQogICAgIyBsYWJlbHMgPSBjb25jYXRlX2FnZ3JlZ2F0b3JzWyd7fV97fV9sYWJlbHMnLmZvcm1hdChzZWxmLnJhd19uYW1lLCBzZWxmLmxhYmVsc1swXSldCiAgICAjIHByZWRzID0gbnAuYXJnbWF4KGxvZ2l0cywgYXhpcz0xKQogICAgIyByZXRbJ2NvcnJlY3QnXSA9IChwcmVkcyA9PSBsYWJlbHMpCg==</text>
@@ -627,9 +630,9 @@
       </register>
     </registers>
     <search>
-      <last-search>random</last-search>
+      <last-search encoding="base64">XDxoYXNhdHRyXD4=</last-search>
       <last-offset />
-      <last-pattern>random</last-pattern>
+      <last-pattern encoding="base64">XDxoYXNhdHRyXD4=</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -637,7 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sess</entry>
         <entry>local</entry>
         <entry>get_input</entry>
         <entry encoding="base64">XDxuX2V4YW1wbGVzXD4=</entry>
@@ -657,6 +659,7 @@
         <entry>checkpoint</entry>
         <entry>truncated</entry>
         <entry>random</entry>
+        <entry encoding="base64">XDxoYXNhdHRyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
