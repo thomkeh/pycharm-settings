@@ -391,12 +391,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" timestamp="1490968879096">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="154" column="29" />
-        <mark key="]" line="154" column="50" />
-        <mark key="^" line="154" column="50" />
-        <mark key="." line="154" column="50" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" timestamp="1490970975423">
+        <mark key="'" line="111" column="51" />
+        <mark key="[" line="112" column="48" />
+        <mark key="]" line="112" column="48" />
+        <mark key="^" line="37" column="14" />
+        <mark key="." line="112" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/train_agender.py" timestamp="1470674680659">
         <mark key="[" line="23" column="51" />
@@ -472,9 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="372" column="50" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
-      <jump line="373" column="38" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
-      <jump line="401" column="20" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="315" column="59" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="316" column="147" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="177" column="18" filename="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" />
@@ -572,22 +569,25 @@
       <jump line="256" column="18" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="26" column="1" filename="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" />
       <jump line="126" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" />
+      <jump line="105" column="95" filename="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" />
+      <jump line="116" column="35" filename="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" />
+      <jump line="111" column="51" filename="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>0.95</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>0.95</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgbG9naXRzID0gY29uY2F0ZV9hZ2dyZWdhdG9yc1sne31fe31fbG9naXRzJy5mb3JtYXQoc2VsZi5yYXdfbmFtZSwgc2VsZi5sYWJlbHNbMF0pXQogICAgIyBsYWJlbHMgPSBjb25jYXRlX2FnZ3JlZ2F0b3JzWyd7fV97fV9sYWJlbHMnLmZvcm1hdChzZWxmLnJhd19uYW1lLCBzZWxmLmxhYmVsc1swXSldCiAgICAjIHByZWRzID0gbnAuYXJnbWF4KGxvZ2l0cywgYXhpcz0xKQogICAgIyByZXRbJ2NvcnJlY3QnXSA9IChwcmVkcyA9PSBsYWJlbHMpCg==</text>
+        <text encoding="base64">ICAgICAgYiA9IHRmLmNvbnN0YW50X2luaXRpYWxpemVyKGxheWVyLmJfaW5pdCkgaWYgbGF5ZXIuYmlhcyBlbHNlIE5vbmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">U2xpY2UgPSBuYW1lZHR1cGxlKCdTbGljZScsIFsnb2Zmc2V0JywgJ2RpbScsICdzY29wZSddKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -609,28 +609,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldFsnY29ycmVsYXRpb24nXSA9IAo=</text>
+        <text encoding="base64">CiAgICBlbGlmIGlzaW5zdGFuY2UobGF5ZXIsIFNsaWNlKToKICAgICAgZGF0YSA9IHRmLnNsaWNlKGZsYXR0ZW4oZGF0YSksIFswLCBsYXllci5vZmZzZXRdLCBbZGF0YS5nZXRfc2hhcGUoKVswXS52YWx1ZSwgbGF5ZXIuZGltXSwgbmFtZT1sYXllci5zY29wZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogY2FsY3VsYXRlIGNvcnJlbGF0aW9uIGJldHdlZW4gYXZlcmFnZSBpbmZvIGFuZCBjb3JyZWN0bmVzcwo=</text>
+        <text encoding="base64">ICAgICAgZGF0YSA9IGRlbnNlKGZsYXR0ZW4oZGF0YSksIGxheWVyLmRpbSwgbGF5ZXIud19zdGQsIGxheWVyLmJfaW5pdCwgbGF5ZXIuYmlhcywgbGF5ZXIuc2NvcGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzY2lweS5zdGF0cyBpbXBvcnQgCg==</text>
+        <text encoding="base64">ICAgICAgZGF0YSA9IGNvbnYyZChkYXRhLCBbbGF5ZXIuaGVpZ2h0LCBsYXllci53aWR0aF0sIFsxLCAxLCAxLCAxXSwgbGF5ZXIuZmVhdHVyZV9tYXBzLAogICAgICAgICAgICAgICAgICAgIGxheWVyLndfc3RkLCBsYXllci5iX2luaXQsIGxheWVyLmJpYXMsIGxheWVyLnBhZGRpbmcsIGxheWVyLnNjb3BlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgYWxzbyBUT0RPOiBmaWd1cmUgb3V0IGhvdyB0byBicmluZyB0aGUgcmVzdWx0IGludG8gdGVuc29yYm9hcmQK</text>
+        <text encoding="base64">ICAgICAgdGYuYWRkX3RvX2NvbGxlY3Rpb24oU1VNTUFSSUVTX0NPTExFQ1RJT04sIChkYXRhLm5hbWUsIGRhdGEpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjb3JlLmV2YWx1YXRpb24gaW1wb3J0IGJhc2ljX3N0YXRzX251bXB5LCBjbGFzc2lmaWNhdGlvbl9hY2N1cmFjeQpmcm9tIGNvcmUubW9kZWxzIGltcG9ydCBjb21tb25fYnJhbmNoCj09PT09PT0KZnJvbSBjb3JlLmNvbW1vbiBpbXBvcnQgQ2hhbm5lbCwgZ2V0X2RlYnVnX3Nlc3Npb24KPj4+Pj4+PiBhZjJiZDc0Li4uIENsZWFuIHVwIGh1YXdlaS5weQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBJbXBvcnQgZnJvbSBvdXIgbGlicmFyaWVzCmZyb20gY29yZS5sb3NzZXMgaW1wb3J0IE1TRV9sb3NzCjw8PDw8PDwgSEVBRAo=</text>
+        <text encoding="base64">ICAgIHJldFsnY29ycmVsYXRpb24nXSA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogY2FsY3VsYXRlIGNvcnJlbGF0aW9uIGJldHdlZW4gYXZlcmFnZSBpbmZvIGFuZCBjb3JyZWN0bmVzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjb3JlLmV2YWx1YXRpb24gaW1wb3J0IGJhc2ljX3N0YXRzX251bXB5LCBjbGFzc2lmaWNhdGlvbl9hY2N1cmFjeQpmcm9tIGNvcmUubW9kZWxzIGltcG9ydCBjb21tb25fYnJhbmNoCj09PT09PT0KZnJvbSBjb3JlLmNvbW1vbiBpbXBvcnQgQ2hhbm5lbCwgZ2V0X2RlYnVnX3Nlc3Npb24KPj4+Pj4+PiBhZjJiZDc0Li4uIENsZWFuIHVwIGh1YXdlaS5weQo=</text>
+        <text encoding="base64">ZnJvbSBzY2lweS5zdGF0cyBpbXBvcnQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>365</text>
