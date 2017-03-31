@@ -391,12 +391,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" timestamp="1490971250816">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" timestamp="1490972922999">
         <mark key="'" line="111" column="51" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="112" column="115" />
-        <mark key="." line="113" column="0" />
+        <mark key="[" line="140" column="42" />
+        <mark key="]" line="92" column="45" />
+        <mark key="^" line="92" column="45" />
+        <mark key="." line="92" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/train_agender.py" timestamp="1470674680659">
         <mark key="[" line="23" column="51" />
@@ -574,11 +574,11 @@
       <jump line="111" column="51" filename="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGF0YSA9IGJhdGNoX25vcm0oaXNfdHJhaW4sIGRhdGEsIGxheWVyLnNjb3BlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>tf.nn.relu</text>
       </register>
       <register name="-" type="4">
-        <text>0.95</text>
+        <text>tf.nn.relu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsc1w+</text>
