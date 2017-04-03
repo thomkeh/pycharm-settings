@@ -397,19 +397,19 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/myconfigs.py" timestamp="1491224767702">
-        <mark key="'" line="55" column="29" />
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="48" column="8" />
-        <mark key="." line="48" column="8" />
-        <mark key="^" line="48" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/myconfigs.py" timestamp="1491226127474">
+        <mark key="'" line="5" column="28" />
+        <mark key="[" line="68" column="2" />
+        <mark key="]" line="70" column="44" />
+        <mark key="." line="70" column="44" />
+        <mark key="^" line="70" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" timestamp="1491224525530">
-        <mark key="'" line="153" column="2" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="4" />
-        <mark key="^" line="180" column="6" />
-        <mark key="." line="188" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" timestamp="1491226411836">
+        <mark key="'" line="151" column="37" />
+        <mark key="[" line="152" column="23" />
+        <mark key="]" line="152" column="48" />
+        <mark key="^" line="152" column="48" />
+        <mark key="." line="152" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/train_agender.py" timestamp="1470674680659">
         <mark key="[" line="23" column="51" />
@@ -491,10 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="18" filename="$USER_HOME$/PycharmProjects/ytaudio/core/read.py" />
-      <jump line="315" column="19" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
-      <jump line="317" column="16" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
-      <jump line="361" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
       <jump line="364" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
       <jump line="372" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
       <jump line="375" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
@@ -591,22 +587,26 @@
       <jump line="111" column="51" filename="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" />
       <jump line="153" column="2" filename="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" />
       <jump line="40" column="29" filename="$USER_HOME$/PycharmProjects/XYZ/myconfigs.py" />
+      <jump line="42" column="18" filename="$USER_HOME$/PycharmProjects/XYZ/myconfigs.py" />
+      <jump line="49" column="12" filename="$USER_HOME$/PycharmProjects/XYZ/myconfigs.py" />
+      <jump line="5" column="28" filename="$USER_HOME$/PycharmProjects/XYZ/myconfigs.py" />
+      <jump line="151" column="37" filename="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>randint</text>
+        <text>config_by_id(FLAGS.config_id, keep_prob_pl)</text>
       </register>
       <register name="-" type="4">
-        <text>randint</text>
+        <text>config_by_id(FLAGS.config_id, keep_prob_pl)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkZWZzIGltcG9ydCBDb252LCBQb29sLCBEZW5zZSwgUmVsdSwgQk4sIERyb3BvdXQK</text>
+        <text encoding="base64">ICAgICBpZiBfcCgwLjUpOgogICAgICAgc2l6ZSA9IF9pKDIsNSkKICAgICAgIHN0cmlkZSA9IF9pKDEsNCkKICAgICAgIGxheWVycy5hcHBlbmQoUG9vbChoZWlnaHQ9c2l6ZSwgd2lkdGg9c2l6ZSwgc3RyaWRlX3g9c3RyaWRlLCBzdHJpZGVfeT1zdHJpZGUsIHN0cmlkZV9jaD0xLCBzY29wZT0ncG9vbDEnKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -627,29 +627,29 @@
           <key char="101" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CgpkZWYgY29uZmlnX2J5X2lkKGNvbmZpZ19pZCwga2VlcF9wcm9iKToK</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNldHRpbmdzLCBsYXllcnMgPSBjb25maWdfYnlfaWQoRkxBR1MuY29uZmlnX2lkLCBrZWVwX3Byb2JfcGwpCg==</text>
+        <text encoding="base64">ICAgICBpZiBfcCgwLjUpOgogICAgICAgc2l6ZSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIGNvbnN0YW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsYXllcnMgPSBjb25maWdfYnlfaWQoY29uZmlnX2lkPWNvbmZpZ19pZCwga2VlcF9wcm9iPWtlZXBfcHJvYikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzZXR0aW5ncywgbGF5ZXJzID0gY29uZmlnX2J5X2lkKEZMQUdTLmNvbmZpZ19pZCwga2VlcF9wcm9iKQo=</text>
+        <text encoding="base64">CgpkZWYgY29uZmlnX2J5X2lkKGNvbmZpZ19pZCwga2VlcF9wcm9iKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXR0aW5ncywgbGF5ZXJzID0gY29uZmlnX2J5X2lkKEZMQUdTLmNvbmZpZ19pZCwga2VlcF9wcm9iKQo=</text>
+        <text encoding="base64">ICAgIHNldHRpbmdzLCBsYXllcnMgPSBjb25maWdfYnlfaWQoRkxBR1MuY29uZmlnX2lkLCBrZWVwX3Byb2JfcGwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzZXR0aW5ncywgbGF5ZXJzID0gY29uZmlnX2J5X2lkKEZMQUdTLmNvbmZpZ19pZCwga2VlcF9wcm9iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>365</text>
