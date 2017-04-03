@@ -404,12 +404,12 @@
         <mark key="." line="70" column="44" />
         <mark key="^" line="70" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" timestamp="1491226411836">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" timestamp="1491235489704">
         <mark key="'" line="151" column="37" />
-        <mark key="[" line="152" column="23" />
-        <mark key="]" line="152" column="48" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
         <mark key="^" line="152" column="48" />
-        <mark key="." line="152" column="48" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/train_agender.py" timestamp="1470674680659">
         <mark key="[" line="23" column="51" />
@@ -593,8 +593,8 @@
       <jump line="151" column="37" filename="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>config_by_id(FLAGS.config_id, keep_prob_pl)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>config_by_id(FLAGS.config_id, keep_prob_pl)</text>
@@ -606,7 +606,7 @@
         <text encoding="base64">ICAgICBpZiBfcCgwLjUpOgogICAgICAgc2l6ZSA9IF9pKDIsNSkKICAgICAgIHN0cmlkZSA9IF9pKDEsNCkKICAgICAgIGxheWVycy5hcHBlbmQoUG9vbChoZWlnaHQ9c2l6ZSwgd2lkdGg9c2l6ZSwgc3RyaWRlX3g9c3RyaWRlLCBzdHJpZGVfeT1zdHJpZGUsIHN0cmlkZV9jaD0xLCBzY29wZT0ncG9vbDEnKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -627,29 +627,29 @@
           <key char="101" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICBpZiBfcCgwLjUpOgogICAgICAgc2l6ZSAK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHBhc3MK</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBpZiBfcCgwLjUpOgogICAgICAgc2l6ZSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgpkZWYgY29uZmlnX2J5X2lkKGNvbmZpZ19pZCwga2VlcF9wcm9iKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldHRpbmdzLCBsYXllcnMgPSBjb25maWdfYnlfaWQoRkxBR1MuY29uZmlnX2lkLCBrZWVwX3Byb2JfcGwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgpkZWYgY29uZmlnX2J5X2lkKGNvbmZpZ19pZCwga2VlcF9wcm9iKToK</text>
       </register>
       <register name=":" type="4">
         <text>365</text>
