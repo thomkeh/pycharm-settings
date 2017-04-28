@@ -196,6 +196,12 @@
         <mark key="." line="95" column="53" />
         <mark key="^" line="95" column="53" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/.gitignore" timestamp="1493385167679">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/train.py" timestamp="1486379654877">
         <mark key="[" line="454" column="9" />
         <mark key="]" line="454" column="20" />
@@ -348,8 +354,8 @@
         <mark key="." line="154" column="125" />
         <mark key="^" line="154" column="125" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493135594229">
-        <mark key="[" line="0" column="53" />
+      <file name="/Dummy.txt" timestamp="1493385176251">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1489412965235">
         <mark key="[" line="5" column="0" />
