@@ -356,8 +356,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" timestamp="1493284634798">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" timestamp="1493382051105">
+        <mark key="'" line="29" column="13" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -558,7 +558,6 @@
       <jump line="142" column="27" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/huawei.py" />
       <jump line="142" column="25" filename="$USER_HOME$/PycharmProjects/ytaudio/core/train.py" />
       <jump line="143" column="11" filename="$USER_HOME$/PycharmProjects/XYZ/core/blocks.py" />
-      <jump line="29" column="39" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
       <jump line="38" column="25" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
       <jump line="40" column="20" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
       <jump line="46" column="27" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
@@ -587,6 +586,7 @@
       <jump line="48" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
       <jump line="54" column="4" filename="$USER_HOME$/PycharmProjects/XYZ/core/losses.py" />
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/core/losses.py" />
+      <jump line="29" column="13" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
