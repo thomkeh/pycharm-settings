@@ -20,11 +20,11 @@
         <mark key="." line="281" column="0" />
         <mark key="^" line="281" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/discriminator.py" timestamp="1493385512112">
-        <mark key="[" line="111" column="30" />
-        <mark key="]" line="111" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/discriminator.py" timestamp="1493390495872">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
         <mark key="^" line="111" column="30" />
-        <mark key="." line="111" column="30" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_svhn.py" timestamp="1486138188539">
         <mark key="[" line="3" column="5" />
@@ -107,11 +107,11 @@
         <mark key="]" line="11" column="5" />
         <mark key="." line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/ops.py" timestamp="1493385637966">
-        <mark key="[" line="173" column="104" />
-        <mark key="]" line="173" column="104" />
-        <mark key="^" line="173" column="104" />
-        <mark key="." line="173" column="104" />
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/ops.py" timestamp="1493390812849">
+        <mark key="[" line="449" column="61" />
+        <mark key="]" line="450" column="15" />
+        <mark key="^" line="450" column="15" />
+        <mark key="." line="450" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/core/evaluation.py" timestamp="1490954954084">
         <mark key="[" line="23" column="68" />
@@ -186,11 +186,11 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/train.py" timestamp="1493385760482">
-        <mark key="'" line="97" column="39" />
-        <mark key="[" line="39" column="84" />
-        <mark key="]" line="39" column="84" />
-        <mark key="." line="39" column="84" />
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/train.py" timestamp="1493390504119">
+        <mark key="'" line="7" column="23" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_avec20132014.py" timestamp="1486138056144">
@@ -335,18 +335,19 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493388332899">
-        <mark key="'" line="214" column="15" />
-        <mark key="[" line="226" column="15" />
-        <mark key="]" line="226" column="15" />
-        <mark key="^" line="13" column="26" />
-        <mark key="." line="226" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493390571488">
+        <mark key="'" line="194" column="46" />
+        <mark key="[" line="196" column="96" />
+        <mark key="]" line="196" column="96" />
+        <mark key="^" line="194" column="46" />
+        <mark key="." line="196" column="96" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/generator.py" timestamp="1493385445984">
-        <mark key="[" line="163" column="14" />
-        <mark key="]" line="163" column="14" />
-        <mark key="." line="163" column="14" />
-        <mark key="^" line="163" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/generator.py" timestamp="1493390518171">
+        <mark key="'" line="164" column="14" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="164" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/read_yt.py" timestamp="1470761489994">
         <mark key="[" line="54" column="87" />
@@ -377,7 +378,7 @@
         <mark key="." line="154" column="125" />
         <mark key="^" line="154" column="125" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493388388651">
+      <file name="/Dummy.txt" timestamp="1493390370453">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1489412965235">
@@ -392,11 +393,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/train_imagenet.py" timestamp="1493385773868">
-        <mark key="[" line="58" column="33" />
-        <mark key="]" line="58" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/train_imagenet.py" timestamp="1493390508698">
+        <mark key="'" line="57" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
         <mark key="^" line="58" column="33" />
-        <mark key="." line="58" column="33" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
         <mark key="'" line="6" column="0" />
@@ -497,11 +499,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/model.py" timestamp="1493385609183">
-        <mark key="[" line="228" column="42" />
-        <mark key="]" line="228" column="42" />
-        <mark key="." line="228" column="42" />
-        <mark key="^" line="228" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/model.py" timestamp="1493390491423">
+        <mark key="'" line="18" column="31" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
+        <mark key="." line="0" column="63" />
+        <mark key="^" line="0" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/optimization.py" timestamp="1487780156368">
         <mark key="[" line="1" column="5" />
@@ -525,18 +528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
-      <jump line="58" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
-      <jump line="62" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
-      <jump line="69" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
-      <jump line="73" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
-      <jump line="80" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
-      <jump line="86" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
-      <jump line="113" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
-      <jump line="120" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
-      <jump line="140" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
-      <jump line="169" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
-      <jump line="172" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
       <jump line="175" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
       <jump line="183" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
       <jump line="186" column="8" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
@@ -625,19 +616,31 @@
       <jump line="186" column="15" filename="$USER_HOME$/PycharmProjects/improved-gan/utils.py" />
       <jump line="196" column="47" filename="$USER_HOME$/PycharmProjects/improved-gan/utils.py" />
       <jump line="214" column="15" filename="$USER_HOME$/PycharmProjects/improved-gan/utils.py" />
+      <jump line="100" column="25" filename="$USER_HOME$/PycharmProjects/improved-gan/model.py" />
+      <jump line="222" column="18" filename="$USER_HOME$/PycharmProjects/improved-gan/model.py" />
+      <jump line="283" column="26" filename="$USER_HOME$/PycharmProjects/improved-gan/model.py" />
+      <jump line="287" column="31" filename="$USER_HOME$/PycharmProjects/improved-gan/model.py" />
+      <jump line="298" column="16" filename="$USER_HOME$/PycharmProjects/improved-gan/model.py" />
+      <jump line="8" column="48" filename="$USER_HOME$/PycharmProjects/improved-gan/model.py" />
+      <jump line="19" column="38" filename="$USER_HOME$/PycharmProjects/improved-gan/model.py" />
+      <jump line="18" column="31" filename="$USER_HOME$/PycharmProjects/improved-gan/model.py" />
+      <jump line="7" column="23" filename="$USER_HOME$/PycharmProjects/improved-gan/train.py" />
+      <jump line="57" column="18" filename="$USER_HOME$/PycharmProjects/improved-gan/train_imagenet.py" />
+      <jump line="194" column="46" filename="$USER_HOME$/PycharmProjects/improved-gan/utils.py" />
+      <jump line="163" column="14" filename="$USER_HOME$/PycharmProjects/improved-gan/generator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>xrange</text>
+        <text>train</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjcm9zc19lbnRyb3B5ID0gdGYubm4uc3BhcnNlX3NvZnRtYXhfY3Jvc3NfZW50cm9weV93aXRoX2xvZ2l0cyhsb2dpdHM9bG9naXRzLCBsYWJlbHM9bGFiZWxzKQogIHJldHVybiB0Zi5yZWR1Y2VfbWVhbihjcm9zc19lbnRyb3B5KQo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbiwgZGl2aXNpb24sIGFic29sdXRlX2ltcG9ydAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -658,25 +661,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICBkZWYgdG9wX2xheWVycyhzZWxmLCBpc190cmFpbiwgZ2xvYmFsX2VuZHBvaW50cywgbW9kdWxlX2VuZHBvaW50cyk6CiAgICBpbnB1dHMgPSBtb2R1bGVfZW5kcG9pbnRzWydib3R0bGVuZWNrJ10KCiAgICAjIFRoZSB0b3AgbGF5ZXJzCiAgICBmb3IgbCwgbiBpbiB6aXAoc2VsZi5sYWJlbHMsIHNlbGYubl9jbGFzc2VzKToKICAgICAgb3V0ID0gY29tbW9uX2JyYW5jaChpc190cmFpbiwgaW5wdXRzLCBuLCAne31fe31fdG9wJy5mb3JtYXQoc2VsZi5yYXdfbmFtZSwgbCkpCiAgICAgIGxvZ2l0X25hbWUgPSAne31fe31fbG9naXRzJy5mb3JtYXQoc2VsZi5yYXdfbmFtZSwgbCkKICAgICAgbW9kdWxlX2VuZHBvaW50c1tsb2dpdF9uYW1lXSA9IG91dA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBkZWYgbW9uaXRvcmluZ19jaGFubmVscyhzZWxmLCBpc190cmFpbiwgZ2xvYmFsX2VuZHBvaW50cywgbW9kdWxlX2VuZHBvaW50cyk6CiAgICBjaGFubmVscyA9IHN1cGVyKENpZmFyMTBfZXhwLCBzZWxmKS5tb25pdG9yaW5nX2NoYW5uZWxzKGlzX3RyYWluLCBnbG9iYWxfZW5kcG9pbnRzLCBtb2R1bGVfZW5kcG9pbnRzKQogICAgcmV0dXJuIGNoYW5uZWxzCgogIGRlZiBudW1weV9jaGFubmVscyhzZWxmLCBjb25jYXRlX2FnZ3JlZ2F0b3JzLCBzdGVwKToKICAgIHJldCA9IHN1cGVyKENpZmFyMTBfZXhwLCBzZWxmKS5udW1weV9jaGFubmVscyhjb25jYXRlX2FnZ3JlZ2F0b3JzLCBzdGVwKQogICAgcmV0dXJuIHJldA==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -686,9 +689,9 @@
       </register>
     </registers>
     <search>
-      <last-search>xrange</last-search>
+      <last-search>train</last-search>
       <last-offset />
-      <last-pattern>xrange</last-pattern>
+      <last-pattern>train</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -696,7 +699,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuX2V4YW1wbGVzXD4=</entry>
         <entry encoding="base64">XDx0ZXN0X21iXD4=</entry>
         <entry>batch</entry>
         <entry>noisy</entry>
@@ -716,6 +718,7 @@
         <entry encoding="base64">XDxoYXNhdHRyXD4=</entry>
         <entry encoding="base64">XDxjaGFubmVsc1w+</entry>
         <entry>xrange</entry>
+        <entry>train</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
