@@ -20,12 +20,12 @@
         <mark key="." line="281" column="0" />
         <mark key="^" line="281" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/discriminator.py" timestamp="1493391931252">
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/discriminator.py" timestamp="1493394844174">
         <mark key="'" line="6" column="31" />
-        <mark key="[" line="9" column="50" />
-        <mark key="]" line="9" column="50" />
-        <mark key="^" line="11" column="14" />
-        <mark key="." line="9" column="50" />
+        <mark key="[" line="7" column="58" />
+        <mark key="]" line="7" column="62" />
+        <mark key="^" line="7" column="62" />
+        <mark key="." line="7" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_svhn.py" timestamp="1486138188539">
         <mark key="[" line="3" column="5" />
@@ -146,11 +146,11 @@
         <mark key="." line="16" column="66" />
         <mark key="^" line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/build_model.py" timestamp="1493391660175">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/build_model.py" timestamp="1493395929136">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="4" />
+        <mark key="^" line="33" column="8" />
+        <mark key="." line="32" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1487778917857">
         <mark key="[" line="7" column="30" />
@@ -300,7 +300,7 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1493133107204">
+      <file name="/Python Console" timestamp="1493395937963">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1474285796078">
@@ -342,19 +342,19 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493390571488">
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493396116543">
         <mark key="'" line="194" column="46" />
-        <mark key="[" line="196" column="96" />
-        <mark key="]" line="196" column="96" />
-        <mark key="^" line="194" column="46" />
-        <mark key="." line="196" column="96" />
+        <mark key="[" line="162" column="37" />
+        <mark key="]" line="162" column="37" />
+        <mark key="^" line="162" column="37" />
+        <mark key="." line="162" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/generator.py" timestamp="1493393912202">
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/generator.py" timestamp="1493395038331">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="45" column="51" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/read_yt.py" timestamp="1470761489994">
         <mark key="[" line="54" column="87" />
@@ -380,7 +380,7 @@
         <mark key="." line="154" column="125" />
         <mark key="^" line="154" column="125" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493393995105">
+      <file name="/Dummy.txt" timestamp="1493395577841">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -396,12 +396,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/train_imagenet.py" timestamp="1493390508698">
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/train_imagenet.py" timestamp="1493396137476">
         <mark key="'" line="57" column="18" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="64" />
-        <mark key="^" line="58" column="33" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="54" column="36" />
+        <mark key="^" line="20" column="38" />
+        <mark key="." line="54" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
         <mark key="'" line="6" column="0" />
@@ -633,20 +633,20 @@
       <jump line="26" column="44" filename="$USER_HOME$/PycharmProjects/improved-gan/build_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRmLmdldF92YXJpYWJsZV9zY29wZSgpLnJldXNlX3ZhcmlhYmxlcygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>, &quot;gpu:1&quot;, &quot;gpu:2&quot;, &quot;gpu:3&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, &quot;gpu:1&quot;, &quot;gpu:2&quot;, &quot;gpu:3&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXVzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWZpbmUobWFrZV92YXJzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKHRmLmdldF92YXJpYWJsZV9zY29wZSgpLCByZXVzZT1ub3QgZmlyc3QpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRmLmdldF92YXJpYWJsZV9zY29wZSgpLnJldXNlX3ZhcmlhYmxlcygpCg==</text>
+        <text encoding="base64">ICAgIHdpdGggdGYudmFyaWFibGVfc2NvcGUodGYuZ2V0X3ZhcmlhYmxlX3Njb3BlKCksIHJldXNlPVRydWUpOgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -664,28 +664,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0Zi5nZXRfdmFyaWFibGVfc2NvcGUoKS5yZXVzZV92YXJpYWJsZXMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbWFrZV96KHNoYXBlLCBtaW52YWwsIG1heHZhbCwgbmFtZSwgZHR5cGUpOgogICAgICAgICAgICBhc3NlcnQgZHR5cGUgaXMgdGYuZmxvYXQzMgogICAgICAgICAgICBpZiBpc19yZWY6CiAgICAgICAgICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKG5hbWUpIGFzIHNjb3BlOgogICAgICAgICAgICAgICAgICAgIHogPSB0Zi5nZXRfdmFyaWFibGUoInoiLCBzaGFwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbml0aWFsaXplcj10Zi5yYW5kb21fdW5pZm9ybV9pbml0aWFsaXplcihtaW52YWwsIG1heHZhbCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJhaW5hYmxlPUZhbHNlKQogICAgICAgICAgICAgICAgICAgIGlmIHouZGV2aWNlICE9ICIvZGV2aWNlOkdQVTowIjoKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoInouZGV2aWNlIGlzICIgKyBzdHIoei5kZXZpY2UpKQogICAgICAgICAgICAgICAgICAgICAgICBhc3NlcnQgRmFsc2UKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHogPSB0Zi5yYW5kb21fdW5pZm9ybShzaGFwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaW52YWw9bWludmFsLCBtYXh2YWw9bWF4dmFsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9bmFtZSwgZHR5cGU9dGYuZmxvYXQzMikKICAgICAgICAgICAgcmV0dXJuIHoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRmLmdldF92YXJpYWJsZV9zY29wZSgpLnJldXNlX3ZhcmlhYmxlcygpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBoYXNhdHRyKGRjZ2FuLCAnZ2VuZXJhdG9yX2J1aWx0Jyk6CiAgICAgICAgICAgIHRmLmdldF92YXJpYWJsZV9zY29wZSgpLnJldXNlX3ZhcmlhYmxlcygpCiAgICAgICAgICAgIG1ha2VfdmFycyA9IEZhbHNlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbWFrZV92YXJzID0gVHJ1ZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgbWFrZV92YXJzID0gVHJ1ZQogICAgICAgICAgc2VsZi5kZWZpbmUobWFrZV92YXJzLCBkY2dhbiwgbWFrZV96LCB6cywgeikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBoYXNhdHRyKGRjZ2FuLCAnZ2VuZXJhdG9yX2J1aWx0Jyk6Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHJldXNlOgogICAgICAgIHRmLmdldF92YXJpYWJsZV9zY29wZSgpLnJldXNlX3ZhcmlhYmxlcygpCgo=</text>
+        <text encoding="base64">ICAgIGlmIHJldXNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRpc2NyaW1pbmF0b3Jfb2xkKHNlbGYsIGltYWdlLCB5LCBwcmVmaXgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
