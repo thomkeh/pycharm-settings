@@ -321,11 +321,11 @@
         <mark key="." line="154" column="125" />
         <mark key="^" line="154" column="125" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494263111057">
+      <file name="/Dummy.txt" timestamp="1494351890466">
         <mark key="'" line="0" column="34" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" timestamp="1493382700310">
         <mark key="'" line="68" column="4" />
@@ -559,11 +559,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kaldi_to_dict(os.path.join(FEATURES_DIR,
-                                                  NOISY_FORMAT.format(split, i)))</text>
+        <text>ix extraction and reconstruction function</text>
       </register>
       <register name="-" type="4">
-        <text>paths</text>
+        <text>ix extraction and reconstruction function</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</text>
