@@ -219,10 +219,11 @@
         <mark key="^" line="189" column="42" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496399618830">
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496400799244">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/queue_test/.gitignore" timestamp="1488552588741">
         <mark key="[" line="0" column="0" />
@@ -576,10 +577,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>...</text>
+        <text encoding="base64">ID0=</text>
       </register>
       <register name="-" type="4">
-        <text>...</text>
+        <text encoding="base64">ID0=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</text>
