@@ -133,11 +133,11 @@
         <mark key="^" line="33" column="8" />
         <mark key="." line="32" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496399079278">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="42" column="43" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496399650066">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1487778917857">
         <mark key="[" line="7" column="30" />
@@ -218,6 +218,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="^" line="189" column="42" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496399618830">
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/queue_test/.gitignore" timestamp="1488552588741">
         <mark key="[" line="0" column="0" />
@@ -333,9 +338,9 @@
         <mark key="." line="154" column="125" />
         <mark key="^" line="154" column="125" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494351890466">
+      <file name="/Dummy.txt" timestamp="1496399358338">
         <mark key="'" line="0" column="34" />
-        <mark key="[" line="0" column="1" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
@@ -570,11 +575,11 @@
       <jump line="0" column="34" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>...</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3NzID0g</text>
+        <text>...</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</text>
