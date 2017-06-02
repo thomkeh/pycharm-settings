@@ -365,11 +365,11 @@
         <mark key="." line="27" column="25" />
         <mark key="^" line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1496419202552">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1496420339697">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="22" column="6" />
+        <mark key="." line="23" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
         <mark key="'" line="6" column="0" />
@@ -577,16 +577,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text encoding="base64">J3RyJywg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text encoding="base64">J3RyJywg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>, signal2noise</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZm9yIHNwbGl0IGluIFsndHInLCAnZHQnLCAnZXQnXToK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZm9yIHNpZ25hbDJub2lzZSBpbiBzbl9yYXRpb3M6Cg==</text>
