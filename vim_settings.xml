@@ -268,7 +268,7 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="75" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1496408369306">
+      <file name="/Python Console" timestamp="1496409068382">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" timestamp="1486137907846">
@@ -365,11 +365,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1496408430221">
-        <mark key="[" line="44" column="35" />
-        <mark key="]" line="44" column="44" />
-        <mark key="^" line="44" column="44" />
-        <mark key="." line="44" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1496409923379">
+        <mark key="'" line="47" column="9" />
+        <mark key="[" line="50" column="19" />
+        <mark key="]" line="50" column="33" />
+        <mark key="^" line="50" column="33" />
+        <mark key="." line="50" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
         <mark key="'" line="6" column="0" />
@@ -474,7 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="10" filename="$USER_HOME$/PycharmProjects/ytaudio/core/models.py" />
       <jump line="49" column="35" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/hwawei.py" />
       <jump line="50" column="54" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/hwawei.py" />
       <jump line="51" column="64" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/hwawei.py" />
@@ -574,22 +574,23 @@
       <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/improved-gan/generator.py" />
       <jump line="291" column="0" filename="$USER_HOME$/PycharmProjects/improved-gan/generator.py" />
       <jump line="0" column="34" filename="/Dummy.txt" />
+      <jump line="46" column="9" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'path'</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>'path'</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>Numpay array with shape [time, frequencies].</text>
+      <register name="0" type="2">
+        <text encoding="base64">cnVucyA9IFsxLCAyLCAzLCA0LCA1LCA2LCA3LCA4LCA5LCAxMF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjaGVjayBpZiBpdCdzIGEgd2F2IGZpbGUK</text>
+        <text encoding="base64">IyAgICAgICBwcmludChwYXJ0cykKICAgICAgCiMgICAgICAgcnVuLmFwcGVuZChwYXJ0c1szXSkKIyAgICAgICBlbnYuYXBwZW5kKCd7fV97fScuZm9ybWF0KHBhcnRzWzRdLCBwYXJ0c1s1XSkpCiMgICAgICAgc25yLmFwcGVuZChwYXJ0c1s2XVs6cGFydHNbNl0uaW5kZXgoJ2RCJyldKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -607,30 +608,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFydHMgPSBrLnNwbGl0KCdfJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2l0aCB0Zi5TZXNzaW9uKCkgYXMgc2VzczoKICBzZXNzLnJ1bih0Zi5nbG9iYWxfdmFyaWFibGVzX2luaXRpYWxpemVyKCkpCiAgc2Vzcy5ydW4odGYubG9jYWxfdmFyaWFibGVzX2luaXRpYWxpemVyKCkpCgogIGZvciBiYXRjaF9pZCBpbiByYW5nZShudW1fYmF0Y2hlcyk6CiAgICBzZXNzLnJ1bihuYW1lc190b191cGRhdGVzLnZhbHVlcygpKQoKICBtZXRyaWNfdmFsdWVzID0gc2Vzcy5ydW4obmFtZXNfdG9fdmFsdWVzLnZhbHVlcygpKQogIGZvciBtZXRyaWMsIHZhbHVlIGluIHppcChuYW1lc190b192YWx1ZXMua2V5cygpLCBtZXRyaWNfdmFsdWVzKToKICAgIHByaW50KCdNZXRyaWMgJXMgaGFzIHZhbHVlOiAlZicgJSAobWV0cmljLCB2YWx1ZSkpCg==</text>
+        <text encoding="base64">ICAgIGNsZWFuX3BoX2RpY3QgPSB7fQogICAgbm9pc3lfcGhfZGljdCA9IHt9Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBjaGVjayBpZiBpdCdzIGEgd2F2IGZpbGUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">d2l0aCB0Zi5TZXNzaW9uKCkgYXMgc2VzczoKICBzZXNzLnJ1bih0Zi5nbG9iYWxfdmFyaWFibGVzX2luaXRpYWxpemVyKCkpCiAgc2Vzcy5ydW4odGYubG9jYWxfdmFyaWFibGVzX2luaXRpYWxpemVyKCkpCgogIGZvciBiYXRjaF9pZCBpbiByYW5nZShudW1fYmF0Y2hlcyk6CiAgICBzZXNzLnJ1bihuYW1lc190b191cGRhdGVzLnZhbHVlcygpKQoKICBtZXRyaWNfdmFsdWVzID0gc2Vzcy5ydW4obmFtZXNfdG9fdmFsdWVzLnZhbHVlcygpKQogIGZvciBtZXRyaWMsIHZhbHVlIGluIHppcChuYW1lc190b192YWx1ZXMua2V5cygpLCBtZXRyaWNfdmFsdWVzKToKICAgIHByaW50KCdNZXRyaWMgJXMgaGFzIHZhbHVlOiAlZicgJSAobWV0cmljLCB2YWx1ZSkpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>kaldi_to_dict(os.path.join(FEATURES_DIR,
                                                   NOISY_FORMAT.format(split, i)))</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>kaldi_to_dict(os.path.join(FEATURES_DIR,
                                                   CLEAN_FORMAT.format(split, i)))</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhdGhzID0gCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Tk9JU1lfRk9STUFUID0gJ3Jhd19tZmNjX3t9MDVfYnRoX25vaXN5X2NoNS57fS5hcmsudHh0Lmd6Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
