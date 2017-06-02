@@ -133,11 +133,11 @@
         <mark key="^" line="33" column="8" />
         <mark key="." line="32" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496397834520">
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="33" column="23" />
-        <mark key="^" line="33" column="23" />
-        <mark key="." line="33" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496399079278">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="42" column="43" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1487778917857">
         <mark key="[" line="7" column="30" />
@@ -570,11 +570,11 @@
       <jump line="0" column="34" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>transfer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>transfer</text>
+        <text encoding="base64">b3NzID0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</text>
@@ -583,7 +583,7 @@
         <text>Numpay array with shape [time, frequencies].</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -600,31 +600,31 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">d2l0aCB0Zi5TZXNzaW9uKCkgYXMgc2VzczoKICBzZXNzLnJ1bih0Zi5nbG9iYWxfdmFyaWFibGVzX2luaXRpYWxpemVyKCkpCiAgc2Vzcy5ydW4odGYubG9jYWxfdmFyaWFibGVzX2luaXRpYWxpemVyKCkpCgogIGZvciBiYXRjaF9pZCBpbiByYW5nZShudW1fYmF0Y2hlcyk6CiAgICBzZXNzLnJ1bihuYW1lc190b191cGRhdGVzLnZhbHVlcygpKQoKICBtZXRyaWNfdmFsdWVzID0gc2Vzcy5ydW4obmFtZXNfdG9fdmFsdWVzLnZhbHVlcygpKQogIGZvciBtZXRyaWMsIHZhbHVlIGluIHppcChuYW1lc190b192YWx1ZXMua2V5cygpLCBtZXRyaWNfdmFsdWVzKToKICAgIHByaW50KCdNZXRyaWMgJXMgaGFzIHZhbHVlOiAlZicgJSAobWV0cmljLCB2YWx1ZSkpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
         <text>kaldi_to_dict(os.path.join(FEATURES_DIR,
                                                   NOISY_FORMAT.format(split, i)))</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>kaldi_to_dict(os.path.join(FEATURES_DIR,
                                                   CLEAN_FORMAT.format(split, i)))</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIHBhdGhzID0gCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Tk9JU1lfRk9STUFUID0gJ3Jhd19tZmNjX3t9MDVfYnRoX25vaXN5X2NoNS57fS5hcmsudHh0Lmd6Jwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoaSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CmRlZiBsaW5lX3RvX3ZlYyhzKToKICByZXR1cm4gbnAuYXJyYXkocy5zcGxpdCgpLCBkdHlwZT0nZmxvYXQzMicpCgpkZWYga2FsZGlfdG9fZGljdChwYXRoKToKICB3aXRoIGd6aXAub3BlbihwYXRoLCAncmInKSBhcyBmOgogICAgbGluZXMgPSBmLnJlYWRsaW5lcygpCiAgZCA9IHt9CiAgY3VycmVjdF9mZWF0dXJlcyA9IFtdCiAgZm9yIGxpbmUgaW4gbGluZXM6CiAgICAjIEEgbmV3IHV0dGVyYW5jZT8KICAgIGlmICdbJyBpbiBsaW5lOgogICAgICBuYW1lID0gbGluZS5yZXBsYWNlKCdbJywgJycpLnN0cmlwKCkKICAgICMgVGhlIGVuZCBvZiBhbiB1dHRlcmFuY2UgPwogICAgZWxpZiAnXScgaW4gbGluZToKICAgICAgY3VycmVjdF9mZWF0dXJlcy5hcHBlbmQobGluZV90b192ZWMobGluZS5yZXBsYWNlKCddJywgJycpKSkKICAgICAgZFtuYW1lXSA9IG5wLmFycmF5KGN1cnJlY3RfZmVhdHVyZXMsIGR0eXBlPSdmbG9hdDMyJykKICAgICAgY3VycmVjdF9mZWF0dXJlcyA9IFtdCiAgICAjIEp1c3QgZmVhdHVyZXMgaW4gdGhlIGxpbmUKICAgIGVsc2U6CiAgICAgIGN1cnJlY3RfZmVhdHVyZXMuYXBwZW5kKGxpbmVfdG9fdmVjKGxpbmUpKQogICAgCiAgcmV0dXJuIGQK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgc25yID0gW10K</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoaSkK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
