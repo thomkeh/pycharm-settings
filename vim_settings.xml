@@ -133,11 +133,11 @@
         <mark key="^" line="33" column="8" />
         <mark key="." line="32" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496396687898">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="28" column="31" />
-        <mark key="^" line="28" column="31" />
-        <mark key="." line="28" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496397834520">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="33" column="23" />
+        <mark key="^" line="33" column="23" />
+        <mark key="." line="33" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/main.py" timestamp="1487778917857">
         <mark key="[" line="7" column="30" />
@@ -570,11 +570,11 @@
       <jump line="0" column="34" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>transfer</text>
       </register>
       <register name="-" type="4">
-        <text>ix extraction and reconstruction function</text>
+        <text>transfer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</text>
