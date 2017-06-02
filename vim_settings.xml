@@ -219,11 +219,11 @@
         <mark key="^" line="189" column="42" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496400799244">
+      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="]" line="4" column="48" />
+        <mark key="^" line="4" column="48" />
+        <mark key="." line="4" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/queue_test/.gitignore" timestamp="1488552588741">
         <mark key="[" line="0" column="0" />
@@ -268,7 +268,7 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="75" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1496414204716">
+      <file name="/Python Console" timestamp="1496422006588">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" timestamp="1486137907846">
@@ -365,11 +365,11 @@
         <mark key="." line="27" column="25" />
         <mark key="^" line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1496420339697">
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="22" column="6" />
-        <mark key="." line="23" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1496422372278">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="16" column="14" />
+        <mark key="." line="12" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
         <mark key="'" line="6" column="0" />
@@ -577,10 +577,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">J3RyJywg</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J3RyJywg</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</text>
