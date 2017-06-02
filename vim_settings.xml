@@ -359,17 +359,17 @@
         <mark key="^" line="50" column="29" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_from_npy.py" timestamp="1494263267832">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_from_npy.py" timestamp="1496416910879">
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1496415646781">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="8" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="102" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1496417674420">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
         <mark key="'" line="6" column="0" />
@@ -576,17 +576,17 @@
       <jump line="46" column="9" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWVzID0gW10KICAgICAgICAgIGNsZWFuX3NwZWN0cm9ncmFtID0gW10KICAgICAgICAgIG5vaXN5X3NwZWN0cm9ncmFtID0gW10KICAgICAgICAgIGNsZWFuX3BoYXNlID0gW10KICAgICAgICAgIG5vaXN5X3BoYXNlID0gW10KICAgICAgICAgIG1lYW5fbm9pc3kgPSBbXQogICAgICAgICAgc3RkX25vaXN5ID0gW10KICAgICAgICAgIG1lYW5fY2xlYW4gPSBbXQogICAgICAgICAgc3RkX2NsZWFuID0gW10KCiAgICAgICAgICBjb3VudCA9IDAKCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>_{}_{}</text>
+        <text>, signal2noise</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIG5hbWVzID0gW10KICAgICAgICAgIGNsZWFuX3NwZWN0cm9ncmFtID0gW10KICAgICAgICAgIG5vaXN5X3NwZWN0cm9ncmFtID0gW10KICAgICAgICAgIGNsZWFuX3BoYXNlID0gW10KICAgICAgICAgIG5vaXN5X3BoYXNlID0gW10KICAgICAgICAgIG1lYW5fbm9pc3kgPSBbXQogICAgICAgICAgc3RkX25vaXN5ID0gW10KICAgICAgICAgIG1lYW5fY2xlYW4gPSBbXQogICAgICAgICAgc3RkX2NsZWFuID0gW10KCiAgICAgICAgICBjb3VudCA9IDAKCg==</text>
