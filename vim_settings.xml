@@ -268,7 +268,7 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="75" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1493396659254">
+      <file name="/Python Console" timestamp="1496408369306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/read.py" timestamp="1486137907846">
@@ -365,11 +365,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1496406652540">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="15" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1496408430221">
+        <mark key="[" line="44" column="35" />
+        <mark key="]" line="44" column="44" />
+        <mark key="^" line="44" column="44" />
+        <mark key="." line="44" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
         <mark key="'" line="6" column="0" />
@@ -577,10 +577,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+        <text>'path'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+        <text>'path'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</text>
