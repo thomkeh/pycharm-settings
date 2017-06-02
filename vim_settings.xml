@@ -365,11 +365,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1494351857902">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="20" column="16" />
-        <mark key="." line="20" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1496406652540">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="15" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
         <mark key="'" line="6" column="0" />
@@ -428,7 +428,7 @@
         <mark key="^" line="176" column="0" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_common.py" timestamp="1494263008823">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_common.py" timestamp="1496405953716">
         <mark key="'" line="157" column="5" />
         <mark key="[" line="122" column="20" />
         <mark key="]" line="122" column="20" />
@@ -577,10 +577,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</text>
@@ -589,7 +589,7 @@
         <text>Numpay array with shape [time, frequencies].</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjaGVjayBpZiBpdCdzIGEgd2F2IGZpbGUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -607,30 +607,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2l0aCB0Zi5TZXNzaW9uKCkgYXMgc2VzczoKICBzZXNzLnJ1bih0Zi5nbG9iYWxfdmFyaWFibGVzX2luaXRpYWxpemVyKCkpCiAgc2Vzcy5ydW4odGYubG9jYWxfdmFyaWFibGVzX2luaXRpYWxpemVyKCkpCgogIGZvciBiYXRjaF9pZCBpbiByYW5nZShudW1fYmF0Y2hlcyk6CiAgICBzZXNzLnJ1bihuYW1lc190b191cGRhdGVzLnZhbHVlcygpKQoKICBtZXRyaWNfdmFsdWVzID0gc2Vzcy5ydW4obmFtZXNfdG9fdmFsdWVzLnZhbHVlcygpKQogIGZvciBtZXRyaWMsIHZhbHVlIGluIHppcChuYW1lc190b192YWx1ZXMua2V5cygpLCBtZXRyaWNfdmFsdWVzKToKICAgIHByaW50KCdNZXRyaWMgJXMgaGFzIHZhbHVlOiAlZicgJSAobWV0cmljLCB2YWx1ZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">d2l0aCB0Zi5TZXNzaW9uKCkgYXMgc2VzczoKICBzZXNzLnJ1bih0Zi5nbG9iYWxfdmFyaWFibGVzX2luaXRpYWxpemVyKCkpCiAgc2Vzcy5ydW4odGYubG9jYWxfdmFyaWFibGVzX2luaXRpYWxpemVyKCkpCgogIGZvciBiYXRjaF9pZCBpbiByYW5nZShudW1fYmF0Y2hlcyk6CiAgICBzZXNzLnJ1bihuYW1lc190b191cGRhdGVzLnZhbHVlcygpKQoKICBtZXRyaWNfdmFsdWVzID0gc2Vzcy5ydW4obmFtZXNfdG9fdmFsdWVzLnZhbHVlcygpKQogIGZvciBtZXRyaWMsIHZhbHVlIGluIHppcChuYW1lc190b192YWx1ZXMua2V5cygpLCBtZXRyaWNfdmFsdWVzKToKICAgIHByaW50KCdNZXRyaWMgJXMgaGFzIHZhbHVlOiAlZicgJSAobWV0cmljLCB2YWx1ZSkpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>kaldi_to_dict(os.path.join(FEATURES_DIR,
-                                                  NOISY_FORMAT.format(split, i)))</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="4">
         <text>kaldi_to_dict(os.path.join(FEATURES_DIR,
+                                                  NOISY_FORMAT.format(split, i)))</text>
+      </register>
+      <register name="6" type="4">
+        <text>kaldi_to_dict(os.path.join(FEATURES_DIR,
                                                   CLEAN_FORMAT.format(split, i)))</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIHBhdGhzID0gCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Tk9JU1lfRk9STUFUID0gJ3Jhd19tZmNjX3t9MDVfYnRoX25vaXN5X2NoNS57fS5hcmsudHh0Lmd6Jwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoaSkK</text>
+        <text encoding="base64">Tk9JU1lfRk9STUFUID0gJ3Jhd19tZmNjX3t9MDVfYnRoX25vaXN5X2NoNS57fS5hcmsudHh0Lmd6Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
