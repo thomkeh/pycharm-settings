@@ -9,12 +9,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/dummy.py" timestamp="1496766263004">
-        <mark key="'" line="20" column="27" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="50" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/dummy.py" timestamp="1496767348173">
+        <mark key="'" line="21" column="34" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="15" column="85" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/core/common.py" timestamp="1487942844841">
         <mark key="[" line="280" column="0" />
@@ -152,12 +152,12 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/base.py" timestamp="1496765068568">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/base.py" timestamp="1496766496049">
         <mark key="'" line="26" column="30" />
-        <mark key="[" line="51" column="19" />
-        <mark key="]" line="54" column="56" />
-        <mark key="." line="54" column="56" />
-        <mark key="^" line="54" column="56" />
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="35" column="9" />
+        <mark key="." line="35" column="9" />
+        <mark key="^" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/parse_dataset.py" timestamp="1468503495315">
         <mark key="[" line="110" column="0" />
@@ -251,12 +251,12 @@
         <mark key="^" line="211" column="3" />
         <mark key="." line="211" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/common.py" timestamp="1496764496980">
-        <mark key="'" line="141" column="6" />
-        <mark key="[" line="239" column="26" />
-        <mark key="]" line="240" column="7" />
-        <mark key="^" line="240" column="7" />
-        <mark key="." line="240" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/common.py" timestamp="1496766827455">
+        <mark key="'" line="202" column="16" />
+        <mark key="[" line="235" column="6" />
+        <mark key="]" line="235" column="9" />
+        <mark key="^" line="235" column="9" />
+        <mark key="." line="235" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/cifar.py" timestamp="1486143792360">
         <mark key="[" line="1" column="22" />
@@ -493,17 +493,15 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/read.py" timestamp="1496765227955">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/read.py" timestamp="1496766543273">
         <mark key="'" line="60" column="14" />
-        <mark key="[" line="148" column="21" />
-        <mark key="]" line="148" column="31" />
-        <mark key="." line="148" column="31" />
-        <mark key="^" line="148" column="31" />
+        <mark key="[" line="135" column="55" />
+        <mark key="]" line="135" column="58" />
+        <mark key="." line="135" column="58" />
+        <mark key="^" line="135" column="58" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="59" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
-      <jump line="579" column="80" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
       <jump line="76" column="5" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_common.py" />
       <jump line="185" column="6" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
       <jump line="49" column="22" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
@@ -602,22 +600,24 @@
       <jump line="385" column="47" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="386" column="38" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="390" column="56" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
+      <jump line="202" column="16" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
+      <jump line="21" column="34" filename="$USER_HOME$/PycharmProjects/XYZ/apps/dummy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgcmV0dXJuIHNlbGYuYXBwLmNvbXB1dGVfbG9zcyhnbG9iYWxfZW5kcG9pbnRzLCBtb2R1bGVfZW5kcG9pbnRzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>with the goal of simply evaluating one example.</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>load_app</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZpbGVzLCBsZW5ndGhzID0gY2wudHJhaW5fZmlsZXMoKSBpZiBpc190cmFpbiBlbHNlIGNsLmV2YWxfZmlsZXMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdGhlIHRlbXAgZmlsZXMgYXJlIG5vdCBuZWVkZWQgYW55bW9yZSBhbmQgY2FuIGJlIGNsb3NlZCAoaS5lLiBkZWxldGVkKQogICAgaWYgaXNfdHJhaW46CiAgICAgIHNlbGYudHJhaW5fZmlsZXNfZmlsZS5jbG9zZSgpCiAgICBlbHNlOgogICAgICBzZWxmLmV2YWxfZmlsZXNfZmlsZS5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIHNlbGYuYXBwLmNvbXB1dGVfbG9zcyhnbG9iYWxfZW5kcG9pbnRzLCBtb2R1bGVfZW5kcG9pbnRzKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -635,37 +635,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCB0ZW1wZmlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgY3JlYXRlIHRlbXBvcmFyeSBmaWxlIGxpc3RzCiAgICBzZWxmLnRyYWluX2ZpbGVzX2ZpbGUgPSB0ZW1wZmlsZS5OYW1lZFRlbXBvcmFyeUZpbGUoKQogICAgc2VsZi5ldmFsX2ZpbGVzX2ZpbGUgPSB0ZW1wZmlsZS5OYW1lZFRlbXBvcmFyeUZpbGUoKQogICAgc2VsZi5ldmFsX2ZpbGVzX2ZpbGUud3JpdGUoY29udmVydGVkX2ZpbGUuZW5jb2RlKCJ1dGY4IikpCiAgICBzZWxmLmV2YWxfZmlsZXNfZmlsZS5mbHVzaCgpCg==</text>
+        <text encoding="base64">ICBmaWxlbmFtZSA9IEZMQUdTLmR1bW15X2ZpbGVuYW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBzdXBlcihEdW1teSwgc2VsZikuX19pbml0X18oYXBwLm5hbWUsIGFwcC5kYXRhc2V0X2RpciwgYXBwLnRyYWluX2ZpbGVzLCBhcHAuZXZhbF9maWxlcykK</text>
+        <text encoding="base64">ICAgICMgdGhlIHRlbXAgZmlsZXMgYXJlIG5vdCBuZWVkZWQgYW55bW9yZSBhbmQgY2FuIGJlIGNsb3NlZCAoaS5lLiBkZWxldGVkKQogICAgaWYgaXNfdHJhaW46CiAgICAgIHNlbGYudHJhaW5fZmlsZXNfZmlsZS5jbG9zZSgpCiAgICBlbHNlOgogICAgICBzZWxmLmV2YWxfZmlsZXNfZmlsZS5jbG9zZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhcHBzLmNsYXNzaWZpY2F0aW9uIGltcG9ydCBDbGFzc2lmaWNhdGlvbgo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCB0ZW1wZmlsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhcHBzLmJhc2UgaW1wb3J0IEJhc2VBcHAK</text>
+        <text encoding="base64">ICAgICMgY3JlYXRlIHRlbXBvcmFyeSBmaWxlIGxpc3RzCiAgICBzZWxmLnRyYWluX2ZpbGVzX2ZpbGUgPSB0ZW1wZmlsZS5OYW1lZFRlbXBvcmFyeUZpbGUoKQogICAgc2VsZi5ldmFsX2ZpbGVzX2ZpbGUgPSB0ZW1wZmlsZS5OYW1lZFRlbXBvcmFyeUZpbGUoKQogICAgc2VsZi5ldmFsX2ZpbGVzX2ZpbGUud3JpdGUoY29udmVydGVkX2ZpbGUuZW5jb2RlKCJ1dGY4IikpCiAgICBzZWxmLmV2YWxfZmlsZXNfZmlsZS5mbHVzaCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBBcHBzIHRoYXQgZXh0ZW5kIHRoaXMgY2xhc3Mgc2hvdWxkIGFsd2F5czoK</text>
+        <text encoding="base64">CiAgICBzdXBlcihEdW1teSwgc2VsZikuX19pbml0X18oYXBwLm5hbWUsIGFwcC5kYXRhc2V0X2RpciwgYXBwLnRyYWluX2ZpbGVzLCBhcHAuZXZhbF9maWxlcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIFNldCBzZWxmLmRhdGFzZXRfZGlyLCBzZWxmLnRmcl9zdHJ1Y3R1cmVfZmlsZSwgc2VsZi50cmFpbl9maWxlcywgc2VsZi5ldmFsX2ZpbGVzCiAgLSBDYWxsIHN1cGVyKEJhc2VBcHAsIHNlbGYpLl9faW5pdF9fKHBhcmFtMSwgcGFyYW0yLCAuLi4gLCAqKmt3YXJncykK</text>
+        <text encoding="base64">ZnJvbSBhcHBzLmNsYXNzaWZpY2F0aW9uIGltcG9ydCBDbGFzc2lmaWNhdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhcHBzLmJhc2UgaW1wb3J0IEJhc2VBcHAK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>load_app</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>load_app</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -673,7 +673,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxudW1weV9jaGFubmVsc1w+</entry>
         <entry encoding="base64">XDxod19zdHJpZGVcPg==</entry>
         <entry>eval_</entry>
         <entry>eval_s</entry>
@@ -693,6 +692,7 @@
         <entry>Channel</entry>
         <entry>cl</entry>
         <entry>name</entry>
+        <entry>load_app</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
