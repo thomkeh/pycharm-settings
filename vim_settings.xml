@@ -9,6 +9,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/dummy.py" timestamp="1496758492067">
+        <mark key="[" line="22" column="67" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="31" />
+        <mark key="^" line="23" column="31" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/core/common.py" timestamp="1487942844841">
         <mark key="[" line="280" column="0" />
         <mark key="]" line="281" column="0" />
@@ -339,7 +345,7 @@
         <mark key="." line="154" column="125" />
         <mark key="^" line="154" column="125" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496754354274">
+      <file name="/Dummy.txt" timestamp="1496757585175">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -576,20 +582,20 @@
       <jump line="46" column="9" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNlbGYuYXBwID0gYXBwCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[FLAGS.dummy_filename]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZm9yIHNwbGl0IGluIFsndHInLCAnZHQnLCAnZXQnXToK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBpc2luc3RhbmNlKHNlbGYuYXBwLCBCYXNlQXBwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZm9yIHNwbGl0IGluIFsnZHQnLCAnZXQnXToK</text>
+        <text encoding="base64">ICAgIHNlbGYuYXBwID0gYXBwCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -607,28 +613,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZm9yIHNpZ25hbDJub2lzZSBpbiBzbl9yYXRpb3M6Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2l0cyA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJzcGxpdD17fSIuZm9ybWF0KHNwbGl0KSkK</text>
+        <text encoding="base64">ZnJvbSBjb3JlLmNvbW1vbiBpbXBvcnQgQ2hhbm5lbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBydW4gaW4gcnVuczoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmb3Igc3BsaXQgaW4gWyd0cicsICdkdCcsICdldCddOgo=</text>
+        <text encoding="base64">ICBkZWYgbnVtcHlfY2hhbm5lbHMoc2VsZiwgY29uY2F0ZV9hZ2dyZWdhdG9ycywgc3RlcCk6CiAgICByZXR1cm4gc2VsZi5hcHAubnVtcHlfY2hhbm5lbHMoY29uY2F0ZV9hZ2dyZWdhdG9ycywgc3RlcCkKICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWVzID0gW10KICAgICAgICAgIGNsZWFuX3NwZWN0cm9ncmFtID0gW10KICAgICAgICAgIG5vaXN5X3NwZWN0cm9ncmFtID0gW10KICAgICAgICAgIGNsZWFuX3BoYXNlID0gW10KICAgICAgICAgIG5vaXN5X3BoYXNlID0gW10KICAgICAgICAgIG1lYW5fbm9pc3kgPSBbXQogICAgICAgICAgc3RkX25vaXN5ID0gW10KICAgICAgICAgIG1lYW5fY2xlYW4gPSBbXQogICAgICAgICAgc3RkX2NsZWFuID0gW10KCiAgICAgICAgICBjb3VudCA9IDAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZm9yIG5vaXNlX3R5cGUgaW4gbm9pc2VfdHlwZXM6Cg==</text>
+        <text encoding="base64">ICAgIGEgPSBzZWxmLmFwcAogICAgYXNzZXJ0IGlzaW5zdGFuY2UoYSwgQmFzZUFwcCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xlYW5fc3BlY3Ryb2dyYW0uYXBwZW5kKGNsZWFuX3NwX2RpY3Rba10pCiAgICAgICAgICAgIG5vaXN5X3NwZWN0cm9ncmFtLmFwcGVuZChub2lzeV9zcF9kaWN0W2tdKQogICAgICAgICAgICBjbGVhbl9waGFzZS5hcHBlbmQoY2xlYW5fcGhfZGljdFtrXSkKICAgICAgICAgICAgbm9pc3lfcGhhc2UuYXBwZW5kKG5vaXN5X3BoX2RpY3Rba10pCg==</text>
+        <text encoding="base64">ICAgIGEgPSBzZWxmLmFwcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZXMuYXBwZW5kKGspCg==</text>
+        <text encoding="base64">ICAgIHNlbGYuYXBwLgo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
