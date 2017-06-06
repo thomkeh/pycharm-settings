@@ -9,11 +9,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/dummy.py" timestamp="1496758492067">
-        <mark key="[" line="22" column="67" />
-        <mark key="]" line="23" column="31" />
-        <mark key="." line="23" column="31" />
-        <mark key="^" line="23" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/dummy.py" timestamp="1496759247853">
+        <mark key="'" line="54" column="10" />
+        <mark key="[" line="55" column="26" />
+        <mark key="]" line="55" column="82" />
+        <mark key="." line="55" column="82" />
+        <mark key="^" line="55" column="82" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/core/common.py" timestamp="1487942844841">
         <mark key="[" line="280" column="0" />
@@ -243,8 +244,8 @@
         <mark key="^" line="211" column="3" />
         <mark key="." line="211" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/common.py" timestamp="1490721321021">
-        <mark key="'" line="185" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/common.py" timestamp="1496758802651">
+        <mark key="'" line="37" column="48" />
         <mark key="[" line="37" column="44" />
         <mark key="]" line="37" column="48" />
         <mark key="^" line="37" column="48" />
@@ -345,7 +346,7 @@
         <mark key="." line="154" column="125" />
         <mark key="^" line="154" column="125" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496757585175">
+      <file name="/Dummy.txt" timestamp="1496758743132">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -480,8 +481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="35" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/hwawei.py" />
-      <jump line="50" column="54" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/hwawei.py" />
       <jump line="51" column="64" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/hwawei.py" />
       <jump line="55" column="54" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/hwawei.py" />
       <jump line="56" column="66" filename="$USER_HOME$/PycharmProjects/ytaudio/applications/hwawei.py" />
@@ -580,16 +579,18 @@
       <jump line="291" column="0" filename="$USER_HOME$/PycharmProjects/improved-gan/generator.py" />
       <jump line="0" column="34" filename="/Dummy.txt" />
       <jump line="46" column="9" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" />
+      <jump line="37" column="48" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
+      <jump line="54" column="10" filename="$USER_HOME$/PycharmProjects/XYZ/apps/dummy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlbGYuYXBwID0gYXBwCg==</text>
+      <register name="&quot;" type="4">
+        <text>file_ext =</text>
       </register>
       <register name="-" type="4">
-        <text>[FLAGS.dummy_filename]</text>
+        <text>file_ext =</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</text>
+        <text>has</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydCBpc2luc3RhbmNlKHNlbGYuYXBwLCBCYXNlQXBwKQo=</text>
@@ -641,9 +642,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</last-search>
+      <last-search>has</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</last-pattern>
+      <last-pattern>has</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -651,7 +652,6 @@
     </search>
     <history>
       <history-search>
-        <entry>noisy</entry>
         <entry encoding="base64">XDxzeW5jaHJvbml6ZWRfMURfY3JvcFw+</entry>
         <entry encoding="base64">XDxodWF3ZWlfc3RyaWRlXD4=</entry>
         <entry>window</entry>
@@ -671,6 +671,7 @@
         <entry>train</entry>
         <entry encoding="base64">XDxyZXVzZVw+</entry>
         <entry encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</entry>
+        <entry>has</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
