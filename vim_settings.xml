@@ -60,6 +60,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/old/alc.py" timestamp="1496827891081">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+        <mark key="^" line="7" column="28" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/asfdg.py" timestamp="1466589535615">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -152,12 +158,12 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/base.py" timestamp="1496769154571">
-        <mark key="'" line="26" column="30" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="42" column="59" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="29" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/base.py" timestamp="1496828693372">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/parse_dataset.py" timestamp="1468503495315">
         <mark key="[" line="110" column="0" />
@@ -251,18 +257,24 @@
         <mark key="^" line="211" column="3" />
         <mark key="." line="211" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/common.py" timestamp="1496768311894">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/common.py" timestamp="1496828706636">
         <mark key="'" line="290" column="16" />
-        <mark key="[" line="227" column="6" />
-        <mark key="]" line="227" column="9" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
         <mark key="^" line="227" column="9" />
-        <mark key="." line="227" column="9" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/datasets/cifar.py" timestamp="1486143792360">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="22" />
         <mark key="^" line="3" column="41" />
         <mark key="." line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/avec20132014.py" timestamp="1496828577403">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="28" column="101" />
+        <mark key="." line="4" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/analysis.py" timestamp="1487702010272">
         <mark key="[" line="95" column="52" />
@@ -303,11 +315,10 @@
         <mark key="." line="5" column="63" />
         <mark key="^" line="5" column="63" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" timestamp="1490631952911">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="1" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" timestamp="1496828014792">
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/yt/extractors/create_agender.py" timestamp="1473693890877">
         <mark key="[" line="52" column="11" />
@@ -353,18 +364,17 @@
         <mark key="." line="154" column="125" />
         <mark key="^" line="154" column="125" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496769196955">
+      <file name="/Dummy.txt" timestamp="1496827927583">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" timestamp="1493382700310">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" timestamp="1496827977903">
         <mark key="'" line="68" column="4" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="47" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/train_imagenet.py" timestamp="1493400821534">
         <mark key="'" line="57" column="18" />
@@ -502,7 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="30" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="256" column="18" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="26" column="1" filename="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" />
       <jump line="126" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" />
@@ -602,22 +611,23 @@
       <jump line="293" column="15" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
       <jump line="291" column="16" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
       <jump line="290" column="16" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/apps/base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgZGVmIGNvbXB1dGVfbG9zcyhzZWxmLCBnbG9iYWxfZW5kcG9pbnRzLCBtb2R1bGVfZW5kcG9pbnRzKToKICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoIllvdSBzaG91bGQgc3BlY2lmeSBhIGxvc3MuIikK</text>
+        <text encoding="base64">ICBkYXRhc2V0c19yb290ID0gJy9uYXMvc3RhZmYvZGF0YV93b3JrL0dpbC9Zb3VUdWJlL2RhdGFzZXRzLycK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>AppCl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbGVzLCBsZW5ndGhzID0gY2wudHJhaW5fZmlsZXMoKSBpZiBpc190cmFpbiBlbHNlIGNsLmV2YWxfZmlsZXMoKQo=</text>
+        <text encoding="base64">IyBFbnZpcm9ubWVudCBzZXR0aW5ncwppZiBzb2NrZXQuZ2V0aG9zdG5hbWUoKSA9PSAnY3J1dmFkb20tSFAtUHJvQm9vay00NTQwcycgb3Igc29ja2V0LmdldGhvc3RuYW1lKCkgPT0gJ0NJUzExNTcxNCc6CiAgZGF0YXNldHNfcm9vdCA9ICcvaG9tZS9jcnV2YWRvbS90ZW1wL05BUy9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvJwogIFNVTU1BUllfRElSID0gJy9ob21lL2NydXZhZG9tL3RlbXAvb3V0L3RyYW5zZmVyL3N1bW1hcnknCiAgQ0hFQ0tQT0lOVF9ESVIgPSAnL2hvbWUvY3J1dmFkb20vdGVtcC9vdXQvdHJhbnNmZXInCiAgdGYuYXBwLmZsYWdzLkRFRklORV9zdHJpbmcoJ21vZGVsX25hbWUnLCAnbG9jYWwnLCAiIiJOYW1lIG9mIHRoZSBjaGVja3BvaW50cyBmaWxlcy4iIiIpCmVsaWYgc29ja2V0LmdldGhvc3RuYW1lKCkuc3RhcnRzd2l0aCgnc2NodWxsZ3B1Jyk6CiAgZGF0YXNldHNfcm9vdCA9ICcvbmFzL3N0YWZmL2RhdGFfd29yay9HaWwvWW91VHViZS9kYXRhc2V0cy8nCiAgI2RhdGFzZXRzX3Jvb3QgPSAnL3NjcmF0Y2gva2VyZW5naWwvZGF0YXNldHMnCiAgI2RhdGFzZXRzX3Jvb3QgPSAnL2hvbWUva2VyZW5naWwvZGF0YXNldHMnCiAgU1VNTUFSWV9ESVIgPSAnL2hvbWUva2VyZW5naWwvc3VtbWFyaWVzL2N1cnJlbnQnCiAgQ0hFQ0tQT0lOVF9ESVIgPSAnL2hvbWUva2VyZW5naWwvb3V0L3RyYW5zZmVyJwogIHRmLmFwcC5mbGFncy5ERUZJTkVfc3RyaW5nKCdtb2RlbF9uYW1lJywgJycsICIiIk5hbWUgb2YgdGhlIGNoZWNrcG9pbnRzIGZpbGVzLiIiIikKZWxpZiBzb2NrZXQuZ2V0aG9zdG5hbWUoKS5zdGFydHN3aXRoKCdzZ2VzYWJhdG9zJyk6CiAgZGF0YXNldHNfcm9vdCA9ICcvaG9tZS9rZXJlbmdpL1lvdXR1YmUvZGF0YXNldHMnCiAgU1VNTUFSWV9ESVIgPSAnL3VzZXJzL3N0dWRzL21zYy9rZXJlbmdpL3N1bW1hcnkvY3VycmVudCcKICBDSEVDS1BPSU5UX0RJUiA9ICcvdXNlcnMvc3R1ZHMvbXNjL2tlcmVuZ2kvb3V0JwogIHRmLmFwcC5mbGFncy5ERUZJTkVfc3RyaW5nKCdtb2RlbF9uYW1lJywgJycsICIiIk5hbWUgb2YgdGhlIGNoZWNrcG9pbnRzIGZpbGVzLiIiIikKZWxzZToKICBkYXRhc2V0c19yb290ID0gJy9uYXMvc3RhZmYvZGF0YV93b3JrL0dpbC9Zb3VUdWJlL2RhdGFzZXRzLycKICBTVU1NQVJZX0RJUiA9ICcvaG9tZS90bWsvb3V0L3RlbnNvcmZsb3cvdHJhbnNmZXIvc3VtbWFyeScKICBDSEVDS1BPSU5UX0RJUiA9ICcvaG9tZS90bWsvb3V0L3RlbnNvcmZsb3cvdHJhbnNmZXInCiAgdGYuYXBwLmZsYWdzLkRFRklORV9zdHJpbmcoJ21vZGVsX25hbWUnLCAnJywgIiIiTmFtZSBvZiB0aGUgY2hlY2twb2ludHMgZmlsZXMuIiIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZGVmIGNvbXB1dGVfbG9zcyhzZWxmLCBnbG9iYWxfZW5kcG9pbnRzLCBtb2R1bGVfZW5kcG9pbnRzKToKICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoIllvdSBzaG91bGQgc3BlY2lmeSBhIGxvc3MuIikK</text>
+        <text encoding="base64">ICBkYXRhc2V0c19yb290ID0gJy9uYXMvc3RhZmYvZGF0YV93b3JrL0dpbC9Zb3VUdWJlL2RhdGFzZXRzLycK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -635,28 +645,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldF90ZnJfc3RydWN0dXJlID0gY2wudGZyX3N0cnVjdHVyZQo=</text>
+        <text encoding="base64">ICBkYXRhc2V0c19yb290ID0gJy9ob21lL2tlcmVuZ2kvWW91dHViZS9kYXRhc2V0cycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9yIHNvY2tldC5nZXRob3N0bmFtZSgpID09ICdDSVMxMTU4MTInOgo=</text>
+        <text encoding="base64">ICBkYXRhc2V0c19yb290ID0gJy9uYXMvc3RhZmYvZGF0YV93b3JrL0dpbC9Zb3VUdWJlL2RhdGFzZXRzLycKICAjZGF0YXNldHNfcm9vdCA9ICcvc2NyYXRjaC9rZXJlbmdpbC9kYXRhc2V0cycKICAjZGF0YXNldHNfcm9vdCA9ICcvaG9tZS9rZXJlbmdpbC9kYXRhc2V0cycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBkYXRhc2V0c19yb290ID0gJy9ob21lL2NydXZhZG9tL3RlbXAvTkFTL2RhdGFfd29yay9HaWwvWW91VHViZS9kYXRhc2V0cy8nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHNlbGYuYXBwLmNvbXB1dGVfbG9zcyhnbG9iYWxfZW5kcG9pbnRzLCBtb2R1bGVfZW5kcG9pbnRzKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBTVU1NQVJZX0RJUiA9ICcvaG9tZS90bWsvb3V0L3RlbnNvcmZsb3cvdHJhbnNmZXIvc3VtbWFyeScKICBDSEVDS1BPSU5UX0RJUiA9ICcvaG9tZS90bWsvb3V0L3RlbnNvcmZsb3cvdHJhbnNmZXInCiAgdGYuYXBwLmZsYWdzLkRFRklORV9zdHJpbmcoJ21vZGVsX25hbWUnLCAnJywgIiIiTmFtZSBvZiB0aGUgY2hlY2twb2ludHMgZmlsZXMuIiIiKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmaWxlbmFtZSA9IEZMQUdTLmR1bW15X2ZpbGVuYW1lCg==</text>
+        <text encoding="base64">ICBTVU1NQVJZX0RJUiA9ICcvdXNlcnMvc3R1ZHMvbXNjL2tlcmVuZ2kvc3VtbWFyeS9jdXJyZW50JwogIENIRUNLUE9JTlRfRElSID0gJy91c2Vycy9zdHVkcy9tc2Mva2VyZW5naS9vdXQnCiAgdGYuYXBwLmZsYWdzLkRFRklORV9zdHJpbmcoJ21vZGVsX25hbWUnLCAnJywgIiIiTmFtZSBvZiB0aGUgY2hlY2twb2ludHMgZmlsZXMuIiIiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdGhlIHRlbXAgZmlsZXMgYXJlIG5vdCBuZWVkZWQgYW55bW9yZSBhbmQgY2FuIGJlIGNsb3NlZCAoaS5lLiBkZWxldGVkKQogICAgaWYgaXNfdHJhaW46CiAgICAgIHNlbGYudHJhaW5fZmlsZXNfZmlsZS5jbG9zZSgpCiAgICBlbHNlOgogICAgICBzZWxmLmV2YWxfZmlsZXNfZmlsZS5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICBTVU1NQVJZX0RJUiA9ICcvaG9tZS9rZXJlbmdpbC9zdW1tYXJpZXMvY3VycmVudCcKICBDSEVDS1BPSU5UX0RJUiA9ICcvaG9tZS9rZXJlbmdpbC9vdXQvdHJhbnNmZXInCiAgdGYuYXBwLmZsYWdzLkRFRklORV9zdHJpbmcoJ21vZGVsX25hbWUnLCAnJywgIiIiTmFtZSBvZiB0aGUgY2hlY2twb2ludHMgZmlsZXMuIiIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCB0ZW1wZmlsZQo=</text>
+        <text encoding="base64">ICBTVU1NQVJZX0RJUiA9ICcvaG9tZS9jcnV2YWRvbS90ZW1wL291dC90cmFuc2Zlci9zdW1tYXJ5JwogIENIRUNLUE9JTlRfRElSID0gJy9ob21lL2NydXZhZG9tL3RlbXAvb3V0L3RyYW5zZmVyJwogIHRmLmFwcC5mbGFncy5ERUZJTkVfc3RyaW5nKCdtb2RlbF9uYW1lJywgJ2xvY2FsJywgIiIiTmFtZSBvZiB0aGUgY2hlY2twb2ludHMgZmlsZXMuIiIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
