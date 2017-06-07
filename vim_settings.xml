@@ -511,12 +511,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/read.py" timestamp="1496831138044">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/read.py" timestamp="1496832370337">
         <mark key="'" line="60" column="14" />
-        <mark key="[" line="257" column="49" />
-        <mark key="]" line="258" column="5" />
-        <mark key="." line="258" column="5" />
-        <mark key="^" line="258" column="5" />
+        <mark key="[" line="276" column="2" />
+        <mark key="]" line="262" column="37" />
+        <mark key="." line="262" column="37" />
+        <mark key="^" line="262" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -622,11 +622,11 @@
       <jump line="40" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/apps/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGFzZXRfZGlyID0gb3MucGF0aC5qb2luKGRhdGFzZXRzX3Jvb3QsICdIdWF3ZWknKQo=</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>dataset_dir</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>AppCl</text>
