@@ -23,6 +23,10 @@
       <file name="$USER_HOME$/PycharmProjects/XYZ/core/preprocess.py" timestamp="1496841902603">
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" timestamp="1497357832887">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_common.py" timestamp="1487942691707">
         <mark key="'" line="205" column="42" />
         <mark key="[" line="93" column="20" />
@@ -114,6 +118,12 @@
         <mark key="]" line="498" column="33" />
         <mark key="." line="498" column="33" />
         <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei_sig.py" timestamp="1497358180628">
+        <mark key="[" line="11" column="68" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+        <mark key="^" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/myconfigs.py" timestamp="1491226127474">
         <mark key="'" line="5" column="28" />
@@ -289,8 +299,8 @@
       <jump line="117" column="60" filename="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>actually I think</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbiwgYWJzb2x1dGVfaW1wb3J0LCBwcmludF9mdW5jdGlvbgo=</text>
       </register>
       <register name="-" type="4">
         <text>actually I think</text>
@@ -298,8 +308,8 @@
       <register name="/" type="4">
         <text>norm</text>
       </register>
-      <register name="0" type="4">
-        <text>run5_</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbiwgYWJzb2x1dGVfaW1wb3J0LCBwcmludF9mdW5jdGlvbgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
