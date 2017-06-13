@@ -17,12 +17,11 @@
         <mark key="^" line="263" column="9" />
         <mark key="." line="263" column="9" />
       </file>
+      <file name="/Python Console" timestamp="1496843587181">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/core/preprocess.py" timestamp="1496841902603">
-        <mark key="'" line="20" column="15" />
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="26" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="19" column="26" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_common.py" timestamp="1487942691707">
         <mark key="'" line="205" column="42" />
@@ -36,88 +35,6 @@
         <mark key="]" line="5" column="39" />
         <mark key="." line="5" column="39" />
         <mark key="^" line="7" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/losses.py" timestamp="1493285388464">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="54" column="27" />
-        <mark key="]" line="55" column="29" />
-        <mark key="^" line="55" column="29" />
-        <mark key="." line="55" column="29" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/hwawei.py" timestamp="1488800509434">
-        <mark key="'" line="10" column="74" />
-        <mark key="[" line="18" column="51" />
-        <mark key="]" line="19" column="34" />
-        <mark key="^" line="19" column="34" />
-        <mark key="." line="19" column="34" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/classification.py" timestamp="1496829260387">
-        <mark key="[" line="27" column="47" />
-        <mark key="]" line="27" column="50" />
-        <mark key="." line="27" column="50" />
-        <mark key="^" line="27" column="50" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496399650066">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="29" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="10" column="29" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/base.py" timestamp="1496829274231">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="31" column="54" />
-        <mark key="]" line="31" column="54" />
-        <mark key="." line="31" column="54" />
-        <mark key="^" line="31" column="54" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1496843522480">
-        <mark key="[" line="61" column="39" />
-        <mark key="]" line="61" column="42" />
-        <mark key="." line="61" column="42" />
-        <mark key="^" line="61" column="42" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/train.py" timestamp="1493396746176">
-        <mark key="'" line="7" column="23" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/queue_test/main.py" timestamp="1488557164582">
-        <mark key="'" line="42" column="45" />
-        <mark key="[" line="95" column="40" />
-        <mark key="]" line="95" column="53" />
-        <mark key="." line="95" column="53" />
-        <mark key="^" line="95" column="53" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="48" />
-        <mark key="^" line="4" column="48" />
-        <mark key="." line="4" column="48" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/common.py" timestamp="1496844175588">
-        <mark key="'" line="332" column="45" />
-        <mark key="[" line="331" column="74" />
-        <mark key="]" line="331" column="89" />
-        <mark key="^" line="331" column="89" />
-        <mark key="." line="331" column="89" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/avec20132014.py" timestamp="1496829654928">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="26" column="34" />
-        <mark key="." line="1" column="25" />
-      </file>
-      <file name="/Python Console" timestamp="1496843587181">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" timestamp="1496844240335">
-        <mark key="'" line="117" column="60" />
-        <mark key="[" line="100" column="12" />
-        <mark key="]" line="100" column="20" />
-        <mark key="." line="100" column="20" />
-        <mark key="^" line="100" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493396116543">
         <mark key="'" line="194" column="46" />
@@ -133,18 +50,44 @@
         <mark key="." line="251" column="41" />
         <mark key="^" line="193" column="91" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/losses.py" timestamp="1493285388464">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="54" column="27" />
+        <mark key="]" line="55" column="29" />
+        <mark key="^" line="55" column="29" />
+        <mark key="." line="55" column="29" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/hwawei.py" timestamp="1488800509434">
+        <mark key="'" line="10" column="74" />
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="19" column="34" />
+        <mark key="^" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+      </file>
       <file name="/Dummy.txt" timestamp="1496844248381">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/classification.py" timestamp="1496829260387">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+        <mark key="^" line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496399650066">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="10" column="29" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" timestamp="1496829324610">
-        <mark key="'" line="64" column="4" />
-        <mark key="[" line="40" column="43" />
-        <mark key="]" line="40" column="46" />
-        <mark key="." line="40" column="46" />
-        <mark key="^" line="40" column="46" />
+        <mark key="'" line="68" column="4" />
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+        <mark key="^" line="2" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/train_imagenet.py" timestamp="1493400821534">
         <mark key="'" line="57" column="18" />
@@ -193,6 +136,26 @@
         <mark key="." line="108" column="44" />
         <mark key="^" line="108" column="44" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1496843522480">
+        <mark key="[" line="61" column="39" />
+        <mark key="]" line="61" column="42" />
+        <mark key="." line="61" column="42" />
+        <mark key="^" line="61" column="42" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/improved-gan/train.py" timestamp="1493396746176">
+        <mark key="'" line="7" column="23" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/queue_test/main.py" timestamp="1488557164582">
+        <mark key="'" line="42" column="45" />
+        <mark key="[" line="95" column="40" />
+        <mark key="]" line="95" column="53" />
+        <mark key="." line="95" column="53" />
+        <mark key="^" line="95" column="53" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/core/train.py" timestamp="1496766139591">
         <mark key="'" line="390" column="56" />
         <mark key="[" line="341" column="60" />
@@ -201,10 +164,10 @@
         <mark key="." line="341" column="61" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/audio.py" timestamp="1496829506405">
-        <mark key="[" line="183" column="57" />
-        <mark key="]" line="183" column="60" />
-        <mark key="." line="183" column="60" />
-        <mark key="^" line="183" column="60" />
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="60" />
+        <mark key="." line="6" column="60" />
+        <mark key="^" line="6" column="60" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/model.py" timestamp="1493397261922">
         <mark key="'" line="18" column="31" />
@@ -213,12 +176,14 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/read.py" timestamp="1496843582100">
-        <mark key="'" line="210" column="0" />
-        <mark key="[" line="88" column="28" />
-        <mark key="]" line="88" column="37" />
-        <mark key="." line="88" column="37" />
-        <mark key="^" line="88" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="48" />
+        <mark key="^" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/avec20132014.py" timestamp="1496829654928">
+        <mark key="^" line="0" column="34" />
       </file>
     </filemarks>
     <jumps>
