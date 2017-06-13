@@ -23,10 +23,12 @@
       <file name="$USER_HOME$/PycharmProjects/XYZ/core/preprocess.py" timestamp="1496841902603">
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" timestamp="1497364417605">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="20" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" timestamp="1497365353874">
+        <mark key="'" line="111" column="22" />
+        <mark key="[" line="120" column="28" />
+        <mark key="]" line="121" column="36" />
+        <mark key="." line="121" column="36" />
+        <mark key="^" line="121" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_common.py" timestamp="1487942691707">
         <mark key="'" line="205" column="42" />
@@ -134,6 +136,12 @@
         <mark key="^" line="152" column="48" />
         <mark key="." line="140" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/base.py" timestamp="1497365292941">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="48" column="11" />
+        <mark key="]" line="48" column="11" />
+        <mark key="." line="48" column="11" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_common.py" timestamp="1496414524327">
         <mark key="'" line="157" column="5" />
         <mark key="[" line="108" column="27" />
@@ -141,10 +149,11 @@
         <mark key="." line="108" column="44" />
         <mark key="^" line="108" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1497364024262">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1497365054492">
+        <mark key="[" line="84" column="61" />
+        <mark key="]" line="84" column="79" />
+        <mark key="." line="84" column="79" />
+        <mark key="^" line="84" column="79" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/train.py" timestamp="1493396746176">
         <mark key="'" line="7" column="23" />
@@ -188,8 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="28" filename="$USER_HOME$/PycharmProjects/XYZ/myconfigs.py" />
-      <jump line="151" column="37" filename="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" />
       <jump line="48" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
       <jump line="54" column="4" filename="$USER_HOME$/PycharmProjects/XYZ/core/losses.py" />
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/core/losses.py" />
@@ -288,19 +295,21 @@
       <jump line="42" column="4" filename="$USER_HOME$/PycharmProjects/XYZ/core/preprocess.py" />
       <jump line="18" column="15" filename="$USER_HOME$/PycharmProjects/XYZ/core/preprocess.py" />
       <jump line="117" column="60" filename="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/apps/base.py" />
+      <jump line="111" column="22" filename="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>super(Huawei, self).get_train_files()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>super(Huawei, self).get_train_files()</text>
       </register>
       <register name="/" type="4">
         <text>norm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGYuYXBwLmZsYWdzLkRFRklORV9pbnRlZ2VyKCdod19uX2ZlYXR1cmVzJywgMjAxLCAnJykK</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lX2xpc3QgPSBbXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyB0Zi5hcHAuZmxhZ3MuREVGSU5FX2ludGVnZXIoJ2h3X25fZmVhdHVyZXMnLCAxMywgJycpCnRmLmFwcC5mbGFncy5ERUZJTkVfaW50ZWdlcignaHdfbl9mZWF0dXJlcycsIDIwMSwgJycpCg==</text>
