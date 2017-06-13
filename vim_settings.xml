@@ -155,11 +155,11 @@
         <mark key="." line="108" column="44" />
         <mark key="^" line="108" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1497365054492">
-        <mark key="[" line="84" column="61" />
-        <mark key="]" line="84" column="79" />
-        <mark key="." line="84" column="79" />
-        <mark key="^" line="84" column="79" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1497372611086">
+        <mark key="[" line="86" column="49" />
+        <mark key="]" line="86" column="50" />
+        <mark key="." line="86" column="50" />
+        <mark key="^" line="86" column="79" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/train.py" timestamp="1493396746176">
         <mark key="'" line="7" column="23" />
@@ -306,19 +306,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Adapt the Huawei app such that it can also handle spectrogram
-
-This was mostly done by adding a few options like choosing the dataset
-directory.</text>
+        <text>run1_5db_dt_files,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3MsIA==</text>
+        <text>run1_5db_dt_files,</text>
       </register>
       <register name="/" type="4">
         <text>norm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZWFkX211bHRpcGxlX2ZpbGVsaXN0cyhzZWxmLmRhdGFzZXRfZGlyLCBzZWxmLnRyYWluX2ZpbGVzKQo=</text>
+        <text encoding="base64">ICB0Zi5hcHAuZmxhZ3MuREVGSU5FX3N0cmluZygndHJhaW5fZmlsZXMnLCAncnVuMV81ZGJfdHJfZmlsZXMscnVuMV8tNWRiX3RyX2ZpbGVzJywgJycpCiAgdGYuYXBwLmZsYWdzLkRFRklORV9zdHJpbmcoJ2V2YWxfZmlsZXMnLCAncnVuMV81ZGJfZHRfZmlsZXMscnVuMV8tNWRiX2R0X2ZpbGVzJywgJycpCg==</text>
       </register>
       <register name="1" type="4">
         <text>Adapt the Huawei app such that it can also handle spectrogram
