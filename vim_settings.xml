@@ -75,11 +75,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/classification.py" timestamp="1496829260387">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-        <mark key="^" line="2" column="50" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/classification.py" timestamp="1497435275289">
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496399650066">
         <mark key="[" line="10" column="29" />
@@ -106,6 +105,13 @@
         <mark key="]" line="22" column="6" />
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/regression.py" timestamp="1497435615554">
+        <mark key="'" line="119" column="39" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
+        <mark key="^" line="154" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
         <mark key="'" line="6" column="0" />
@@ -181,9 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="48" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
-      <jump line="68" column="4" filename="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" />
-      <jump line="95" column="39" filename="$USER_HOME$/PycharmProjects/improved-gan/train.py" />
       <jump line="185" column="15" filename="$USER_HOME$/PycharmProjects/improved-gan/utils.py" />
       <jump line="13" column="26" filename="$USER_HOME$/PycharmProjects/improved-gan/utils.py" />
       <jump line="186" column="15" filename="$USER_HOME$/PycharmProjects/improved-gan/utils.py" />
@@ -281,25 +284,25 @@
       <jump line="110" column="45" filename="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" />
       <jump line="129" column="31" filename="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" />
       <jump line="115" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" />
+      <jump line="153" column="12" filename="$USER_HOME$/PycharmProjects/XYZ/apps/regression.py" />
+      <jump line="118" column="41" filename="$USER_HOME$/PycharmProjects/XYZ/apps/regression.py" />
+      <jump line="119" column="39" filename="$USER_HOME$/PycharmProjects/XYZ/apps/regression.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGF0YXNldHNfcm9vdCwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgogICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0YXNldHNfcm9vdCwg</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>norm</text>
+        <text>std</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0Zi5hcHAuZmxhZ3MuREVGSU5FX3N0cmluZygndHJhaW5fZmlsZXMnLCAncnVuMV81ZGJfdHJfZmlsZXMscnVuMV8tNWRiX3RyX2ZpbGVzJywgJycpCiAgdGYuYXBwLmZsYWdzLkRFRklORV9zdHJpbmcoJ2V2YWxfZmlsZXMnLCAncnVuMV81ZGJfZHRfZmlsZXMscnVuMV8tNWRiX2R0X2ZpbGVzJywgJycpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Adapt the Huawei app such that it can also handle spectrogram
-
-This was mostly done by adding a few options like choosing the dataset
-directory.</text>
+      <register name="1" type="2">
+        <text encoding="base64">CgogICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -316,38 +319,41 @@ directory.</text>
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbGVzID0gc2VsZi5ldmFsX2ZpbGVzLnNwbGl0KCcsJykKICAgIGZpbGVuYW1lX2xpc3QgPSBbXQogICAgbGVuZ3RoX2xpc3QgPSBbXQogICAgZm9yIGYgaW4gZmlsZXM6CiAgICAgIGZpbGVuYW1lcywgbGVuZ3RocyA9IHJlYWRfZmlsZWxpc3Qob3MucGF0aC5qb2luKHNlbGYuZGF0YXNldF9kaXIsIGYpKQogICAgICBmaWxlbmFtZV9saXN0ICs9IGZpbGVuYW1lcwogICAgICBsZW5ndGhfbGlzdCArPSBsZW5ndGhzCiAgICByZXR1cm4gZmlsZW5hbWVfbGlzdCwgbGVuZ3RoX2xpc3QK</text>
+      <register name="2" type="4">
+        <text>Adapt the Huawei app such that it can also handle spectrogram
+
+This was mostly done by adding a few options like choosing the dataset
+directory.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGVzID0gc2VsZi50cmFpbl9maWxlcy5zcGxpdCgnLCcpCiAgICBmaWxlbmFtZV9saXN0ID0gW10KICAgIGxlbmd0aF9saXN0ID0gW10KICAgIGZvciBmIGluIGZpbGVzOgogICAgICBmaWxlbmFtZXMsIGxlbmd0aHMgPSByZWFkX2ZpbGVsaXN0KG9zLnBhdGguam9pbihzZWxmLmRhdGFzZXRfZGlyLCBmKSkKICAgICAgZmlsZW5hbWVfbGlzdCArPSBmaWxlbmFtZXMKICAgICAgbGVuZ3RoX2xpc3QgKz0gbGVuZ3RocwogICAgcmV0dXJuIGZpbGVuYW1lX2xpc3QsIGxlbmd0aF9saXN0Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVzID0gc2VsZi5ldmFsX2ZpbGVzLnNwbGl0KCcsJykKICAgIGZpbGVuYW1lX2xpc3QgPSBbXQogICAgbGVuZ3RoX2xpc3QgPSBbXQogICAgZm9yIGYgaW4gZmlsZXM6CiAgICAgIGZpbGVuYW1lcywgbGVuZ3RocyA9IHJlYWRfZmlsZWxpc3Qob3MucGF0aC5qb2luKHNlbGYuZGF0YXNldF9kaXIsIGYpKQogICAgICBmaWxlbmFtZV9saXN0ICs9IGZpbGVuYW1lcwogICAgICBsZW5ndGhfbGlzdCArPSBsZW5ndGhzCiAgICByZXR1cm4gZmlsZW5hbWVfbGlzdCwgbGVuZ3RoX2xpc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGZpbGVzID0gc2VsZi50cmFpbl9maWxlcy5zcGxpdCgnLCcpCiAgICBmaWxlbmFtZV9saXN0ID0gW10KICAgIGxlbmd0aF9saXN0ID0gW10KICAgIGZvciBmIGluIGZpbGVzOgogICAgICBmaWxlbmFtZXMsIGxlbmd0aHMgPSByZWFkX2ZpbGVsaXN0KG9zLnBhdGguam9pbihzZWxmLmRhdGFzZXRfZGlyLCBmKSkKICAgICAgZmlsZW5hbWVfbGlzdCArPSBmaWxlbmFtZXMKICAgICAgbGVuZ3RoX2xpc3QgKz0gbGVuZ3RocwogICAgcmV0dXJuIGZpbGVuYW1lX2xpc3QsIGxlbmd0aF9saXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyB0Zi5hcHAuZmxhZ3MuREVGSU5FX2ludGVnZXIoJ2h3X25fZmVhdHVyZXMnLCAxMywgJycpCnRmLmFwcC5mbGFncy5ERUZJTkVfaW50ZWdlcignaHdfbl9mZWF0dXJlcycsIDIwMSwgJycpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyB0Zi5hcHAuZmxhZ3MuREVGSU5FX2ludGVnZXIoJ2h3X25fZmVhdHVyZXMnLCAxMywgJycpCg==</text>
+        <text encoding="base64">IyB0Zi5hcHAuZmxhZ3MuREVGSU5FX2ludGVnZXIoJ2h3X25fZmVhdHVyZXMnLCAxMywgJycpCnRmLmFwcC5mbGFncy5ERUZJTkVfaW50ZWdlcignaHdfbl9mZWF0dXJlcycsIDIwMSwgJycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgZGVmIHRvcF9sYXllcnMoc2VsZiwgaXNfdHJhaW4sIGdsb2JhbF9lbmRwb2ludHMsIG1vZHVsZV9lbmRwb2ludHMpOgogICAgcGFzcwo=</text>
+        <text encoding="base64">IyB0Zi5hcHAuZmxhZ3MuREVGSU5FX2ludGVnZXIoJ2h3X25fZmVhdHVyZXMnLCAxMywgJycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGYK</text>
+        <text encoding="base64">CiAgZGVmIHRvcF9sYXllcnMoc2VsZiwgaXNfdHJhaW4sIGdsb2JhbF9lbmRwb2ludHMsIG1vZHVsZV9lbmRwb2ludHMpOgogICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5uX2ZlYXR1cmVzID0gMjAxCg==</text>
+        <text encoding="base64">dGYK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
       </register>
     </registers>
     <search>
-      <last-search>norm</last-search>
+      <last-search>std</last-search>
       <last-offset />
-      <last-pattern>norm</last-pattern>
+      <last-pattern>std</last-pattern>
       <last-replace>avec20132014</last-replace>
       <last-substitute>Eating</last-substitute>
       <last-dir>1</last-dir>
@@ -355,7 +361,6 @@ directory.</text>
     </search>
     <history>
       <history-search>
-        <entry>eval_s</entry>
         <entry>hw_str</entry>
         <entry encoding="base64">XDxrZXJuZWxfc2l6ZVw+</entry>
         <entry>kernel</entry>
@@ -375,6 +380,7 @@ directory.</text>
         <entry>name</entry>
         <entry>AppCl</entry>
         <entry>norm</entry>
+        <entry>std</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
