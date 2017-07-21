@@ -66,8 +66,8 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497435661397">
-        <mark key="[" line="0" column="24" />
+      <file name="/Dummy.txt" timestamp="1500649030673">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
@@ -130,6 +130,12 @@
         <mark key="]" line="140" column="0" />
         <mark key="^" line="152" column="48" />
         <mark key="." line="140" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1500649653468">
+        <mark key="[" line="87" column="58" />
+        <mark key="]" line="87" column="58" />
+        <mark key="." line="87" column="58" />
+        <mark key="^" line="86" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/train.py" timestamp="1493396746176">
         <mark key="'" line="7" column="23" />
@@ -270,10 +276,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>is_train=</text>
+        <text>_reg_small</text>
       </register>
       <register name="-" type="4">
-        <text>is_train=</text>
+        <text>_reg_small</text>
       </register>
       <register name="/" type="4">
         <text>get_in</text>
