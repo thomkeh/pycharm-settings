@@ -17,7 +17,7 @@
         <mark key="^" line="263" column="9" />
         <mark key="." line="263" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1497363695088">
+      <file name="/Python Console" timestamp="1500651673671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" timestamp="1497366227028">
@@ -52,6 +52,13 @@
         <mark key="." line="251" column="41" />
         <mark key="^" line="193" column="91" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/evaluation.py" timestamp="1500651559337">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="98" column="32" />
+        <mark key="]" line="98" column="32" />
+        <mark key="^" line="98" column="32" />
+        <mark key="." line="98" column="32" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/core/losses.py" timestamp="1493285388464">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="54" column="27" />
@@ -66,7 +73,7 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500649030673">
+      <file name="/Dummy.txt" timestamp="1500651820784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
@@ -137,11 +144,11 @@
         <mark key="^" line="152" column="48" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1500649747662">
-        <mark key="[" line="74" column="9" />
-        <mark key="]" line="74" column="10" />
-        <mark key="." line="74" column="10" />
-        <mark key="^" line="86" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1500651350678">
+        <mark key="[" line="86" column="57" />
+        <mark key="]" line="86" column="58" />
+        <mark key="." line="86" column="58" />
+        <mark key="^" line="86" column="74" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/train.py" timestamp="1493396746176">
         <mark key="'" line="7" column="23" />
@@ -164,6 +171,12 @@
         <mark key="^" line="449" column="7" />
         <mark key="." line="449" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/audio.py" timestamp="1500651838949">
+        <mark key="[" line="129" column="24" />
+        <mark key="]" line="129" column="24" />
+        <mark key="^" line="129" column="64" />
+        <mark key="." line="129" column="24" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/model.py" timestamp="1493397261922">
         <mark key="'" line="18" column="31" />
         <mark key="[" line="13" column="45" />
@@ -171,6 +184,7 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/read.py" timestamp="1500650489909" />
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="48" />
@@ -179,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="47" filename="$USER_HOME$/PycharmProjects/improved-gan/utils.py" />
       <jump line="214" column="15" filename="$USER_HOME$/PycharmProjects/improved-gan/utils.py" />
       <jump line="100" column="25" filename="$USER_HOME$/PycharmProjects/improved-gan/model.py" />
       <jump line="222" column="18" filename="$USER_HOME$/PycharmProjects/improved-gan/model.py" />
@@ -279,13 +292,14 @@
       <jump line="414" column="44" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="453" column="6" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="250" column="70" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/core/evaluation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">IAogCiAKIAog</text>
+      <register name="&quot;" type="4">
+        <text>tf.expand_dims(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tf.expand_dims(</text>
       </register>
       <register name="/" type="4">
         <text>common</text>
