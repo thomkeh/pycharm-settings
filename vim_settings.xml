@@ -35,11 +35,11 @@
         <mark key="]" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1502727124537">
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="18" column="59" />
-        <mark key="^" line="18" column="59" />
-        <mark key="." line="18" column="59" />
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1502728654243">
+        <mark key="[" line="18" column="60" />
+        <mark key="]" line="18" column="70" />
+        <mark key="^" line="18" column="70" />
+        <mark key="." line="18" column="70" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_common.py" timestamp="1487942691707">
         <mark key="'" line="205" column="42" />
@@ -61,10 +61,10 @@
         <mark key="^" line="162" column="37" />
         <mark key="." line="162" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1502726914470">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="68" column="9" />
-        <mark key="]" line="68" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1502729042871">
+        <mark key="'" line="81" column="9" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="63" column="19" />
         <mark key="." line="68" column="9" />
         <mark key="^" line="68" column="9" />
       </file>
@@ -94,6 +94,13 @@
         <mark key="]" line="55" column="29" />
         <mark key="^" line="55" column="29" />
         <mark key="." line="55" column="29" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" timestamp="1502729319802">
+        <mark key="'" line="1" column="7" />
+        <mark key="[" line="141" column="32" />
+        <mark key="]" line="142" column="36" />
+        <mark key="." line="142" column="36" />
+        <mark key="^" line="142" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/audio_signal.py" timestamp="1500652349120">
         <mark key="[" line="5" column="0" />
@@ -186,6 +193,11 @@
         <mark key="^" line="152" column="48" />
         <mark key="." line="140" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/sigproc.py" timestamp="1502729253811">
+        <mark key="'" line="79" column="6" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="82" column="45" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1500716906584">
         <mark key="[" line="86" column="53" />
         <mark key="]" line="86" column="58" />
@@ -199,12 +211,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1502719483987">
-        <mark key="'" line="8" column="20" />
-        <mark key="[" line="76" column="77" />
-        <mark key="]" line="76" column="77" />
-        <mark key="." line="76" column="77" />
-        <mark key="^" line="76" column="77" />
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1502728955203">
+        <mark key="'" line="68" column="53" />
+        <mark key="[" line="68" column="53" />
+        <mark key="]" line="68" column="57" />
+        <mark key="." line="68" column="57" />
+        <mark key="^" line="68" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/queue_test/main.py" timestamp="1488557164582">
         <mark key="'" line="42" column="45" />
@@ -247,19 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="14" filename="$USER_HOME$/PycharmProjects/improved-gan/generator.py" />
-      <jump line="7" column="7" filename="$USER_HOME$/PycharmProjects/improved-gan/discriminator.py" />
-      <jump line="8" column="56" filename="$USER_HOME$/PycharmProjects/improved-gan/discriminator.py" />
-      <jump line="9" column="50" filename="$USER_HOME$/PycharmProjects/improved-gan/discriminator.py" />
-      <jump line="14" column="35" filename="$USER_HOME$/PycharmProjects/improved-gan/discriminator.py" />
-      <jump line="6" column="31" filename="$USER_HOME$/PycharmProjects/improved-gan/discriminator.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/improved-gan/generator.py" />
-      <jump line="26" column="44" filename="$USER_HOME$/PycharmProjects/improved-gan/build_model.py" />
-      <jump line="11" column="4" filename="$USER_HOME$/PycharmProjects/improved-gan/discriminator.py" />
-      <jump line="177" column="51" filename="$USER_HOME$/PycharmProjects/improved-gan/discriminator.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/improved-gan/generator.py" />
-      <jump line="291" column="0" filename="$USER_HOME$/PycharmProjects/improved-gan/generator.py" />
-      <jump line="0" column="34" filename="/Dummy.txt" />
       <jump line="46" column="9" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" />
       <jump line="37" column="48" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
       <jump line="54" column="10" filename="$USER_HOME$/PycharmProjects/XYZ/apps/dummy.py" />
@@ -347,22 +346,35 @@
       <jump line="88" column="14" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" />
       <jump line="93" column="36" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" />
       <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" />
+      <jump line="81" column="9" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" />
+      <jump line="33" column="39" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
+      <jump line="36" column="32" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
+      <jump line="24" column="11" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
+      <jump line="68" column="53" filename="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
+      <jump line="131" column="30" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
+      <jump line="124" column="2" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
+      <jump line="139" column="40" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
+      <jump line="138" column="104" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
+      <jump line="1" column="7" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
+      <jump line="79" column="6" filename="$USER_HOME$/PycharmProjects/audioreconstruction/sigproc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>np</text>
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>np</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
-        <text>round</text>
+        <text>numpy</text>
       </register>
-      <register name="0" type="4">
-        <text>winlen * samplerate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmIG51bXB5LnNoYXBlKGZyYW1lcylbMV0gPiBORkZUOgogICAgICAgIGxvZ2dpbmcud2FybignZnJhbWUgbGVuZ3RoICglZCkgaXMgZ3JlYXRlciB0aGFuIEZGVCBzaXplICglZCksIGZyYW1lIHdpbGwgYmUgdHJ1bmNhdGVkLiBJbmNyZWFzZSBORkZUIHRvIGF2b2lkLicsIG51bXB5LnNoYXBlKGZyYW1lcylbMV0sIE5GRlQpCiAgICBjb21wbGV4X3NwZWMgPSBudW1weS5mZnQucmZmdChmcmFtZXMsTkZGVCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBweXRob25fc3BlZWNoX2ZlYXR1cmVzIGltcG9ydCBzaWdwcm9jCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -380,45 +392,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzaWdwcm9jIGltcG9ydCBwcmVlbXBoYXNpcwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YSA9IG5wLmFycmF5KFszLCA2MywgNiwgMywgMzQsIDcsIDIzLCA1LCAxLCAwLCA1XSkKcHJpbnQoYSkKcGEgPSBwcmVlbXBoYXNpcyhhKQpwcmludChwYSkKcHJpbnQoZGVwcmVlbXBoYXNpcyhwYSkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwYXNzCg==</text>
+        <text encoding="base64">ICA6cGFyYW0gY29lZmY6IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA6cGFyYW0gc2FtcGxlcmF0ZTogCiAgOnBhcmFtIHdpbmxlbjogCiAgOnBhcmFtIHdpbnN0ZXA6IAogIDpwYXJhbSBuZmlsdDogCiAgOnBhcmFtIG5mZnQ6IAogIDpwYXJhbSBsb3dmcmVxOiAKICA6cGFyYW0gaGlnaGZyZXE6IAogIDpwYXJhbSBwcmVlbXBoOiAK</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICA6cGFyYW0gc2FtcGxlcmF0ZToKICA6cGFyYW0gd2lubGVuOgogIDpwYXJhbSB3aW5zdGVwOgogIDpwYXJhbSBuZmlsdDoKICA6cGFyYW0gbmZmdDoKICA6cGFyYW0gbG93ZnJlcToKICA6cGFyYW0gaGlnaGZyZXE6CiAgOnBhcmFtIHByZWVtcGg6CiAgOnBhcmFtIHdpbmZ1bmM6Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBweXRob25fc3BlZWNoX2ZlYXR1cmVzIGltcG9ydCBzaWdwcm9jCg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBzaWdwcm9jIGltcG9ydCBwcmVlbXBoYXNpcwo=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">YSA9IG5wLmFycmF5KFszLCA2MywgNiwgMywgMzQsIDcsIDIzLCA1LCAxLCAwLCA1XSkKcHJpbnQoYSkKcGEgPSBwcmVlbXBoYXNpcyhhKQpwcmludChwYSkKcHJpbnQoZGVwcmVlbXBoYXNpcyhwYSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text encoding="base64">JzwsJz5zL251bXB5L25wL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>round</last-search>
+      <last-search>numpy</last-search>
       <last-offset />
-      <last-pattern>round</last-pattern>
-      <last-replace>avec20132014</last-replace>
-      <last-substitute>std</last-substitute>
+      <last-pattern>numpy</last-pattern>
+      <last-replace>np</last-replace>
+      <last-substitute>numpy</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYXNhdHRyXD4=</entry>
         <entry encoding="base64">XDxjaGFubmVsc1w+</entry>
         <entry>xrange</entry>
         <entry>train</entry>
@@ -438,6 +449,7 @@
         <entry>COMMOn</entry>
         <entry>common</entry>
         <entry>round</entry>
+        <entry>numpy</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
@@ -456,6 +468,7 @@
         <entry>240</entry>
         <entry>365</entry>
         <entry>action AceAction</entry>
+        <entry encoding="base64">JzwsJz5zL251bXB5L25wL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
