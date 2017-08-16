@@ -69,12 +69,12 @@
         <mark key="^" line="162" column="37" />
         <mark key="." line="162" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" timestamp="1502892412777">
-        <mark key="'" line="189" column="36" />
-        <mark key="[" line="188" column="11" />
-        <mark key="]" line="188" column="36" />
-        <mark key="." line="188" column="36" />
-        <mark key="^" line="188" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" timestamp="1502893037128">
+        <mark key="'" line="328" column="33" />
+        <mark key="[" line="319" column="0" />
+        <mark key="]" line="319" column="0" />
+        <mark key="^" line="359" column="11" />
+        <mark key="." line="319" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1502729042871">
         <mark key="'" line="81" column="9" />
@@ -261,16 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="456" column="61" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
-      <jump line="475" column="27" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
-      <jump line="493" column="111" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
-      <jump line="501" column="61" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
-      <jump line="19" column="61" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
-      <jump line="38" column="62" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
-      <jump line="68" column="29" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
-      <jump line="72" column="26" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
-      <jump line="143" column="20" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
-      <jump line="144" column="29" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="157" column="32" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="160" column="57" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="165" column="31" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
@@ -361,22 +351,32 @@
       <jump line="39" column="2" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
       <jump line="177" column="2" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
       <jump line="189" column="36" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="302" column="19" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="29" column="52" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="224" column="27" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="226" column="58" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="228" column="58" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="237" column="58" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="238" column="58" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="290" column="31" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="327" column="33" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="328" column="33" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAtICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>('cannot convert {} to wav'.format(flac_path))</text>
       </register>
       <register name="/" type="4">
-        <text>'''</text>
+        <text>spectro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICIiIkNvbXB1dGUgdGhlIHBvd2VyIHNwZWN0cnVtIG9mIGVhY2ggZnJhbWUgaW4gZnJhbWVzLiBJZiBmcmFtZXMgaXMgYW4gTnhEIG1hdHJpeCwgb3V0cHV0IHdpbGwgYmUgTngoTkZGVC8yKzEpLgoKICAgIDpwYXJhbSBmcmFtZXM6IHRoZSBhcnJheSBvZiBmcmFtZXMuIEVhY2ggcm93IGlzIGEgZnJhbWUuCiAgICA6cGFyYW0gTkZGVDogdGhlIEZGVCBsZW5ndGggdG8gdXNlLiBJZiBORkZUID4gZnJhbWVfbGVuLCB0aGUgZnJhbWVzIGFyZSB6ZXJvLXBhZGRlZC4KICAgIDpyZXR1cm5zOiBJZiBmcmFtZXMgaXMgYW4gTnhEIG1hdHJpeCwgb3V0cHV0IHdpbGwgYmUgTngoTkZGVC8yKzEpLiBFYWNoIHJvdyB3aWxsIGJlIHRoZSBwb3dlciBzcGVjdHJ1bSBvZiB0aGUgY29ycmVzcG9uZGluZyBmcmFtZS4KICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVsaWYgZmVhdHVyZXNfdHlwZSA9PSAncmF3JzoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -394,37 +394,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JycnClRoZSBtYWluIGZ1bmN0aW9uIG9mIHRoZSBzY3JpcHQKLSBmbGFjIGZpbGVzIG5hbWVzIGFyZSBzcGVha2VyLWNoYXB0ZXItdXR0ZXJhbmNlLmZsYWMKLSBjbGVhbiB3YXZlIGZpbGVzIGFyZSBzYXZlZCB1bmRlcjogCkNMRUFOX1dBVl9GT0xERVIvc3BsaXQvc3BlYWtlcl9pZC9jaGFwdGVyL3NwZWFrZXItY2hhcHRlci11dHRlcmFuY2Uud2F2Ci0gdGhlcmUgYXJlIDQgbWl4aW5nIGNvbmRpdGlvbnM6IG5vaXNlLCByZXZlcmIsIG5vaXNlX3JldmVyYl9zaW1wbGUsIG5vaXNlX3JldmVyYl9jb21wbGV4Ci0gbm9pc3kgd2F2ZSBmaWxlcyBhcmUgc2F2ZWQgdW5kZXIgCk5PSVNZX1dBVl9GT0xERVIvbWl4aW5nX2NvbmRpdGlvbi9zcGxpdC9zcGVha2VyX2lkL2NoYXB0ZXIvc3BlYWtlci1jaGFwdGVyLXV0dGVyYW5jZV9ub2lzZV9zbnJfcmV2ZXJiX1tzaW1wbGUvY29tcGxleF0ud2F2CndoZW4gbm9pc2UvcmV2ZXJiL3Nuci9bc2ltcGxlL2NvbXBsZXNdIGFyZSBub3QgYXBwbGljYWJsZSwgdGhleSBhcmUgcmVtb3ZlZC4KLSB0ZnIgZmlsZXMgd2lsbCBiZSBzYXZlZCB1bmRlcgpURlJfRklMRVNfRk9MREVSL21peGluZ19jb25kaXRpb24vc3BsaXQvc3BlYWtlcl9pZC9jaGFwdGVyL25hbWVfb2Zfbm9pc3lfZmlsZS50ZnIKLSB0ZnJfc3RydWN0dXJlIGZpbGUgd2lsbCBiZSBzYXZlZCBpbiBURlJfRklMRVNfRk9MREVSCi0gZmlsZW5hbWVzIGZpbGVzIHdpbGwgYmUgaW4gVEZSX0ZJTEVTX0ZPTERFUiBhbmQgd2l0aCBmb3JtYXQgbWl4aW5nX2NvbmRpdGlvbl9zcGxpdF9zcGVha2VyCi0gIAonJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JycnCkZ1bmN0aW9uIHRvIGdldCB0aGUgcmFuZG9tIGNvbmRpdGlvbgonJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JycnCkZ1bmN0aW9ucyBmb3IgYWRkaW5nIG5vaXNlIGFuZCByZXZlcmIgCicnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQocykK</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoIi0tLS0tLS0iKQo=</text>
+        <text encoding="base64">ICAtICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YiA9IG5wLmZmdC5pcmZmdChucC5mZnQucmZmdChhLCBuPTcpLCBuPTcpCnByaW50KG5wLmZmdC5pcmZmdChucC5mZnQucmZmdChhLCBuPTcpLCBuPTcpKQo=</text>
+        <text encoding="base64">JycnClRoZSBtYWluIGZ1bmN0aW9uIG9mIHRoZSBzY3JpcHQKLSBmbGFjIGZpbGVzIG5hbWVzIGFyZSBzcGVha2VyLWNoYXB0ZXItdXR0ZXJhbmNlLmZsYWMKLSBjbGVhbiB3YXZlIGZpbGVzIGFyZSBzYXZlZCB1bmRlcjogCkNMRUFOX1dBVl9GT0xERVIvc3BsaXQvc3BlYWtlcl9pZC9jaGFwdGVyL3NwZWFrZXItY2hhcHRlci11dHRlcmFuY2Uud2F2Ci0gdGhlcmUgYXJlIDQgbWl4aW5nIGNvbmRpdGlvbnM6IG5vaXNlLCByZXZlcmIsIG5vaXNlX3JldmVyYl9zaW1wbGUsIG5vaXNlX3JldmVyYl9jb21wbGV4Ci0gbm9pc3kgd2F2ZSBmaWxlcyBhcmUgc2F2ZWQgdW5kZXIgCk5PSVNZX1dBVl9GT0xERVIvbWl4aW5nX2NvbmRpdGlvbi9zcGxpdC9zcGVha2VyX2lkL2NoYXB0ZXIvc3BlYWtlci1jaGFwdGVyLXV0dGVyYW5jZV9ub2lzZV9zbnJfcmV2ZXJiX1tzaW1wbGUvY29tcGxleF0ud2F2CndoZW4gbm9pc2UvcmV2ZXJiL3Nuci9bc2ltcGxlL2NvbXBsZXNdIGFyZSBub3QgYXBwbGljYWJsZSwgdGhleSBhcmUgcmVtb3ZlZC4KLSB0ZnIgZmlsZXMgd2lsbCBiZSBzYXZlZCB1bmRlcgpURlJfRklMRVNfRk9MREVSL21peGluZ19jb25kaXRpb24vc3BsaXQvc3BlYWtlcl9pZC9jaGFwdGVyL25hbWVfb2Zfbm9pc3lfZmlsZS50ZnIKLSB0ZnJfc3RydWN0dXJlIGZpbGUgd2lsbCBiZSBzYXZlZCBpbiBURlJfRklMRVNfRk9MREVSCi0gZmlsZW5hbWVzIGZpbGVzIHdpbGwgYmUgaW4gVEZSX0ZJTEVTX0ZPTERFUiBhbmQgd2l0aCBmb3JtYXQgbWl4aW5nX2NvbmRpdGlvbl9zcGxpdF9zcGVha2VyCi0gIAonJycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiIiIKICAKICA6cGFyYW0gZnJhbWVzOiAKICA6cGFyYW0gbmZmdDogCiAgOnJldHVybjogCiAgIiIiCg==</text>
+        <text encoding="base64">JycnCkZ1bmN0aW9uIHRvIGdldCB0aGUgcmFuZG9tIGNvbmRpdGlvbgonJycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiIiIKICAKICA6cGFyYW0gZnJhbWVzOiAKICA6cGFyYW0gbmZmdDogCiAgOnJldHVybjogCg==</text>
+        <text encoding="base64">JycnCkZ1bmN0aW9ucyBmb3IgYWRkaW5nIG5vaXNlIGFuZCByZXZlcmIgCicnJwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycnJy8iIiIvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>'''</last-search>
+      <last-search>spectro</last-search>
       <last-offset />
-      <last-pattern>'''</last-pattern>
+      <last-pattern>spectro</last-pattern>
       <last-replace>&quot;&quot;&quot;</last-replace>
       <last-substitute>'''</last-substitute>
       <last-dir>1</last-dir>
@@ -432,7 +432,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXVzZVw+</entry>
         <entry encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</entry>
         <entry>has</entry>
         <entry>Channel</entry>
@@ -452,6 +451,7 @@
         <entry>phase</entry>
         <entry>scale_si</entry>
         <entry>'''</entry>
+        <entry>spectro</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
