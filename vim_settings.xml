@@ -35,12 +35,12 @@
         <mark key="]" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1502796881455">
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1502875430045">
         <mark key="'" line="18" column="103" />
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
+        <mark key="[" line="31" column="56" />
+        <mark key="]" line="31" column="56" />
+        <mark key="^" line="31" column="56" />
+        <mark key="." line="31" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_common.py" timestamp="1487942691707">
         <mark key="'" line="205" column="42" />
@@ -368,11 +368,11 @@
       <jump line="18" column="103" filename="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQocykK</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>phase</text>
