@@ -17,7 +17,7 @@
         <mark key="^" line="263" column="9" />
         <mark key="." line="263" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1502797361650">
+      <file name="/Python Console" timestamp="1502898476985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/spectrum.py" timestamp="1502721465956">
@@ -69,12 +69,12 @@
         <mark key="^" line="162" column="37" />
         <mark key="." line="162" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" timestamp="1502897478699">
-        <mark key="'" line="399" column="71" />
-        <mark key="[" line="412" column="40" />
-        <mark key="]" line="412" column="52" />
-        <mark key="^" line="412" column="52" />
-        <mark key="." line="412" column="52" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" timestamp="1502898832468">
+        <mark key="'" line="399" column="74" />
+        <mark key="[" line="399" column="103" />
+        <mark key="]" line="399" column="106" />
+        <mark key="^" line="399" column="106" />
+        <mark key="." line="399" column="106" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1502729042871">
         <mark key="'" line="81" column="9" />
@@ -267,10 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="71" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
-      <jump line="203" column="46" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
-      <jump line="210" column="65" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
-      <jump line="232" column="71" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="237" column="42" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="248" column="77" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="282" column="25" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
@@ -367,19 +363,23 @@
       <jump line="266" column="71" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
       <jump line="327" column="37" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
       <jump line="402" column="71" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="273" column="54" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="284" column="73" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="336" column="89" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="399" column="74" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>512</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>512</text>
       </register>
       <register name="/" type="4">
-        <text>clean</text>
+        <text>256</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZmVhdHVyZXNfdHlwZSA9ICdsb2dmYmFuaycK</text>
+      <register name="0" type="4">
+        <text>NFFT // 2 + 1</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -424,21 +424,20 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2NsZWFuL25vaXN5L2c=</text>
+        <text encoding="base64">JzwsJz5zLzI1Ni9ORklMVC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>clean</last-search>
+      <last-search>256</last-search>
       <last-offset />
-      <last-pattern>clean</last-pattern>
-      <last-replace>noisy</last-replace>
-      <last-substitute>clean</last-substitute>
+      <last-pattern>256</last-pattern>
+      <last-replace>NFILT</last-replace>
+      <last-substitute>256</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>has</entry>
         <entry>Channel</entry>
         <entry>cl</entry>
         <entry>load_app</entry>
@@ -458,6 +457,7 @@
         <entry>'''</entry>
         <entry>spectro</entry>
         <entry>clean</entry>
+        <entry>256</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
@@ -479,6 +479,7 @@
         <entry encoding="base64">JzwsJz5zL251bXB5L25wL2c=</entry>
         <entry encoding="base64">JzwsJz5zLycnJy8iIiIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NsZWFuL25vaXN5L2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzI1Ni9ORklMVC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
