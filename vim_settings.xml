@@ -55,6 +55,9 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1502889114959">
+        <mark key="'" line="72" column="52" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493396116543">
         <mark key="'" line="194" column="46" />
         <mark key="[" line="162" column="37" />
@@ -266,7 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="27" filename="$USER_HOME$/PycharmProjects/XYZ/apps/dummy.py" />
       <jump line="411" column="57" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="419" column="69" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="428" column="102" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
@@ -366,6 +368,7 @@
       <jump line="152" column="33" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/audioreconstruction/sigproc.py" />
       <jump line="18" column="103" filename="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" />
+      <jump line="72" column="52" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -375,7 +378,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>phase</text>
+        <text>scale_si</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICIiIkNvbXB1dGUgdGhlIHBvd2VyIHNwZWN0cnVtIG9mIGVhY2ggZnJhbWUgaW4gZnJhbWVzLiBJZiBmcmFtZXMgaXMgYW4gTnhEIG1hdHJpeCwgb3V0cHV0IHdpbGwgYmUgTngoTkZGVC8yKzEpLgoKICAgIDpwYXJhbSBmcmFtZXM6IHRoZSBhcnJheSBvZiBmcmFtZXMuIEVhY2ggcm93IGlzIGEgZnJhbWUuCiAgICA6cGFyYW0gTkZGVDogdGhlIEZGVCBsZW5ndGggdG8gdXNlLiBJZiBORkZUID4gZnJhbWVfbGVuLCB0aGUgZnJhbWVzIGFyZSB6ZXJvLXBhZGRlZC4KICAgIDpyZXR1cm5zOiBJZiBmcmFtZXMgaXMgYW4gTnhEIG1hdHJpeCwgb3V0cHV0IHdpbGwgYmUgTngoTkZGVC8yKzEpLiBFYWNoIHJvdyB3aWxsIGJlIHRoZSBwb3dlciBzcGVjdHJ1bSBvZiB0aGUgY29ycmVzcG9uZGluZyBmcmFtZS4KICAgICIiIgo=</text>
@@ -428,9 +431,9 @@
       </register>
     </registers>
     <search>
-      <last-search>phase</last-search>
+      <last-search>scale_si</last-search>
       <last-offset />
-      <last-pattern>phase</last-pattern>
+      <last-pattern>scale_si</last-pattern>
       <last-replace>np</last-replace>
       <last-substitute>numpy</last-substitute>
       <last-dir>1</last-dir>
@@ -438,7 +441,6 @@
     </search>
     <history>
       <history-search>
-        <entry>xrange</entry>
         <entry>train</entry>
         <entry encoding="base64">XDxyZXVzZVw+</entry>
         <entry encoding="base64">XDxkaXNjcmltaW5hdG9yX29sZFw+</entry>
@@ -458,6 +460,7 @@
         <entry>round</entry>
         <entry>numpy</entry>
         <entry>phase</entry>
+        <entry>scale_si</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
