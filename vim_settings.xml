@@ -258,11 +258,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/read.py" timestamp="1502975413066">
-        <mark key="'" line="39" column="15" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/read.py" timestamp="1502976120442">
+        <mark key="'" line="46" column="7" />
+        <mark key="[" line="95" column="68" />
+        <mark key="]" line="95" column="85" />
+        <mark key="." line="95" column="85" />
+        <mark key="^" line="95" column="85" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
         <mark key="[" line="3" column="0" />
@@ -272,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="77" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="282" column="25" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="309" column="74" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
       <jump line="328" column="39" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
@@ -372,22 +372,23 @@
       <jump line="336" column="89" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
       <jump line="399" column="74" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
       <jump line="39" column="15" filename="$USER_HOME$/PycharmProjects/XYZ/core/read.py" />
+      <jump line="41" column="7" filename="$USER_HOME$/PycharmProjects/XYZ/core/read.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG5hbWVkdHVwbGVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>tf.int32</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>tf.int32</text>
       </register>
       <register name="/" type="4">
         <text>256</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGVuc29yc19wb3N0X2Nhc3Rba10gPSB0Zi5jYXN0KHRlbnNvcnNfcHJlX2Nhc3RbZmVhdHVyZXNfbmFtZV0sIHRmLmludDMyKQo=</text>
+        <text encoding="base64">ICAgICdmbG9hdCc6IFNjYWxhclR5cGUoVEZSX0ZMT0FULCB0Zi5mbG9hdDMyKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5hbWVkdHVwbGVzCg==</text>
+        <text encoding="base64">ICAgICAgZWxpZiBkdHlwZSA9PSAnZmxvYXQnOgogICAgICAgIHNlcV9mZWF0dXJlcyA9IHRmLmRlY29kZV9yYXcodGVuc29yc19wcmVfY2FzdFtmZWF0dXJlc19uYW1lXSwgdGYuZmxvYXQzMikKICAgICAgZWxpZiBkdHlwZSA9PSAndWludDgnOgogICAgICAgIHNlcV9mZWF0dXJlcyA9IHRmLmRlY29kZV9yYXcodGVuc29yc19wcmVfY2FzdFtmZWF0dXJlc19uYW1lXSwgdGYudWludDgpCiAgICAgIGVsc2U6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -405,28 +406,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdpbnQxNic6IHRmLmludDE2LAo=</text>
+        <text encoding="base64">ICAgICAgaWYgZHR5cGUgPT0gJ2ludCc6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIFRoZXNlIGFyZSB0aGUgdHlwZXMgdGhhdCB0aGUgZW5jb2RlZCB0ZW5zb3JzIGNhbiBoYXZlLiBZb3UgY2FuIGVhc2lseSBhZGQgbW9yZS4KICB0ZW5zb3JfdHlwZXMgPSB7CiAgICAnaW50MTYnOiB0Zi5pbnQxNiwKICAgICdpbnQnOiB0Zi5pbnQzMiwKICAgICdpbnQzMic6IHRmLmludDMyLAogICAgJ2ludDY0JzogdGYuaW50NjQsCiAgICAndWludDgnOiB0Zi51aW50OCwKICAgICdmbG9hdCc6IHRmLmZsb2F0MzIsCiAgICAnZmxvYXQzMic6IHRmLmZsb2F0MzIsCiAgICAnZmxvYXQ2NCc6IHRmLmZsb2F0NjQsCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyB0ZW5zb3JzX3Bvc3RfY2FzdFtrXSA9IHRmLmNhc3QodGVuc29yc19wcmVfY2FzdFtmZWF0dXJlc19uYW1lXSwgdGYuaW50MzIpCg==</text>
+        <text encoding="base64">ICAgICdmbG9hdDMyJzogdGYuZmxvYXQzMiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGR0eXBlID09ICdzdHJpbmcnOgogICAgICB0ZW5zb3JzX3Bvc3RfY2FzdFtrXSA9IHRlbnNvcnNfcHJlX2Nhc3Rba10K</text>
+        <text encoding="base64">aW1wb3J0IG5hbWVkdHVwbGVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgZHR5cGUgPT0gJ2ludCc6Cg==</text>
+        <text encoding="base64">ICAgICdpbnQxNic6IHRmLmludDE2LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIEF0IHRoZSBmaXJzdCBzdGFnZSwgZXh0cmFjdCBhbGwgdGVuc29ycyBmcm9tIHRoZSAudGZyIGZpbGUgKGJvdGggdGVuc29ycyB0aGF0IHdpbGwgYmUgZW5kcG9pbnRzLCBhbmQgdGVuc29ycyB0aGF0IGRlbm90ZQogICMgc2hhcGVzIG9mIG90aGVyIHRlbnNvcnMuCiAgIyBpZiB0aGUgc2hhcGUgaXMgbm90IFtdLCB0aGlzIGlzIGEgc2VxdWVuY2UvbWF0cml4IGFuZCB3ZSBzdG9yZSBpdCBhcyBieXRlcywgdGhlcmVmb3JlIHRoZSB0eXBlIGlzIHN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgIyB0ZW5zb3JzX3Bvc3RfY2FzdFtrXSA9IHRmLmNhc3QodGVuc29yc19wcmVfY2FzdFtmZWF0dXJlc19uYW1lXSwgdGYuaW50MzIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgZHR5cGUgPT0gJ2ludCc6Cg==</text>
+        <text encoding="base64">ICAgIGlmIGR0eXBlID09ICdzdHJpbmcnOgogICAgICB0ZW5zb3JzX3Bvc3RfY2FzdFtrXSA9IHRlbnNvcnNfcHJlX2Nhc3Rba10K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzI1Ni9ORklMVC9n</text>
@@ -465,7 +466,6 @@
         <entry>256</entry>
       </history-search>
       <history-cmd>
-        <entry>267</entry>
         <entry>278</entry>
         <entry>115</entry>
         <entry>354</entry>
@@ -485,6 +485,7 @@
         <entry encoding="base64">JzwsJz5zLycnJy8iIiIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NsZWFuL25vaXN5L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzI1Ni9ORklMVC9n</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
