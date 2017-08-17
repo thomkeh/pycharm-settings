@@ -137,7 +137,7 @@
         <mark key="^" line="75" column="59" />
         <mark key="." line="75" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502896851782">
+      <file name="/Dummy.txt" timestamp="1502973041581">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
@@ -258,7 +258,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/read.py" timestamp="1502897783907" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/read.py" timestamp="1502973540211">
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="40" column="9" />
+        <mark key="^" line="40" column="9" />
+        <mark key="." line="40" column="9" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="48" />
