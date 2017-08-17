@@ -17,7 +17,7 @@
         <mark key="^" line="263" column="9" />
         <mark key="." line="263" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1502898476985">
+      <file name="/Python Console" timestamp="1502979573932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/spectrum.py" timestamp="1502721465956">
@@ -29,11 +29,6 @@
       </file>
       <file name="/a.dummy" timestamp="1502720974606">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei.py" timestamp="1497366227028">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1502875430045">
         <mark key="'" line="18" column="103" />
@@ -68,13 +63,6 @@
         <mark key="]" line="162" column="37" />
         <mark key="^" line="162" column="37" />
         <mark key="." line="162" column="37" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" timestamp="1502899744037">
-        <mark key="'" line="399" column="74" />
-        <mark key="[" line="273" column="49" />
-        <mark key="]" line="273" column="49" />
-        <mark key="^" line="401" column="51" />
-        <mark key="." line="273" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1502729042871">
         <mark key="'" line="81" column="9" />
@@ -136,11 +124,6 @@
         <mark key="]" line="75" column="59" />
         <mark key="^" line="75" column="59" />
         <mark key="." line="75" column="59" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1502976200256">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496399650066">
         <mark key="[" line="10" column="29" />
@@ -213,12 +196,12 @@
         <mark key="[" line="86" column="0" />
         <mark key="]" line="91" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_common.py" timestamp="1502977911360">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_common.py" timestamp="1502980794405">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="237" column="4" />
-        <mark key="]" line="237" column="13" />
-        <mark key="." line="237" column="13" />
-        <mark key="^" line="237" column="13" />
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="0" />
+        <mark key="." line="230" column="0" />
+        <mark key="^" line="236" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/train.py" timestamp="1493396746176">
         <mark key="'" line="7" column="23" />
@@ -377,20 +360,20 @@
       <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Choose</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdzdHJpbmcnOiBfYnl0ZXNfZmVhdHVyZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>Choose</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>256</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsc2U6ICAjIEl0IGlzIGEgc2VxdWVuY2UgLyBtYXRyaXgK</text>
+        <text encoding="base64">ICAgICAgICAgICdkdW1teSc6IFsnZHVtbXknLCAnaW50JywgW11dLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWxfZGljdCA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICdzdHJpbmcnOiBfYnl0ZXNfZmVhdHVyZSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -408,28 +391,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgUmV0dXJuczoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgWydjbGVhbl9tZWFuJywgY2xlYW5fbWVhbi5hc3R5cGUobnAuZmxvYXQzMikudG9zdHJpbmcoKSwgJ2J5dGVzJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgIFsnY2xlYW5fc3RkJywgY2xlYW5fc3RkLmFzdHlwZShucC5mbG9hdDMyKS50b3N0cmluZygpLCAnYnl0ZXMnXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiIiIKICAKICAKICAiIiIK</text>
+        <text encoding="base64">ICB2YWxfZGljdCA9IHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgUmV0dXJuczoKCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGlmIHR5cGUgPT0gJ2J5dGVzJzoKICAgICAgZiA9IF9ieXRlc19mZWF0dXJlCiAgICBlbGlmIHR5cGUgPT0gJ2ludCc6CiAgICAgIGYgPSBfaW50NjRfZmVhdHVyZQogICAgZWxpZiB0eXBlID09ICdmbG9hdCc6CiAgICAgIGYgPSBfZmxvYXRfZmVhdHVyZQogICAgZWxzZTo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAiIiIKICAKICAKICAiIiIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAKICAjIHRmciBmaWxlIHRvIHRlbnNvcgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGlmIHR5cGUgPT0gJ2J5dGVzJzoKICAgICAgZiA9IF9ieXRlc19mZWF0dXJlCiAgICBlbGlmIHR5cGUgPT0gJ2ludCc6CiAgICAgIGYgPSBfaW50NjRfZmVhdHVyZQogICAgZWxpZiB0eXBlID09ICdmbG9hdCc6CiAgICAgIGYgPSBfZmxvYXRfZmVhdHVyZQogICAgZWxzZTo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmZWF0dXJlcyA9IHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyBjb252ZXJ0IGl0IGFjY29yZGluZyB0byB0aGUgc2NhbGFyIHR5cGUK</text>
+        <text encoding="base64">ICAKICAjIHRmciBmaWxlIHRvIHRlbnNvcgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzI1Ni9ORklMVC9n</text>
