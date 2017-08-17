@@ -17,7 +17,7 @@
         <mark key="^" line="263" column="9" />
         <mark key="." line="263" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1502979573932">
+      <file name="/Python Console" timestamp="1502986397900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/spectrum.py" timestamp="1502721465956">
@@ -64,12 +64,12 @@
         <mark key="^" line="162" column="37" />
         <mark key="." line="162" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" timestamp="1502984785866">
-        <mark key="'" line="340" column="25" />
-        <mark key="[" line="396" column="117" />
-        <mark key="]" line="397" column="100" />
-        <mark key="." line="397" column="100" />
-        <mark key="^" line="397" column="100" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" timestamp="1502987094804">
+        <mark key="'" line="280" column="47" />
+        <mark key="[" line="429" column="42" />
+        <mark key="]" line="429" column="42" />
+        <mark key="." line="429" column="42" />
+        <mark key="^" line="279" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1502729042871">
         <mark key="'" line="81" column="9" />
@@ -131,11 +131,6 @@
         <mark key="]" line="75" column="59" />
         <mark key="^" line="75" column="59" />
         <mark key="." line="75" column="59" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1502981779687">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496399650066">
         <mark key="[" line="10" column="29" />
@@ -270,11 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="390" column="56" filename="$USER_HOME$/PycharmProjects/XYZ/core/train.py" />
-      <jump line="202" column="16" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
-      <jump line="21" column="34" filename="$USER_HOME$/PycharmProjects/XYZ/apps/dummy.py" />
-      <jump line="324" column="13" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
-      <jump line="306" column="36" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
       <jump line="293" column="15" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
       <jump line="291" column="16" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
       <jump line="290" column="16" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
@@ -370,22 +360,27 @@
       <jump line="105" column="30" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_common.py" />
       <jump line="226" column="9" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_common.py" />
       <jump line="340" column="25" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="396" column="55" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="5" column="49" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="414" column="61" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="403" column="64" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="280" column="47" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>logfbank_windowed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q29tcHV0ZSBtZWFuIGFuZCBzdGQgb3ZlciB3aG9sZSBjbGlwIGFuZCBzdG9yZSB0aGVtIGFzIHNjYWxhcnMK</text>
       </register>
       <register name="-" type="4">
-        <text>logfbank_windowed</text>
+        <text>, compress=True</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZnJfd3JpdGVyc1w+</text>
+        <text>64</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgWydzZXFfbGVuJywgY2xlYW5fbG9nZmJhbmsuc2hhcGVbMF0sICdpbnQnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICdjbGVhbl9lbmVyZ3knOiBbJ2NsZWFuX2VuZXJneScsICdmbG9hdDY0JywgWydzZXFfbGVuJ11dLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzY2lweS5zaWduYWwud2luZG93cyBpbXBvcnQgaGFubgo=</text>
+        <text encoding="base64">Q29tcHV0ZSBtZWFuIGFuZCBzdGQgb3ZlciB3aG9sZSBjbGlwIGFuZCBzdG9yZSB0aGVtIGFzIHNjYWxhcnMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -403,47 +398,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2xvYmFsIHRmcl93cml0ZXJzCnRmcl93cml0ZXJzID0ge30KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICdub2lzeV9tZWFuJzogWydub2lzeV9tZWFuJywgJ2Zsb2F0JywgW11dLAogICAgICAgICAgJ25vaXN5X3N0ZCc6IFsnbm9pc3lfc3RkJywgJ2Zsb2F0JywgW11dLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnbG9iYWwgdGZyX3dyaXRlcnMKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICdjbGVhbl9tZWFuJzogWydjbGVhbl9tZWFuJywgJ2Zsb2F0JywgW11dLAogICAgICAgICAgJ2NsZWFuX3N0ZCc6IFsnY2xlYW5fc3RkJywgJ2Zsb2F0JywgW11dLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93IGltcG9ydCB0cmFpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xlYW5fbWVhbiwgY2xlYW5fc3RkID0gY2xlYW5fZmJhbmsubWVhbigpLCBjbGVhbl9mYmFuay5zdGQoKQogICAgICAgICAgICBjbGVhbl9mYmFuayA9IChjbGVhbl9mYmFuayAtIGNsZWFuX21lYW4pIC8gY2xlYW5fc3RkCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIAogICAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgWydjbGVhbl9tZWFuJywgY2xlYW5fbWVhbi5hc3R5cGUobnAuZmxvYXQzMiksICdmbG9hdCddLAogICAgICAgICAgICAgICAgICBbJ2NsZWFuX3N0ZCcsIGNsZWFuX3N0ZC5hc3R5cGUobnAuZmxvYXQzMiksICdmbG9hdCddLAogICAgICAgICAgICAgICAgICBbJ25vaXN5X21lYW4nLCBub2lzeV9tZWFuLmFzdHlwZShucC5mbG9hdDMyKSwgJ2Zsb2F0J10sCiAgICAgICAgICAgICAgICAgIFsnbm9pc3lfc3RkJywgbm9pc3lfc3RkLmFzdHlwZShucC5mbG9hdDMyKSwgJ2Zsb2F0J10sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdzdHJpbmcnOiBfYnl0ZXNfZmVhdHVyZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAjIEkgZG9uJ3QgdGhpbmsgaXQgbWFrZXMgc2Vuc2UgdG8gd2hpdGVuIGVhY2ggZmVhdHVyZSBzZXBhcmF0ZWx5CiAgICAgICAgICAgICAgIyB0aGUgZmVhdHVyZXMgYXJlIHN1cHBvc2VkIHRvIGJlIGdvb2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgWydjbGVhbl9tZWFuJywgY2xlYW5fbWVhbi5hc3R5cGUobnAuZmxvYXQzMikudG9zdHJpbmcoKSwgJ2J5dGVzJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgIFsnY2xlYW5fc3RkJywgY2xlYW5fc3RkLmFzdHlwZShucC5mbG9hdDMyKS50b3N0cmluZygpLCAnYnl0ZXMnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBub2lzeV9tZWFuLCBub2lzeV9zdGQgPSBub2lzeV9mYmFuay5tZWFuKCksIG5vaXN5X2ZiYW5rLnN0ZCgpCiAgICAgICAgICAgICAgbm9pc3lfZmJhbmsgPSAobm9pc3lfZmJhbmsgLSBub2lzeV9tZWFuKSAvIG5vaXN5X3N0ZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWxfZGljdCA9IHt9Cg==</text>
+        <text encoding="base64">ZnJvbSBzY2lweS5zaWduYWwud2luZG93cyBpbXBvcnQgaGFubgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgUmV0dXJuczoKCg==</text>
+        <text encoding="base64">Z2xvYmFsIHRmcl93cml0ZXJzCnRmcl93cml0ZXJzID0ge30KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/logfbank/fbank/gc</text>
+        <text encoding="base64">JzwsJz5zLzY0Ly9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZnJfd3JpdGVyc1w+</last-search>
+      <last-search>64</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZnJfd3JpdGVyc1w+</last-pattern>
-      <last-replace>fbank</last-replace>
-      <last-substitute>logfbank</last-substitute>
+      <last-pattern>64</last-pattern>
+      <last-replace />
+      <last-substitute>64</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>load_app</entry>
-        <entry>name</entry>
-        <entry>AppCl</entry>
         <entry>norm</entry>
         <entry>std</entry>
         <entry>split_</entry>
@@ -461,11 +453,11 @@
         <entry>256</entry>
         <entry>logfbank</entry>
         <entry encoding="base64">XDx0ZnJfd3JpdGVyc1w+</entry>
+        <entry encoding="base64">XDxmYmFua193aXRoX3BoYXNlXD4=</entry>
+        <entry>32</entry>
+        <entry>64</entry>
       </history-search>
       <history-cmd>
-        <entry>115</entry>
-        <entry>354</entry>
-        <entry>58</entry>
         <entry>s/gender/age/g</entry>
         <entry>s/gender/language/g</entry>
         <entry>s/gender/nativeness/g</entry>
@@ -483,6 +475,9 @@
         <entry encoding="base64">JzwsJz5zLzI1Ni9ORklMVC9n</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
         <entry>%s/logfbank/fbank/gc</entry>
+        <entry encoding="base64">JzwsJz5zLzMyLzY0L2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzY0LzMyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzY0Ly9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
