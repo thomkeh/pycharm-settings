@@ -50,12 +50,12 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1502890672607">
-        <mark key="'" line="72" column="52" />
-        <mark key="[" line="307" column="36" />
-        <mark key="]" line="308" column="78" />
-        <mark key="^" line="308" column="78" />
-        <mark key="." line="308" column="78" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1503059722846">
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="^" line="166" column="0" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493396116543">
         <mark key="'" line="194" column="46" />
@@ -265,10 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="15" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
-      <jump line="291" column="16" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
-      <jump line="290" column="16" filename="$USER_HOME$/PycharmProjects/XYZ/core/common.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/apps/base.py" />
       <jump line="144" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/core/read.py" />
       <jump line="282" column="47" filename="$USER_HOME$/PycharmProjects/XYZ/core/read.py" />
       <jump line="147" column="26" filename="$USER_HOME$/PycharmProjects/XYZ/core/read.py" />
@@ -365,22 +361,26 @@
       <jump line="414" column="61" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
       <jump line="403" column="64" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
       <jump line="280" column="47" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="281" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="283" column="14" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="744" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="169" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q29tcHV0ZSBtZWFuIGFuZCBzdGQgb3ZlciB3aG9sZSBjbGlwIGFuZCBzdG9yZSB0aGVtIGFzIHNjYWxhcnMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, compress=True</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>64</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICdjbGVhbl9lbmVyZ3knOiBbJ2NsZWFuX2VuZXJneScsICdmbG9hdDY0JywgWydzZXFfbGVuJ11dLAo=</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS10cmFpbl9maWxlcyIsIGhlbHA9InBhdGggdG8gZmlsZSBjb250YWluaW5nIHRyYWluaW5nIGZpbGUgbmFtZXMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q29tcHV0ZSBtZWFuIGFuZCBzdGQgb3ZlciB3aG9sZSBjbGlwIGFuZCBzdG9yZSB0aGVtIGFzIHNjYWxhcnMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -397,46 +397,45 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICdub2lzeV9tZWFuJzogWydub2lzeV9tZWFuJywgJ2Zsb2F0JywgW11dLAogICAgICAgICAgJ25vaXN5X3N0ZCc6IFsnbm9pc3lfc3RkJywgJ2Zsb2F0JywgW11dLAo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICdjbGVhbl9tZWFuJzogWydjbGVhbl9tZWFuJywgJ2Zsb2F0JywgW11dLAogICAgICAgICAgJ2NsZWFuX3N0ZCc6IFsnY2xlYW5fc3RkJywgJ2Zsb2F0JywgW11dLAo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xlYW5fbWVhbiwgY2xlYW5fc3RkID0gY2xlYW5fZmJhbmsubWVhbigpLCBjbGVhbl9mYmFuay5zdGQoKQogICAgICAgICAgICBjbGVhbl9mYmFuayA9IChjbGVhbl9mYmFuayAtIGNsZWFuX21lYW4pIC8gY2xlYW5fc3RkCg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgWydjbGVhbl9tZWFuJywgY2xlYW5fbWVhbi5hc3R5cGUobnAuZmxvYXQzMiksICdmbG9hdCddLAogICAgICAgICAgICAgICAgICBbJ2NsZWFuX3N0ZCcsIGNsZWFuX3N0ZC5hc3R5cGUobnAuZmxvYXQzMiksICdmbG9hdCddLAogICAgICAgICAgICAgICAgICBbJ25vaXN5X21lYW4nLCBub2lzeV9tZWFuLmFzdHlwZShucC5mbG9hdDMyKSwgJ2Zsb2F0J10sCiAgICAgICAgICAgICAgICAgIFsnbm9pc3lfc3RkJywgbm9pc3lfc3RkLmFzdHlwZShucC5mbG9hdDMyKSwgJ2Zsb2F0J10sCg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAjIEkgZG9uJ3QgdGhpbmsgaXQgbWFrZXMgc2Vuc2UgdG8gd2hpdGVuIGVhY2ggZmVhdHVyZSBzZXBhcmF0ZWx5CiAgICAgICAgICAgICAgIyB0aGUgZmVhdHVyZXMgYXJlIHN1cHBvc2VkIHRvIGJlIGdvb2QK</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBub2lzeV9tZWFuLCBub2lzeV9zdGQgPSBub2lzeV9mYmFuay5tZWFuKCksIG5vaXN5X2ZiYW5rLnN0ZCgpCiAgICAgICAgICAgICAgbm9pc3lfZmJhbmsgPSAobm9pc3lfZmJhbmsgLSBub2lzeV9tZWFuKSAvIG5vaXN5X3N0ZAo=</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzY2lweS5zaWduYWwud2luZG93cyBpbXBvcnQgaGFubgo=</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Z2xvYmFsIHRmcl93cml0ZXJzCnRmcl93cml0ZXJzID0ge30KCg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzY0Ly9n</text>
+        <text encoding="base64">JzwsJz5zLyAgICAvICAvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>64</last-search>
+      <last-search encoding="base64">ICAgIA==</last-search>
       <last-offset />
-      <last-pattern>64</last-pattern>
-      <last-replace />
-      <last-substitute>64</last-substitute>
+      <last-pattern encoding="base64">ICAgIA==</last-pattern>
+      <last-replace encoding="base64">ICA=</last-replace>
+      <last-substitute encoding="base64">ICAgIA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>norm</entry>
         <entry>std</entry>
         <entry>split_</entry>
         <entry encoding="base64">XDxnZXRfaW5wdXRcPg==</entry>
@@ -456,9 +455,9 @@
         <entry encoding="base64">XDxmYmFua193aXRoX3BoYXNlXD4=</entry>
         <entry>32</entry>
         <entry>64</entry>
+        <entry encoding="base64">ICAgIA==</entry>
       </history-search>
       <history-cmd>
-        <entry>s/gender/age/g</entry>
         <entry>s/gender/language/g</entry>
         <entry>s/gender/nativeness/g</entry>
         <entry>388</entry>
@@ -478,6 +477,7 @@
         <entry encoding="base64">JzwsJz5zLzMyLzY0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzY0LzMyL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzY0Ly9n</entry>
+        <entry encoding="base64">JzwsJz5zLyAgICAvICAvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
