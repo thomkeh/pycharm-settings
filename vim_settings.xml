@@ -50,8 +50,8 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1503319866559">
-        <mark key="'" line="25" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1503321847538">
+        <mark key="'" line="691" column="31" />
         <mark key="[" line="217" column="0" />
         <mark key="]" line="217" column="0" />
         <mark key="^" line="217" column="25" />
@@ -275,8 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="58" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
-      <jump line="238" column="58" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
       <jump line="290" column="31" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
       <jump line="328" column="33" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
       <jump line="739" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
@@ -372,9 +370,11 @@
       <jump line="680" column="20" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="681" column="27" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="682" column="49" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="691" column="21" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="620" column="45" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="620" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="621" column="7" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="664" column="25" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="691" column="31" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -384,7 +384,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>logdir</text>
+        <text encoding="base64">XDxzdlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRlbnNvcl9wYWRkZWQgPSB6ZXJvX3BhZGRpbmcodGVuc29yLCBhLmNyb3Bfc2l6ZSArIGEuY3JvcF9udW1iZXIpCg==</text>
@@ -436,9 +436,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logdir</last-search>
+      <last-search encoding="base64">XDxzdlw+</last-search>
       <last-offset />
-      <last-pattern>logdir</last-pattern>
+      <last-pattern encoding="base64">XDxzdlw+</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">ICAgIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -446,7 +446,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'''</entry>
         <entry>spectro</entry>
         <entry>clean</entry>
         <entry>256</entry>
@@ -466,6 +465,7 @@
         <entry>summary</entry>
         <entry>sv</entry>
         <entry>logdir</entry>
+        <entry encoding="base64">XDxzdlw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/gender/language/g</entry>
