@@ -17,7 +17,7 @@
         <mark key="^" line="263" column="9" />
         <mark key="." line="263" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1504543959842">
+      <file name="/Python Console" timestamp="1504630058905">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/spectrum.py" timestamp="1502721465956">
@@ -27,13 +27,13 @@
         <mark key="^" line="54" column="31" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1504610756133">
+      <file name="/a.dummy" timestamp="1504629837623">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1502875430045">
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1504629874611">
         <mark key="'" line="18" column="103" />
-        <mark key="[" line="31" column="56" />
-        <mark key="]" line="31" column="56" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="32" column="50" />
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
@@ -75,7 +75,7 @@
         <mark key="." line="429" column="42" />
         <mark key="^" line="279" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1502729042871">
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1504630560801">
         <mark key="'" line="81" column="9" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="63" column="19" />
@@ -118,12 +118,12 @@
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
         <mark key="[" line="0" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" timestamp="1502797284686">
-        <mark key="'" line="156" column="33" />
-        <mark key="[" line="157" column="9" />
-        <mark key="]" line="157" column="13" />
-        <mark key="." line="157" column="13" />
-        <mark key="^" line="159" column="67" />
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" timestamp="1504630698042">
+        <mark key="'" line="162" column="33" />
+        <mark key="[" line="33" column="41" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="5" />
+        <mark key="^" line="34" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/audio_signal.py" timestamp="1500652349120">
         <mark key="[" line="5" column="0" />
@@ -197,9 +197,9 @@
         <mark key="." line="498" column="33" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank_test.py" timestamp="1502797386639">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank_test.py" timestamp="1504629859808">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="24" />
       </file>
@@ -249,12 +249,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1502728955203">
-        <mark key="'" line="68" column="53" />
-        <mark key="[" line="68" column="53" />
-        <mark key="]" line="68" column="57" />
-        <mark key="." line="68" column="57" />
-        <mark key="^" line="68" column="57" />
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
+        <mark key="'" line="101" column="53" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="24" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/queue_test/main.py" timestamp="1488557164582">
         <mark key="'" line="42" column="45" />
@@ -406,20 +406,20 @@
       <jump line="119" column="31" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mask</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyByZWNvbnN0cnVjdF9mcm9tX2xvZ2ZiYW5rKGYsIHIsICIuL3JlY19sb2dmLndhdiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>mask</text>
+        <text>, noisy_p</text>
       </register>
       <register name="/" type="4">
         <text>mask</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgTG9nZmJhbmtNYXNrKFJhdyk6CiAgZGVmIF9faW5pdF9fKHNlbGYsIGlzX3RyYWluKToKICAgIHN1cGVyKExvZ2ZiYW5rTWFzaywgc2VsZikuX19pbml0X18oaXNfdHJhaW4pCgogIGRlZiBwcmVwcm9jZXNzKHNlbGYsIGlucHV0X2RhdGEpOgogICAgbm9pc3lfZmJhbmssIGNsZWFuX2ZiYW5rLCByZWNvbnN0cnVjdGlvbl9kYXRhLCB0b19jcm9wID0gc3VwZXIoTG9nZmJhbmtNYXNrLCBzZWxmKS5wcmVwcm9jZXNzKGlucHV0X2RhdGEpCiAgICBub2lzeV9sb2dmYmFua19ub25zdGQgPSB0Zi5sb2cobm9pc3lfZmJhbmspCiAgICBub2lzeV9sb2dmYmFuaywgbm9pc3lfbWVhbiwgbm9pc3lfc3RkID0gcGVyX2ltYWdlX3N0YW5kYXJkaXphdGlvbihub2lzeV9sb2dmYmFua19ub25zdGQpCiAgICBtYXNrX2xvZ2ZiYW5rLCBtYXNrX21lYW4sIG1hc2tfc3RkID0gcGVyX2ltYWdlX3N0YW5kYXJkaXphdGlvbihub2lzeV9sb2dmYmFua19ub25zdGQgLSB0Zi5sb2coY2xlYW5fZmJhbmspKQogICAgcmVjb25zdHJ1Y3Rpb25fZGF0YS51cGRhdGUoewogICAgICAnbm9pc3lfbWVhbic6IG5vaXN5X21lYW4sCiAgICAgICdub2lzeV9zdGQnOiBub2lzeV9zdGQsCiAgICAgICdtYXNrX21lYW4nOiBtYXNrX21lYW4sCiAgICAgICdtYXNrX3N0ZCc6IG1hc2tfc3RkLAogICAgfSkKICAgIHJldHVybiBub2lzeV9sb2dmYmFuaywgbWFza19sb2dmYmFuaywgcmVjb25zdHJ1Y3Rpb25fZGF0YSwgdG9fY3JvcAoKICBkZWYgZGVwcm9jZXNzKHNlbGYsIHRlbnNvcl9hLCB0ZW5zb3JfYiwgcmVjb25zdHJ1Y3Rpb25fZGF0YSk6CiAgICBub2lzeV9sb2dmYmFuaywgbWFza19sb2dmYmFuayA9ICh0ZW5zb3JfYSwgdGVuc29yX2IpCgogICAgbm9pc3lfbG9nZmJhbmtfbm9uc3RkID0gcmV2ZXJ0X3N0YW5kYXJkaXphdGlvbihub2lzeV9sb2dmYmFuaywgcmVjb25zdHJ1Y3Rpb25fZGF0YVsnbm9pc3lfbWVhbiddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNvbnN0cnVjdGlvbl9kYXRhWydub2lzeV9zdGQnXSkKICAgIHJlc3VsdCA9IHsKICAgICAgJ25vaXN5X2ZiYW5rJzogdGYuZXhwKG5vaXN5X2xvZ2ZiYW5rX25vbnN0ZCksCiAgICAgICdjbGVhbl9mYmFuayc6IHRmLmV4cChub2lzeV9sb2dmYmFua19ub25zdGQgLSByZXZlcnRfc3RhbmRhcmRpemF0aW9uKAogICAgICAgIG1hc2tfbG9nZmJhbmssIHJlY29uc3RydWN0aW9uX2RhdGFbJ21hc2tfbWVhbiddLCByZWNvbnN0cnVjdGlvbl9kYXRhWydtYXNrX3N0ZCddKSkKICAgIH0KICAgIHJlc3VsdC51cGRhdGUocmVjb25zdHJ1Y3Rpb25fZGF0YSkKICAgIHNlbGYuc3F1ZWV6ZV9waGFzZShyZXN1bHQpCiAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCgpmcm9tIHByb19pbnZlcnQgaW1wb3J0IGxvZ2ZiYW5rX3dpbmRvd2VkLCBybG9nZmJhbmsKZnJvbSBjb21tb24gaW1wb3J0IHJlYWRfd2F2LCB3cml0ZV93YXYKCgpkZWYgZXh0cmFjdF9sb2dmYmFuayhpbnB1dF9maWxlKToKICBzaWcsIHJhdGUsIF8gPSByZWFkX3dhdihpbnB1dF9maWxlKQogIGxvZ2ZiYW5rX2ZlYXQsIHBoYXNlID0gbG9nZmJhbmtfd2luZG93ZWQoc2lnLCByYXRlLCBuZmlsdD0xMDAsIG5mZnQ9NTEyKQogICMgbG9nZmJhbmtfZmVhdCwgXyA9IGxvZ2ZiYW5rX3dpbmRvd2VkKHNpZywgcmF0ZSkKICBhc3NlcnQgaXNpbnN0YW5jZShsb2dmYmFua19mZWF0LCBucC5uZGFycmF5KQoKICBmZWF0dXJlcyA9IGxvZ2ZiYW5rX2ZlYXQuYXN0eXBlKG5wLmZsb2F0MzIpCiAgcmV0dXJuIGZlYXR1cmVzLCByYXRlLCBwaGFzZQogICMgcmV0dXJuIGZlYXR1cmVzLCByYXRlCgoKZGVmIHJlY29uc3RydWN0X2Zyb21fbG9nZmJhbmsoZmVhdHVyZXMsIHJhdGUsIG91dHB1dF9maWxlLCBwaGFzZT1Ob25lKToKICAjIHdpbmZ1bmM9bnAuaGFubmluZwogIHdyaXRlX3dhdihvdXRwdXRfZmlsZSwgcmxvZ2ZiYW5rKGZlYXR1cmVzLCByYXRlLCBuZmlsdD0xMDAsIHBoYXNlPXBoYXNlLCBuZmZ0PTUxMiksIHJhdGUpCiAgIyB3cml0ZV93YXYob3V0cHV0X2ZpbGUsIHJsb2dmYmFuayhmZWF0dXJlcywgcmF0ZSksIHJhdGUpCgoKaW5wdXRfY2xlYW4gPSAiLi9hdWRpby9wMjI2XzAwMV9jbGVhbi53YXYiCmlucHV0X25vaXN5ID0gIi4vYXVkaW8vcDIyNl8wMDFfbm9pc3kud2F2IgoKZiwgciwgcCA9IGV4dHJhY3RfbG9nZmJhbmsoaW5wdXRfY2xlYW4pCl8sIF8sIG5vaXN5X3AgPSBleHRyYWN0X2xvZ2ZiYW5rKGlucHV0X25vaXN5KQojIGYsIHIgPSBleHRyYWN0X2xvZ2ZiYW5rKGlucHV0X2NsZWFuKQpyZWNvbnN0cnVjdF9mcm9tX2xvZ2ZiYW5rKGYsIHIsICIuL3JlY19sb2dmLndhdiIsIG5vaXN5X3ApCiMgcmVjb25zdHJ1Y3RfZnJvbV9sb2dmYmFuayhmLCByLCAiLi9yZWNfbG9nZi53YXYiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyByZWNvbnN0cnVjdF9mcm9tX2xvZ2ZiYW5rKGYsIHIsICIuL3JlY19sb2dmLndhdiIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -434,30 +434,30 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">IyBmLCByID0gZXh0cmFjdF9sb2dmYmFuayhpbnB1dF9jbGVhbikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG5vaXN5X2xvZ2ZiYW5rX25vbnN0ZCA9IAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>revert_standardization(noisy_logfbank, reconstruction_data['noisy_mean'],
                                                    reconstruction_data['noisy_std'])</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIG5vaXN5X2xvZ2ZiYW5rX25vbnN0ZCA9IAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG5vaXN5X2ZiYW5rX25vbnN0ZCA9IAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>revert_standardization(noisy_fbank, reconstruction_data['noisy_mean'],
                                                 reconstruction_data['noisy_std'])</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgX19pbml0X18oc2VsZiwgaXNfdHJhaW4pOgogICAgc3VwZXIoRmJhbmtNYXNrLCBzZWxmKS5fX2luaXRfXyhpc190cmFpbikK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICBSZXR1cm5zOgoK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21hc2svY2xlYW4vZw==</text>
