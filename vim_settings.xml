@@ -50,12 +50,12 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1504611195301">
-        <mark key="'" line="37" column="22" />
-        <mark key="[" line="551" column="0" />
-        <mark key="]" line="552" column="92" />
-        <mark key="^" line="552" column="92" />
-        <mark key="." line="552" column="92" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1504612008816">
+        <mark key="'" line="661" column="8" />
+        <mark key="[" line="665" column="0" />
+        <mark key="]" line="666" column="72" />
+        <mark key="^" line="666" column="72" />
+        <mark key="." line="666" column="72" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493396116543">
         <mark key="'" line="194" column="46" />
@@ -132,7 +132,7 @@
         <mark key="^" line="75" column="59" />
         <mark key="." line="75" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504611202191">
+      <file name="/Dummy.txt" timestamp="1504612049381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -285,11 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="34" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="26" column="20" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/tf_helper.py" />
-      <jump line="245" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="537" column="19" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="543" column="20" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="544" column="43" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="605" column="27" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="606" column="20" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -304,10 +299,8 @@
       <jump line="92" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="113" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="114" column="56" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="555" column="8" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="559" column="22" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="610" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="661" column="42" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="76" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="300" column="11" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="466" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -358,10 +351,6 @@
       <jump line="723" column="15" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="744" column="13" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="212" column="26" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="548" column="8" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="552" column="14" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="553" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="554" column="40" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="556" column="16" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="659" column="43" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="660" column="8" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -369,7 +358,6 @@
       <jump line="752" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="755" column="8" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="774" column="42" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="55" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="155" column="15" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="251" column="38" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="580" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -385,16 +373,28 @@
       <jump line="578" column="58" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="26" column="85" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="37" column="22" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="719" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="753" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="756" column="8" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="775" column="42" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="55" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="548" column="8" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="552" column="63" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="553" column="16" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="554" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="555" column="46" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="557" column="18" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="661" column="8" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>preprocess</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>preprocess</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>get_opt</text>
+        <text>options</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBzZWxmLmlzX3RyYWluOgogICAgICByZXN1bHRbJ25vaXN5X3BoYXNlJ10gPSB0Zi5zcXVlZXplKHJlY29uc3RydWN0aW9uX2RhdGFbJ25vaXN5X3BoYXNlJ10sIGF4aXM9WzNdKQogICAgICByZXN1bHRbJ2NsZWFuX3BoYXNlJ10gPSB0Zi5zcXVlZXplKHJlY29uc3RydWN0aW9uX2RhdGFbJ2NsZWFuX3BoYXNlJ10sIGF4aXM9WzNdKQo=</text>
@@ -446,9 +446,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_opt</last-search>
+      <last-search>options</last-search>
       <last-offset />
-      <last-pattern>get_opt</last-pattern>
+      <last-pattern>options</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">ICAgIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -472,10 +472,10 @@
         <entry>steps_per</entry>
         <entry>get_op</entry>
         <entry>max_steps</entry>
-        <entry>options</entry>
         <entry>preprocess</entry>
         <entry>preproces</entry>
         <entry>get_opt</entry>
+        <entry>options</entry>
       </history-search>
       <history-cmd>
         <entry>s/gender/nativeness/g</entry>
