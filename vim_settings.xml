@@ -50,8 +50,8 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1504608092551">
-        <mark key="'" line="741" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1504609703798">
+        <mark key="'" line="744" column="13" />
         <mark key="[" line="629" column="39" />
         <mark key="]" line="630" column="12" />
         <mark key="^" line="630" column="12" />
@@ -285,7 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="560" column="26" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="569" column="27" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="719" column="67" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="565" column="10" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -371,7 +370,6 @@
       <jump line="550" column="16" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="651" column="8" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="101" column="15" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="723" column="40" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="730" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="128" column="42" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="431" column="68" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -385,6 +383,8 @@
       <jump line="621" column="29" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="736" column="27" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="741" column="37" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="723" column="15" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="744" column="13" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -394,7 +394,7 @@
         <text>inputs</text>
       </register>
       <register name="/" type="4">
-        <text>steps_per</text>
+        <text>max_steps</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBzZWxmLmlzX3RyYWluOgogICAgICByZXN1bHRbJ25vaXN5X3BoYXNlJ10gPSB0Zi5zcXVlZXplKHJlY29uc3RydWN0aW9uX2RhdGFbJ25vaXN5X3BoYXNlJ10sIGF4aXM9WzNdKQogICAgICByZXN1bHRbJ2NsZWFuX3BoYXNlJ10gPSB0Zi5zcXVlZXplKHJlY29uc3RydWN0aW9uX2RhdGFbJ2NsZWFuX3BoYXNlJ10sIGF4aXM9WzNdKQo=</text>
@@ -446,9 +446,9 @@
       </register>
     </registers>
     <search>
-      <last-search>steps_per</last-search>
+      <last-search>max_steps</last-search>
       <last-offset />
-      <last-pattern>steps_per</last-pattern>
+      <last-pattern>max_steps</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">ICAgIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -456,8 +456,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdlw+</entry>
-        <entry>logdir</entry>
         <entry>output_dir</entry>
         <entry>save_audio</entry>
         <entry>AtoB</entry>
@@ -476,6 +474,8 @@
         <entry>saver</entry>
         <entry>restore</entry>
         <entry>steps_per</entry>
+        <entry>get_op</entry>
+        <entry>max_steps</entry>
       </history-search>
       <history-cmd>
         <entry>s/gender/nativeness/g</entry>
