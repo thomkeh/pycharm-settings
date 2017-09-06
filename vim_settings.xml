@@ -118,12 +118,12 @@
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
         <mark key="[" line="0" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" timestamp="1504632592085">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="35" column="18" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="20" />
-        <mark key="^" line="36" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" timestamp="1504695307436">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="27" />
+        <mark key="." line="37" column="27" />
+        <mark key="^" line="37" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/audio_signal.py" timestamp="1500652349120">
         <mark key="[" line="5" column="0" />
@@ -406,8 +406,8 @@
       <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, numcep=13</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>, numcep=13</text>
@@ -419,7 +419,7 @@
         <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCgpmcm9tIHByb19pbnZlcnQgaW1wb3J0IGxvZ2ZiYW5rX3dpbmRvd2VkLCBybG9nZmJhbmsKZnJvbSBjb21tb24gaW1wb3J0IHJlYWRfd2F2LCB3cml0ZV93YXYKCgpkZWYgZXh0cmFjdF9sb2dmYmFuayhpbnB1dF9maWxlKToKICBzaWcsIHJhdGUsIF8gPSByZWFkX3dhdihpbnB1dF9maWxlKQogIGxvZ2ZiYW5rX2ZlYXQsIHBoYXNlID0gbG9nZmJhbmtfd2luZG93ZWQoc2lnLCByYXRlLCBuZmlsdD0xMDAsIG5mZnQ9NTEyKQogICMgbG9nZmJhbmtfZmVhdCwgXyA9IGxvZ2ZiYW5rX3dpbmRvd2VkKHNpZywgcmF0ZSkKICBhc3NlcnQgaXNpbnN0YW5jZShsb2dmYmFua19mZWF0LCBucC5uZGFycmF5KQoKICBmZWF0dXJlcyA9IGxvZ2ZiYW5rX2ZlYXQuYXN0eXBlKG5wLmZsb2F0MzIpCiAgcmV0dXJuIGZlYXR1cmVzLCByYXRlLCBwaGFzZQogICMgcmV0dXJuIGZlYXR1cmVzLCByYXRlCgoKZGVmIHJlY29uc3RydWN0X2Zyb21fbG9nZmJhbmsoZmVhdHVyZXMsIHJhdGUsIG91dHB1dF9maWxlLCBwaGFzZT1Ob25lKToKICAjIHdpbmZ1bmM9bnAuaGFubmluZwogIHdyaXRlX3dhdihvdXRwdXRfZmlsZSwgcmxvZ2ZiYW5rKGZlYXR1cmVzLCByYXRlLCBuZmlsdD0xMDAsIHBoYXNlPXBoYXNlLCBuZmZ0PTUxMiksIHJhdGUpCiAgIyB3cml0ZV93YXYob3V0cHV0X2ZpbGUsIHJsb2dmYmFuayhmZWF0dXJlcywgcmF0ZSksIHJhdGUpCgoKaW5wdXRfY2xlYW4gPSAiLi9hdWRpby9wMjI2XzAwMV9jbGVhbi53YXYiCmlucHV0X25vaXN5ID0gIi4vYXVkaW8vcDIyNl8wMDFfbm9pc3kud2F2IgoKZiwgciwgcCA9IGV4dHJhY3RfbG9nZmJhbmsoaW5wdXRfY2xlYW4pCl8sIF8sIG5vaXN5X3AgPSBleHRyYWN0X2xvZ2ZiYW5rKGlucHV0X25vaXN5KQojIGYsIHIgPSBleHRyYWN0X2xvZ2ZiYW5rKGlucHV0X2NsZWFuKQpyZWNvbnN0cnVjdF9mcm9tX2xvZ2ZiYW5rKGYsIHIsICIuL3JlY19sb2dmLndhdiIsIG5vaXN5X3ApCiMgcmVjb25zdHJ1Y3RfZnJvbV9sb2dmYmFuayhmLCByLCAiLi9yZWNfbG9nZi53YXYiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyByZWNvbnN0cnVjdF9mcm9tX2xvZ2ZiYW5rKGYsIHIsICIuL3JlY19sb2dmLndhdiIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -434,30 +434,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmLCByID0gZXh0cmFjdF9sb2dmYmFuayhpbnB1dF9jbGVhbikK</text>
+        <text encoding="base64">IyByZWNvbnN0cnVjdF9mcm9tX2xvZ2ZiYW5rKGYsIHIsICIuL3JlY19sb2dmLndhdiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBmLCByID0gZXh0cmFjdF9sb2dmYmFuayhpbnB1dF9jbGVhbikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIG5vaXN5X2xvZ2ZiYW5rX25vbnN0ZCA9IAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>revert_standardization(noisy_logfbank, reconstruction_data['noisy_mean'],
                                                    reconstruction_data['noisy_std'])</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG5vaXN5X2xvZ2ZiYW5rX25vbnN0ZCA9IAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIG5vaXN5X2ZiYW5rX25vbnN0ZCA9IAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>revert_standardization(noisy_fbank, reconstruction_data['noisy_mean'],
-                                                reconstruction_data['noisy_std'])</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21hc2svY2xlYW4vZw==</text>
