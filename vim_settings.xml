@@ -118,12 +118,12 @@
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
         <mark key="[" line="0" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" timestamp="1504695307436">
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" timestamp="1504702490086">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="37" column="27" />
-        <mark key="]" line="37" column="27" />
-        <mark key="." line="37" column="27" />
-        <mark key="^" line="37" column="27" />
+        <mark key="[" line="38" column="18" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="58" />
+        <mark key="^" line="38" column="58" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/audio_signal.py" timestamp="1500652349120">
         <mark key="[" line="5" column="0" />
@@ -406,11 +406,11 @@
       <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>, numcep=13</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>mask</text>
