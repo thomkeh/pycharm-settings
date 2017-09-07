@@ -135,7 +135,7 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1504793195033">
+      <file name="/Python Console" timestamp="1504798248462">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1504629874611">
@@ -145,12 +145,12 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1504631644167">
-        <mark key="'" line="76" column="64" />
-        <mark key="[" line="661" column="37" />
-        <mark key="]" line="661" column="57" />
-        <mark key="." line="661" column="57" />
-        <mark key="^" line="661" column="57" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1504798245625">
+        <mark key="'" line="385" column="61" />
+        <mark key="[" line="322" column="43" />
+        <mark key="]" line="323" column="27" />
+        <mark key="." line="323" column="27" />
+        <mark key="^" line="323" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493396116543">
         <mark key="'" line="194" column="46" />
@@ -198,7 +198,7 @@
         <mark key="." line="30" column="72" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504795910626">
+      <file name="/Dummy.txt" timestamp="1504798287209">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -305,7 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="684" column="17" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="687" column="17" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="690" column="17" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="693" column="17" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -405,6 +404,7 @@
       <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" />
       <jump line="81" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" />
       <jump line="188" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" />
+      <jump line="385" column="61" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -414,7 +414,7 @@
         <text>noisy_</text>
       </register>
       <register name="/" type="4">
-        <text>mask</text>
+        <text>tanh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5vaXN5X2ZiYW5rLCBjbGVhbl9mYmFuaywgcmVjb25zdHJ1Y3Rpb25fZGF0YSwgdG9fY3JvcCA9IHNlbGYuZ2V0X2Jhc2ljcyhpbnB1dF9kYXRhKQogICAgbm9pc3lfbG9nZmJhbmssIG5vaXN5X21lYW4sIG5vaXN5X3N0ZCA9IHN0YW5kYXJkaXphdGlvbih0Zi5sb2cobm9pc3lfZmJhbmspKQogICAgY2xlYW5fbG9nZmJhbmsgPSBtYW5fc3RhbmRhcmRpemF0aW9uKHRmLmxvZyhjbGVhbl9mYmFuayksIG5vaXN5X21lYW4sIG5vaXN5X3N0ZCkKICAgIHJlY29uc3RydWN0aW9uX2RhdGEudXBkYXRlKHsKICAgICAgJ25vaXN5X21lYW4nOiBub2lzeV9tZWFuLAogICAgICAnbm9pc3lfc3RkJzogbm9pc3lfc3RkLAogICAgfSkKICAgIHJldHVybiBub2lzeV9sb2dmYmFuaywgY2xlYW5fbG9nZmJhbmssIHJlY29uc3RydWN0aW9uX2RhdGEsIHRvX2Nyb3AK</text>
@@ -464,9 +464,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mask</last-search>
+      <last-search>tanh</last-search>
       <last-offset />
-      <last-pattern>mask</last-pattern>
+      <last-pattern>tanh</last-pattern>
       <last-replace>clean</last-replace>
       <last-substitute>mask</last-substitute>
       <last-dir>1</last-dir>
@@ -474,7 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deprocess</entry>
         <entry>update</entry>
         <entry>super</entry>
         <entry>audio</entry>
@@ -494,6 +493,7 @@
         <entry encoding="base64">XDxscmVsdVw+</entry>
         <entry>filter</entry>
         <entry>mask</entry>
+        <entry>tanh</entry>
       </history-search>
       <history-cmd>
         <entry>388</entry>
