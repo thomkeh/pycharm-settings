@@ -145,12 +145,12 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1504872229507">
-        <mark key="'" line="102" column="43" />
-        <mark key="[" line="244" column="21" />
-        <mark key="]" line="245" column="12" />
-        <mark key="." line="245" column="12" />
-        <mark key="^" line="245" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1504873886532">
+        <mark key="'" line="242" column="25" />
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="46" column="106" />
+        <mark key="." line="46" column="106" />
+        <mark key="^" line="46" column="106" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493396116543">
         <mark key="'" line="194" column="46" />
@@ -198,7 +198,7 @@
         <mark key="." line="30" column="72" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504871067238">
+      <file name="/Dummy.txt" timestamp="1504873917629">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -305,10 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="42" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="431" column="68" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="96" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="731" column="12" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="604" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="611" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="270" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -395,32 +391,36 @@
       <jump line="727" column="21" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="424" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="553" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="197" column="16" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="199" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="219" column="83" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="591" column="7" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="592" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="594" column="23" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="595" column="19" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="596" column="16" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="31" column="23" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="102" column="43" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="211" column="69" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="592" column="5" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="593" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="595" column="21" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="596" column="17" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="597" column="16" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="31" column="23" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="197" column="16" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="242" column="25" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>noisy_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1jaGVja3BvaW50c190b19rZWVwIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MTAsIGhlbHA9InRoZSBudW1iZXIgb2YgY2hlY2twb2ludHMgdG8ga2VlcCIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>noisy_</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>shuffle_b</text>
+        <text>seed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5vaXN5X2ZiYW5rLCBjbGVhbl9mYmFuaywgcmVjb25zdHJ1Y3Rpb25fZGF0YSwgdG9fY3JvcCA9IHNlbGYuZ2V0X2Jhc2ljcyhpbnB1dF9kYXRhKQogICAgbm9pc3lfbG9nZmJhbmssIG5vaXN5X21lYW4sIG5vaXN5X3N0ZCA9IHN0YW5kYXJkaXphdGlvbih0Zi5sb2cobm9pc3lfZmJhbmspKQogICAgY2xlYW5fbG9nZmJhbmsgPSBtYW5fc3RhbmRhcmRpemF0aW9uKHRmLmxvZyhjbGVhbl9mYmFuayksIG5vaXN5X21lYW4sIG5vaXN5X3N0ZCkKICAgIHJlY29uc3RydWN0aW9uX2RhdGEudXBkYXRlKHsKICAgICAgJ25vaXN5X21lYW4nOiBub2lzeV9tZWFuLAogICAgICAnbm9pc3lfc3RkJzogbm9pc3lfc3RkLAogICAgfSkKICAgIHJldHVybiBub2lzeV9sb2dmYmFuaywgY2xlYW5fbG9nZmJhbmssIHJlY29uc3RydWN0aW9uX2RhdGEsIHRvX2Nyb3AK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ2NsZWFuX21lYW4nOiBjbGVhbl9tZWFuLAogICAgICAnY2xlYW5fc3RkJzogY2xlYW5fc3RkLAo=</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1jaGVja3BvaW50c190b19rZWVwIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MTAsIGhlbHA9InRoZSBudW1iZXIgb2YgY2hlY2twb2ludHMgdG8ga2VlcCIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -435,38 +435,38 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5vaXN5X21mY2Nfbm9uc3RkID0K</text>
+        <text encoding="base64">ICAgICAgJ2NsZWFuX21lYW4nOiBjbGVhbl9tZWFuLAogICAgICAnY2xlYW5fc3RkJzogY2xlYW5fc3RkLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5vaXN5X21mY2MsIG5vaXN5X21lYW4sIG5vaXN5X3N0ZCA9IHN0YW5kYXJkaXphdGlvbihjb252ZXJ0KG5vaXN5X2ZiYW5rKSkK</text>
+        <text encoding="base64">ICAgIG5vaXN5X21mY2Nfbm9uc3RkID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG5vaXN5X21mY2MsIG5vaXN5X21lYW4sIG5vaXN5X3N0ZCA9IHN0YW5kYXJkaXphdGlvbihjb252ZXJ0KG5vaXN5X2ZiYW5rKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ21hc2tfbWVhbic6IG1hc2tfbWVhbiwKICAgICAgJ21hc2tfc3RkJzogbWFza19zdGQsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgJ21hc2tfbWVhbic6IG1hc2tfbWVhbiwKICAgICAgJ21hc2tfc3RkJzogbWFza19zdGQsCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIG5vaXN5X2ZiYW5rX25vbnN0ZCA9IAogICAgY2xlYW5fZmJhbmtfbm9uc3RkID0gcmV2ZXJ0X3N0YW5kYXJkaXphdGlvbihjbGVhbl9mYmFuaywgcmVjb25zdHJ1Y3Rpb25fZGF0YVsnY2xlYW5fbWVhbiddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlY29uc3RydWN0aW9uX2RhdGFbJ2NsZWFuX3N0ZCddKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>revert_standardization(noisy_fbank, reconstruction_data['noisy_mean'],
                                             reconstruction_data['noisy_std'])</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG5vaXN5X2ZiYW5rX25vbnN0ZCwgY2xlYW5fZmJhbmtfbm9uc3RkLCByZWNvbnN0cnVjdGlvbl9kYXRhLCB0b19jcm9wID0gc2VsZi5nZXRfYmFzaWNzKGlucHV0X2RhdGEpCiAgICBub2lzeV9mYmFuaywgbm9pc3lfbWVhbiwgbm9pc3lfc3RkID0gc3RhbmRhcmRpemF0aW9uKG5vaXN5X2ZiYW5rX25vbnN0ZCkKICAgIGNsZWFuX2ZiYW5rLCBjbGVhbl9tZWFuLCBjbGVhbl9zdGQgPSBzdGFuZGFyZGl6YXRpb24oY2xlYW5fZmJhbmtfbm9uc3RkKQogICAgcmVjb25zdHJ1Y3Rpb25fZGF0YS51cGRhdGUoewogICAgICAnbm9pc3lfbWVhbic6IG5vaXN5X21lYW4sCiAgICAgICdub2lzeV9zdGQnOiBub2lzeV9zdGQsCiAgICAgICdjbGVhbl9tZWFuJzogY2xlYW5fbWVhbiwKICAgICAgJ2NsZWFuX3N0ZCc6IGNsZWFuX3N0ZCwKICAgIH0pCiAgICByZXR1cm4gbm9pc3lfZmJhbmssIGNsZWFuX2ZiYW5rLCByZWNvbnN0cnVjdGlvbl9kYXRhLCB0b19jcm9wCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBub2lzeV9sb2dmYmFua19ub25zdGQgPSByZXZlcnRfc3RhbmRhcmRpemF0aW9uKG5vaXN5X2xvZ2ZiYW5rLCByZWNvbnN0cnVjdGlvbl9kYXRhWydub2lzeV9tZWFuJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlY29uc3RydWN0aW9uX2RhdGFbJ25vaXN5X3N0ZCddKQogICAgY2xlYW5fbG9nZmJhbmtfbm9uc3RkID0gbm9pc3lfbG9nZmJhbmtfbm9uc3RkIC0gcmV2ZXJ0X3N0YW5kYXJkaXphdGlvbigKICAgICAgICBtYXNrX2xvZ2ZiYW5rLCByZWNvbnN0cnVjdGlvbl9kYXRhWydtYXNrX21lYW4nXSwgcmVjb25zdHJ1Y3Rpb25fZGF0YVsnbWFza19zdGQnXSkK</text>
+        <text encoding="base64">ICAgIG5vaXN5X2ZiYW5rX25vbnN0ZCwgY2xlYW5fZmJhbmtfbm9uc3RkLCByZWNvbnN0cnVjdGlvbl9kYXRhLCB0b19jcm9wID0gc2VsZi5nZXRfYmFzaWNzKGlucHV0X2RhdGEpCiAgICBub2lzeV9mYmFuaywgbm9pc3lfbWVhbiwgbm9pc3lfc3RkID0gc3RhbmRhcmRpemF0aW9uKG5vaXN5X2ZiYW5rX25vbnN0ZCkKICAgIGNsZWFuX2ZiYW5rLCBjbGVhbl9tZWFuLCBjbGVhbl9zdGQgPSBzdGFuZGFyZGl6YXRpb24oY2xlYW5fZmJhbmtfbm9uc3RkKQogICAgcmVjb25zdHJ1Y3Rpb25fZGF0YS51cGRhdGUoewogICAgICAnbm9pc3lfbWVhbic6IG5vaXN5X21lYW4sCiAgICAgICdub2lzeV9zdGQnOiBub2lzeV9zdGQsCiAgICAgICdjbGVhbl9tZWFuJzogY2xlYW5fbWVhbiwKICAgICAgJ2NsZWFuX3N0ZCc6IGNsZWFuX3N0ZCwKICAgIH0pCiAgICByZXR1cm4gbm9pc3lfZmJhbmssIGNsZWFuX2ZiYW5rLCByZWNvbnN0cnVjdGlvbl9kYXRhLCB0b19jcm9wCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21hc2svY2xlYW4vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>shuffle_b</last-search>
+      <last-search>seed</last-search>
       <last-offset />
-      <last-pattern>shuffle_b</last-pattern>
+      <last-pattern>seed</last-pattern>
       <last-replace>clean</last-replace>
       <last-substitute>mask</last-substitute>
       <last-dir>1</last-dir>
@@ -474,7 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>max_steps</entry>
         <entry>preproces</entry>
         <entry>get_opt</entry>
         <entry>options</entry>
@@ -491,9 +490,10 @@
         <entry encoding="base64">XDxsb2FkX2V4YW1wbGVzXD4=</entry>
         <entry encoding="base64">XDxzYXZlX2F1ZGlvX2ZpbGVzXD4=</entry>
         <entry encoding="base64">XDxhcHBseV9tb2RlbFw+</entry>
-        <entry>seed</entry>
         <entry>string_i</entry>
         <entry>shuffle_b</entry>
+        <entry>a\.seed</entry>
+        <entry>seed</entry>
       </history-search>
       <history-cmd>
         <entry>388</entry>
