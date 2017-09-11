@@ -145,12 +145,12 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1505138843392">
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1505141141192">
         <mark key="'" line="685" column="13" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="36" />
-        <mark key="." line="15" column="36" />
-        <mark key="^" line="15" column="36" />
+        <mark key="[" line="262" column="35" />
+        <mark key="]" line="262" column="35" />
+        <mark key="." line="262" column="35" />
+        <mark key="^" line="262" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493396116543">
         <mark key="'" line="194" column="46" />
@@ -408,19 +408,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>to_batch_vals</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>to_batch_vals</text>
       </register>
       <register name="/" type="4">
         <text>train</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1pbnN0YW5jZV9ub3JtIiwgZGVzdD0iaW5zdGFuY2Vfbm9ybSIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsIGhlbHA9InVzZSBpbnN0YW5jZSBub3JtYWxpemF0aW9uIikK</text>
+        <text encoding="base64">ICAgIG1pbl9hZnRlcl9kZXF1ZXVlPWEucXVldWVfc2l6ZSAvLyAyLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1ub19pbnN0YW5jZV9ub3JtIiwgZGVzdD0iaW5zdGFuY2Vfbm9ybSIsIGFjdGlvbj0ic3RvcmVfZmFsc2UiLAogICAgICAgICAgICAgICAgICAgIGhlbHA9ImRvbid0IHVzZSBpbnN0YW5jZSBub3JtYWxpemF0aW9uIikKcGFyc2VyLnNldF9kZWZhdWx0cyhpbnN0YW5jZV9ub3JtPVRydWUpCg==</text>
+        <text encoding="base64">ICBiYXRjaF9zaXplPWEuYmF0Y2hfc2l6ZSwKICBudW1fdGhyZWFkcz1hLmJhdGNoX3RocmVhZHMsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -434,31 +434,31 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBiYXRjaGVkID0gdGYudHJhaW4uc2h1ZmZsZV9iYXRjaCgKICAgIHRvX2JhdGNoLAogICAgY2FwYWNpdHk9YS5xdWV1ZV9zaXplLAogICAgbWluX2FmdGVyX2RlcXVldWU9YS5xdWV1ZV9zaXplIC8vIDIsCiAgICBlbnF1ZXVlX21hbnk9VHJ1ZQogICkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJhdGNoX3NpemU9YS5iYXRjaF9zaXplLAogICAgbnVtX3RocmVhZHM9YS5iYXRjaF90aHJlYWRzLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1ub19pbnN0YW5jZV9ub3JtIiwgZGVzdD0iaW5zdGFuY2Vfbm9ybSIsIGFjdGlvbj0ic3RvcmVfZmFsc2UiLAogICAgICAgICAgICAgICAgICAgIGhlbHA9ImRvbid0IHVzZSBpbnN0YW5jZSBub3JtYWxpemF0aW9uIikKcGFyc2VyLnNldF9kZWZhdWx0cyhpbnN0YW5jZV9ub3JtPVRydWUpCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>Improve stability of loss, remove dropout randomness and instance norm
 
 Instance normalization becomes optional.</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGlmIGlzX2xhYmVsX3RydWU6CiAgICAgIGxhYmVscyA9IAogICAgZWxzZToKICAgICAgbGFiZWxzID0gCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgb3V0cHV0ID0gdGYuc2lnbW9pZChjb252b2x2ZWQpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1jaGVja3BvaW50c190b19rZWVwIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MTAsIGhlbHA9InRoZSBudW1iZXIgb2YgY2hlY2twb2ludHMgdG8ga2VlcCIpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ2NsZWFuX21lYW4nOiBjbGVhbl9tZWFuLAogICAgICAnY2xlYW5fc3RkJzogY2xlYW5fc3RkLAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG5vaXN5X21mY2Nfbm9uc3RkID0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5vaXN5X21mY2MsIG5vaXN5X21lYW4sIG5vaXN5X3N0ZCA9IHN0YW5kYXJkaXphdGlvbihjb252ZXJ0KG5vaXN5X2ZiYW5rKSkK</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1jaGVja3BvaW50c190b19rZWVwIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MTAsIGhlbHA9InRoZSBudW1iZXIgb2YgY2hlY2twb2ludHMgdG8ga2VlcCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21hc2svY2xlYW4vZw==</text>
