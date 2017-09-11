@@ -145,12 +145,12 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1505150218816">
-        <mark key="'" line="537" column="0" />
-        <mark key="[" line="278" column="23" />
-        <mark key="]" line="278" column="23" />
-        <mark key="." line="278" column="23" />
-        <mark key="^" line="535" column="78" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1505151171512">
+        <mark key="'" line="789" column="6" />
+        <mark key="[" line="529" column="0" />
+        <mark key="]" line="529" column="0" />
+        <mark key="." line="529" column="0" />
+        <mark key="^" line="536" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493396116543">
         <mark key="'" line="194" column="46" />
@@ -198,7 +198,7 @@
         <mark key="." line="30" column="72" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505150319786">
+      <file name="/Dummy.txt" timestamp="1505151222313">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -305,7 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="576" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="577" column="20" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="578" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="181" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -335,7 +334,6 @@
       <jump line="615" column="13" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="726" column="8" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="727" column="21" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="424" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="553" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="199" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="219" column="83" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -403,24 +401,26 @@
       <jump line="685" column="13" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="706" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="750" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="654" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="537" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="424" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="654" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="789" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>allow_sm</text>
+        <text>apply_mod</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5fZmVhdHVyZXMgPSBpbnQodGVuc29yLnNoYXBlWzFdKQo=</text>
+        <text encoding="base64">ICAgICAgICBraW5kcyA9IFsiY2xlYW5fZmJhbmtfbGVhcm5lZCJdCiAgICAgICAgcGhhc2VfbmFtZXMgPSBbJ25vaXN5X3BoYXNlJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWxsb3dfc21hbGxlcl9maW5hbF9iYXRjaD1UcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -435,37 +435,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5hbF9sZW5ndGggPSBzZWxmLnBhcnRzWydvcmlnaW5hbF9sZW5ndGgnXVswXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYWxfbGVuZ3RoID0gaW50KDE2MDAwICogKDAuMDEgKiAob3JpZ2luYWxfbGVuZ3RoIC0gMSkgKyAwLjAyNSkpCg==</text>
+        <text encoding="base64">ICAgIGlmIGEuZHVtcF9vbmx5X3JlY29uc3RydWN0ZWQgPT0gIlRydWUiOgogICAgICBmZXRjaGVzID0gewogICAgICAgIAogICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgYWxsb3dfc21hbGxlcl9maW5hbF9iYXRjaD1UcnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5wYXJ0cyA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbF9sZW5ndGggPSBzZWxmLnBhcnRzWydvcmlnaW5hbF9sZW5ndGgnXVswXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnRzLmFwcGVuZCh7azogdltpXSBmb3IgaywgdiBpbiBpdGVyaXRlbXMoZGF0YV9iYXRjaCl9KQo=</text>
+        <text encoding="base64">ICAgICAgICBzaWduYWxfbGVuZ3RoID0gaW50KDE2MDAwICogKDAuMDEgKiAob3JpZ2luYWxfbGVuZ3RoIC0gMSkgKyAwLjAyNSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnRzLmFwcGVuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZmlsZXNldCA9IHsibmFtZSI6IG5hbWUsICJzdGVwIjogc3RlcH0K</text>
+        <text encoding="base64">ICAgICAgc2VsZi5wYXJ0cyA9IHt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbGVzZXRzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnRzLmFwcGVuZCh7azogdltpXSBmb3IgaywgdiBpbiBpdGVyaXRlbXMoZGF0YV9iYXRjaCl9KQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21hc2svY2xlYW4vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>allow_sm</last-search>
+      <last-search>apply_mod</last-search>
       <last-offset />
-      <last-pattern>allow_sm</last-pattern>
+      <last-pattern>apply_mod</last-pattern>
       <last-replace>clean</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -490,9 +490,9 @@
         <entry>queue</entry>
         <entry>coor</entry>
         <entry>train</entry>
-        <entry>apply_mod</entry>
         <entry encoding="base64">XDxhcHBseV9tb2RlbFw+</entry>
         <entry>allow_sm</entry>
+        <entry>apply_mod</entry>
       </history-search>
       <history-cmd>
         <entry>388</entry>
