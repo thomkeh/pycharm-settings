@@ -145,12 +145,12 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1505142979172">
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1505145720842">
         <mark key="'" line="685" column="13" />
-        <mark key="[" line="273" column="44" />
-        <mark key="]" line="274" column="24" />
-        <mark key="." line="274" column="24" />
-        <mark key="^" line="274" column="24" />
+        <mark key="[" line="239" column="48" />
+        <mark key="]" line="239" column="48" />
+        <mark key="." line="239" column="48" />
+        <mark key="^" line="240" column="50" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493396116543">
         <mark key="'" line="194" column="46" />
@@ -198,7 +198,7 @@
         <mark key="." line="30" column="72" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504891408614">
+      <file name="/Dummy.txt" timestamp="1505145057047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -407,20 +407,20 @@
       <jump line="685" column="13" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgZGVmIGNvbmQoaSwgdGVuc29yX2xpc3QpOgogICAgcmV0dXJuIGkgPCB0Zi5zaGFwZSh0b19iYXRjaF92YWxzWzBdKVswXQoKICBkZWYgYm9keShpLCB0ZW5zb3JfbGlzdCk6CiAgICBzbGljZWRfbGlzdCA9IFtdCiAgICBmb3IgaiBpbiByYW5nZShsZW4odG9fYmF0Y2hfdmFscykpOgogICAgICBzbGljZWRfbGlzdC5hcHBlbmQodGVuc29yX2xpc3Rbal1baSwgLi4uXSkKICAgIGJhdGNoX3F1ZXVlLmVucXVldWUoc2xpY2VkX2xpc3QpCg==</text>
+      <register name="&quot;" type="4">
+        <text>[:length, :, :]</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>[:length, :, :]</text>
       </register>
       <register name="/" type="4">
         <text>train</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1pbl9hZnRlcl9kZXF1ZXVlPWEucXVldWVfc2l6ZSAvLyAyLAo=</text>
+        <text encoding="base64">ICAgIGJhdGNoZWQgPSB0Zi50cmFpbi5zaHVmZmxlX2JhdGNoKAogICAgICB0b19iYXRjaCwKICAgICAgYmF0Y2hfc2l6ZT1hLmJhdGNoX3NpemUsCiAgICAgIG51bV90aHJlYWRzPWEuYmF0Y2hfdGhyZWFkcywKICAgICAgY2FwYWNpdHk9YS5xdWV1ZV9zaXplLAogICAgICBtaW5fYWZ0ZXJfZGVxdWV1ZT1hLnF1ZXVlX3NpemUgLy8gMiwKICAgICAgZW5xdWV1ZV9tYW55PVRydWUKICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZGVmIGNvbmQoaSwgdGVuc29yX2xpc3QpOgogICAgcmV0dXJuIGkgPCB0Zi5zaGFwZSh0b19iYXRjaF92YWxzWzBdKVswXQoKICBkZWYgYm9keShpLCB0ZW5zb3JfbGlzdCk6CiAgICBzbGljZWRfbGlzdCA9IFtdCiAgICBmb3IgaiBpbiByYW5nZShsZW4odG9fYmF0Y2hfdmFscykpOgogICAgICBzbGljZWRfbGlzdC5hcHBlbmQodGVuc29yX2xpc3Rbal1baSwgLi4uXSkKICAgIGJhdGNoX3F1ZXVlLmVucXVldWUoc2xpY2VkX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgIHN0ZXBfc2l6ZSA9IGEuY3JvcF9zaXplCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -435,30 +435,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDoK</text>
+        <text encoding="base64">ICAgIGNyb3BzID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYXRjaF9zaXplPWEuYmF0Y2hfc2l6ZSwKICBudW1fdGhyZWFkcz1hLmJhdGNoX3RocmVhZHMsCg==</text>
+        <text encoding="base64">ICAgIGxlbmd0aCA9IHRmLnNoYXBlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiYXRjaGVkID0gdGYudHJhaW4uc2h1ZmZsZV9iYXRjaCgKICAgIHRvX2JhdGNoLAogICAgY2FwYWNpdHk9YS5xdWV1ZV9zaXplLAogICAgbWluX2FmdGVyX2RlcXVldWU9YS5xdWV1ZV9zaXplIC8vIDIsCiAgICBlbnF1ZXVlX21hbnk9VHJ1ZQogICkK</text>
+        <text encoding="base64">ICAgICAgbWluX2FmdGVyX2RlcXVldWU9YS5xdWV1ZV9zaXplIC8vIDIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhdGNoX3NpemU9YS5iYXRjaF9zaXplLAogICAgbnVtX3RocmVhZHM9YS5iYXRjaF90aHJlYWRzLAo=</text>
+        <text encoding="base64">ICAgIGJhdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1ub19pbnN0YW5jZV9ub3JtIiwgZGVzdD0iaW5zdGFuY2Vfbm9ybSIsIGFjdGlvbj0ic3RvcmVfZmFsc2UiLAogICAgICAgICAgICAgICAgICAgIGhlbHA9ImRvbid0IHVzZSBpbnN0YW5jZSBub3JtYWxpemF0aW9uIikKcGFyc2VyLnNldF9kZWZhdWx0cyhpbnN0YW5jZV9ub3JtPVRydWUpCg==</text>
+        <text encoding="base64">CiAgZGVmIGNvbmQoaSwgdGVuc29yX2xpc3QpOgogICAgcmV0dXJuIGkgPCB0Zi5zaGFwZSh0b19iYXRjaF92YWxzWzBdKVswXQoKICBkZWYgYm9keShpLCB0ZW5zb3JfbGlzdCk6CiAgICBzbGljZWRfbGlzdCA9IFtdCiAgICBmb3IgaiBpbiByYW5nZShsZW4odG9fYmF0Y2hfdmFscykpOgogICAgICBzbGljZWRfbGlzdC5hcHBlbmQodGVuc29yX2xpc3Rbal1baSwgLi4uXSkKICAgIGJhdGNoX3F1ZXVlLmVucXVldWUoc2xpY2VkX2xpc3QpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Improve stability of loss, remove dropout randomness and instance norm
-
-Instance normalization becomes optional.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiYXRjaF9zaXplPWEuYmF0Y2hfc2l6ZSwKICBudW1fdGhyZWFkcz1hLmJhdGNoX3RocmVhZHMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGlzX2xhYmVsX3RydWU6CiAgICAgIGxhYmVscyA9IAogICAgZWxzZToKICAgICAgbGFiZWxzID0gCg==</text>
+        <text encoding="base64">ICBiYXRjaGVkID0gdGYudHJhaW4uc2h1ZmZsZV9iYXRjaCgKICAgIHRvX2JhdGNoLAogICAgY2FwYWNpdHk9YS5xdWV1ZV9zaXplLAogICAgbWluX2FmdGVyX2RlcXVldWU9YS5xdWV1ZV9zaXplIC8vIDIsCiAgICBlbnF1ZXVlX21hbnk9VHJ1ZQogICkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21hc2svY2xlYW4vZw==</text>
