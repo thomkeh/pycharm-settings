@@ -303,6 +303,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/xyz_helpers.py" timestamp="1505225926185">
+        <mark key="[" line="155" column="34" />
+        <mark key="]" line="155" column="40" />
+        <mark key="^" line="155" column="40" />
+        <mark key="." line="155" column="40" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="497" column="25" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -408,10 +414,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>[-1, crop_size, n_features]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>[-1, crop_size, n_features]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwc19wZXJfZXBvY2hcPg==</text>
