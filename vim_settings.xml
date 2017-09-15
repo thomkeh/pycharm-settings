@@ -115,12 +115,12 @@
         <mark key="." line="167" column="3" />
         <mark key="^" line="167" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" timestamp="1505478735658">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="149" column="105" />
-        <mark key="]" line="150" column="14" />
-        <mark key="." line="150" column="14" />
-        <mark key="^" line="150" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" timestamp="1505483092561">
+        <mark key="'" line="153" column="1" />
+        <mark key="[" line="169" column="46" />
+        <mark key="]" line="169" column="49" />
+        <mark key="." line="169" column="49" />
+        <mark key="^" line="169" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/train.py" timestamp="1493396746176">
         <mark key="'" line="7" column="23" />
@@ -142,7 +142,7 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1505478673655">
+      <file name="/Python Console" timestamp="1505482809602">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1504629874611">
@@ -205,7 +205,7 @@
         <mark key="." line="30" column="72" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505408339051">
+      <file name="/Dummy.txt" timestamp="1505483213651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -229,6 +229,12 @@
         <mark key="]" line="22" column="6" />
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_from_npy.py" timestamp="1505483210242">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="107" column="109" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
         <mark key="'" line="6" column="0" />
@@ -262,6 +268,12 @@
         <mark key="]" line="140" column="0" />
         <mark key="^" line="152" column="48" />
         <mark key="." line="140" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505484150470">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_common.py" timestamp="1502984281236">
         <mark key="'" line="226" column="9" />
@@ -318,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="18" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="344" column="20" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="115" column="35" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="117" column="64" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -418,22 +429,23 @@
       <jump line="65" column="2" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" />
       <jump line="69" column="24" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" />
       <jump line="87" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" />
+      <jump line="153" column="1" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>raise ValueError(&quot;useless keyword&quot;)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwc19wZXJfZXBvY2hcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG5wLnNhdmUob3MucGF0aC5qb2luKGRhdGFfcm9vdCwgJ251bXB5Jywgc2VlZHNbMF0gKyAnX2xhYmVscycpLCBucC5hcnJheShsYWJlbHMsIGR0eXBlPW5wLmludDMyKSkK</text>
+      <register name="0" type="4">
+        <text>.npy</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0IGlzaW5zdGFuY2UoZHQsIG5wLmR0eXBlKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -447,30 +459,37 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text>, dtype=np.int32
-, dtype=np.int32</text>
+      <register name="2" type="2">
+        <text encoding="base64">TkFNRVNfTElTVCA9IFsna2V5d29yZHMnLAogICAgICAgICAgICAgICdrZXl3b3JkX2ZpbGVzJywKICAgICAgICAgICAgICAnbGFiZWxzJywKICAgICAgICAgICAgICAndXR0ZXJhbmNlcycsCiAgICAgICAgICAgICAgJ3V0dGVyYW5jZV9maWxlcycsCiAgICAgICAgICAgICAgXQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="8">
+        <text>eval
+eval
+eval
+eval
+eval</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB1dHRlcmFuY2VzID0gW10KICBrZXl3b3JkcyA9IFtdCg==</text>
+      <register name="4" type="8">
+        <text>train
+train
+train
+train
+train</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHV0dGVyYW5jZXNfbnVtcHkgPSBucC5hcnJheSh1dHRlcmFuY2VzLCBkdHlwZT1ucC5pbnQ4KQo=</text>
+        <text encoding="base64">ICBwcmludChURlJfRklMRU5BTUVTX1BSRUZJWCkKICBzZXRfcGFyYW1zKCcnLCAnJywgJycsICcnLCAnJywgJycsICcnKQogIHByaW50KFRGUl9GSUxFTkFNRVNfUFJFRklYKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtleXdvcmRzX251bXB5ID0gCg==</text>
+        <text encoding="base64">aW1wb3J0IC4uLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBwcmludCh1J2ZpbmFsIG91dHB1dDoge30nLmZvcm1hdChrZXl3b3JkX2ZlYXR1cmVzKSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYga2V5d29yZF9mZWF0dXJlcy5zaXplID09IDA6CiAgICAgICAgcHJpbnQoImtleXdvcmRfZmlsZToge30iLmZvcm1hdChrZXl3b3JkX2ZpbGUpKQogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInVzZWxlc3Mga2V5d29yZCIpCg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">Z2xvYmFsIApnbG9iYWwg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYga2V5d29yZF9mZWF0dXJlcy5zaXplID09IDA6CiAgICAgICAgcHJpbnQoImtleXdvcmRfZmlsZToge30iLmZvcm1hdChrZXl3b3JkX2ZpbGUpKQogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInVzZWxlc3Mga2V5d29yZCIpCg==</text>
+        <text encoding="base64">ICBGSUwK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
