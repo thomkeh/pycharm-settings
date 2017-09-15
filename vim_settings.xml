@@ -3,36 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/dummy.py" timestamp="1496769877940">
-        <mark key="'" line="21" column="34" />
-        <mark key="[" line="30" column="37" />
-        <mark key="]" line="30" column="38" />
-        <mark key="." line="30" column="38" />
-        <mark key="^" line="30" column="38" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/discriminator.py" timestamp="1493713284727">
-        <mark key="'" line="177" column="51" />
-        <mark key="[" line="263" column="9" />
-        <mark key="]" line="263" column="9" />
-        <mark key="^" line="263" column="9" />
-        <mark key="." line="263" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/spectrum.py" timestamp="1502721465956">
-        <mark key="'" line="61" column="31" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="61" column="42" />
-        <mark key="^" line="54" column="31" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1505408301711">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/extractors/create_common.py" timestamp="1487942691707">
-        <mark key="'" line="205" column="42" />
-        <mark key="[" line="93" column="20" />
-        <mark key="]" line="93" column="62" />
-        <mark key="^" line="93" column="62" />
-        <mark key="." line="93" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/old/alc.py" timestamp="1496827891081">
         <mark key="[" line="5" column="39" />
@@ -43,20 +15,6 @@
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/tf_helpers.py" timestamp="1504621998838">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/evaluation.py" timestamp="1500651559337">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="98" column="32" />
-        <mark key="]" line="98" column="32" />
-        <mark key="^" line="98" column="32" />
-        <mark key="." line="98" column="32" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/losses.py" timestamp="1493285388464">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="54" column="27" />
-        <mark key="]" line="55" column="29" />
-        <mark key="^" line="55" column="29" />
-        <mark key="." line="55" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
         <mark key="[" line="0" column="64" />
@@ -74,13 +32,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/applications/hwawei.py" timestamp="1488800509434">
-        <mark key="'" line="10" column="74" />
-        <mark key="[" line="18" column="51" />
-        <mark key="]" line="19" column="34" />
-        <mark key="^" line="19" column="34" />
-        <mark key="." line="19" column="34" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" timestamp="1505149538998">
         <mark key="'" line="188" column="0" />
         <mark key="[" line="46" column="63" />
@@ -88,32 +39,15 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="63" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/.idea/mfcc.py" timestamp="1502716908433">
-        <mark key="'" line="75" column="59" />
-        <mark key="[" line="0" column="64" />
-        <mark key="]" line="75" column="59" />
-        <mark key="^" line="75" column="59" />
-        <mark key="." line="75" column="59" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496399650066">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="10" column="29" />
         <mark key="^" line="2" column="26" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/regression.py" timestamp="1497435615554">
-        <mark key="'" line="119" column="39" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
-        <mark key="^" line="154" column="62" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/xyz_helpers.py" timestamp="1503310057987">
-        <mark key="'" line="105" column="20" />
-        <mark key="[" line="167" column="48" />
-        <mark key="]" line="167" column="3" />
-        <mark key="." line="167" column="3" />
-        <mark key="^" line="167" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/classification.py" timestamp="1505484730921">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="133" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" timestamp="1505483092561">
         <mark key="'" line="153" column="1" />
@@ -121,20 +55,6 @@
         <mark key="]" line="169" column="49" />
         <mark key="." line="169" column="49" />
         <mark key="^" line="169" column="49" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/train.py" timestamp="1493396746176">
-        <mark key="'" line="7" column="23" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/queue_test/main.py" timestamp="1488557164582">
-        <mark key="'" line="42" column="45" />
-        <mark key="[" line="95" column="40" />
-        <mark key="]" line="95" column="53" />
-        <mark key="." line="95" column="53" />
-        <mark key="^" line="95" column="53" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
         <mark key="[" line="3" column="0" />
@@ -159,33 +79,12 @@
         <mark key="." line="529" column="0" />
         <mark key="^" line="536" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/utils.py" timestamp="1493396116543">
-        <mark key="'" line="194" column="46" />
-        <mark key="[" line="162" column="37" />
-        <mark key="]" line="162" column="37" />
-        <mark key="^" line="162" column="37" />
-        <mark key="." line="162" column="37" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" timestamp="1503051611700">
-        <mark key="'" line="280" column="47" />
-        <mark key="[" line="731" column="41" />
-        <mark key="]" line="429" column="42" />
-        <mark key="." line="429" column="42" />
-        <mark key="^" line="279" column="48" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1504712619836">
         <mark key="'" line="81" column="9" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="63" column="19" />
         <mark key="." line="68" column="9" />
         <mark key="^" line="68" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/generator.py" timestamp="1493401646770">
-        <mark key="'" line="261" column="0" />
-        <mark key="[" line="251" column="41" />
-        <mark key="]" line="251" column="41" />
-        <mark key="." line="251" column="41" />
-        <mark key="^" line="193" column="91" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/definitions.py" timestamp="1504622046225">
         <mark key="[" line="2" column="39" />
@@ -205,24 +104,10 @@
         <mark key="." line="30" column="72" />
         <mark key="^" line="30" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505483213651">
+      <file name="/Dummy.txt" timestamp="1505485066867">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/vision.py" timestamp="1496829324610">
-        <mark key="'" line="63" column="4" />
-        <mark key="[" line="2" column="43" />
-        <mark key="]" line="2" column="46" />
-        <mark key="." line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/train_imagenet.py" timestamp="1493400821534">
-        <mark key="'" line="57" column="18" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="50" column="29" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1496422923961">
         <mark key="[" line="22" column="6" />
@@ -236,13 +121,6 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="107" column="109" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ytaudio/XYZ/core/train.py" timestamp="1487780356192">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="498" column="33" />
-        <mark key="]" line="498" column="33" />
-        <mark key="." line="498" column="33" />
-        <mark key="^" line="5" column="19" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank_test.py" timestamp="1504629859808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
@@ -255,32 +133,11 @@
         <mark key="." line="6" column="82" />
         <mark key="^" line="6" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/myconfigs.py" timestamp="1491226127474">
-        <mark key="'" line="5" column="28" />
-        <mark key="[" line="68" column="2" />
-        <mark key="]" line="70" column="44" />
-        <mark key="." line="70" column="44" />
-        <mark key="^" line="70" column="44" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/mnist_deep.py" timestamp="1491235489704">
-        <mark key="'" line="151" column="37" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="152" column="48" />
-        <mark key="." line="140" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505484150470">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_common.py" timestamp="1502984281236">
-        <mark key="'" line="226" column="9" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
-        <mark key="^" line="236" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505485055358">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="31" column="43" />
+        <mark key="^" line="31" column="43" />
+        <mark key="." line="31" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
@@ -300,27 +157,6 @@
         <mark key="]" line="159" column="30" />
         <mark key="." line="159" column="30" />
         <mark key="^" line="163" column="63" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/improved-gan/model.py" timestamp="1493397261922">
-        <mark key="'" line="18" column="31" />
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/read.py" timestamp="1502978293262">
-        <mark key="'" line="46" column="7" />
-        <mark key="[" line="65" column="32" />
-        <mark key="]" line="65" column="47" />
-        <mark key="." line="65" column="47" />
-        <mark key="^" line="65" column="47" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/tf_helper.py" timestamp="1503396890103">
-        <mark key="'" line="29" column="20" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/xyz_helpers.py" timestamp="1505232217464">
         <mark key="[" line="154" column="59" />
@@ -433,19 +269,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwc19wZXJfZXBvY2hcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>.npy</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgdG9wX2xheWVycyhzZWxmLCBpc190cmFpbiwgZ2xvYmFsX2VuZHBvaW50cywgbW9kdWxlX2VuZHBvaW50cyk6CiAgICBpbnB1dHMgPSBtb2R1bGVfZW5kcG9pbnRzWydib3R0bGVuZWNrJ10KCiAgICAjIFRoZSB0b3AgbGF5ZXJzCiAgICBmb3IgbCwgbiBpbiB6aXAoc2VsZi5sYWJlbHMsIHNlbGYubl9jbGFzc2VzKToKICAgICAgb3V0ID0gY29tbW9uX2JyYW5jaChpc190cmFpbiwgaW5wdXRzLCBuLCAne31fe31fdG9wJy5mb3JtYXQoc2VsZi5yYXdfbmFtZSwgbCkpCiAgICAgIGxvZ2l0X25hbWUgPSAne31fe31fbG9naXRzJy5mb3JtYXQoc2VsZi5yYXdfbmFtZSwgbCkKICAgICAgbW9kdWxlX2VuZHBvaW50c1tsb2dpdF9uYW1lXSA9IG91dAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0IGlzaW5zdGFuY2UoZHQsIG5wLmR0eXBlKQo=</text>
+        <text encoding="base64">ICAgIGZvciBsLCBuIGluIHppcChzZWxmLmxhYmVscywgc2VsZi5uX2NsYXNzZXMpOgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -460,36 +296,36 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgYXNzZXJ0IGlzaW5zdGFuY2UoZHQsIG5wLmR0eXBlKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">TkFNRVNfTElTVCA9IFsna2V5d29yZHMnLAogICAgICAgICAgICAgICdrZXl3b3JkX2ZpbGVzJywKICAgICAgICAgICAgICAnbGFiZWxzJywKICAgICAgICAgICAgICAndXR0ZXJhbmNlcycsCiAgICAgICAgICAgICAgJ3V0dGVyYW5jZV9maWxlcycsCiAgICAgICAgICAgICAgXQo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>eval
 eval
 eval
 eval
 eval</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>train
 train
 train
 train
 train</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBwcmludChURlJfRklMRU5BTUVTX1BSRUZJWCkKICBzZXRfcGFyYW1zKCcnLCAnJywgJycsICcnLCAnJywgJycsICcnKQogIHByaW50KFRGUl9GSUxFTkFNRVNfUFJFRklYKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IC4uLwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">Z2xvYmFsIApnbG9iYWwg</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBGSUwK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
