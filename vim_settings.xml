@@ -115,12 +115,12 @@
         <mark key="." line="167" column="3" />
         <mark key="^" line="167" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" timestamp="1505472535772">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" timestamp="1505478735658">
         <mark key="'" line="106" column="0" />
-        <mark key="[" line="139" column="42" />
-        <mark key="]" line="139" column="57" />
-        <mark key="." line="139" column="42" />
-        <mark key="^" line="138" column="52" />
+        <mark key="[" line="149" column="105" />
+        <mark key="]" line="150" column="14" />
+        <mark key="." line="150" column="14" />
+        <mark key="^" line="150" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/train.py" timestamp="1493396746176">
         <mark key="'" line="7" column="23" />
@@ -142,7 +142,7 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1504870768427">
+      <file name="/Python Console" timestamp="1505478673655">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1504629874611">
@@ -420,20 +420,20 @@
       <jump line="87" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, dtype=np.int8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>raise ValueError(&quot;useless keyword&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwc19wZXJfZXBvY2hcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>, dtype=np.int8</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG5wLnNhdmUob3MucGF0aC5qb2luKGRhdGFfcm9vdCwgJ251bXB5Jywgc2VlZHNbMF0gKyAnX2xhYmVscycpLCBucC5hcnJheShsYWJlbHMsIGR0eXBlPW5wLmludDMyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIyBwcmludCh1J2ZpbmFsIG91dHB1dDoge30nLmZvcm1hdChrZXl3b3JkX2ZlYXR1cmVzKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -447,29 +447,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYga2V5d29yZF9mZWF0dXJlcy5zaXplID09IDA6CiAgICAgICAgcHJpbnQoImtleXdvcmRfZmlsZToge30iLmZvcm1hdChrZXl3b3JkX2ZpbGUpKQogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInVzZWxlc3Mga2V5d29yZCIpCg==</text>
+      <register name="2" type="8">
+        <text>, dtype=np.int32
+, dtype=np.int32</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYga2V5d29yZF9mZWF0dXJlcy5zaXplID09IDA6CiAgICAgICAgcHJpbnQoImtleXdvcmRfZmlsZToge30iLmZvcm1hdChrZXl3b3JkX2ZpbGUpKQogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInVzZWxlc3Mga2V5d29yZCIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgia2V5d29yZF9maWxlOiB7fSIuZm9ybWF0KGtleXdvcmRfZmlsZSkpCg==</text>
+        <text encoding="base64">ICB1dHRlcmFuY2VzID0gW10KICBrZXl3b3JkcyA9IFtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmFpc2UgVmFsdWVFcnJvcgo=</text>
+        <text encoding="base64">ICAgIHV0dGVyYW5jZXNfbnVtcHkgPSBucC5hcnJheSh1dHRlcmFuY2VzLCBkdHlwZT1ucC5pbnQ4KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcmludCh1J2ZpbmFsIG91dHB1dDoge30nLmZvcm1hdChkZWNvZGVkKSkK</text>
+        <text encoding="base64">ICAgIGtleXdvcmRzX251bXB5ID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gc291cmNlX2F1ZGlvLCBzb3VyY2VfbGVuCg==</text>
+        <text encoding="base64">ICAgICAgIyBwcmludCh1J2ZpbmFsIG91dHB1dDoge30nLmZvcm1hdChrZXl3b3JkX2ZlYXR1cmVzKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgUnVuIG9wcyBpbiB0aGUgZ3JhcGgKICAgIGZlZWRfZGljdCA9IHthdWRpb190ZW5zb3I6IHNvdXJjZV9hdWRpbywgbGVuX3RlbnNvcjogc291cmNlX2xlbn0KICAgIHMgPSB0aW1lLnRpbWUoKQogICAgZGVjb2RlZCA9IHNlc3MucnVuKG91dF90ZW5zb3IsIGZlZWRfZGljdD1mZWVkX2RpY3QpWzAsIDBdCiAgICBlID0gdGltZS50aW1lKCkKICAgIHByaW50KCd0aW1lIGZvciBuZXR3b3JrOiB7fScuZm9ybWF0KGUgLSBzKSkKICAgIHByaW50KHUnZmluYWwgb3V0cHV0OiB7fScuZm9ybWF0KGRlY29kZWQpKQo=</text>
+        <text encoding="base64">ICAgICAgaWYga2V5d29yZF9mZWF0dXJlcy5zaXplID09IDA6CiAgICAgICAgcHJpbnQoImtleXdvcmRfZmlsZToge30iLmZvcm1hdChrZXl3b3JkX2ZpbGUpKQogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInVzZWxlc3Mga2V5d29yZCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgaWYga2V5d29yZF9mZWF0dXJlcy5zaXplID09IDA6CiAgICAgICAgcHJpbnQoImtleXdvcmRfZmlsZToge30iLmZvcm1hdChrZXl3b3JkX2ZpbGUpKQogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInVzZWxlc3Mga2V5d29yZCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
