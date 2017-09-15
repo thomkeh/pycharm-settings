@@ -115,12 +115,12 @@
         <mark key="." line="167" column="3" />
         <mark key="^" line="167" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" timestamp="1505470392864">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" timestamp="1505472535772">
         <mark key="'" line="106" column="0" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
-        <mark key="^" line="136" column="41" />
+        <mark key="[" line="139" column="42" />
+        <mark key="]" line="139" column="57" />
+        <mark key="." line="139" column="42" />
+        <mark key="^" line="138" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/improved-gan/train.py" timestamp="1493396746176">
         <mark key="'" line="7" column="23" />
@@ -421,7 +421,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>, dtype=np.int8</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAg</text>
@@ -429,8 +429,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwc19wZXJfZXBvY2hcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAga2V5d29yZHMuYXBwZW5kKGtleXdvcmRfZmVhdHVyZXMuYXN0eXBlKG5wLmludDgpKQo=</text>
+      <register name="0" type="4">
+        <text>, dtype=np.int8</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIyBwcmludCh1J2ZpbmFsIG91dHB1dDoge30nLmZvcm1hdChrZXl3b3JkX2ZlYXR1cmVzKSkK</text>
