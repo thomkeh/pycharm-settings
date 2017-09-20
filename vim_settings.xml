@@ -87,7 +87,7 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505898409556">
+      <file name="/Dummy.txt" timestamp="1505899501596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -147,11 +147,11 @@
         <mark key="." line="29" column="22" />
         <mark key="^" line="29" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1505832832256">
-        <mark key="[" line="50" column="47" />
-        <mark key="]" line="50" column="48" />
-        <mark key="." line="50" column="48" />
-        <mark key="^" line="98" column="83" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1505899789095">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
@@ -160,11 +160,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/train.py" timestamp="1505833765540">
-        <mark key="[" line="48" column="35" />
-        <mark key="]" line="48" column="46" />
-        <mark key="^" line="48" column="46" />
-        <mark key="." line="48" column="46" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/train.py" timestamp="1505899442814">
+        <mark key="[" line="503" column="42" />
+        <mark key="]" line="503" column="62" />
+        <mark key="^" line="249" column="58" />
+        <mark key="." line="503" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/audio.py" timestamp="1500725140642">
         <mark key="[" line="159" column="30" />
@@ -182,6 +182,12 @@
         <mark key="]" line="4" column="48" />
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/common.py" timestamp="1505899372082">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="35" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/xyz_helpers.py" timestamp="1505232217464">
         <mark key="[" line="154" column="59" />
@@ -294,19 +300,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>CHECKPOINT_DIR</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>CHECKPOINT_DIR</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgdG9wX2xheWVycyhzZWxmLCBpc190cmFpbiwgZ2xvYmFsX2VuZHBvaW50cywgbW9kdWxlX2VuZHBvaW50cyk6CiAgICBpbnB1dHMgPSBtb2R1bGVfZW5kcG9pbnRzWydib3R0bGVuZWNrJ10KCiAgICAjIFRoZSB0b3AgbGF5ZXJzCiAgICBmb3IgbCwgbiBpbiB6aXAoc2VsZi5sYWJlbHMsIHNlbGYubl9jbGFzc2VzKToKICAgICAgb3V0ID0gY29tbW9uX2JyYW5jaChpc190cmFpbiwgaW5wdXRzLCBuLCAne31fe31fdG9wJy5mb3JtYXQoc2VsZi5yYXdfbmFtZSwgbCkpCiAgICAgIGxvZ2l0X25hbWUgPSAne31fe31fbG9naXRzJy5mb3JtYXQoc2VsZi5yYXdfbmFtZSwgbCkKICAgICAgbW9kdWxlX2VuZHBvaW50c1tsb2dpdF9uYW1lXSA9IG91dAo=</text>
+      <register name="0" type="4">
+        <text>FLAGS.checkpoint_dir</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICByZXR1cm4gYXVkaW9fZmVhdHVyZXNfcGFkZGVkCg==</text>
+        <text encoding="base64">ICBDSEVDS1BPSU5UX0RJUiA9ICcvaG9tZS90bWsvb3V0L3RlbnNvcmZsb3cvdHJhbnNmZXInCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -321,28 +327,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBwYWRkaW5nKHRlbnNvciwgdGFyZ2V0X2xlbmd0aCk6CiAgICAgIGxlbmd0aCA9IHRmLnNoYXBlKHRlbnNvcilbMF0KICAgICAgcGFkZGluZyA9IHRmLnN0YWNrKFtdKQoK</text>
+        <text encoding="base64">ICBDSEVDS1BPSU5UX0RJUiA9ICcvaG9tZS9rZXJlbmdpbC9vdXQnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICBDSEVDS1BPSU5UX0RJUiA9ICcvaG9tZS9jcnV2YWRvbS90ZW1wL291dC90cmFuc2ZlcicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwb3N0Y2FjaGUK</text>
+        <text encoding="base64">ICAKICByZXR1cm4gYXVkaW9fZmVhdHVyZXNfcGFkZGVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBwYWRkaW5nKHRlbnNvciwgdGFyZ2V0X2xlbmd0aCk6CiAgICAgIGxlbmd0aCA9IHRmLnNoYXBlKHRlbnNvcilbMF0KICAgICAgcGFkZGluZyA9IHRmLnN0YWNrKFtdKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzaXggaW1wb3J0IGl0ZXJpdGVtcwo=</text>
+        <text encoding="base64">ICAgICAgaWYgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGYuYXBwLgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBwb3N0Y2FjaGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBsLCBuIGluIHppcChzZWxmLmxhYmVscywgc2VsZi5uX2NsYXNzZXMpOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0IGlzaW5zdGFuY2UoZHQsIG5wLmR0eXBlKQo=</text>
+        <text encoding="base64">ZnJvbSBzaXggaW1wb3J0IGl0ZXJpdGVtcwo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
