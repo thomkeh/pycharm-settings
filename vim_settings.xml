@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1505843616883">
+      <file name="/Python Console" timestamp="1505924805779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1505408301711">
@@ -133,12 +133,12 @@
         <mark key="." line="6" column="82" />
         <mark key="^" line="6" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" timestamp="1505836180410">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" timestamp="1505924768571">
         <mark key="'" line="156" column="1" />
-        <mark key="[" line="142" column="58" />
-        <mark key="]" line="143" column="42" />
-        <mark key="." line="143" column="42" />
-        <mark key="^" line="143" column="42" />
+        <mark key="[" line="122" column="22" />
+        <mark key="]" line="182" column="5" />
+        <mark key="." line="182" column="5" />
+        <mark key="^" line="182" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505898295338">
         <mark key="'" line="25" column="60" />
@@ -299,11 +299,15 @@
       <jump line="25" column="60" filename="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CHECKPOINT_DIR</text>
+      <register name="&quot;" type="8">
+        <text>seeds[0]
+seeds[0]
+seeds[0]
+seeds[0]
+seeds[0]</text>
       </register>
       <register name="-" type="4">
-        <text>CHECKPOINT_DIR</text>
+        <text>[1]</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -311,8 +315,12 @@
       <register name="0" type="4">
         <text>FLAGS.checkpoint_dir</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBDSEVDS1BPSU5UX0RJUiA9ICcvaG9tZS90bWsvb3V0L3RlbnNvcmZsb3cvdHJhbnNmZXInCg==</text>
+      <register name="1" type="8">
+        <text>seeds[0]
+seeds[0]
+seeds[0]
+seeds[0]
+seeds[0]</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -327,28 +335,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBDSEVDS1BPSU5UX0RJUiA9ICcvaG9tZS9rZXJlbmdpbC9vdXQnCg==</text>
+        <text encoding="base64">ICBDSEVDS1BPSU5UX0RJUiA9ICcvaG9tZS90bWsvb3V0L3RlbnNvcmZsb3cvdHJhbnNmZXInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBDSEVDS1BPSU5UX0RJUiA9ICcvaG9tZS9jcnV2YWRvbS90ZW1wL291dC90cmFuc2ZlcicK</text>
+        <text encoding="base64">ICBDSEVDS1BPSU5UX0RJUiA9ICcvaG9tZS9rZXJlbmdpbC9vdXQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICByZXR1cm4gYXVkaW9fZmVhdHVyZXNfcGFkZGVkCg==</text>
+        <text encoding="base64">ICBDSEVDS1BPSU5UX0RJUiA9ICcvaG9tZS9jcnV2YWRvbS90ZW1wL291dC90cmFuc2ZlcicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBwYWRkaW5nKHRlbnNvciwgdGFyZ2V0X2xlbmd0aCk6CiAgICAgIGxlbmd0aCA9IHRmLnNoYXBlKHRlbnNvcilbMF0KICAgICAgcGFkZGluZyA9IHRmLnN0YWNrKFtdKQoK</text>
+        <text encoding="base64">ICAKICByZXR1cm4gYXVkaW9fZmVhdHVyZXNfcGFkZGVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgIGRlZiBwYWRkaW5nKHRlbnNvciwgdGFyZ2V0X2xlbmd0aCk6CiAgICAgIGxlbmd0aCA9IHRmLnNoYXBlKHRlbnNvcilbMF0KICAgICAgcGFkZGluZyA9IHRmLnN0YWNrKFtdKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwb3N0Y2FjaGUK</text>
+        <text encoding="base64">ICAgICAgaWYgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBwb3N0Y2FjaGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzaXggaW1wb3J0IGl0ZXJpdGVtcwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
