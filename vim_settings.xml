@@ -132,13 +132,6 @@
         <mark key="." line="6" column="82" />
         <mark key="^" line="6" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" timestamp="1505987439205">
-        <mark key="'" line="158" column="1" />
-        <mark key="[" line="190" column="31" />
-        <mark key="]" line="190" column="39" />
-        <mark key="." line="190" column="39" />
-        <mark key="^" line="190" column="39" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505998796646">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="93" column="4" />
@@ -196,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="62" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="295" column="36" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="310" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="329" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -296,6 +288,7 @@
       <jump line="39" column="20" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
       <jump line="50" column="10" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
       <jump line="83" column="54" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
+      <jump line="114" column="16" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -305,7 +298,7 @@
         <text>move data from depth dimension to width dimension and remove depth dimension</text>
       </register>
       <register name="/" type="4">
-        <text>dropout</text>
+        <text>as_strid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvdXQgPSBmbGF0dGVuKG91dCkKICBmb3IgaSBpbiByYW5nZSgwLCBGTEFHUy5uX2RlbnNlKToKICAgIG91dCA9IGRlbnNlKG91dCwgRkxBR1Mubl9kZW5zZV91bml0cywgd19zdGQsIGJfaW5pdCwgbm90IEZMQUdTLmJuLCAnZGVuc2V7fScuZm9ybWF0KGkpKQogICAgb3V0ID0gYmF0Y2hfbm9ybShpc190cmFpbiwgb3V0LCAnZGVuc2V7fScuZm9ybWF0KGkpKSBpZiBGTEFHUy5ibiBlbHNlIG91dAogICAgb3V0ID0gdGYubm4ucmVsdShvdXQpCiAgICB0Zi5ubi5kcm9wb3V0KG91dCwgMC41KSBpZiBkciBlbHNlIG91dAoKICAjIFNldCB0aGUgZW5kcG9pbnRzIG5hbWVzCiAgZ2xvYmFsX2VuZHBvaW50c1snYm90dGxlbmVjayddID0gb3V0CgogIHJldHVybiBnbG9iYWxfZW5kcG9pbnRzCg==</text>
@@ -354,9 +347,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dropout</last-search>
+      <last-search>as_strid</last-search>
       <last-offset />
-      <last-pattern>dropout</last-pattern>
+      <last-pattern>as_strid</last-pattern>
       <last-replace>clean</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -364,7 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shuffle_b</entry>
         <entry>a\.seed</entry>
         <entry>seed</entry>
         <entry encoding="base64">XDxjcmVhdGVfbW9kZWxcPg==</entry>
@@ -384,6 +376,7 @@
         <entry>print</entry>
         <entry>conv</entry>
         <entry>dropout</entry>
+        <entry>as_strid</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvJywgJy9n</entry>
