@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1505925463215">
+      <file name="/Python Console" timestamp="1505987089904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1505408301711">
@@ -87,7 +87,7 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505929783728">
+      <file name="/Dummy.txt" timestamp="1505987445202">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -108,12 +108,6 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_from_npy.py" timestamp="1505483210242">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="107" column="109" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank_test.py" timestamp="1504629859808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
@@ -133,19 +127,19 @@
         <mark key="." line="6" column="82" />
         <mark key="^" line="6" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" timestamp="1505934635142">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" timestamp="1505987439205">
         <mark key="'" line="158" column="1" />
         <mark key="[" line="190" column="31" />
         <mark key="]" line="190" column="39" />
         <mark key="." line="190" column="39" />
         <mark key="^" line="190" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505898295338">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505987334943">
         <mark key="'" line="25" column="60" />
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="22" />
-        <mark key="^" line="29" column="22" />
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="38" />
+        <mark key="^" line="25" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1505899789095">
         <mark key="[" line="7" column="22" />
@@ -300,10 +294,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>keyword</text>
+        <text>50</text>
       </register>
       <register name="-" type="4">
-        <text>keyword</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
