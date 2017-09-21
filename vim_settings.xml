@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1505997081033">
+      <file name="/Python Console" timestamp="1505998810712">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1505408301711">
@@ -92,7 +92,7 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505991723734">
+      <file name="/Dummy.txt" timestamp="1505998826925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -139,18 +139,18 @@
         <mark key="." line="190" column="39" />
         <mark key="^" line="190" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505998161893">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505998796646">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="99" column="20" />
-        <mark key="]" line="99" column="40" />
-        <mark key="." line="99" column="40" />
-        <mark key="^" line="99" column="40" />
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="93" column="37" />
+        <mark key="." line="93" column="37" />
+        <mark key="^" line="93" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1505997375474">
-        <mark key="[" line="97" column="46" />
-        <mark key="]" line="97" column="60" />
-        <mark key="." line="97" column="60" />
-        <mark key="^" line="97" column="60" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1505998518612">
+        <mark key="[" line="98" column="76" />
+        <mark key="]" line="98" column="87" />
+        <mark key="." line="98" column="87" />
+        <mark key="^" line="98" column="87" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
@@ -298,20 +298,20 @@
       <jump line="83" column="54" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBvdXQgPSBpbnB1dHMKICBvdXQgPSB0Zi5leHBhbmRfZGltcyhvdXQsIGF4aXM9MykKICBvdXQgPSBjb252MmQob3V0LCBbMSwgMjddLCBbMSwgMSwgMSwgMV0sIDY0LCB3X3N0ZCwgYl9pbml0LCBGYWxzZSwgJ1ZBTElEJywgJ2NvbnZfZW1iZWRkaW5nJykK</text>
+      <register name="&quot;" type="4">
+        <text>move data from depth dimension to width dimension and remove depth dimension</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>move data from depth dimension to width dimension and remove depth dimension</text>
       </register>
       <register name="/" type="4">
         <text>dropout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvdXQgPSBpbnB1dHMKICBvdXQgPSB0Zi5leHBhbmRfZGltcyhvdXQsIGF4aXM9MykKICBvdXQgPSBjb252MmQob3V0LCBbMSwgMjddLCBbMSwgMSwgMSwgMV0sIDY0LCB3X3N0ZCwgYl9pbml0LCBGYWxzZSwgJ1ZBTElEJywgJ2NvbnZfZW1iZWRkaW5nJykK</text>
+        <text encoding="base64">ICBvdXQgPSBmbGF0dGVuKG91dCkKICBmb3IgaSBpbiByYW5nZSgwLCBGTEFHUy5uX2RlbnNlKToKICAgIG91dCA9IGRlbnNlKG91dCwgRkxBR1Mubl9kZW5zZV91bml0cywgd19zdGQsIGJfaW5pdCwgbm90IEZMQUdTLmJuLCAnZGVuc2V7fScuZm9ybWF0KGkpKQogICAgb3V0ID0gYmF0Y2hfbm9ybShpc190cmFpbiwgb3V0LCAnZGVuc2V7fScuZm9ybWF0KGkpKSBpZiBGTEFHUy5ibiBlbHNlIG91dAogICAgb3V0ID0gdGYubm4ucmVsdShvdXQpCiAgICB0Zi5ubi5kcm9wb3V0KG91dCwgMC41KSBpZiBkciBlbHNlIG91dAoKICAjIFNldCB0aGUgZW5kcG9pbnRzIG5hbWVzCiAgZ2xvYmFsX2VuZHBvaW50c1snYm90dGxlbmVjayddID0gb3V0CgogIHJldHVybiBnbG9iYWxfZW5kcG9pbnRzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvdXQgPSB0Zi50cmFuc3Bvc2Uob3V0LCAoMCwgMSwgMywgMikpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -326,28 +326,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbnB1dHMgPSB0Zi5jb25jYXQoYXhpcz0wLCB2YWx1ZXM9W2VbJ2ZlYXR1cmVzJ10gZm9yIGUgaW4gbW9kdWxlX2VuZHBvaW50c10pCgo=</text>
+        <text encoding="base64">ICBhc3NlcnQgb3V0LnNoYXBlID09IChGTEFHUy50cmFpbl9tYiwgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnbG9iYWxfZW5kcG9pbnRzWydpbnB1dHMnXSA9IGlucHV0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbF9kaWN0WydmZWF0dXJlcyddID0gdGYuY29uY2F0KFtrZXl3b3JkX29uZWhvdCwgdXR0ZXJhbmNlX29uZWhvdF0sIGF4aXM9MCkKICAgIHZhbF9kaWN0WydmZWF0dXJlcyddLnNldF9zaGFwZSgoMTIwLCAyNykpCg==</text>
+        <text encoding="base64">ICBpbnB1dHMgPSB0Zi5jb25jYXQoYXhpcz0wLCB2YWx1ZXM9W2VbJ2ZlYXR1cmVzJ10gZm9yIGUgaW4gbW9kdWxlX2VuZHBvaW50c10pCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBnbG9iYWxfZW5kcG9pbnRzWydpbnB1dHMnXSA9IGlucHV0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvdXQgPSBmbGF0dGVuKG91dCkK</text>
+        <text encoding="base64">ICAgIHZhbF9kaWN0WydmZWF0dXJlcyddID0gdGYuY29uY2F0KFtrZXl3b3JkX29uZWhvdCwgdXR0ZXJhbmNlX29uZWhvdF0sIGF4aXM9MCkKICAgIHZhbF9kaWN0WydmZWF0dXJlcyddLnNldF9zaGFwZSgoMTIwLCAyNykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgID0gc2VlZHNfc29ydGVkW2ldCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB1dHRlcmFuY2VfZmVhdHVyZXMgaXMgCg==</text>
+        <text encoding="base64">ICBvdXQgPSBmbGF0dGVuKG91dCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIikK</text>
+        <text encoding="base64">ICAgICAgID0gc2VlZHNfc29ydGVkW2ldCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
