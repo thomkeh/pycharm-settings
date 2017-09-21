@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1505991627155">
+      <file name="/Python Console" timestamp="1505997081033">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1505408301711">
@@ -15,8 +15,8 @@
         <mark key="^" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/models.py" timestamp="1505990865219">
-        <mark key="'" line="39" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/models.py" timestamp="1505997751219">
+        <mark key="'" line="83" column="54" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="94" />
       </file>
@@ -139,18 +139,18 @@
         <mark key="." line="190" column="39" />
         <mark key="^" line="190" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505991695608">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="53" column="41" />
-        <mark key="]" line="53" column="41" />
-        <mark key="." line="53" column="41" />
-        <mark key="^" line="53" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505998161893">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="99" column="20" />
+        <mark key="]" line="99" column="40" />
+        <mark key="." line="99" column="40" />
+        <mark key="^" line="99" column="40" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1505991272707">
-        <mark key="[" line="98" column="70" />
-        <mark key="]" line="98" column="79" />
-        <mark key="." line="98" column="79" />
-        <mark key="^" line="98" column="79" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1505997375474">
+        <mark key="[" line="97" column="46" />
+        <mark key="]" line="97" column="60" />
+        <mark key="." line="97" column="60" />
+        <mark key="^" line="97" column="60" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
@@ -196,8 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" />
-      <jump line="385" column="61" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="40" column="62" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="295" column="36" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="310" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -296,22 +294,24 @@
       <jump line="477" column="1" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
       <jump line="39" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" />
       <jump line="39" column="20" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
+      <jump line="50" column="10" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
+      <jump line="83" column="54" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.format(i)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBvdXQgPSBpbnB1dHMKICBvdXQgPSB0Zi5leHBhbmRfZGltcyhvdXQsIGF4aXM9MykKICBvdXQgPSBjb252MmQob3V0LCBbMSwgMjddLCBbMSwgMSwgMSwgMV0sIDY0LCB3X3N0ZCwgYl9pbml0LCBGYWxzZSwgJ1ZBTElEJywgJ2NvbnZfZW1iZWRkaW5nJykK</text>
       </register>
       <register name="-" type="4">
-        <text>.format(i)</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>conv</text>
+        <text>dropout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG91dCA9IGJhdGNoX25vcm0oaXNfdHJhaW4sIG91dCwgJ2RlbnNle30nLmZvcm1hdChpKSkgaWYgRkxBR1MuYm4gZWxzZSBvdXQKICAgIG91dCA9IHRmLm5uLnJlbHUob3V0KQogICAgdGYubm4uZHJvcG91dChvdXQsIDAuNSkgaWYgZHIgZWxzZSBvdXQK</text>
+        <text encoding="base64">ICBvdXQgPSBpbnB1dHMKICBvdXQgPSB0Zi5leHBhbmRfZGltcyhvdXQsIGF4aXM9MykKICBvdXQgPSBjb252MmQob3V0LCBbMSwgMjddLCBbMSwgMSwgMSwgMV0sIDY0LCB3X3N0ZCwgYl9pbml0LCBGYWxzZSwgJ1ZBTElEJywgJ2NvbnZfZW1iZWRkaW5nJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvdXQgPSBmbGF0dGVuKG91dCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -326,37 +326,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgID0gc2VlZHNfc29ydGVkW2ldCg==</text>
+        <text encoding="base64">ICBpbnB1dHMgPSB0Zi5jb25jYXQoYXhpcz0wLCB2YWx1ZXM9W2VbJ2ZlYXR1cmVzJ10gZm9yIGUgaW4gbW9kdWxlX2VuZHBvaW50c10pCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB1dHRlcmFuY2VfZmVhdHVyZXMgaXMgCg==</text>
+        <text encoding="base64">ICBnbG9iYWxfZW5kcG9pbnRzWydpbnB1dHMnXSA9IGlucHV0cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIikK</text>
+        <text encoding="base64">ICAgIHZhbF9kaWN0WydmZWF0dXJlcyddID0gdGYuY29uY2F0KFtrZXl3b3JkX29uZWhvdCwgdXR0ZXJhbmNlX29uZWhvdF0sIGF4aXM9MCkKICAgIHZhbF9kaWN0WydmZWF0dXJlcyddLnNldF9zaGFwZSgoMTIwLCAyNykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdXR0ZXJhbmNlX2ZpbGUgPSB1dHRlcmFuY2VfZmlsZS5kZWNvZGUoJ3V0ZjgnKS5yZXBsYWNlKCJzaG9ydF93YXZzMiIsICJzaG9ydF93YXZzMyIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0cmFpbl9zZWVkcyA9IAogIHRlc3Rfc2VlZHMgPSAKICBkZXZfc2VlZHMgPSAK</text>
+        <text encoding="base64">ICBvdXQgPSBmbGF0dGVuKG91dCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgID0gc2VlZHNfc29ydGVkW2ldCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB1dHRlcmFuY2VfZmVhdHVyZXMgaXMgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkKICAgICAga2V5d29yZF9maWxlcy5hcHBlbmQob3MucGF0aC5iYXNlbmFtZShrZXl3b3JkX2ZpbGUpKQogICAgICB1dHRlcmFuY2VfZmlsZXMuYXBwZW5kKG9zLnBhdGguYmFzZW5hbWUodXR0ZXJhbmNlX2ZpbGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiIikK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search>conv</last-search>
+      <last-search>dropout</last-search>
       <last-offset />
-      <last-pattern>conv</last-pattern>
+      <last-pattern>dropout</last-pattern>
       <last-replace>clean</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -368,7 +368,6 @@
         <entry>a\.seed</entry>
         <entry>seed</entry>
         <entry encoding="base64">XDxjcmVhdGVfbW9kZWxcPg==</entry>
-        <entry>dropout</entry>
         <entry encoding="base64">XDxiYXRjaG5vcm1cPg==</entry>
         <entry>trainab</entry>
         <entry>Adam</entry>
@@ -384,6 +383,7 @@
         <entry encoding="base64">XDxzdGVwc19wZXJfZXBvY2hcPg==</entry>
         <entry>print</entry>
         <entry>conv</entry>
+        <entry>dropout</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvJywgJy9n</entry>
