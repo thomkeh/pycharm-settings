@@ -134,12 +134,12 @@
         <mark key="." line="190" column="39" />
         <mark key="^" line="190" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505987334943">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505988493111">
         <mark key="'" line="25" column="60" />
-        <mark key="[" line="25" column="36" />
-        <mark key="]" line="25" column="38" />
-        <mark key="." line="25" column="38" />
-        <mark key="^" line="25" column="38" />
+        <mark key="[" line="29" column="40" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="29" column="40" />
+        <mark key="^" line="29" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1505899789095">
         <mark key="[" line="7" column="22" />
@@ -294,10 +294,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>50</text>
+        <text>global_endpoints</text>
       </register>
       <register name="-" type="4">
-        <text>50</text>
+        <text>global_endpoints</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
