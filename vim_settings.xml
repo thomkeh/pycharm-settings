@@ -69,6 +69,10 @@
         <mark key="." line="30" column="72" />
         <mark key="^" line="30" column="72" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_cifar.py" timestamp="1506087996522">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="45" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
         <mark key="[" line="0" column="64" />
       </file>
@@ -92,7 +96,7 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506085443963">
+      <file name="/Dummy.txt" timestamp="1506087925928">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -198,12 +202,12 @@
         <mark key="^" line="155" column="7" />
         <mark key="." line="155" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1506087009352">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1506088728958">
         <mark key="'" line="108" column="43" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="19" column="46" />
+        <mark key="[" line="43" column="51" />
+        <mark key="]" line="43" column="58" />
+        <mark key="." line="43" column="58" />
+        <mark key="^" line="43" column="58" />
       </file>
     </filemarks>
     <jumps>
@@ -309,20 +313,20 @@
       <jump line="42" column="35" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZWVkcy5wcmVwYXJlX3NlZWRzKCkK</text>
+      <register name="&quot;" type="4">
+        <text>lines</text>
       </register>
       <register name="-" type="4">
-        <text>keyword</text>
+        <text>lines</text>
       </register>
       <register name="/" type="4">
         <text>as_strid</text>
       </register>
-      <register name="0" type="4">
-        <text>directory for the cropped keyword wavs</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdpdGggaW8ub3BlbihwYXRoLCBlbmNvZGluZz0ndXRmOCcpIGFzIGY6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZWVkcy5wcmVwYXJlX3NlZWRzKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihmaXJzdF93b3JkcykpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -337,28 +341,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGtfb3V0X2ZvbGRlcj0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgUmV0dXJuczoKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAiIiIKICAKICAiIiIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBuYXNfZGlyID0gJy9uYXMvc3RhZmYvZGF0YV93b3JrL0dpbC9Zb3VUdWJlL2RhdGFzZXRzJwogICMgY29uc3RydWN0X2Nzdihjc3ZfZmlsZT1vcy5wYXRoLmpvaW4obmFzX2RpciwgJ2UyZV9rZXl3b3JkL3NodG9va2EvZW5nbGlzaC9lbmctd2NwLXVzLmNzdicpLAogICMgICAgICAgICAgICAgICByb290X2Rpcj1vcy5wYXRoLmpvaW4obmFzX2RpciwgJ2UyZV9rZXl3b3JkL3NodG9va2EvZW5nbGlzaC9mbGFjL2VuZy13Y3AtdXMnKSkKICBzZWVkcy5wcmVwYXJlX3NlZWRzKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB3aXRoIG9wZW4oY3N2X2ZpbGUsICd3JykgYXMgZjoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGYud3JpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB3aXRoIG9wZW4oY3N2X2ZpbGUpIGFzIGY6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBsaW5lcyA9IFtdCiAgd2l0aCBvcGVuKGRlZXBzcGVlY2hfY3N2KSBhcyBmOiAgIyBSZWFkcyBhIGNzdiBsaW5lIGJ5IGxpbmUsIHdpdGhvdXQgbG9hZGluZyB0aGUgd2hvbGUgZmlsZSBpbnRvIG1lbW9yeQogICAgcmVhZGVyID0gY3N2LnJlYWRlcihmLCBkZWxpbWl0ZXI9JywnKQogICAgYyA9IDAKICAgIGZvciBsaW5lIGluIHJlYWRlcjoKICAgICAgaWYgYyAhPSAwOgogICAgICAgIHQgPSBsaW5lWzJdLnJlcGxhY2UoJ1wnJywgJycpCiAgICAgICAgdCA9ICcgJy5qb2luKHQuc3BsaXQoJyAnKVs6d29yZHNfbGltaXRdKQogICAgICAgIGxpbmVzLmFwcGVuZCgobGluZVswXSwgbGluZVsxXSwgdCkpCiAgICAgIGMgKz0gMQogICMgbl9saW5lcyA9IGxlbihsaW5lcykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBzZWVkcy5wcmVwYXJlX3NlZWRzKCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGtfb3V0X2ZvbGRlcj0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgUmV0dXJuczoKCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAiIiIKICAKICAiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
