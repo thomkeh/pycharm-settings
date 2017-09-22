@@ -169,9 +169,10 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506013098250">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="40" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506074774640">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
         <mark key="^" line="9" column="40" />
         <mark key="." line="9" column="40" />
       </file>
@@ -193,13 +194,15 @@
         <mark key="^" line="155" column="7" />
         <mark key="." line="155" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1506075293635">
+        <mark key="'" line="108" column="43" />
+        <mark key="[" line="47" column="20" />
+        <mark key="]" line="47" column="20" />
+        <mark key="." line="47" column="20" />
+        <mark key="^" line="42" column="26" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="36" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="310" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="329" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="615" column="13" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="726" column="8" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="727" column="21" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="553" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="199" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -295,22 +298,27 @@
       <jump line="50" column="10" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
       <jump line="83" column="54" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
       <jump line="114" column="16" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" />
+      <jump line="132" column="3" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" />
+      <jump line="77" column="13" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
+      <jump line="128" column="2" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
+      <jump line="106" column="43" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.sections()</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.sections()</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>as_strid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvdXQgPSBmbGF0dGVuKG91dCkKICBmb3IgaSBpbiByYW5nZSgwLCBGTEFHUy5uX2RlbnNlKToKICAgIG91dCA9IGRlbnNlKG91dCwgRkxBR1Mubl9kZW5zZV91bml0cywgd19zdGQsIGJfaW5pdCwgbm90IEZMQUdTLmJuLCAnZGVuc2V7fScuZm9ybWF0KGkpKQogICAgb3V0ID0gYmF0Y2hfbm9ybShpc190cmFpbiwgb3V0LCAnZGVuc2V7fScuZm9ybWF0KGkpKSBpZiBGTEFHUy5ibiBlbHNlIG91dAogICAgb3V0ID0gdGYubm4ucmVsdShvdXQpCiAgICB0Zi5ubi5kcm9wb3V0KG91dCwgMC41KSBpZiBkciBlbHNlIG91dAoKICAjIFNldCB0aGUgZW5kcG9pbnRzIG5hbWVzCiAgZ2xvYmFsX2VuZHBvaW50c1snYm90dGxlbmVjayddID0gb3V0CgogIHJldHVybiBnbG9iYWxfZW5kcG9pbnRzCg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbiwgZGl2aXNpb24sIGFic29sdXRlX2ltcG9ydAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZ3BhcnNlcgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -324,29 +332,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBvdXQgPSB0Zi50cmFuc3Bvc2Uob3V0LCAoMCwgMSwgMywgMikpCg==</text>
+      <register name="2" type="4">
+        <text>words_limit = 10
+  seconds_limit = 5.0</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhc3NlcnQgb3V0LnNoYXBlID09IChGTEFHUy50cmFpbl9tYiwgKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbnB1dHMgPSB0Zi5jb25jYXQoYXhpcz0wLCB2YWx1ZXM9W2VbJ2ZlYXR1cmVzJ10gZm9yIGUgaW4gbW9kdWxlX2VuZHBvaW50c10pCgo=</text>
+        <text encoding="base64">IiIiCkNyZWF0aW5nIHRoZSBzZWVkcwoiIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnbG9iYWxfZW5kcG9pbnRzWydpbnB1dHMnXSA9IGlucHV0cwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbF9kaWN0WydmZWF0dXJlcyddID0gdGYuY29uY2F0KFtrZXl3b3JkX29uZWhvdCwgdXR0ZXJhbmNlX29uZWhvdF0sIGF4aXM9MCkKICAgIHZhbF9kaWN0WydmZWF0dXJlcyddLnNldF9zaGFwZSgoMTIwLCAyNykpCg==</text>
+        <text encoding="base64">IiIiCkNyZWF0aW5nIHRoZSBzZWVkcyAKIiIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZ3BhcnNlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvdXQgPSBmbGF0dGVuKG91dCkK</text>
+        <text encoding="base64">ICBvdXQgPSB0Zi50cmFuc3Bvc2Uob3V0LCAoMCwgMSwgMywgMikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
