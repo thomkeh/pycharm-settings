@@ -202,12 +202,12 @@
         <mark key="^" line="155" column="7" />
         <mark key="." line="155" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1506088728958">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1506090936570">
         <mark key="'" line="108" column="43" />
-        <mark key="[" line="43" column="51" />
-        <mark key="]" line="43" column="58" />
-        <mark key="." line="43" column="58" />
-        <mark key="^" line="43" column="58" />
+        <mark key="[" line="57" column="71" />
+        <mark key="]" line="58" column="39" />
+        <mark key="." line="58" column="39" />
+        <mark key="^" line="58" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -314,19 +314,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lines</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>lines</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>as_strid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpdGggaW8ub3BlbihwYXRoLCBlbmNvZGluZz0ndXRmOCcpIGFzIGY6Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBlYXIgPSBbbGluZSBmb3IgbGluZSBpbiBsaW5lcyBpZiAnIHt9ICcuZm9ybWF0KHcpIGluIGxpbmVbMl1dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihmaXJzdF93b3JkcykpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -341,28 +341,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgYXBwZWFyID0gW2xpbmUgZm9yIGxpbmUgaW4gbGluZXMgaWYgJyB7fSAnLmZvcm1hdCh3KSBpbiBsaW5lWzJdXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbHNlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3aXRoIG9wZW4oY3N2X2ZpbGUpIGFzIGY6Cg==</text>
+        <text encoding="base64">ICAgIGtleXdvcmRzID0gX3JlYWRfY3N2KGtleXdvcmRfY3N2LCB3b3Jkc19saW1pdD0yKQogICAgIyBzb21ldGltZXMgdGhlIGZpcnN0IHdvcmQgaXMgYW4gYXJ0aWNsZSwgc28gdGFrZSB0aGUgbGFzdCBvZiBhdCBtb3N0IDIgd29yZHMKICAgIGZpcnN0X3dvcmRzID0gc2V0KFt4WzJdLnNwbGl0KCcgJylbLTFdIGZvciB4IGluIGtleXdvcmRzXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsaW5lcyA9IFtdCiAgd2l0aCBvcGVuKGRlZXBzcGVlY2hfY3N2KSBhcyBmOiAgIyBSZWFkcyBhIGNzdiBsaW5lIGJ5IGxpbmUsIHdpdGhvdXQgbG9hZGluZyB0aGUgd2hvbGUgZmlsZSBpbnRvIG1lbW9yeQogICAgcmVhZGVyID0gY3N2LnJlYWRlcihmLCBkZWxpbWl0ZXI9JywnKQogICAgYyA9IDAKICAgIGZvciBsaW5lIGluIHJlYWRlcjoKICAgICAgaWYgYyAhPSAwOgogICAgICAgIHQgPSBsaW5lWzJdLnJlcGxhY2UoJ1wnJywgJycpCiAgICAgICAgdCA9ICcgJy5qb2luKHQuc3BsaXQoJyAnKVs6d29yZHNfbGltaXRdKQogICAgICAgIGxpbmVzLmFwcGVuZCgobGluZVswXSwgbGluZVsxXSwgdCkpCiAgICAgIGMgKz0gMQogICMgbl9saW5lcyA9IGxlbihsaW5lcykK</text>
+        <text encoding="base64">ICAgICAgaWYga2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZWVkcy5wcmVwYXJlX3NlZWRzKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihmaXJzdF93b3JkcykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGtfb3V0X2ZvbGRlcj0K</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgUmV0dXJuczoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiIiIKICAKICAiIiIK</text>
+        <text encoding="base64">ICB3aXRoIG9wZW4oY3N2X2ZpbGUpIGFzIGY6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
