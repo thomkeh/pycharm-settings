@@ -96,7 +96,7 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506095934700">
+      <file name="/Dummy.txt" timestamp="1506096781776">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -177,12 +177,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506095267197">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506096768258">
         <mark key="'" line="42" column="35" />
-        <mark key="[" line="50" column="62" />
-        <mark key="]" line="50" column="64" />
-        <mark key="^" line="50" column="64" />
-        <mark key="." line="50" column="64" />
+        <mark key="[" line="54" column="24" />
+        <mark key="]" line="55" column="17" />
+        <mark key="^" line="55" column="17" />
+        <mark key="." line="55" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
         <mark key="[" line="3" column="0" />
@@ -202,12 +202,12 @@
         <mark key="^" line="155" column="7" />
         <mark key="." line="155" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1506095804464">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1506096724355">
         <mark key="'" line="46" column="57" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="61" column="54" />
+        <mark key="[" line="101" column="16" />
+        <mark key="]" line="101" column="27" />
+        <mark key="." line="101" column="27" />
+        <mark key="^" line="101" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -313,11 +313,11 @@
       <jump line="46" column="57" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoZXJlIGFyZSBubyB2YXJpYXRpb25zCg==</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
