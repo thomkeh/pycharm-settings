@@ -169,12 +169,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506074774640">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506076671514">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="64" />
-        <mark key="^" line="9" column="40" />
-        <mark key="." line="9" column="40" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="24" column="49" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
         <mark key="[" line="3" column="0" />
@@ -305,20 +305,20 @@
       <jump line="106" column="43" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQoY29uZmlnWydFbi11cy1fdHdhcy5mbGFjJ11bJ1NXQUNfVEVYVCddKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>as_strid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbiwgZGl2aXNpb24sIGFic29sdXRlX2ltcG9ydAo=</text>
+      <register name="0" type="4">
+        <text>'/nas/staff/data_work/Gil/YouTube/datasets/e2e_keyword/shtooka/english/flac/eng-wcp-us/index.tags.txt'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cHJpbnQoY29uZmlnWydFbi11cy1fdHdhcy5mbGFjJ11bJ1NXQUNfVEVYVCddKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -332,30 +332,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Y29uZmlnID0gY29uZmlncGFyc2VyLkNvbmZpZ1BhcnNlcigpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpbXBvcnQgZXh0cmFjdG9ycy5jcmVhdGVfc2VlZHMgYXMgc2VlZHMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpbXBvcnQgY3JlYXRlX3NlZWRzIGFzIHNlZWRzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="4">
         <text>words_limit = 10
   seconds_limit = 5.0</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IiIiCkNyZWF0aW5nIHRoZSBzZWVkcwoiIiIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IiIiCkNyZWF0aW5nIHRoZSBzZWVkcyAKIiIiCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZ3BhcnNlcgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvdXQgPSB0Zi50cmFuc3Bvc2Uob3V0LCAoMCwgMSwgMywgMikpCg==</text>
+        <text encoding="base64">IiIiCkNyZWF0aW5nIHRoZSBzZWVkcwoiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
