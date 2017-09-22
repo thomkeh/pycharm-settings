@@ -169,12 +169,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506076671514">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506082777606">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="24" column="49" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="6" />
+        <mark key="^" line="32" column="6" />
+        <mark key="." line="32" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
         <mark key="[" line="3" column="0" />
@@ -305,20 +305,20 @@
       <jump line="106" column="43" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoY29uZmlnWydFbi11cy1fdHdhcy5mbGFjJ11bJ1NXQUNfVEVYVCddKQo=</text>
+      <register name="&quot;" type="4">
+        <text>'SWAC_TEXT'</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>'SWAC_TEXT'</text>
       </register>
       <register name="/" type="4">
         <text>as_strid</text>
       </register>
       <register name="0" type="4">
-        <text>'/nas/staff/data_work/Gil/YouTube/datasets/e2e_keyword/shtooka/english/flac/eng-wcp-us/index.tags.txt'</text>
+        <text>os.path.splitext(name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoY29uZmlnWydFbi11cy1fdHdhcy5mbGFjJ11bJ1NXQUNfVEVYVCddKQo=</text>
+        <text encoding="base64">ICByb290X2RpciA9IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -333,29 +333,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uZmlnID0gY29uZmlncGFyc2VyLkNvbmZpZ1BhcnNlcigpCg==</text>
+        <text encoding="base64">ICByb290X2RpciA9ICcvbmFzL3N0YWZmL2RhdGFfd29yay9HaWwvWW91VHViZS9kYXRhc2V0cy9lMmVfa2V5d29yZC9zaHRvb2thL2VuZ2xpc2gvZmxhYy9lbmctd2NwLXVzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQgZXh0cmFjdG9ycy5jcmVhdGVfc2VlZHMgYXMgc2VlZHMK</text>
+        <text encoding="base64">cm9vdF9kaXIgPSAnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvZTJlX2tleXdvcmQvc2h0b29rYS9lbmdsaXNoL2ZsYWMvZW5nLXdjcC11cycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY3JlYXRlX3NlZWRzIGFzIHNlZWRzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJleGlzdHMiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHByaW50KG9zLnBhdGguc3BsaXRleHQobmFtZSkpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>words_limit = 10
-  seconds_limit = 5.0</text>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQoY29uZmlnWydFbi11cy1fdHdhcy5mbGFjJ11bJ1NXQUNfVEVYVCddKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uZmlnID0gY29uZmlncGFyc2VyLkNvbmZpZ1BhcnNlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgZXh0cmFjdG9ycy5jcmVhdGVfc2VlZHMgYXMgc2VlZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IiIiCkNyZWF0aW5nIHRoZSBzZWVkcwoiIiIK</text>
+        <text encoding="base64">ICBpbXBvcnQgY3JlYXRlX3NlZWRzIGFzIHNlZWRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
