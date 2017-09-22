@@ -92,7 +92,7 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506013114090">
+      <file name="/Dummy.txt" timestamp="1506085443963">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -132,6 +132,10 @@
         <mark key="." line="6" column="82" />
         <mark key="^" line="6" column="82" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_recola.py" timestamp="1506085460034">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="62" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505998796646">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="93" column="4" />
@@ -169,12 +173,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506082777606">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="6" />
-        <mark key="^" line="32" column="6" />
-        <mark key="." line="32" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506085814085">
+        <mark key="'" line="42" column="35" />
+        <mark key="[" line="43" column="96" />
+        <mark key="]" line="44" column="21" />
+        <mark key="^" line="44" column="21" />
+        <mark key="." line="44" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
         <mark key="[" line="3" column="0" />
@@ -203,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="727" column="21" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="553" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="199" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="219" column="83" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="591" column="7" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -303,22 +305,24 @@
       <jump line="77" column="13" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
       <jump line="128" column="2" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
       <jump line="106" column="43" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
+      <jump line="33" column="50" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" />
+      <jump line="42" column="35" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'SWAC_TEXT'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'SWAC_TEXT'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>as_strid</text>
       </register>
-      <register name="0" type="4">
-        <text>os.path.splitext(name)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdpdGggaW8ub3BlbihvdXRfcGF0aCwgJ3cnLCBlbmNvZGluZz0ndXRmOCcpIGFzIGpzb25fZmlsZToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByb290X2RpciA9IAo=</text>
+        <text encoding="base64">ICB3aXRoIG9wZW4oY3N2X2ZpbGUsICd3JykgYXMgZjoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -333,28 +337,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByb290X2RpciA9ICcvbmFzL3N0YWZmL2RhdGFfd29yay9HaWwvWW91VHViZS9kYXRhc2V0cy9lMmVfa2V5d29yZC9zaHRvb2thL2VuZ2xpc2gvZmxhYy9lbmctd2NwLXVzJwo=</text>
+        <text encoding="base64">ICAgIGYud3JpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cm9vdF9kaXIgPSAnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvZTJlX2tleXdvcmQvc2h0b29rYS9lbmdsaXNoL2ZsYWMvZW5nLXdjcC11cycK</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJleGlzdHMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9zLnBhdGguc3BsaXRleHQobmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoInt9LHt9LHt9Ii5mb3JtYXQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoY29uZmlnWydFbi11cy1fdHdhcy5mbGFjJ11bJ1NXQUNfVEVYVCddKQo=</text>
+        <text encoding="base64">ICByb290X2RpciA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uZmlnID0gY29uZmlncGFyc2VyLkNvbmZpZ1BhcnNlcigpCg==</text>
+        <text encoding="base64">ICByb290X2RpciA9ICcvbmFzL3N0YWZmL2RhdGFfd29yay9HaWwvWW91VHViZS9kYXRhc2V0cy9lMmVfa2V5d29yZC9zaHRvb2thL2VuZ2xpc2gvZmxhYy9lbmctd2NwLXVzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBvcnQgZXh0cmFjdG9ycy5jcmVhdGVfc2VlZHMgYXMgc2VlZHMK</text>
+        <text encoding="base64">cm9vdF9kaXIgPSAnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvZTJlX2tleXdvcmQvc2h0b29rYS9lbmdsaXNoL2ZsYWMvZW5nLXdjcC11cycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY3JlYXRlX3NlZWRzIGFzIHNlZWRzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJleGlzdHMiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
