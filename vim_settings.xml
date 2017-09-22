@@ -173,12 +173,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506085814085">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506087556234">
         <mark key="'" line="42" column="35" />
-        <mark key="[" line="43" column="96" />
-        <mark key="]" line="44" column="21" />
-        <mark key="^" line="44" column="21" />
-        <mark key="." line="44" column="21" />
+        <mark key="[" line="50" column="94" />
+        <mark key="]" line="53" column="20" />
+        <mark key="^" line="53" column="20" />
+        <mark key="." line="53" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
         <mark key="[" line="3" column="0" />
@@ -198,12 +198,12 @@
         <mark key="^" line="155" column="7" />
         <mark key="." line="155" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1506075293635">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1506087009352">
         <mark key="'" line="108" column="43" />
-        <mark key="[" line="47" column="20" />
-        <mark key="]" line="47" column="20" />
-        <mark key="." line="47" column="20" />
-        <mark key="^" line="42" column="26" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="19" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -309,20 +309,20 @@
       <jump line="42" column="35" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzZWVkcy5wcmVwYXJlX3NlZWRzKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>keyword</text>
       </register>
       <register name="/" type="4">
         <text>as_strid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpdGggaW8ub3BlbihvdXRfcGF0aCwgJ3cnLCBlbmNvZGluZz0ndXRmOCcpIGFzIGpzb25fZmlsZToK</text>
+      <register name="0" type="4">
+        <text>directory for the cropped keyword wavs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aXRoIG9wZW4oY3N2X2ZpbGUsICd3JykgYXMgZjoK</text>
+        <text encoding="base64">ICBzZWVkcy5wcmVwYXJlX3NlZWRzKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -337,28 +337,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGYud3JpCg==</text>
+        <text encoding="base64">ICAgIGtfb3V0X2ZvbGRlcj0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">CiAgUmV0dXJuczoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiIiIKICAKICAiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoInt9LHt9LHt9Ii5mb3JtYXQpCg==</text>
+        <text encoding="base64">ICBuYXNfZGlyID0gJy9uYXMvc3RhZmYvZGF0YV93b3JrL0dpbC9Zb3VUdWJlL2RhdGFzZXRzJwogICMgY29uc3RydWN0X2Nzdihjc3ZfZmlsZT1vcy5wYXRoLmpvaW4obmFzX2RpciwgJ2UyZV9rZXl3b3JkL3NodG9va2EvZW5nbGlzaC9lbmctd2NwLXVzLmNzdicpLAogICMgICAgICAgICAgICAgICByb290X2Rpcj1vcy5wYXRoLmpvaW4obmFzX2RpciwgJ2UyZV9rZXl3b3JkL3NodG9va2EvZW5nbGlzaC9mbGFjL2VuZy13Y3AtdXMnKSkKICBzZWVkcy5wcmVwYXJlX3NlZWRzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByb290X2RpciA9IAo=</text>
+        <text encoding="base64">ICB3aXRoIG9wZW4oY3N2X2ZpbGUsICd3JykgYXMgZjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByb290X2RpciA9ICcvbmFzL3N0YWZmL2RhdGFfd29yay9HaWwvWW91VHViZS9kYXRhc2V0cy9lMmVfa2V5d29yZC9zaHRvb2thL2VuZ2xpc2gvZmxhYy9lbmctd2NwLXVzJwo=</text>
+        <text encoding="base64">ICAgIGYud3JpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cm9vdF9kaXIgPSAnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvZTJlX2tleXdvcmQvc2h0b29rYS9lbmdsaXNoL2ZsYWMvZW5nLXdjcC11cycK</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJleGlzdHMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
