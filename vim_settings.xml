@@ -177,12 +177,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506087556234">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1506093461169">
         <mark key="'" line="42" column="35" />
-        <mark key="[" line="50" column="94" />
-        <mark key="]" line="53" column="20" />
-        <mark key="^" line="53" column="20" />
-        <mark key="." line="53" column="20" />
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="54" column="23" />
+        <mark key="^" line="54" column="23" />
+        <mark key="." line="54" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
         <mark key="[" line="3" column="0" />
@@ -202,12 +202,12 @@
         <mark key="^" line="155" column="7" />
         <mark key="." line="155" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1506093002072">
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1506093128372">
         <mark key="'" line="108" column="43" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="12" />
-        <mark key="." line="140" column="12" />
-        <mark key="^" line="132" column="35" />
+        <mark key="[" line="141" column="13" />
+        <mark key="]" line="142" column="20" />
+        <mark key="." line="142" column="20" />
+        <mark key="^" line="142" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -314,10 +314,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>as_first</text>
+        <text>_csv=</text>
       </register>
       <register name="-" type="4">
-        <text>as_first</text>
+        <text>_csv=</text>
       </register>
       <register name="/" type="4">
         <text>as_strid</text>
