@@ -109,7 +109,7 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508341055151">
+      <file name="/Dummy.txt" timestamp="1508346695810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -143,12 +143,12 @@
         <mark key="." line="247" column="10" />
         <mark key="^" line="247" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508345319743">
-        <mark key="'" line="55" column="8" />
-        <mark key="[" line="82" column="46" />
-        <mark key="]" line="82" column="43" />
-        <mark key="." line="82" column="43" />
-        <mark key="^" line="82" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508346604583">
+        <mark key="'" line="131" column="38" />
+        <mark key="[" line="146" column="23" />
+        <mark key="]" line="146" column="31" />
+        <mark key="." line="146" column="23" />
+        <mark key="^" line="147" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei_sig.py" timestamp="1497361918436">
         <mark key="[" line="6" column="77" />
@@ -251,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="15" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="257" column="24" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="258" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="45" column="23" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -351,22 +350,23 @@
       <jump line="151" column="20" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
       <jump line="86" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
       <jump line="55" column="8" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
+      <jump line="131" column="38" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>counter</text>
+        <text>, file=f</text>
       </register>
       <register name="-" type="4">
-        <text>counter</text>
+        <text>float(</text>
       </register>
       <register name="/" type="4">
         <text>nu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwcmludCgibWF4dDoge30iLmZvcm1hdChtYXh0KSkK</text>
+      <register name="0" type="4">
+        <text>, file=f</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvdW50ZXIgKz0gMQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -381,28 +381,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvdW50ZXIgPSAwCg==</text>
+        <text encoding="base64">ICAgIHJlZmVyZW5jZSA9IGZpbGVzW3Bhc3Nfb25bJ2NvdW50ZXInXV1bMV0uc3BsaXQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvdW50ZXIgKz0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvdW50ZXIgPSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWRfZmxhZyA9IEZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmaWxlcyA9IF9yZWFkX2NzdihJTlBVVF9DU1YpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHByb2Nlc3ModHJhbnNjcmlwdGlvbiwgY291bnRlcik6CiAgY29uc3RydWN0ZWRfdHJhbnMgPSB0cmFuc2NyaXB0aW9uWzBdWyd0ZXh0J10ubG93ZXIoKQogIHJlYWxfdHJhbnMgPSAKCgo=</text>
+        <text encoding="base64">ICB2YWRfZmxhZyA9IEZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludCgnQ291bnRlcjoge30sIFRyYW5zY3JpcHRpb246IHt9Jy5mb3JtYXQoY291bnRlciwgKSkKICAjIHByaW50KHRyYW5zY3JpcHRpb24pCg==</text>
+        <text encoding="base64">ICBmaWxlcyA9IF9yZWFkX2NzdihJTlBVVF9DU1YpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZGVmIHByb2Nlc3ModHJhbnNjcmlwdGlvbiwgY291bnRlcik6CiAgY29uc3RydWN0ZWRfdHJhbnMgPSB0cmFuc2NyaXB0aW9uWzBdWyd0ZXh0J10ubG93ZXIoKQogIHJlYWxfdHJhbnMgPSAKCgo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
