@@ -143,12 +143,12 @@
         <mark key="." line="247" column="10" />
         <mark key="^" line="247" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508341515083">
-        <mark key="'" line="11" column="28" />
-        <mark key="[" line="38" column="63" />
-        <mark key="]" line="39" column="20" />
-        <mark key="^" line="39" column="20" />
-        <mark key="." line="39" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508344159756">
+        <mark key="'" line="55" column="8" />
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="79" />
+        <mark key="." line="21" column="79" />
+        <mark key="^" line="21" column="79" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei_sig.py" timestamp="1497361918436">
         <mark key="[" line="6" column="77" />
@@ -180,12 +180,12 @@
         <mark key="." line="251" column="41" />
         <mark key="^" line="251" column="41" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" timestamp="1508340530335">
-        <mark key="'" line="213" column="25" />
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
-        <mark key="^" line="247" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" timestamp="1508342031070">
+        <mark key="'" line="151" column="20" />
+        <mark key="[" line="139" column="77" />
+        <mark key="]" line="139" column="79" />
+        <mark key="." line="139" column="79" />
+        <mark key="^" line="139" column="79" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
@@ -251,15 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="19" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="409" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="725" column="34" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="724" column="34" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="719" column="17" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="60" column="23" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="20" column="31" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="197" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="198" column="49" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="256" column="15" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="257" column="24" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="258" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -351,22 +342,31 @@
       <jump line="170" column="60" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
       <jump line="10" column="28" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
       <jump line="212" column="25" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="279" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="41" column="50" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="44" column="10" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="45" column="8" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="51" column="11" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="139" column="60" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="151" column="20" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>transcription</text>
+        <text>test.csv</text>
       </register>
       <register name="-" type="4">
-        <text>transcription</text>
+        <text>test.csv</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxRdWV1ZVw+</text>
+        <text>nu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcmludCgibWF4dDoge30iLmZvcm1hdChtYXh0KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludCgibWF4dDoge30iLmZvcm1hdChtYXh0KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -381,37 +381,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBqc29uX2RhdGEgPSBhc3JfdGV4dC5qc29uX2RhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCiAgcHJpbnQoanNvbi5kdW1wcyhqc29uX2RhdGEsIGluZGVudD0yLCBzb3J0X2tleXM9RmFsc2UpKQo=</text>
+        <text encoding="base64">ICB2YWRfZmxhZyA9IEZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5qc29uX2RhdGEgPSBqc29uX2RhdGEK</text>
+        <text encoding="base64">ICBmaWxlcyA9IF9yZWFkX2NzdihJTlBVVF9DU1YpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbGYuanNvbl9kYXRhID0gTm9uZQo=</text>
+        <text encoding="base64">ZGVmIHByb2Nlc3ModHJhbnNjcmlwdGlvbiwgY291bnRlcik6CiAgY29uc3RydWN0ZWRfdHJhbnMgPSB0cmFuc2NyaXB0aW9uWzBdWyd0ZXh0J10ubG93ZXIoKQogIHJlYWxfdHJhbnMgPSAKCgo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcmludCgnQ291bnRlcjoge30sIFRyYW5zY3JpcHRpb246IHt9Jy5mb3JtYXQoY291bnRlciwgKSkKICAjIHByaW50KHRyYW5zY3JpcHRpb24pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgRXhhbXBsZXMKICAtLS0tLS0tLQogID4+PiB3ZXIoIndobyBpcyB0aGVyZSIuc3BsaXQoKSwgImlzIHRoZXJlIi5zcGxpdCgpKQogIDEKICA+Pj4gd2VyKCJ3aG8gaXMgdGhlcmUiLnNwbGl0KCksICIiLnNwbGl0KCkpCiAgMwogID4+PiB3ZXIoIiIuc3BsaXQoKSwgIndobyBpcyB0aGVyZSIuc3BsaXQoKSkKICAzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICBpbXBvcnQgbnVtcHkK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxRdWV1ZVw+</last-search>
+      <last-search>nu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxRdWV1ZVw+</last-pattern>
+      <last-pattern>nu</last-pattern>
       <last-replace>clean</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -419,8 +419,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGVwc19wZXJfZXBvY2hcPg==</entry>
-        <entry>print</entry>
         <entry>conv</entry>
         <entry>dropout</entry>
         <entry>as_strid</entry>
@@ -439,6 +437,8 @@
         <entry>dumps</entry>
         <entry encoding="base64">XDxFbXB0eVw+</entry>
         <entry encoding="base64">XDxRdWV1ZVw+</entry>
+        <entry>callback</entry>
+        <entry>nu</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvJywgJy9n</entry>
