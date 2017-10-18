@@ -109,7 +109,7 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508331697323">
+      <file name="/Dummy.txt" timestamp="1508341055151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -143,12 +143,12 @@
         <mark key="." line="247" column="10" />
         <mark key="^" line="247" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508338592766">
-        <mark key="'" line="10" column="28" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="32" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="5" column="1" />
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508341425489">
+        <mark key="'" line="11" column="28" />
+        <mark key="[" line="65" column="16" />
+        <mark key="]" line="65" column="16" />
+        <mark key="^" line="65" column="16" />
+        <mark key="." line="65" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei_sig.py" timestamp="1497361918436">
         <mark key="[" line="6" column="77" />
@@ -180,11 +180,12 @@
         <mark key="." line="251" column="41" />
         <mark key="^" line="251" column="41" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" timestamp="1508338600338">
-        <mark key="[" line="329" column="2" />
-        <mark key="]" line="329" column="3" />
-        <mark key="." line="329" column="3" />
-        <mark key="^" line="329" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" timestamp="1508340530335">
+        <mark key="'" line="213" column="25" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="." line="254" column="0" />
+        <mark key="^" line="247" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
@@ -250,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="31" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="112" column="19" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="409" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="725" column="34" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -350,13 +350,14 @@
       <jump line="6" column="7" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
       <jump line="170" column="60" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
       <jump line="10" column="28" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
+      <jump line="212" column="25" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcmludCgibWF4dDoge30iLmZvcm1hdChtYXh0KSkK</text>
+      <register name="&quot;" type="4">
+        <text>transcription</text>
       </register>
       <register name="-" type="4">
-        <text>, Empty</text>
+        <text>transcription</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxRdWV1ZVw+</text>
@@ -365,7 +366,7 @@
         <text encoding="base64">ICBwcmludCgibWF4dDoge30iLmZvcm1hdChtYXh0KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcmludCgibWF4dDoge30iLmZvcm1hdChtYXh0KSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -380,28 +381,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzaXggaW1wb3J0IHN0cmluZ190eXBlcwo=</text>
+        <text encoding="base64">ICBqc29uX2RhdGEgPSBhc3JfdGV4dC5qc29uX2RhdGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4K</text>
+        <text encoding="base64">ICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCiAgcHJpbnQoanNvbi5kdW1wcyhqc29uX2RhdGEsIGluZGVudD0yLCBzb3J0X2tleXM9RmFsc2UpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjZXhpdCgtMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5qc29uX2RhdGEgPSBqc29uX2RhdGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjcmV0dXJuIDAK</text>
+        <text encoding="base64">ICAgIHNlbGYuanNvbl9kYXRhID0gTm9uZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBleGl0KCkK</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3NlZ21lbnRzID0gW10K</text>
+        <text encoding="base64">ICAgICAgZWxzZToK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c2VudF9hdWRpb19zZWMgPSAwCg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBzZW50X2F1ZGlvX3NlYwo=</text>
+        <text encoding="base64">ICAgICAgZWxzZToK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
