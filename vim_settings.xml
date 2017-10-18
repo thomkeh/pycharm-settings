@@ -95,8 +95,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" timestamp="1508324038957">
-        <mark key="'" line="35" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" timestamp="1508324242939">
+        <mark key="'" line="282" column="71" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="183" column="14" />
@@ -230,12 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="632" column="53" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="652" column="68" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="655" column="68" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="625" column="12" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="315" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="296" column="36" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="311" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="312" column="43" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="313" column="55" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -328,8 +322,14 @@
       <jump line="4" column="7" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
       <jump line="32" column="9" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
       <jump line="40" column="26" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
-      <jump line="322" column="12" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
       <jump line="35" column="6" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
+      <jump line="327" column="4" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
+      <jump line="322" column="4" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
+      <jump line="324" column="20" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
+      <jump line="326" column="35" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
+      <jump line="347" column="10" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
+      <jump line="257" column="17" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
+      <jump line="282" column="71" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -339,7 +339,7 @@
         <text encoding="base64">c3lzLCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWNvcmRlclw+</text>
+        <text encoding="base64">XDxhdWRpb1w+</text>
       </register>
       <register name="0" type="4">
         <text>utterance_dataset</text>
@@ -388,9 +388,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWNvcmRlclw+</last-search>
+      <last-search encoding="base64">XDxhdWRpb1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWNvcmRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxhdWRpb1w+</last-pattern>
       <last-replace>clean</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -398,9 +398,6 @@
     </search>
     <history>
       <history-search>
-        <entry>trainab</entry>
-        <entry>Adam</entry>
-        <entry encoding="base64">XDxkaXNjcmltX29wdGltXD4=</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry encoding="base64">XDxpbnN0YW5jZV9ub3JtXD4=</entry>
         <entry>queue</entry>
@@ -418,6 +415,9 @@
         <entry>1</entry>
         <entry encoding="base64">XDxweWF1ZGlvXD4=</entry>
         <entry encoding="base64">XDxSZWNvcmRlclw+</entry>
+        <entry encoding="base64">XDxzZW5kX2ZpbGVfYXVkaW9cPg==</entry>
+        <entry encoding="base64">XDxtYXh0XD4=</entry>
+        <entry encoding="base64">XDxhdWRpb1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvJywgJy9n</entry>
