@@ -143,11 +143,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" timestamp="1508421966867">
-        <mark key="[" line="1" column="86" />
-        <mark key="]" line="4" column="82" />
-        <mark key="^" line="4" column="82" />
-        <mark key="." line="4" column="82" />
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" timestamp="1508431419736">
+        <mark key="[" line="71" column="27" />
+        <mark key="]" line="71" column="30" />
+        <mark key="^" line="71" column="30" />
+        <mark key="." line="71" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/clustering.py" timestamp="1505832931487">
         <mark key="'" line="207" column="2" />
@@ -362,17 +362,17 @@
       <jump line="54" column="41" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgIyBwcmludCgnLS0tLS0tLS0tLS0tLS0tLScpCiAgIyByZXN1bHQgPSByZWFkZXIucmVzdWx0CiAgIyBwcmludChyZXN1bHQpCiAgIyBwcmludCgiV0VSOiB7fSIuZm9ybWF0KHJlc3VsdFsnbGV2X2Rpc3RhbmNlJ10gLyBmbG9hdChyZXN1bHRbJ3dvcmRfbGVuJ10pKSkKICAjIHByaW50KCJ3cm9uZyBXRVI6IHt9Ii5mb3JtYXQocmVzdWx0WydpbmRpdmlkdWFsX3dlciddIC8gcmVzdWx0Wydjb3VudGVyJ10pKQogICMgd2l0aCBvcGVuKCJyZXN1bHQudHh0IiwgJ2EnKSBhcyBmOgogICMgICBwcmludCgiLS0tLS0tLS0tLS0iLCBmaWxlPWYpCiAgIyAgIHByaW50KElOUFVUX0NTViwgZmlsZT1mKQogICMgICBwcmludChyZXN1bHQsIGZpbGU9ZikKICAjICAgcHJpbnQoIldFUjoge30iLmZvcm1hdChyZXN1bHRbJ2xldl9kaXN0YW5jZSddIC8gZmxvYXQocmVzdWx0Wyd3b3JkX2xlbiddKSksIGZpbGU9ZikKICAjICAgcHJpbnQoIndyb25nIFdFUjoge30iLmZvcm1hdChyZXN1bHRbJ2luZGl2aWR1YWxfd2VyJ10gLyByZXN1bHRbJ2NvdW50ZXInXSksIGZpbGU9ZikK</text>
+      <register name="&quot;" type="4">
+        <text>256</text>
       </register>
       <register name="-" type="4">
-        <text>, _</text>
+        <text>256</text>
       </register>
       <register name="/" type="4">
         <text>nu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpbmVzLmFwcGVuZCgobGluZVswXSwgbGluZVsyXSkpCg==</text>
+        <text encoding="base64">ICAgICAgbXNnID0gc2VsZi5zb2NrLnJlY3YoMjU2KSAgIyAuZGVjb2RlKCd1dGYtOCcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgIyBwcmludCgnLS0tLS0tLS0tLS0tLS0tLScpCiAgIyByZXN1bHQgPSByZWFkZXIucmVzdWx0CiAgIyBwcmludChyZXN1bHQpCiAgIyBwcmludCgiV0VSOiB7fSIuZm9ybWF0KHJlc3VsdFsnbGV2X2Rpc3RhbmNlJ10gLyBmbG9hdChyZXN1bHRbJ3dvcmRfbGVuJ10pKSkKICAjIHByaW50KCJ3cm9uZyBXRVI6IHt9Ii5mb3JtYXQocmVzdWx0WydpbmRpdmlkdWFsX3dlciddIC8gcmVzdWx0Wydjb3VudGVyJ10pKQogICMgd2l0aCBvcGVuKCJyZXN1bHQudHh0IiwgJ2EnKSBhcyBmOgogICMgICBwcmludCgiLS0tLS0tLS0tLS0iLCBmaWxlPWYpCiAgIyAgIHByaW50KElOUFVUX0NTViwgZmlsZT1mKQogICMgICBwcmludChyZXN1bHQsIGZpbGU9ZikKICAjICAgcHJpbnQoIldFUjoge30iLmZvcm1hdChyZXN1bHRbJ2xldl9kaXN0YW5jZSddIC8gZmxvYXQocmVzdWx0Wyd3b3JkX2xlbiddKSksIGZpbGU9ZikKICAjICAgcHJpbnQoIndyb25nIFdFUjoge30iLmZvcm1hdChyZXN1bHRbJ2luZGl2aWR1YWxfd2VyJ10gLyByZXN1bHRbJ2NvdW50ZXInXSksIGZpbGU9ZikK</text>
