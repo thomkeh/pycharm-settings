@@ -143,12 +143,12 @@
         <mark key="." line="247" column="10" />
         <mark key="^" line="247" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508346604583">
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508406887492">
         <mark key="'" line="131" column="38" />
-        <mark key="[" line="146" column="23" />
-        <mark key="]" line="146" column="31" />
-        <mark key="." line="146" column="23" />
-        <mark key="^" line="147" column="18" />
+        <mark key="[" line="95" column="59" />
+        <mark key="]" line="96" column="39" />
+        <mark key="." line="96" column="39" />
+        <mark key="^" line="96" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei_sig.py" timestamp="1497361918436">
         <mark key="[" line="6" column="77" />
@@ -354,16 +354,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, file=f</text>
+        <text>pass_on['word_len']</text>
       </register>
       <register name="-" type="4">
-        <text>float(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>nu</text>
       </register>
       <register name="0" type="4">
-        <text>, file=f</text>
+        <text>pass_on['word_len']</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KCkK</text>
