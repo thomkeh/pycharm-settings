@@ -22,6 +22,13 @@
         <mark key="^" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" timestamp="1508521745778">
+        <mark key="'" line="60" column="10" />
+        <mark key="[" line="50" column="10" />
+        <mark key="]" line="51" column="17" />
+        <mark key="^" line="51" column="17" />
+        <mark key="." line="51" column="17" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1504629874611">
         <mark key="'" line="18" column="103" />
         <mark key="[" line="2" column="0" />
@@ -122,7 +129,7 @@
         <mark key="^" line="10" column="81" />
         <mark key="." line="8" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508512171911">
+      <file name="/Dummy.txt" timestamp="1508521751643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -274,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="537" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="424" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="654" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="789" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -374,13 +380,14 @@
       <jump line="138" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
       <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
       <jump line="185" column="44" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
+      <jump line="54" column="10" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, callback=lambda x, c: 0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, callback=lambda x, c: 0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>reco</text>
@@ -389,7 +396,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICMgZGVmYXVsdD0nL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvTGlicmlzcGVlY2gvdGVzdC1jbGVhbi5jc3YnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY2FsbGJhY2sgPSBjYWxsYmFjawogICAgc2VsZi5yZXN1bHQgPSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -404,28 +411,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHNlbGYucmVzdWx0Cg==</text>
+        <text encoding="base64">ICBwcmludChELnNoYXBlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdCA9IHNlbGYuY2FsbGJhY2sodHJhbnNjcmlwdGlvbnMsIHJlc3VsdCkK</text>
+        <text encoding="base64">ICBwcmludCh6ZXJvczEuc2hhcGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbGYucmVzdWx0ID0gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICBwcmludChEX3BhZGRlZC5zaGFwZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBkZWYgb25LZXlQcmVzcyhldmVudCk6CiMgICAgIHRleHQuaW5zZXJ0KCdlbmQnLCAnWW91IHByZXNzZWQgJXNcbicgJSAoZXZlbnQuY2hhciwgKSkKCg==</text>
+        <text encoding="base64">ICBwcmludCh5LnNoYXBlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludChVLnNoYXBlKQogIHByaW50KFYxLnNoYXBlKQogIHByaW50KHMuc2hhcGUpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAiIiIKCiAgUGFyYW1ldGVycwogIC0tLS0tLS0tLS0KICByIDogCiAgaCA6IAoKICBSZXR1cm5zCiAgLS0tLS0tLQogIGludAogICIiIgo=</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBDYWxjdWxhdGlvbiBvZiBXRVIgd2l0aCBMZXZlbnNodGVpbiBkaXN0YW5jZS4KCiAgV29ya3Mgb25seSBmb3IgaXRlcmFibGVzIHVwIHRvIDI1NCBlbGVtZW50cyAodWludDgpLgogIE8obm0pIHRpbWUgYW5zIHNwYWNlIGNvbXBsZXhpdHkuCg==</text>
+        <text encoding="base64">ICAgIHNlbGYuY2FsbGJhY2sgPSBjYWxsYmFjawogICAgc2VsZi5yZXN1bHQgPSB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBPVVRQVVRfRklMRSA9IAoK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHNlbGYucmVzdWx0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
