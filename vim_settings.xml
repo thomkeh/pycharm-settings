@@ -6,12 +6,12 @@
       <file name="/Python Console" timestamp="1506095388295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" timestamp="1508421908928">
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" timestamp="1508494153639">
         <mark key="'" line="58" column="41" />
-        <mark key="[" line="54" column="28" />
-        <mark key="]" line="54" column="52" />
-        <mark key="^" line="54" column="52" />
-        <mark key="." line="54" column="52" />
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="54" />
+        <mark key="^" line="10" column="54" />
+        <mark key="." line="10" column="54" />
       </file>
       <file name="/a.dummy" timestamp="1508421628655">
         <mark key="[" line="0" column="0" />
@@ -116,7 +116,7 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508422065945">
+      <file name="/Dummy.txt" timestamp="1508494179522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -363,10 +363,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>256</text>
+        <text>transcriptions2017-10-19 12:47:45.145695</text>
       </register>
       <register name="-" type="4">
-        <text>256</text>
+        <text>transcriptions2017-10-19 12:47:45.145695</text>
       </register>
       <register name="/" type="4">
         <text>nu</text>
