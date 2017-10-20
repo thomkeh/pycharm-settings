@@ -6,14 +6,14 @@
       <file name="/Python Console" timestamp="1506095388295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" timestamp="1508494153639">
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" timestamp="1508515900898">
         <mark key="'" line="58" column="41" />
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="54" />
-        <mark key="^" line="10" column="54" />
-        <mark key="." line="10" column="54" />
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="5" />
+        <mark key="^" line="26" column="23" />
+        <mark key="." line="15" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1508512150070">
+      <file name="/a.dummy" timestamp="1508514385322">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/core/preprocess.py" timestamp="1505986407663">
@@ -21,11 +21,6 @@
         <mark key="]" line="28" column="1" />
         <mark key="^" line="28" column="1" />
         <mark key="." line="28" column="1" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/models.py" timestamp="1505997751219">
-        <mark key="'" line="83" column="54" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="94" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1504629874611">
         <mark key="'" line="18" column="103" />
@@ -76,9 +71,10 @@
         <mark key="^" line="34" column="42" />
         <mark key="." line="34" column="42" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/asr_client.py" timestamp="1508513035991">
-        <mark key="[" line="288" column="0" />
-        <mark key="]" line="299" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/asr_client.py" timestamp="1508516019027">
+        <mark key="[" line="139" column="58" />
+        <mark key="]" line="139" column="58" />
+        <mark key="." line="139" column="58" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/common.py" timestamp="1502721179635">
         <mark key="[" line="29" column="37" />
@@ -120,6 +116,12 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="63" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508515068830">
+        <mark key="[" line="8" column="60" />
+        <mark key="]" line="8" column="60" />
+        <mark key="^" line="10" column="81" />
+        <mark key="." line="8" column="60" />
+      </file>
       <file name="/Dummy.txt" timestamp="1508512171911">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -147,10 +149,10 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" timestamp="1508513584960">
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" timestamp="1508515507551">
         <mark key="'" line="185" column="44" />
-        <mark key="[" line="149" column="85" />
-        <mark key="]" line="149" column="101" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="103" />
         <mark key="^" line="149" column="101" />
         <mark key="." line="149" column="101" />
       </file>
@@ -375,19 +377,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test-clean</text>
+        <text>, callback=lambda x, c: 0</text>
       </register>
       <register name="-" type="4">
-        <text>test-clean</text>
+        <text>, callback=lambda x, c: 0</text>
       </register>
       <register name="/" type="4">
         <text>reco</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ9Jy9uYXMvc3RhZmYvZGF0YV93b3JrL0dpbC9Zb3VUdWJlL2RhdGFzZXRzL0xpYnJpc3BlZWNoL3Rlc3QtY2xlYW4uY3N2JywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICMgZGVmYXVsdD0nL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvTGlicmlzcGVlY2gvdGVzdC1jbGVhbi5jc3YnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBPVVRQVVRfRklMRSA9IAoK</text>
+        <text encoding="base64">ICAgIHNlbGYuY2FsbGJhY2sgPSBjYWxsYmFjawogICAgc2VsZi5yZXN1bHQgPSB7fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -402,28 +404,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QVNSX01PREUgPSAndXR0JwpBU1JfTkJFU1QgPSAxCk1PREUgPSAncmVjJwpMT0dfRkxBRyA9IDAKVkFEX0ZMQUcgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHNlbGYucmVzdWx0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBIT1NUID0gJ2xvY2FsaG9zdCcKUE9SVCA9IDk4NzYK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdCA9IHNlbGYuY2FsbGJhY2sodHJhbnNjcmlwdGlvbnMsIHJlc3VsdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SU5QVVRfQ1NWPSAK</text>
+        <text encoding="base64">ICAgIHNlbGYucmVzdWx0ID0gcmVzdWx0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBJTlBVVF9DU1Y9ICd0ZXN0LmNzdicK</text>
+        <text encoding="base64">IyBkZWYgb25LZXlQcmVzcyhldmVudCk6CiMgICAgIHRleHQuaW5zZXJ0KCdlbmQnLCAnWW91IHByZXNzZWQgJXNcbicgJSAoZXZlbnQuY2hhciwgKSkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QkFUQ0hfU0laRSA9IDEwMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLWxvZ19mbGFnIiwgZGVmYXVsdD0wLAogICAgICAgICAgICAgICAgICAgICAgaGVscD0iTG9nIEFTUiByZXR1cm5lZCBtZXNzYWdlZCBpbiByYXcgZm9ybWF0IGluc3RlYWQgb2YgcHJvY2Vzc2VkIG1lc3NhZ2VzIChmb3IgZGVidWdnaW5nKSIpCg==</text>
+        <text encoding="base64">ICAiIiIKCiAgUGFyYW1ldGVycwogIC0tLS0tLS0tLS0KICByIDogCiAgaCA6IAoKICBSZXR1cm5zCiAgLS0tLS0tLQogIGludAogICIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItYW0iLCAiLS1hc3JfbW9kZSIsIGRlZmF1bHQ9InV0dCIsIGhlbHA9Im1vZGUgbGFiZWwgKCd1dHQnIG9yICdpbmMnKSB1c2VkIHRvIGluaXRpYWxpc2UgQVNSIikKICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItYW4iLCAiLS1hc3JfbmJlc3QiLCBkZWZhdWx0PTEsIGhlbHA9Im5fYmVzdCB2YWx1ZSB1c2VkIHRvIGluaXRpYWxpc2UgQVNSIikKICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItbSIsICItLW1vZGUiLCBkZWZhdWx0PSJsaXZlIiwgaGVscD0iU3RyZWFtIGxpdmUgb3IgcmVjb3JkZWQgYXVkaW8gKGxpdmUvcmVjKS4iKQogICMgcGFyc2VyLmFkZF9hcmd1bWVudCgiLXYiLCAiLS12YWQiLCBhY3Rpb249InN0b3JlX3RydWUiLCBoZWxwPSJBcHBseSB2YWQgb24gcmVjb3JkZWQgYXVkaW8iKQo=</text>
+        <text encoding="base64">ICBDYWxjdWxhdGlvbiBvZiBXRVIgd2l0aCBMZXZlbnNodGVpbiBkaXN0YW5jZS4KCiAgV29ya3Mgb25seSBmb3IgaXRlcmFibGVzIHVwIHRvIDI1NCBlbGVtZW50cyAodWludDgpLgogIE8obm0pIHRpbWUgYW5zIHNwYWNlIGNvbXBsZXhpdHkuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SE9TVCA9ICdsb2NhbGhvc3QnClBPUlQgPSA5ODc2CkFTUl9NT0RFID0gJ3V0dCcKQVNSX05CRVNUID0gMQpNT0RFID0gJ3JlYycKSU5QVVRfQ1NWPSAnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvTGlicmlzcGVlY2gvdGVzdC1jbGVhbi5jc3YnCiMgSU5QVVRfQ1NWPSAndGVzdC5jc3YnCkxPR19GTEFHID0gMApWQURfRkxBRyA9IEZhbHNlCk9VVFBVVF9GSUxFID0gJ3RyYW5zY3JpcHRpb25zJyArIHN0cihkYXRldGltZS5ub3coKSkgKyAnLnR4dCcKQkFUQ0hfU0laRSA9IDEwMDAKCg==</text>
+        <text encoding="base64">ICBPVVRQVVRfRklMRSA9IAoK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
