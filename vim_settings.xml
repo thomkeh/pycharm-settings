@@ -76,6 +76,10 @@
         <mark key="^" line="34" column="42" />
         <mark key="." line="34" column="42" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/asr_client.py" timestamp="1508513035991">
+        <mark key="[" line="288" column="0" />
+        <mark key="]" line="299" column="27" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/common.py" timestamp="1502721179635">
         <mark key="[" line="29" column="37" />
         <mark key="]" line="30" column="72" />
@@ -143,11 +147,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" timestamp="1508510309479">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="50" column="13" />
-        <mark key="^" line="174" column="63" />
-        <mark key="." line="174" column="63" />
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" timestamp="1508513584960">
+        <mark key="'" line="185" column="44" />
+        <mark key="[" line="149" column="85" />
+        <mark key="]" line="149" column="101" />
+        <mark key="^" line="149" column="101" />
+        <mark key="." line="149" column="101" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/clustering.py" timestamp="1505832931487">
         <mark key="'" line="207" column="2" />
@@ -267,10 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="683" column="77" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="685" column="13" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="706" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="750" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="537" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="424" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="654" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -367,22 +368,26 @@
       <jump line="16" column="23" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
       <jump line="31" column="56" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
       <jump line="9" column="1" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
+      <jump line="149" column="2" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
+      <jump line="185" column="44" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>test-clean</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>test-clean</text>
       </register>
       <register name="/" type="4">
         <text>reco</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGNvbnN0cnVjdF9jc3YoY3N2X2ZpbGUsIHJvb3RfZGlyLCBjaGVja19leGlzdGVuY2U9VHJ1ZSwgc291cmNlX2V4dD0nZmxhYycsIHRhcmdldF9leHQ9J3dhdicpOgogIGNvbmZpZyA9IGNvbmZpZ3BhcnNlci5Db25maWdQYXJzZXIoKQogIGNvbmZpZy5yZWFkKG9zLnBhdGguam9pbihyb290X2RpciwgaW5kZXhfZmlsZW5hbWUpKQogICMgZm9yIGZpbGUgaW4gY29uZmlnOgogICMgICBpZiBmaWxlID09ICdHTE9CQUwnIG9yIGZpbGUgPT0gJ0RFRkFVTFQnOgogICMgICAgIGNvbnRpbnVlCiAgIyAgIHByaW50KGNvbmZpZ1tmaWxlXVsnU1dBQ19URVhUJ10pCgogIGVudHJpZXMgPSBbXQogIGZvciByb290LCBfLCBmaWxlcyBpbiBvcy53YWxrKHJvb3RfZGlyKToKICAgIGZvciBuYW1lIGluIGZpbGVzOgogICAgICBpZiBvcy5wYXRoLnNwbGl0ZXh0KG5hbWUpWzFdICE9ICcuJyArIHNvdXJjZV9leHQ6CiAgICAgICAgY29udGludWUKICAgICAgdHJhbnMgPSBjb25maWdbbmFtZV1bY29uZmlnX3RleHRfcHJvcGVydHldCiAgICAgIGFic19maWxlbmFtZSA9IG9zLnBhdGguam9pbihyb290LCBuYW1lKQogICAgICBlbnRyaWVzLmFwcGVuZCgoYWJzX2ZpbGVuYW1lLnJlcGxhY2Uoc291cmNlX2V4dCwgdGFyZ2V0X2V4dCksIDAsIHRyYW5zKSkKICAgICAgaWYgY2hlY2tfZXhpc3RlbmNlOgogICAgICAgIGFzc2VydCBvcy5wYXRoLmlzZmlsZShhYnNfZmlsZW5hbWUpCgogIHdpdGggaW8ub3Blbihjc3ZfZmlsZSwgJ3cnLCBlbmNvZGluZz0ndXRmOCcpIGFzIGY6CiAgICBwcmludCgid2F2X2ZpbGVuYW1lLHdhdl9maWxlc2l6ZSx0cmFuc2NyaXB0IiwgZmlsZT1mKQogICAgZm9yIGVudHJ5IGluIGVudHJpZXM6CiAgICAgIHByaW50KCJ7fSx7fSx7fSIuZm9ybWF0KCplbnRyeSksIGZpbGU9ZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ9Jy9uYXMvc3RhZmYvZGF0YV93b3JrL0dpbC9Zb3VUdWJlL2RhdGFzZXRzL0xpYnJpc3BlZWNoL3Rlc3QtY2xlYW4uY3N2JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBPVVRQVVRfRklMRSA9IAoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -397,31 +402,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25maWcgPSBjb25maWdwYXJzZXIuQ29uZmlnUGFyc2VyKCkKICBjb25maWcucmVhZChvcy5wYXRoLmpvaW4ocm9vdF9kaXIsIGluZGV4X2ZpbGVuYW1lKSkKICAjIGZvciBmaWxlIGluIGNvbmZpZzoKICAjICAgaWYgZmlsZSA9PSAnR0xPQkFMJyBvciBmaWxlID09ICdERUZBVUxUJzoKICAjICAgICBjb250aW51ZQogICMgICBwcmludChjb25maWdbZmlsZV1bJ1NXQUNfVEVYVCddKQoK</text>
+        <text encoding="base64">QVNSX01PREUgPSAndXR0JwpBU1JfTkJFU1QgPSAxCk1PREUgPSAncmVjJwpMT0dfRkxBRyA9IDAKVkFEX0ZMQUcgPSBGYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgIyBwcmludCgnLS0tLS0tLS0tLS0tLS0tLScpCiAgIyByZXN1bHQgPSByZWFkZXIucmVzdWx0CiAgIyBwcmludChyZXN1bHQpCiAgIyBwcmludCgiV0VSOiB7fSIuZm9ybWF0KHJlc3VsdFsnbGV2X2Rpc3RhbmNlJ10gLyBmbG9hdChyZXN1bHRbJ3dvcmRfbGVuJ10pKSkKICAjIHByaW50KCJ3cm9uZyBXRVI6IHt9Ii5mb3JtYXQocmVzdWx0WydpbmRpdmlkdWFsX3dlciddIC8gcmVzdWx0Wydjb3VudGVyJ10pKQogICMgd2l0aCBvcGVuKCJyZXN1bHQudHh0IiwgJ2EnKSBhcyBmOgogICMgICBwcmludCgiLS0tLS0tLS0tLS0iLCBmaWxlPWYpCiAgIyAgIHByaW50KElOUFVUX0NTViwgZmlsZT1mKQogICMgICBwcmludChyZXN1bHQsIGZpbGU9ZikKICAjICAgcHJpbnQoIldFUjoge30iLmZvcm1hdChyZXN1bHRbJ2xldl9kaXN0YW5jZSddIC8gZmxvYXQocmVzdWx0Wyd3b3JkX2xlbiddKSksIGZpbGU9ZikKICAjICAgcHJpbnQoIndyb25nIFdFUjoge30iLmZvcm1hdChyZXN1bHRbJ2luZGl2aWR1YWxfd2VyJ10gLyByZXN1bHRbJ2NvdW50ZXInXSksIGZpbGU9ZikK</text>
+        <text encoding="base64">ICBIT1NUID0gJ2xvY2FsaG9zdCcKUE9SVCA9IDk4NzYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">SU5QVVRfQ1NWPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYXNzCg==</text>
+        <text encoding="base64">IyBJTlBVVF9DU1Y9ICd0ZXN0LmNzdicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXNzX29uCg==</text>
+        <text encoding="base64">QkFUQ0hfU0laRSA9IDEwMDAK</text>
       </register>
-      <register name="7" type="8">
-        <text>pass_on['
-pass_on['
-pass_on['
-pass_on['</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLWxvZ19mbGFnIiwgZGVmYXVsdD0wLAogICAgICAgICAgICAgICAgICAgICAgaGVscD0iTG9nIEFTUiByZXR1cm5lZCBtZXNzYWdlZCBpbiByYXcgZm9ybWF0IGluc3RlYWQgb2YgcHJvY2Vzc2VkIG1lc3NhZ2VzIChmb3IgZGVidWdnaW5nKSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlZmVyZW5jZSA9IGZpbGVzW3Bhc3Nfb25bJ2NvdW50ZXInXV1bMV0uc3BsaXQoKQogICAgaHlwb3RoZXNpcyA9IHRyYW5zY3JpcHRpb25bMF1bJ3RleHQnXS5sb3dlcigpLnNwbGl0KCkK</text>
+        <text encoding="base64">ICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItYW0iLCAiLS1hc3JfbW9kZSIsIGRlZmF1bHQ9InV0dCIsIGhlbHA9Im1vZGUgbGFiZWwgKCd1dHQnIG9yICdpbmMnKSB1c2VkIHRvIGluaXRpYWxpc2UgQVNSIikKICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItYW4iLCAiLS1hc3JfbmJlc3QiLCBkZWZhdWx0PTEsIGhlbHA9Im5fYmVzdCB2YWx1ZSB1c2VkIHRvIGluaXRpYWxpc2UgQVNSIikKICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItbSIsICItLW1vZGUiLCBkZWZhdWx0PSJsaXZlIiwgaGVscD0iU3RyZWFtIGxpdmUgb3IgcmVjb3JkZWQgYXVkaW8gKGxpdmUvcmVjKS4iKQogICMgcGFyc2VyLmFkZF9hcmd1bWVudCgiLXYiLCAiLS12YWQiLCBhY3Rpb249InN0b3JlX3RydWUiLCBoZWxwPSJBcHBseSB2YWQgb24gcmVjb3JkZWQgYXVkaW8iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgaWYgJ2NvdW50ZXInIG5vdCBpbiBwYXNzX29uOgogICAgICBwYXNzX29uWydjb3VudGVyJ10gPSAwCiAgICAgIHBhc3Nfb25bJ2xldl9kaXN0YW5jZSddID0gMAogICAgICBwYXNzX29uWyd3b3JkX2xlbiddID0gMAogICAgICBwYXNzX29uWydpbmRpdmlkdWFsX3dlciddID0gMC4wCg==</text>
+        <text encoding="base64">SE9TVCA9ICdsb2NhbGhvc3QnClBPUlQgPSA5ODc2CkFTUl9NT0RFID0gJ3V0dCcKQVNSX05CRVNUID0gMQpNT0RFID0gJ3JlYycKSU5QVVRfQ1NWPSAnL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvTGlicmlzcGVlY2gvdGVzdC1jbGVhbi5jc3YnCiMgSU5QVVRfQ1NWPSAndGVzdC5jc3YnCkxPR19GTEFHID0gMApWQURfRkxBRyA9IEZhbHNlCk9VVFBVVF9GSUxFID0gJ3RyYW5zY3JpcHRpb25zJyArIHN0cihkYXRldGltZS5ub3coKSkgKyAnLnR4dCcKQkFUQ0hfU0laRSA9IDEwMDAKCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
