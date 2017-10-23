@@ -186,12 +186,12 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" timestamp="1508751393929">
-        <mark key="'" line="5" column="35" />
-        <mark key="[" line="68" column="97" />
-        <mark key="]" line="68" column="95" />
-        <mark key="^" line="68" column="95" />
-        <mark key="." line="68" column="95" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" timestamp="1508753421332">
+        <mark key="'" line="74" column="4" />
+        <mark key="[" line="78" column="10" />
+        <mark key="]" line="79" column="38" />
+        <mark key="." line="79" column="38" />
+        <mark key="^" line="79" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/common.py" timestamp="1502721179635">
         <mark key="[" line="29" column="37" />
@@ -282,8 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="789" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
-      <jump line="662" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="808" column="37" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="859" column="61" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="69" column="87" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -382,22 +380,24 @@
       <jump line="54" column="10" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" />
       <jump line="63" column="22" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" />
       <jump line="5" column="35" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" />
+      <jump line="80" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" />
+      <jump line="74" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mel26_np</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mel26_np</text>
+        <text>source</text>
       </register>
       <register name="/" type="4">
-        <text>reco</text>
+        <text>target</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICMgZGVmYXVsdD0nL25hcy9zdGFmZi9kYXRhX3dvcmsvR2lsL1lvdVR1YmUvZGF0YXNldHMvTGlicmlzcGVlY2gvdGVzdC1jbGVhbi5jc3YnLAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGxvd2VzdCB1c2VkIGZyZXF1ZW5jeSBpbiBzb3VyY2UgZmlsdGVyYmFua3M=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb252ZXJzaW9uX21hdHJpeCA9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -412,45 +412,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb252ZXJzaW9uX21hdHJpeCA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludChELnNoYXBlKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcmludCh6ZXJvczEuc2hhcGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcmludChEX3BhZGRlZC5zaGFwZSkK</text>
+        <text encoding="base64">ICBwcmludChELnNoYXBlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludCh5LnNoYXBlKQo=</text>
+        <text encoding="base64">ICBwcmludCh6ZXJvczEuc2hhcGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludChVLnNoYXBlKQogIHByaW50KFYxLnNoYXBlKQogIHByaW50KHMuc2hhcGUpCg==</text>
+        <text encoding="base64">ICBwcmludChEX3BhZGRlZC5zaGFwZSkK</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBwcmludCh5LnNoYXBlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text encoding="base64">JzwsJz5zL3RhcmdldC9zb3VyY2UvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>reco</last-search>
+      <last-search>target</last-search>
       <last-offset />
-      <last-pattern>reco</last-pattern>
-      <last-replace>clean</last-replace>
-      <last-substitute encoding="base64">XDxtb2RlbFw+</last-substitute>
+      <last-pattern>target</last-pattern>
+      <last-replace>source</last-replace>
+      <last-substitute>target</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dropout</entry>
         <entry>as_strid</entry>
         <entry>just</entry>
         <entry>1</entry>
@@ -470,9 +469,9 @@
         <entry>callback</entry>
         <entry>nu</entry>
         <entry>reco</entry>
+        <entry>target</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyAvJywgJy9n</entry>
         <entry encoding="base64">JzwsJz5zLyAvJywgJy8=</entry>
         <entry encoding="base64">JzwsJz5zL0VhdGluZy9hdmVjMjAxMzIwMTQvZw==</entry>
         <entry>204</entry>
@@ -492,6 +491,7 @@
         <entry>535</entry>
         <entry encoding="base64">JzwsJz5zL21hc2svY2xlYW4vZw==</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry encoding="base64">JzwsJz5zL3RhcmdldC9zb3VyY2UvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
