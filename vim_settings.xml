@@ -74,11 +74,11 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="63" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508515068830">
-        <mark key="[" line="8" column="60" />
-        <mark key="]" line="8" column="60" />
-        <mark key="^" line="8" column="81" />
-        <mark key="." line="8" column="60" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508765781419">
+        <mark key="[" line="10" column="76" />
+        <mark key="]" line="10" column="81" />
+        <mark key="^" line="10" column="81" />
+        <mark key="." line="10" column="81" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496399650066">
         <mark key="[" line="10" column="29" />
@@ -384,17 +384,17 @@
       <jump line="74" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+      <register name="&quot;" type="4">
+        <text>noise</text>
       </register>
       <register name="-" type="4">
-        <text>source</text>
+        <text>noise</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGxvd2VzdCB1c2VkIGZyZXF1ZW5jeSBpbiBzb3VyY2UgZmlsdGVyYmFua3M=</text>
+        <text>/noisy_wav_16bit_signed</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
