@@ -31,18 +31,10 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/tf_helpers.py" timestamp="1504621998838">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="64" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/asr_client.py" timestamp="1508516019027">
         <mark key="[" line="139" column="58" />
         <mark key="]" line="139" column="58" />
         <mark key="." line="139" column="58" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_cifar.py" timestamp="1506087996522">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
         <mark key="[" line="0" column="64" />
@@ -86,10 +78,6 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/classification.py" timestamp="1505484730921">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="133" column="39" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/clustering.py" timestamp="1505832931487">
         <mark key="'" line="207" column="2" />
         <mark key="[" line="247" column="9" />
@@ -103,10 +91,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_recola.py" timestamp="1506085460034">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1505998518612">
         <mark key="[" line="98" column="76" />
@@ -166,12 +150,12 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1505153087799">
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1508766964507">
         <mark key="'" line="69" column="87" />
-        <mark key="[" line="529" column="0" />
-        <mark key="]" line="529" column="0" />
-        <mark key="." line="529" column="0" />
-        <mark key="^" line="536" column="7" />
+        <mark key="[" line="366" column="29" />
+        <mark key="]" line="367" column="1" />
+        <mark key="." line="367" column="1" />
+        <mark key="^" line="367" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1504712619836">
         <mark key="'" line="81" column="9" />
@@ -385,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>noise</text>
+        <text>loss_inputs</text>
       </register>
       <register name="-" type="4">
-        <text>noise</text>
+        <text>loss_inputs</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
