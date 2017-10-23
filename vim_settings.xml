@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1506095388295">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" timestamp="1508515900898">
         <mark key="'" line="58" column="41" />
         <mark key="[" line="15" column="4" />
@@ -21,20 +18,6 @@
         <mark key="]" line="28" column="1" />
         <mark key="^" line="28" column="1" />
         <mark key="." line="28" column="1" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" timestamp="1508521745778">
-        <mark key="'" line="60" column="10" />
-        <mark key="[" line="50" column="10" />
-        <mark key="]" line="51" column="17" />
-        <mark key="^" line="51" column="17" />
-        <mark key="." line="51" column="17" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1504629874611">
-        <mark key="'" line="18" column="103" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="32" column="50" />
-        <mark key="^" line="31" column="56" />
-        <mark key="." line="31" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/.gitignore" timestamp="1508323048839">
         <mark key="[" line="0" column="6" />
@@ -52,42 +35,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1505153087799">
-        <mark key="'" line="69" column="87" />
-        <mark key="[" line="529" column="0" />
-        <mark key="]" line="529" column="0" />
-        <mark key="." line="529" column="0" />
-        <mark key="^" line="536" column="7" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1504712619836">
-        <mark key="'" line="81" column="9" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="63" column="19" />
-        <mark key="." line="68" column="9" />
-        <mark key="^" line="68" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/definitions.py" timestamp="1504622046225">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" timestamp="1504712864625">
-        <mark key="[" line="34" column="42" />
-        <mark key="]" line="34" column="42" />
-        <mark key="^" line="34" column="42" />
-        <mark key="." line="34" column="42" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/asr_client.py" timestamp="1508516019027">
         <mark key="[" line="139" column="58" />
         <mark key="]" line="139" column="58" />
         <mark key="." line="139" column="58" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/common.py" timestamp="1502721179635">
-        <mark key="[" line="29" column="37" />
-        <mark key="]" line="30" column="72" />
-        <mark key="." line="30" column="72" />
-        <mark key="^" line="30" column="72" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_cifar.py" timestamp="1506087996522">
         <mark key="[" line="25" column="0" />
@@ -126,13 +77,8 @@
       <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508515068830">
         <mark key="[" line="8" column="60" />
         <mark key="]" line="8" column="60" />
-        <mark key="^" line="10" column="81" />
+        <mark key="^" line="8" column="81" />
         <mark key="." line="8" column="60" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508521751643">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/main.py" timestamp="1496399650066">
         <mark key="[" line="10" column="29" />
@@ -143,6 +89,119 @@
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/classification.py" timestamp="1505484730921">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="133" column="39" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/clustering.py" timestamp="1505832931487">
+        <mark key="'" line="207" column="2" />
+        <mark key="[" line="247" column="9" />
+        <mark key="]" line="247" column="10" />
+        <mark key="." line="247" column="10" />
+        <mark key="^" line="247" column="82" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508421606370">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_recola.py" timestamp="1506085460034">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="62" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1505998518612">
+        <mark key="[" line="98" column="76" />
+        <mark key="]" line="98" column="87" />
+        <mark key="." line="98" column="87" />
+        <mark key="^" line="98" column="87" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" timestamp="1508337514478">
+        <mark key="'" line="170" column="60" />
+        <mark key="[" line="251" column="30" />
+        <mark key="]" line="251" column="41" />
+        <mark key="." line="251" column="41" />
+        <mark key="^" line="251" column="41" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" timestamp="1508409559154">
+        <mark key="'" line="151" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/wer.py" timestamp="1508337561161">
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="66" column="45" />
+        <mark key="." line="66" column="45" />
+        <mark key="^" line="66" column="45" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" timestamp="1508511883921">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="9" column="68" />
+        <mark key="]" line="9" column="68" />
+        <mark key="." line="9" column="68" />
+        <mark key="^" line="57" column="46" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="48" />
+        <mark key="^" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/core/common.py" timestamp="1505899372082">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="35" column="39" />
+      </file>
+      <file name="/Python Console" timestamp="1506095388295">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" timestamp="1508521745778">
+        <mark key="'" line="60" column="10" />
+        <mark key="[" line="50" column="10" />
+        <mark key="]" line="51" column="17" />
+        <mark key="^" line="51" column="17" />
+        <mark key="." line="51" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1504629874611">
+        <mark key="'" line="18" column="103" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="32" column="50" />
+        <mark key="^" line="31" column="56" />
+        <mark key="." line="31" column="56" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1505153087799">
+        <mark key="'" line="69" column="87" />
+        <mark key="[" line="529" column="0" />
+        <mark key="]" line="529" column="0" />
+        <mark key="." line="529" column="0" />
+        <mark key="^" line="536" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1504712619836">
+        <mark key="'" line="81" column="9" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="63" column="19" />
+        <mark key="." line="68" column="9" />
+        <mark key="^" line="68" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/definitions.py" timestamp="1504622046225">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" timestamp="1504712864625">
+        <mark key="[" line="34" column="42" />
+        <mark key="]" line="34" column="42" />
+        <mark key="^" line="34" column="42" />
+        <mark key="." line="34" column="42" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/common.py" timestamp="1502721179635">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="30" column="72" />
+        <mark key="." line="30" column="72" />
+        <mark key="^" line="30" column="72" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508521751643">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_huawei_signal.py" timestamp="1496422923961">
         <mark key="[" line="22" column="6" />
@@ -163,29 +222,11 @@
         <mark key="^" line="149" column="101" />
         <mark key="." line="149" column="101" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/clustering.py" timestamp="1505832931487">
-        <mark key="'" line="207" column="2" />
-        <mark key="[" line="247" column="9" />
-        <mark key="]" line="247" column="10" />
-        <mark key="." line="247" column="10" />
-        <mark key="^" line="247" column="82" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508421606370">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/huawei_sig.py" timestamp="1497361918436">
         <mark key="[" line="6" column="77" />
         <mark key="]" line="6" column="82" />
         <mark key="." line="6" column="82" />
         <mark key="^" line="6" column="82" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_recola.py" timestamp="1506085460034">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505998796646">
         <mark key="'" line="43" column="0" />
@@ -193,22 +234,6 @@
         <mark key="]" line="93" column="37" />
         <mark key="." line="93" column="37" />
         <mark key="^" line="93" column="37" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/main.py" timestamp="1505998518612">
-        <mark key="[" line="98" column="76" />
-        <mark key="]" line="98" column="87" />
-        <mark key="." line="98" column="87" />
-        <mark key="^" line="98" column="87" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" timestamp="1508337514478">
-        <mark key="'" line="170" column="60" />
-        <mark key="[" line="251" column="30" />
-        <mark key="]" line="251" column="41" />
-        <mark key="." line="251" column="41" />
-        <mark key="^" line="251" column="41" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" timestamp="1508409559154">
-        <mark key="'" line="151" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
@@ -229,12 +254,6 @@
         <mark key="." line="159" column="30" />
         <mark key="^" line="163" column="63" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/wer.py" timestamp="1508337561161">
-        <mark key="[" line="65" column="19" />
-        <mark key="]" line="66" column="45" />
-        <mark key="." line="66" column="45" />
-        <mark key="^" line="66" column="45" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/core/read.py" timestamp="1505836131575">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -246,25 +265,6 @@
         <mark key="]" line="37" column="45" />
         <mark key="^" line="55" column="74" />
         <mark key="." line="63" column="23" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" timestamp="1508511883921">
-        <mark key="'" line="9" column="1" />
-        <mark key="[" line="9" column="68" />
-        <mark key="]" line="9" column="68" />
-        <mark key="." line="9" column="68" />
-        <mark key="^" line="57" column="46" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ-slim/src/data.py" timestamp="1496422541879">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="48" />
-        <mark key="^" line="4" column="48" />
-        <mark key="." line="4" column="48" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/core/common.py" timestamp="1505899372082">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="35" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/xyz_helpers.py" timestamp="1505232217464">
         <mark key="[" line="154" column="59" />
