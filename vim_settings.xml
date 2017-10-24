@@ -102,12 +102,12 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1508842585601">
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1508850351416">
         <mark key="'" line="59" column="68" />
-        <mark key="[" line="374" column="67" />
-        <mark key="]" line="374" column="74" />
-        <mark key="." line="374" column="74" />
-        <mark key="^" line="374" column="74" />
+        <mark key="[" line="375" column="61" />
+        <mark key="]" line="375" column="61" />
+        <mark key="." line="375" column="61" />
+        <mark key="^" line="375" column="60" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1504712619836">
         <mark key="'" line="81" column="9" />
@@ -265,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>, axis=1</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, axis=1</text>
       </register>
       <register name="/" type="4">
         <text>weight</text>
