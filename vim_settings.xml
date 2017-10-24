@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" timestamp="1508515900898">
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" timestamp="1508839459918">
         <mark key="'" line="58" column="41" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="5" />
-        <mark key="^" line="26" column="23" />
-        <mark key="." line="15" column="5" />
+        <mark key="[" line="87" column="9" />
+        <mark key="]" line="87" column="28" />
+        <mark key="^" line="87" column="28" />
+        <mark key="." line="87" column="28" />
       </file>
       <file name="/a.dummy" timestamp="1508514385322">
         <mark key="[" line="0" column="0" />
@@ -123,15 +123,11 @@
         <mark key="." line="88" column="53" />
         <mark key="^" line="88" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508774664387">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" timestamp="1508515507551">
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" timestamp="1508840142065">
         <mark key="'" line="185" column="44" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="103" />
-        <mark key="^" line="149" column="101" />
-        <mark key="." line="149" column="101" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505998796646">
         <mark key="'" line="43" column="0" />
@@ -265,20 +261,20 @@
       <jump line="59" column="68" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXNzZXJ0X29wMSwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdhc2Z7fScuZm9ybWF0KDEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXNzZXJ0X29wMSwg</text>
+        <text encoding="base64">ICsgc3RyKCkgKyAnLnR4dCc=</text>
       </register>
       <register name="/" type="4">
         <text>weight</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb252ZXJzaW9uX21hdHJpeCA9IHRmLmNvbnN0YW50KG5wLmRvdChucC5saW5hbGcucGludihmcm9tX21lbC5UKSwgdG9fbWVsLlQpLCBkdHlwZT10Zi5mbG9hdDMyKQo=</text>
+      <register name="0" type="4">
+        <text>file_list</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhc3NlcnRfb3AxID0gdGYuQXNzZXJ0KHRmLmxvZ2ljYWxfbm90KHRmLnJlZHVjZV9hbnkodGYuaXNfbmFuKG91dHB1dF9tZmNjKSkpLCBbb3V0cHV0X21mY2NdKQo=</text>
+        <text encoding="base64">ICAgICdhc2Z7fScuZm9ybWF0KDEpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -293,29 +289,29 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICMgcmVhZGVyID0gY2xpZW50LlJlYWRlcihhc3Jfc2VydmVyLCBpbnRlcnJ1cHRfZXZlbnQsIEFTUl9NT0RFLCBpbnQoQVNSX05CRVNUKSwgaW50KExPR19GTEFHKSwgcHJvY2VzcykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBhc3NlcnRfb3AxID0gdGYuQXNzZXJ0KHRmLmxvZ2ljYWxfbm90KHRmLnJlZHVjZV9hbnkodGYuaXNfbmFuKG91dHB1dF9tZmNjKSkpLCBbb3V0cHV0X21mY2NdKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBhc3NlcnRfb3AgPSB0Zi5Bc3NlcnQodGYubG9naWNhbF9ub3QodGYucmVkdWNlX2FueSh0Zi5pc19uYW4obG9zcykpKSwgW2xvc3NdKQo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>noisy
 noisy</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiZGlzY3JpbV9sb3NzIiwgcmVzdWx0c1siZGlzY3JpbV9sb3NzIl0pCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBmZXRjaGVzWyJkaXNjcmltX2xvc3MiXSA9IG1vZGVsLmRpc2NyaW1fbG9zcwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICB0Zi5zdW1tYXJ5LnNjYWxhcigiZGlzY3JpbWluYXRvcl9sb3NzIiwgbW9kZWwuZGlzY3JpbV9sb3NzKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICJwcmVkaWN0X3JlYWwiLCAicHJlZGljdF9mYWtlIiwgImRpc2NyaW1fbG9zcyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImRpc2NyaW1fZ3JhZHNfYW5kX3ZhcnMiLCA=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByZWRpY3RfcmVhbD10Zi5zaWdtb2lkKGxvZ2l0c19yZWFsKSwKICAgIHByZWRpY3RfZmFrZT10Zi5zaWdtb2lkKGxvZ2l0c19mYWtlKSwKICAgIGRpc2NyaW1fbG9zcz1lbWEuYXZlcmFnZShkaXNjcmltX2xvc3MpLAogICAgZGlzY3JpbV9ncmFkc19hbmRfdmFycz1kaXNjcmltX2dyYWRzX2FuZF92YXJzLAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGggdGYuY29udHJvbF9kZXBlbmRlbmNpZXMoW2Rpc2NyaW1fdHJhaW5dKToK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RhcmdldC9zb3VyY2UvZw==</text>
