@@ -102,8 +102,8 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1508860157808">
-        <mark key="'" line="735" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1508864582048">
+        <mark key="'" line="83" column="21" />
         <mark key="[" line="58" column="56" />
         <mark key="]" line="58" column="56" />
         <mark key="." line="58" column="56" />
@@ -162,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="10" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
       <jump line="113" column="15" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
       <jump line="115" column="48" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
       <jump line="117" column="11" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
@@ -262,6 +261,7 @@
       <jump line="605" column="38" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="679" column="28" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="735" column="38" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="83" column="21" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -271,7 +271,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>\.checkpoint</text>
+        <text>non</text>
       </register>
       <register name="0" type="4">
         <text>file_list</text>
@@ -320,9 +320,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\.checkpoint</last-search>
+      <last-search>non</last-search>
       <last-offset />
-      <last-pattern>\.checkpoint</last-pattern>
+      <last-pattern>non</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>target</last-substitute>
       <last-dir>1</last-dir>
@@ -330,7 +330,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW5kX2F1ZGlvXD4=</entry>
         <entry>send_live</entry>
         <entry>json</entry>
         <entry>dumps</entry>
@@ -350,6 +349,7 @@
         <entry>.lr</entry>
         <entry>\.lr</entry>
         <entry>\.checkpoint</entry>
+        <entry>non</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvJywgJy8=</entry>
