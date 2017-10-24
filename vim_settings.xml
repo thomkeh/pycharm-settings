@@ -102,8 +102,8 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1508851354125">
-        <mark key="'" line="59" column="68" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1508860157808">
+        <mark key="'" line="735" column="38" />
         <mark key="[" line="58" column="56" />
         <mark key="]" line="58" column="56" />
         <mark key="." line="58" column="56" />
@@ -162,17 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="10" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
-      <jump line="83" column="54" filename="$USER_HOME$/PycharmProjects/XYZ/core/models.py" />
-      <jump line="114" column="16" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_Keyword1.py" />
-      <jump line="132" column="3" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" />
-      <jump line="77" column="13" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
-      <jump line="128" column="2" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
-      <jump line="106" column="43" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
-      <jump line="33" column="50" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" />
-      <jump line="42" column="35" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" />
-      <jump line="107" column="31" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
       <jump line="110" column="10" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
       <jump line="113" column="15" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
       <jump line="115" column="48" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
@@ -262,6 +251,17 @@
       <jump line="693" column="22" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="694" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="59" column="68" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="57" column="24" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="67" column="10" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="86" column="3" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="394" column="40" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="544" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="550" column="28" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="603" column="47" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="604" column="64" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="605" column="38" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="679" column="28" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="735" column="38" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -271,7 +271,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>weight</text>
+        <text>\.checkpoint</text>
       </register>
       <register name="0" type="4">
         <text>file_list</text>
@@ -320,9 +320,9 @@
       </register>
     </registers>
     <search>
-      <last-search>weight</last-search>
+      <last-search>\.checkpoint</last-search>
       <last-offset />
-      <last-pattern>weight</last-pattern>
+      <last-pattern>\.checkpoint</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>target</last-substitute>
       <last-dir>1</last-dir>
@@ -330,10 +330,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXh0XD4=</entry>
-        <entry encoding="base64">XDxhdWRpb1w+</entry>
-        <entry encoding="base64">XDxpbnB1dF93YXZcPg==</entry>
-        <entry encoding="base64">XDxzZW50X2F1ZGlvX3NlY1w+</entry>
         <entry encoding="base64">XDxzZW5kX2F1ZGlvXD4=</entry>
         <entry>send_live</entry>
         <entry>json</entry>
@@ -350,6 +346,10 @@
         <entry>deproc</entry>
         <entry>wiehgt</entry>
         <entry>weight</entry>
+        <entry>learni</entry>
+        <entry>.lr</entry>
+        <entry>\.lr</entry>
+        <entry>\.checkpoint</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvJywgJy8=</entry>
