@@ -103,12 +103,12 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1508939416535">
-        <mark key="'" line="311" column="18" />
-        <mark key="[" line="38" column="1" />
-        <mark key="]" line="38" column="3" />
-        <mark key="." line="38" column="3" />
-        <mark key="^" line="38" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1509025925613">
+        <mark key="'" line="846" column="6" />
+        <mark key="[" line="890" column="39" />
+        <mark key="]" line="890" column="45" />
+        <mark key="." line="890" column="45" />
+        <mark key="^" line="890" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" timestamp="1508926049798">
         <mark key="'" line="30" column="4" />
@@ -163,21 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="36" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
-      <jump line="24" column="99" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
-      <jump line="44" column="47" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
-      <jump line="46" column="57" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" />
-      <jump line="42" column="19" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/wer.py" />
-      <jump line="65" column="2" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/wer.py" />
-      <jump line="281" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
-      <jump line="43" column="8" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
-      <jump line="56" column="24" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
-      <jump line="57" column="22" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
-      <jump line="4" column="7" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
-      <jump line="32" column="9" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
-      <jump line="40" column="26" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
-      <jump line="35" column="6" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
-      <jump line="327" column="4" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
       <jump line="322" column="4" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
       <jump line="324" column="20" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
       <jump line="326" column="35" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
@@ -263,22 +248,37 @@
       <jump line="86" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="87" column="22" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="311" column="18" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="462" column="52" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="466" column="82" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="780" column="31" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="781" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="783" column="32" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="784" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="786" column="32" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="787" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="789" column="37" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="790" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="792" column="37" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="793" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="803" column="73" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="830" column="79" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="846" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INPUT_CSV</text>
+        <text>gen</text>
       </register>
       <register name="-" type="4">
-        <text>INPUT_CSV</text>
+        <text>gen</text>
       </register>
       <register name="/" type="4">
-        <text>lr</text>
+        <text>fetches</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLXRyYW5zY3JpcHRpb25fY3N2IiwgaGVscD0iQ1NWIGZpbGUgd2l0aCB0aGUgdHJhbnNjcmlwdGlvbnMiLCBkZWZhdWx0PScnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZ2VuX2xvc3NfTDEiLCByZXN1bHRzWyJnZW5fbG9zc19sMSJdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZiBub3QgYXJncy53YXZfZGlyID09ICcnOgogICAgV0FWX0RJUiA9IGFyZ3Mud2F2X2RpcgogIGlmIG5vdCBhcmdzLnRyYW5zY3JpcHRpb25fY3N2ID09ICcnOgogICAgSU5QVVRfQ1NWID0gYXJncy50cmFuc2NyaXB0aW9uX2NzdgogIGlmIG5vdCBhcmdzLm91dHB1dF9jc3YgPT0gJyc6CiAgICBPVVRQVVRfQ1NWID0gYXJncy5vdXRwdXRfY3N2Cg==</text>
+        <text encoding="base64">ICB0Zi5zdW1tYXJ5LnNjYWxhcigiTUZDQ19sb3NzX0wxIiwgbW9kZWwubWZjY19sb3NzX2wxKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -293,37 +293,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ck1vZGVsID0gY29sbGVjdGlvbnMubmFtZWR0dXBsZSgiTW9kZWwiLCBbIm91dHB1dHMiLCAiZ2VuX2xvc3NfbDEiLCAiZ2VuX2dyYWRzX2FuZF92YXJzIiwgInRyYWluIl0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICMgZGVmYXVsdD0idGVzdC5jc3YiLAogICAgICAgICAgICAgICAgICAgICAgIyBkZWZhdWx0PScvbmFzL3N0YWZmL2RhdGFfd29yay9HaWwvWW91VHViZS9kYXRhc2V0cy9MaWJyaXNwZWVjaC90ZXN0LWNsZWFuLmNzdicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgbG9zcwo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIHdpdGggdGYuY29udHJvbF9kZXBlbmRlbmNpZXMoW2Fzc2VydF9vcDJdKToKICAjICAgbG9zc19uID0gdGYuaWRlbnRpdHkobG9zcykK</text>
+        <text encoding="base64">ICAKICBkZXByb2Nlc3MoKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAjIGFzc2VydF9vcDIgPSB0Zi5Bc3NlcnQodGYubG9naWNhbF9ub3QodGYucmVkdWNlX2FueSh0Zi5pc19uYW4odGFyZ2V0X21mY2MpKSksIFt0YXJnZXRfbWZjY10pCg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZXByb2Nlc3NlZF9vdXRwdXQgPSBkZXByb2Nlc3MoaW5wdXRfZmVhdHVyZXMsIG91dHB1dF9mZWF0dXJlcywgcmVjb25zdHJ1Y3Rpb25fZGF0YSkKICBkZXByb2Nlc3NlZF90YXJnZXQgPSBkZXByb2Nlc3MoaW5wdXRfZmVhdHVyZXMsIHRhcmdldF9mZWF0dXJlcywgcmVjb25zdHJ1Y3Rpb25fZGF0YSkKICBvdXRwdXRfZmJhbmsgPSBkZXByb2Nlc3NlZF9vdXRwdXRbJ2NsZWFuX2ZiYW5rJ10KICB0YXJnZXRfZmJhbmsgPSBkZXByb2Nlc3NlZF90YXJnZXRbJ2NsZWFuX2ZiYW5rJ10K</text>
+        <text encoding="base64">ICBpZiBub3QgYXJncy53YXZfZGlyID09ICcnOgogICAgV0FWX0RJUiA9IGFyZ3Mud2F2X2RpcgogIGlmIG5vdCBhcmdzLnRyYW5zY3JpcHRpb25fY3N2ID09ICcnOgogICAgSU5QVVRfQ1NWID0gYXJncy50cmFuc2NyaXB0aW9uX2NzdgogIGlmIG5vdCBhcmdzLm91dHB1dF9jc3YgPT0gJyc6CiAgICBPVVRQVVRfQ1NWID0gYXJncy5vdXRwdXRfY3N2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZiYW5rX2ZsYXQgPSB0Zi5yZXNoYXBlKGZiYW5rLCBbLTFdKQogICAgYmFkX2VsZW1lbnRzID0gdGYuZ2F0aGVyKGZiYW5rX2ZsYXQsIHRmLmFyZ21pbihmYmFua19mbGF0KSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGggdGYuY29udHJvbF9kZXBlbmRlbmNpZXMoW3RmLmFzc2VydF9wb3NpdGl2ZShmYmFuaywgW2JhZF9lbGVtZW50c10sIDI1NildKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICMgZGVmYXVsdD0idGVzdC5jc3YiLAogICAgICAgICAgICAgICAgICAgICAgIyBkZWZhdWx0PScvbmFzL3N0YWZmL2RhdGFfd29yay9HaWwvWW91VHViZS9kYXRhc2V0cy9MaWJyaXNwZWVjaC90ZXN0LWNsZWFuLmNzdicsCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RhcmdldC9zb3VyY2UvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>lr</last-search>
+      <last-search>fetches</last-search>
       <last-offset />
-      <last-pattern>lr</last-pattern>
+      <last-pattern>fetches</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>target</last-substitute>
       <last-dir>1</last-dir>
@@ -331,8 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxRdWV1ZVw+</entry>
-        <entry>callback</entry>
         <entry>nu</entry>
         <entry>reco</entry>
         <entry>target</entry>
@@ -351,6 +349,8 @@
         <entry>window</entry>
         <entry>adam</entry>
         <entry>lr</entry>
+        <entry>summary</entry>
+        <entry>fetches</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvJywgJy8=</entry>
