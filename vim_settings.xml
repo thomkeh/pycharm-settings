@@ -103,8 +103,8 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1509025925613">
-        <mark key="'" line="846" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1509099548604">
+        <mark key="'" line="99" column="13" />
         <mark key="[" line="890" column="39" />
         <mark key="]" line="890" column="45" />
         <mark key="." line="890" column="45" />
@@ -163,9 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="4" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
-      <jump line="324" column="20" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
-      <jump line="326" column="35" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
       <jump line="347" column="10" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
       <jump line="257" column="17" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
       <jump line="282" column="71" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
@@ -263,6 +260,9 @@
       <jump line="803" column="73" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="830" column="79" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="846" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="35" column="44" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="62" column="83" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="99" column="13" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -272,7 +272,7 @@
         <text>gen</text>
       </register>
       <register name="/" type="4">
-        <text>fetches</text>
+        <text>instance</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiZ2VuX2xvc3NfTDEiLCByZXN1bHRzWyJnZW5fbG9zc19sMSJdKQo=</text>
@@ -321,9 +321,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fetches</last-search>
+      <last-search>instance</last-search>
       <last-offset />
-      <last-pattern>fetches</last-pattern>
+      <last-pattern>instance</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>target</last-substitute>
       <last-dir>1</last-dir>
@@ -331,7 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nu</entry>
         <entry>reco</entry>
         <entry>target</entry>
         <entry>create_model</entry>
@@ -351,6 +350,7 @@
         <entry>lr</entry>
         <entry>summary</entry>
         <entry>fetches</entry>
+        <entry>instance</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvJywgJy8=</entry>
