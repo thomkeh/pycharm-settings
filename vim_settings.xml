@@ -3,53 +3,438 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm.py" timestamp="1512483031110">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" timestamp="1508839459918">
+        <mark key="'" line="58" column="41" />
+        <mark key="[" line="87" column="9" />
+        <mark key="]" line="87" column="28" />
+        <mark key="^" line="87" column="28" />
+        <mark key="." line="87" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/first/main.py" timestamp="1512140331252">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="4" column="8" />
-        <mark key="." line="4" column="8" />
+      <file name="/a.dummy" timestamp="1508514385322">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/.gitignore" timestamp="1512482452436">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="100" column="12" />
-        <mark key="]" line="102" column="5" />
-        <mark key="^" line="102" column="5" />
-        <mark key="." line="102" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/asr_client.py" timestamp="1508516019027">
+        <mark key="[" line="139" column="58" />
+        <mark key="]" line="139" column="58" />
+        <mark key="." line="139" column="58" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
+        <mark key="[" line="0" column="64" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" timestamp="1504702490086">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="38" column="18" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="58" />
+        <mark key="^" line="38" column="58" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" timestamp="1508324242939">
+        <mark key="'" line="282" column="71" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="183" column="14" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" timestamp="1508842642592">
+        <mark key="'" line="147" column="17" />
+        <mark key="[" line="22" column="65" />
+        <mark key="]" line="22" column="69" />
+        <mark key="." line="22" column="69" />
+        <mark key="^" line="22" column="69" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
+        <mark key="'" line="66" column="54" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/clustering.py" timestamp="1505832931487">
+        <mark key="'" line="207" column="2" />
+        <mark key="[" line="247" column="9" />
+        <mark key="]" line="247" column="10" />
+        <mark key="." line="247" column="10" />
+        <mark key="^" line="247" column="82" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508421606370">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" timestamp="1508337514478">
+        <mark key="'" line="170" column="60" />
+        <mark key="[" line="251" column="30" />
+        <mark key="]" line="251" column="41" />
+        <mark key="." line="251" column="41" />
+        <mark key="^" line="251" column="41" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" timestamp="1508409559154">
+        <mark key="'" line="151" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/wer.py" timestamp="1508337561161">
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="66" column="45" />
+        <mark key="." line="66" column="45" />
+        <mark key="^" line="66" column="45" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" timestamp="1508511883921">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="9" column="68" />
+        <mark key="]" line="9" column="68" />
+        <mark key="." line="9" column="68" />
+        <mark key="^" line="57" column="46" />
+      </file>
+      <file name="/Python Console" timestamp="1508772534651">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" timestamp="1508764341785">
+        <mark key="'" line="60" column="10" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="51" column="17" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1504629874611">
+        <mark key="'" line="18" column="103" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="32" column="50" />
+        <mark key="^" line="31" column="56" />
+        <mark key="." line="31" column="56" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1509099548604">
+        <mark key="'" line="99" column="13" />
+        <mark key="[" line="890" column="39" />
+        <mark key="]" line="890" column="45" />
+        <mark key="." line="890" column="45" />
+        <mark key="^" line="890" column="45" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" timestamp="1508926049798">
+        <mark key="'" line="30" column="4" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1504712619836">
+        <mark key="'" line="81" column="9" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="63" column="19" />
+        <mark key="." line="68" column="9" />
+        <mark key="^" line="68" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" timestamp="1508772530284">
+        <mark key="'" line="74" column="4" />
+        <mark key="[" line="88" column="34" />
+        <mark key="]" line="88" column="53" />
+        <mark key="." line="88" column="53" />
+        <mark key="^" line="88" column="53" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" timestamp="1508840142065">
+        <mark key="'" line="185" column="44" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505998796646">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="93" column="37" />
+        <mark key="." line="93" column="37" />
+        <mark key="^" line="93" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
+        <mark key="'" line="101" column="53" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="24" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1508510361769">
+        <mark key="'" line="44" column="35" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="37" column="45" />
+        <mark key="^" line="55" column="74" />
+        <mark key="." line="63" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1508510278648">
+        <mark key="'" line="46" column="57" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="165" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/.gitignore" />
+      <jump line="347" column="10" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
+      <jump line="257" column="17" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
+      <jump line="282" column="71" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
+      <jump line="327" column="39" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
+      <jump line="289" column="31" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
+      <jump line="65" column="6" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
+      <jump line="263" column="26" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
+      <jump line="170" column="60" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
+      <jump line="10" column="28" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
+      <jump line="212" column="25" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="279" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="41" column="50" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="44" column="10" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="45" column="8" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="51" column="11" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="139" column="60" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="151" column="20" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
+      <jump line="131" column="38" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
+      <jump line="80" column="12" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
+      <jump line="100" column="35" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
+      <jump line="26" column="15" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
+      <jump line="51" column="27" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" />
+      <jump line="54" column="41" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" />
+      <jump line="16" column="23" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
+      <jump line="31" column="56" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
+      <jump line="9" column="1" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
+      <jump line="149" column="2" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
+      <jump line="185" column="44" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
+      <jump line="54" column="10" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" />
+      <jump line="63" column="22" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" />
+      <jump line="5" column="35" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" />
+      <jump line="80" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" />
+      <jump line="74" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" />
+      <jump line="234" column="39" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="370" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="731" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" />
+      <jump line="108" column="60" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" />
+      <jump line="109" column="41" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" />
+      <jump line="147" column="17" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" />
+      <jump line="47" column="62" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="365" column="23" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="366" column="23" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="367" column="17" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="368" column="17" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="568" column="8" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="571" column="19" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="638" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="646" column="19" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="693" column="22" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="694" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="59" column="68" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="67" column="10" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="394" column="40" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="544" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="550" column="28" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="603" column="47" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="604" column="64" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="605" column="38" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="679" column="28" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="735" column="38" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="83" column="21" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="412" column="18" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="18" column="62" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="30" column="4" filename="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" />
+      <jump line="65" column="22" filename="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" />
+      <jump line="59" column="34" filename="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" />
+      <jump line="66" column="54" filename="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" />
+      <jump line="38" column="1" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="57" column="79" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="56" column="88" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="86" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="87" column="22" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="311" column="18" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="462" column="52" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="466" column="82" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="780" column="31" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="781" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="783" column="32" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="784" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="786" column="32" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="787" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="789" column="37" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="790" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="792" column="37" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="793" column="9" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="803" column="73" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="830" column="79" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="846" column="6" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="35" column="44" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="62" column="83" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
+      <jump line="99" column="13" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gen</text>
       </register>
       <register name="-" type="4">
-        <text>np.dot(x1)</text>
+        <text>gen</text>
+      </register>
+      <register name="/" type="4">
+        <text>instance</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiZ2VuX2xvc3NfTDEiLCByZXN1bHRzWyJnZW5fbG9zc19sMSJdKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICB0Zi5zdW1tYXJ5LnNjYWxhcigiTUZDQ19sb3NzX0wxIiwgbW9kZWwubWZjY19sb3NzX2wxKQo=</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ck1vZGVsID0gY29sbGVjdGlvbnMubmFtZWR0dXBsZSgiTW9kZWwiLCBbIm91dHB1dHMiLCAiZ2VuX2xvc3NfbDEiLCAiZ2VuX2dyYWRzX2FuZF92YXJzIiwgInRyYWluIl0pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAKICBkZXByb2Nlc3MoKQo=</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBpZiBub3QgYXJncy53YXZfZGlyID09ICcnOgogICAgV0FWX0RJUiA9IGFyZ3Mud2F2X2RpcgogIGlmIG5vdCBhcmdzLnRyYW5zY3JpcHRpb25fY3N2ID09ICcnOgogICAgSU5QVVRfQ1NWID0gYXJncy50cmFuc2NyaXB0aW9uX2NzdgogIGlmIG5vdCBhcmdzLm91dHB1dF9jc3YgPT0gJyc6CiAgICBPVVRQVVRfQ1NWID0gYXJncy5vdXRwdXRfY3N2Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICMgZGVmYXVsdD0idGVzdC5jc3YiLAogICAgICAgICAgICAgICAgICAgICAgIyBkZWZhdWx0PScvbmFzL3N0YWZmL2RhdGFfd29yay9HaWwvWW91VHViZS9kYXRhc2V0cy9MaWJyaXNwZWVjaC90ZXN0LWNsZWFuLmNzdicsCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL3RhcmdldC9zb3VyY2UvZw==</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>instance</last-search>
+      <last-offset />
+      <last-pattern>instance</last-pattern>
+      <last-replace>source</last-replace>
+      <last-substitute>target</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>reco</entry>
+        <entry>target</entry>
+        <entry>create_model</entry>
+        <entry>log</entry>
+        <entry>tf.log</entry>
+        <entry>deproc</entry>
+        <entry>wiehgt</entry>
+        <entry>weight</entry>
+        <entry>learni</entry>
+        <entry>.lr</entry>
+        <entry>\.lr</entry>
+        <entry>\.checkpoint</entry>
+        <entry>non</entry>
+        <entry>snr</entry>
+        <entry>window</entry>
+        <entry>adam</entry>
+        <entry>lr</entry>
+        <entry>summary</entry>
+        <entry>fetches</entry>
+        <entry>instance</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zLyAvJywgJy8=</entry>
+        <entry encoding="base64">JzwsJz5zL0VhdGluZy9hdmVjMjAxMzIwMTQvZw==</entry>
+        <entry>204</entry>
+        <entry>240</entry>
+        <entry>365</entry>
+        <entry>action AceAction</entry>
+        <entry encoding="base64">JzwsJz5zL251bXB5L25wL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLycnJy8iIiIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2NsZWFuL25vaXN5L2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzI1Ni9ORklMVC9n</entry>
+        <entry>%s/logfbank/fbank/gc</entry>
+        <entry encoding="base64">JzwsJz5zLzMyLzY0L2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzY0LzMyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzY0Ly9n</entry>
+        <entry encoding="base64">JzwsJz5zLyAgICAvICAvZw==</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
+        <entry>535</entry>
+        <entry encoding="base64">JzwsJz5zL21hc2svY2xlYW4vZw==</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry encoding="base64">JzwsJz5zL3RhcmdldC9zb3VyY2UvZw==</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
