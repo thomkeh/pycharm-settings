@@ -3,65 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" timestamp="1508839459918">
-        <mark key="'" line="58" column="41" />
-        <mark key="[" line="87" column="9" />
-        <mark key="]" line="87" column="28" />
-        <mark key="^" line="87" column="28" />
-        <mark key="." line="87" column="28" />
-      </file>
-      <file name="/a.dummy" timestamp="1508514385322">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/asr_client.py" timestamp="1508516019027">
-        <mark key="[" line="139" column="58" />
-        <mark key="]" line="139" column="58" />
-        <mark key="." line="139" column="58" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
-        <mark key="[" line="0" column="64" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" timestamp="1504702490086">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="38" column="18" />
-        <mark key="]" line="38" column="58" />
-        <mark key="." line="38" column="58" />
-        <mark key="^" line="38" column="58" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" timestamp="1508324242939">
-        <mark key="'" line="282" column="71" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="183" column="14" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" timestamp="1508842642592">
-        <mark key="'" line="147" column="17" />
-        <mark key="[" line="22" column="65" />
-        <mark key="]" line="22" column="69" />
-        <mark key="." line="22" column="69" />
-        <mark key="^" line="22" column="69" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
-        <mark key="'" line="66" column="54" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/clustering.py" timestamp="1505832931487">
-        <mark key="'" line="207" column="2" />
-        <mark key="[" line="247" column="9" />
-        <mark key="]" line="247" column="10" />
-        <mark key="." line="247" column="10" />
-        <mark key="^" line="247" column="82" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508421606370">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" timestamp="1508511883921">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="9" column="68" />
+        <mark key="]" line="9" column="68" />
+        <mark key="." line="9" column="68" />
+        <mark key="^" line="57" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" timestamp="1508337514478">
         <mark key="'" line="170" column="60" />
@@ -70,8 +17,15 @@
         <mark key="." line="251" column="41" />
         <mark key="^" line="251" column="41" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" timestamp="1508409559154">
-        <mark key="'" line="151" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508421606370">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1508772534651">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/wer.py" timestamp="1508337561161">
         <mark key="[" line="65" column="19" />
@@ -79,29 +33,18 @@
         <mark key="." line="66" column="45" />
         <mark key="^" line="66" column="45" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" timestamp="1508511883921">
-        <mark key="'" line="9" column="1" />
-        <mark key="[" line="9" column="68" />
-        <mark key="]" line="9" column="68" />
-        <mark key="." line="9" column="68" />
-        <mark key="^" line="57" column="46" />
-      </file>
-      <file name="/Python Console" timestamp="1508772534651">
+      <file name="/a.dummy" timestamp="1508514385322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" timestamp="1508764341785">
-        <mark key="'" line="60" column="10" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="51" column="17" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
+        <mark key="[" line="0" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1504629874611">
-        <mark key="'" line="18" column="103" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="32" column="50" />
-        <mark key="^" line="31" column="56" />
-        <mark key="." line="31" column="56" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/.gitignore" timestamp="1512482452436">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="100" column="12" />
+        <mark key="]" line="102" column="5" />
+        <mark key="^" line="102" column="5" />
+        <mark key="." line="102" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1509099548604">
         <mark key="'" line="99" column="13" />
@@ -110,16 +53,6 @@
         <mark key="." line="890" column="45" />
         <mark key="^" line="890" column="45" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" timestamp="1508926049798">
-        <mark key="'" line="30" column="4" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1504712619836">
-        <mark key="'" line="81" column="9" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="63" column="19" />
-        <mark key="." line="68" column="9" />
-        <mark key="^" line="68" column="9" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" timestamp="1508772530284">
         <mark key="'" line="74" column="4" />
         <mark key="[" line="88" column="34" />
@@ -127,25 +60,32 @@
         <mark key="." line="88" column="53" />
         <mark key="^" line="88" column="53" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" timestamp="1508840142065">
-        <mark key="'" line="185" column="44" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" timestamp="1508839459918">
+        <mark key="'" line="58" column="41" />
+        <mark key="[" line="87" column="9" />
+        <mark key="]" line="87" column="28" />
+        <mark key="^" line="87" column="28" />
+        <mark key="." line="87" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505998796646">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="93" column="4" />
-        <mark key="]" line="93" column="37" />
-        <mark key="." line="93" column="37" />
-        <mark key="^" line="93" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/clustering.py" timestamp="1505832931487">
+        <mark key="'" line="207" column="2" />
+        <mark key="[" line="247" column="9" />
+        <mark key="]" line="247" column="10" />
+        <mark key="." line="247" column="10" />
+        <mark key="^" line="247" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
-        <mark key="'" line="101" column="53" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="24" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" timestamp="1508764341785">
+        <mark key="'" line="60" column="10" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="51" column="17" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" timestamp="1508409559154">
+        <mark key="'" line="151" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" timestamp="1508926049798">
+        <mark key="'" line="30" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1508510361769">
         <mark key="'" line="44" column="35" />
@@ -154,12 +94,91 @@
         <mark key="^" line="55" column="74" />
         <mark key="." line="63" column="23" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
+        <mark key="'" line="101" column="53" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="24" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1504629874611">
+        <mark key="'" line="18" column="103" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="32" column="50" />
+        <mark key="^" line="31" column="56" />
+        <mark key="." line="31" column="56" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" timestamp="1508842642592">
+        <mark key="'" line="147" column="17" />
+        <mark key="[" line="22" column="65" />
+        <mark key="]" line="22" column="69" />
+        <mark key="." line="22" column="69" />
+        <mark key="^" line="22" column="69" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" timestamp="1504702490086">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="38" column="18" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="58" />
+        <mark key="^" line="38" column="58" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/first/main.py" timestamp="1512140331252">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/asr_client.py" timestamp="1508516019027">
+        <mark key="[" line="139" column="58" />
+        <mark key="]" line="139" column="58" />
+        <mark key="." line="139" column="58" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" timestamp="1508324242939">
+        <mark key="'" line="282" column="71" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="183" column="14" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm.py" timestamp="1512484269295">
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505998796646">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="93" column="37" />
+        <mark key="." line="93" column="37" />
+        <mark key="^" line="93" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1504712619836">
+        <mark key="'" line="81" column="9" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="63" column="19" />
+        <mark key="." line="68" column="9" />
+        <mark key="^" line="68" column="9" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1508510278648">
         <mark key="'" line="46" column="57" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
         <mark key="." line="90" column="0" />
         <mark key="^" line="165" column="46" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
+        <mark key="'" line="66" column="54" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" timestamp="1508840142065">
+        <mark key="'" line="185" column="44" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -330,50 +349,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>reco</entry>
-        <entry>target</entry>
-        <entry>create_model</entry>
-        <entry>log</entry>
-        <entry>tf.log</entry>
-        <entry>deproc</entry>
-        <entry>wiehgt</entry>
-        <entry>weight</entry>
-        <entry>learni</entry>
-        <entry>.lr</entry>
-        <entry>\.lr</entry>
-        <entry>\.checkpoint</entry>
-        <entry>non</entry>
-        <entry>snr</entry>
-        <entry>window</entry>
-        <entry>adam</entry>
-        <entry>lr</entry>
-        <entry>summary</entry>
-        <entry>fetches</entry>
-        <entry>instance</entry>
-      </history-search>
-      <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyAvJywgJy8=</entry>
-        <entry encoding="base64">JzwsJz5zL0VhdGluZy9hdmVjMjAxMzIwMTQvZw==</entry>
-        <entry>204</entry>
-        <entry>240</entry>
-        <entry>365</entry>
-        <entry>action AceAction</entry>
-        <entry encoding="base64">JzwsJz5zL251bXB5L25wL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLycnJy8iIiIvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2NsZWFuL25vaXN5L2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzI1Ni9ORklMVC9n</entry>
-        <entry>%s/logfbank/fbank/gc</entry>
-        <entry encoding="base64">JzwsJz5zLzMyLzY0L2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzY0LzMyL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzY0Ly9n</entry>
-        <entry encoding="base64">JzwsJz5zLyAgICAvICAvZw==</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
-        <entry>535</entry>
-        <entry encoding="base64">JzwsJz5zL21hc2svY2xlYW4vZw==</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry encoding="base64">JzwsJz5zL3RhcmdldC9zb3VyY2UvZw==</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
@@ -436,5 +413,8 @@
         <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
