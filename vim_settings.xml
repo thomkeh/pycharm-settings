@@ -167,6 +167,12 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="165" column="46" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512577115356">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
         <mark key="'" line="66" column="54" />
         <mark key="[" line="7" column="0" />
@@ -284,11 +290,11 @@
       <jump line="99" column="13" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICA9IHNlbGYuZ2V0X25vbl9ib3VuZF9pbmRpY2VzKCkK</text>
+      <register name="&quot;" type="4">
+        <text>, training_data: np.ndarray, labels: np.ndarray</text>
       </register>
       <register name="-" type="4">
-        <text>non_bound_idx</text>
+        <text>, training_data: np.ndarray, labels: np.ndarray</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
@@ -297,7 +303,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiZ2VuX2xvc3NfTDEiLCByZXN1bHRzWyJnZW5fbG9zc19sMSJdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICA9IHNlbGYuZ2V0X25vbl9ib3VuZF9pbmRpY2VzKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -312,31 +318,31 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICA9IHNlbGYuZ2V0X25vbl9ib3VuZF9pbmRpY2VzKCkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIFgyID0gc2VsZi5YW2kyXQo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>self.
 self.
 self.
 self.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgIHNlbGY6IAoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RhcmdldC9zb3VyY2UvZw==</text>
@@ -414,6 +420,9 @@ self.</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
