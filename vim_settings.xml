@@ -108,6 +108,9 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
+      <file name="/Dummy.txt" timestamp="1512583099429">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" timestamp="1508842642592">
         <mark key="'" line="147" column="17" />
         <mark key="[" line="22" column="65" />
@@ -167,12 +170,12 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="165" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512582375779">
-        <mark key="'" line="32" column="107" />
-        <mark key="[" line="89" column="37" />
-        <mark key="]" line="90" column="12" />
-        <mark key="." line="90" column="12" />
-        <mark key="^" line="90" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512583081505">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="99" column="37" />
+        <mark key="]" line="99" column="38" />
+        <mark key="." line="99" column="38" />
+        <mark key="^" line="110" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
         <mark key="'" line="66" column="54" />
@@ -189,10 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="71" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
-      <jump line="327" column="39" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
-      <jump line="289" column="31" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
       <jump line="65" column="6" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
       <jump line="263" column="26" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
       <jump line="6" column="7" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
@@ -289,19 +288,23 @@
       <jump line="99" column="13" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="46" column="9" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
       <jump line="29" column="107" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
+      <jump line="98" column="36" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
+      <jump line="101" column="35" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlc2hvbGQxID0gc2VsZi5jb21wdXRlX3RocmVzaG9sZF9jYW5kaWRhdGUoaTEsIGkyLCBlcnJvcjEsIG11bHRfZGlmZjEsIG11bHRfZGlmZjIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV9zdXBwb3J0X2luZGljZXMoaTEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>new_</text>
+        <text>, i2</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlc2hvbGQxID0gc2VsZi5jb21wdXRlX3RocmVzaG9sZF9jYW5kaWRhdGUoaTEsIGkyLCBlcnJvcjEsIG11bHRfZGlmZjEsIG11bHRfZGlmZjIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV9zdXBwb3J0X2luZGljZXMoaTEpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIEwgPSAK</text>
