@@ -15,12 +15,13 @@
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
@@ -30,6 +31,8 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="ImplementMethods" />
   <action id="InsertLiveTemplate" />
   <action id="IntroduceVariable" />
@@ -42,9 +45,6 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl l" />
-  </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
