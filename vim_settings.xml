@@ -167,11 +167,12 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="165" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512580914655">
-        <mark key="[" line="58" column="18" />
-        <mark key="]" line="57" column="35" />
-        <mark key="." line="57" column="35" />
-        <mark key="^" line="57" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512582375779">
+        <mark key="'" line="32" column="107" />
+        <mark key="[" line="89" column="37" />
+        <mark key="]" line="90" column="12" />
+        <mark key="." line="90" column="12" />
+        <mark key="^" line="90" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
         <mark key="'" line="66" column="54" />
@@ -188,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="17" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
       <jump line="282" column="71" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" />
       <jump line="327" column="39" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
       <jump line="289" column="31" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/ModuleASRClient.py" />
@@ -288,19 +288,20 @@
       <jump line="62" column="83" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="99" column="13" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
       <jump line="46" column="9" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
+      <jump line="29" column="107" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>high_constr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJlc2hvbGQxID0gc2VsZi5jb21wdXRlX3RocmVzaG9sZF9jYW5kaWRhdGUoaTEsIGkyLCBlcnJvcjEsIG11bHRfZGlmZjEsIG11bHRfZGlmZjIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>high_constr</text>
+        <text>new_</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIEwgPSBtYXgoMCwgbXVsdGlwbGllcjEgKyBtdWx0aXBsaWVyMiAtIGNvc3QpCiAgICAgICAgICBIID0gbWluKGNvc3QsIG11bHRpcGxpZXIxICsgbXVsdGlwbGllcjIpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJlc2hvbGQxID0gc2VsZi5jb21wdXRlX3RocmVzaG9sZF9jYW5kaWRhdGUoaTEsIGkyLCBlcnJvcjEsIG11bHRfZGlmZjEsIG11bHRfZGlmZjIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIEwgPSAK</text>
@@ -342,7 +343,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>47</text>
+        <text>30</text>
       </register>
     </registers>
     <search>
@@ -358,6 +359,8 @@
       <history-search />
       <history-cmd>
         <entry>47</entry>
+        <entry>27</entry>
+        <entry>30</entry>
       </history-cmd>
       <history-expr />
       <history-input />
