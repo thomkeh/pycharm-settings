@@ -167,11 +167,11 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="165" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512577115356">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512577829281">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="40" />
+        <mark key="^" line="19" column="40" />
+        <mark key="." line="19" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
         <mark key="'" line="66" column="54" />
@@ -291,10 +291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, training_data: np.ndarray, labels: np.ndarray</text>
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>, training_data: np.ndarray, labels: np.ndarray</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
@@ -303,7 +303,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiZ2VuX2xvc3NfTDEiLCByZXN1bHRzWyJnZW5fbG9zc19sMSJdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBSZXR1cm5zOgoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -318,31 +318,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgoKICAgIEFyZ3M6CiAgICAiIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICA9IHNlbGYuZ2V0X25vbl9ib3VuZF9pbmRpY2VzKCkK</text>
+        <text encoding="base64">ICAgIEZpbmQgdGhlIG9wdGltYWwgTGFncmFuZ2UgbXVsdGlwbGllcnMgYW5kIHRoZSB0aHJlc2hvbGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFgyID0gc2VsZi5YW2kyXQo=</text>
-      </register>
-      <register name="5" type="8">
-        <text>self.
-self.
-self.
-self.</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG5fZXhhbXBsZXMsIG5fZGltID0gbnAuc2hhcGUodHJhaW5pbmdfZGF0YSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxhZ3JfbXVsdGlwbGllcnMgPSBucC56ZXJvc19saWtlKGxhYmVscywgZHR5cGU9bnAuZmxvYXQzMikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFJldHVybnM6CiAgICAgIExhZ3JhbmdlIG11bHRpcGxpZXJzIGFuZCB0aHJlc2hvbGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdHJhaW5pbmdfZGF0YTogCiAgICAgIGxhYmVsczogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdHJhaW5pbmdfZGF0YTogdHJhaW5pbmcgZGF0YQogICAgICBsYWJlbHM6IGxhYmVscyBmb3IgdGhlIHRyYWluaW5nIGRhdGEK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RhcmdldC9zb3VyY2UvZw==</text>
