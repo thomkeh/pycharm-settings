@@ -177,12 +177,12 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="165" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512661278686">
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512662598580">
         <mark key="'" line="10" column="13" />
-        <mark key="[" line="34" column="46" />
-        <mark key="]" line="34" column="63" />
-        <mark key="." line="34" column="63" />
-        <mark key="^" line="34" column="63" />
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="53" column="27" />
+        <mark key="." line="53" column="27" />
+        <mark key="^" line="53" column="85" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
         <mark key="'" line="66" column="54" />
@@ -302,10 +302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
