@@ -74,12 +74,12 @@
         <mark key="." line="247" column="10" />
         <mark key="^" line="247" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" timestamp="1512656848876">
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" timestamp="1512661962685">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="19" column="83" />
-        <mark key="]" line="20" column="20" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="20" column="20" />
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="25" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="26" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" timestamp="1508764341785">
         <mark key="'" line="60" column="10" />
@@ -163,12 +163,6 @@
         <mark key="." line="93" column="37" />
         <mark key="^" line="93" column="37" />
       </file>
-      <file name="/Volumes/LocalDataHD/tk324/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512659246338">
-        <mark key="[" line="30" column="63" />
-        <mark key="]" line="30" column="64" />
-        <mark key="^" line="30" column="64" />
-        <mark key="." line="30" column="64" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1504712619836">
         <mark key="'" line="81" column="9" />
         <mark key="[" line="34" column="0" />
@@ -183,12 +177,12 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="165" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512660176255">
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512661278686">
         <mark key="'" line="10" column="13" />
-        <mark key="[" line="30" column="77" />
-        <mark key="]" line="30" column="77" />
-        <mark key="." line="30" column="77" />
-        <mark key="^" line="30" column="40" />
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="34" column="63" />
+        <mark key="." line="34" column="63" />
+        <mark key="^" line="34" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
         <mark key="'" line="66" column="54" />
@@ -308,19 +302,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50KCJjaGVjayAyIGZhaWxlZCIpCg==</text>
+        <text encoding="base64">c3ViLnBsb3QoW21pbl92LCBtYXhfdl0sIFtoeXBlcnBsYW5lKG1pbl92LCB3LCBiLCAtMSksIGh5cGVycGxhbmUobWF4X3YsIHcsIGIsIC0xKV0sICdrJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImZpbmlzaGVkIHBhc3Mge3Bhc3Nlc30iKQo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHNlbGYuc3VwcG9ydF9pbmRpY2VzOgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -335,28 +329,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImluY3JlYXNlZCBwYXNzZXMgdG8ge3Bhc3Nlc30iKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoZiJ0aGUgdHdvIHZhbHVlczogcmVzdWx0PXtyZXN1bHR9LCByZXN1bHQyPXtyZXN1bHQyfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEwgPSAK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHNlbGYuc3VwcG9ydF9pbmRpY2VzOgogICAgICByZXN1bHQgKz0gc2VsZi5sYWdyX211bHRpcGxpZXJzW2ldICogc2VsZi5sYWJlbHNbaV0gKiAoc2VsZi5kYXRhW2ldLlQgQCBleGFtcGxlKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtdWx0aXBsaWVyMiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmImZpbmlzaGVkIHBhc3Mge3Bhc3Nlc30iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmImluY3JlYXNlZCBwYXNzZXMgdG8ge3Bhc3Nlc30iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIEwgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtdWx0aXBsaWVyMiA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBSZXR1cm5zOgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgoKICAgIEFyZ3M6CiAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>30</text>
