@@ -118,11 +118,12 @@
       <file name="/Dummy.txt" timestamp="1512743970538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/cvxopt.py" timestamp="1512750284980">
-        <mark key="[" line="1" column="84" />
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/cvxopt.py" timestamp="1512751485439">
+        <mark key="'" line="54" column="32" />
+        <mark key="[" line="30" column="58" />
+        <mark key="]" line="30" column="56" />
+        <mark key="^" line="30" column="56" />
+        <mark key="." line="30" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" timestamp="1508842642592">
         <mark key="'" line="147" column="17" />
@@ -206,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="50" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
-      <jump line="44" column="10" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
       <jump line="45" column="8" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
       <jump line="51" column="11" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
       <jump line="139" column="60" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
@@ -306,13 +305,15 @@
       <jump line="66" column="45" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
       <jump line="65" column="90" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
       <jump line="82" column="49" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
+      <jump line="17" column="21" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/cvxopt.py" />
+      <jump line="41" column="32" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/cvxopt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>gram_matrix =</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>gram_matrix =</text>
       </register>
       <register name="/" type="4">
         <text>or</text>
@@ -321,7 +322,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChmIm11bHRpcGxpZXIge2kyfSB3aWxsIGNoYW5nZSBieSB7bXVsdF9kaWZmMn0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIG5fc2FtcGxlcywgbl9mZWF0dXJlcyA9IGRhdGEuc2hhcGUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -336,31 +337,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIm11bHRfZGlmZjI9e211bHRfZGlmZjJ9IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIm11bHRfZGlmZjI9e211bHRfZGlmZjJ9IikK</text>
+        <text encoding="base64">ICAgIHNlbGYud2VpZ2h0cyA9IHdlaWdodHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIj09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
+        <text encoding="base64">ICAgIHNlbGYuc3VwcG9ydF92ZWN0b3JfbGFiZWxzID0gc3VwcG9ydF92ZWN0b3JfbGFiZWxzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoZiJudW1iZXIgb2YgcGFzc2VzIHdpdGhvdXQgZWZmZWN0OiB7bl9wYXNzZXNfd2l0aG91dF9lZmZlY3R9IikK</text>
+        <text encoding="base64">ICAgIGZhY3RvciA9IHNlbGYud2VpZ2h0cyAqIHNlbGYuc3VwcG9ydF92ZWN0b3JfbGFiZWxzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImZpbmlzaGVkIHBhc3Mge3Bhc3Nlc30iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHNlbGYuc3VwcG9ydF9pbmRpY2VzOgo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoZiJ0aGUgdHdvIHZhbHVlczogcmVzdWx0PXtyZXN1bHR9LCByZXN1bHQyPXtyZXN1bHQyfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIm11bHRfZGlmZjI9e211bHRfZGlmZjJ9IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHNlbGYuc3VwcG9ydF9pbmRpY2VzOgogICAgICByZXN1bHQgKz0gc2VsZi5sYWdyX211bHRpcGxpZXJzW2ldICogc2VsZi5sYWJlbHNbaV0gKiAoc2VsZi5kYXRhW2ldLlQgQCBleGFtcGxlKQoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIm11bHRfZGlmZjI9e211bHRfZGlmZjJ9IikK</text>
       </register>
       <register name=":" type="4">
-        <text>30</text>
+        <text>20</text>
       </register>
     </registers>
     <search>
@@ -380,6 +381,7 @@
         <entry>47</entry>
         <entry>27</entry>
         <entry>30</entry>
+        <entry>20</entry>
       </history-cmd>
       <history-expr />
       <history-input />
