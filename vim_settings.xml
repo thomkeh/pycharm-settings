@@ -178,12 +178,12 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="165" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512744968314">
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512746276269">
         <mark key="'" line="82" column="49" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="42" />
-        <mark key="." line="143" column="0" />
-        <mark key="^" line="151" column="39" />
+        <mark key="[" line="88" column="52" />
+        <mark key="]" line="88" column="55" />
+        <mark key="." line="88" column="55" />
+        <mark key="^" line="88" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
         <mark key="'" line="66" column="54" />
@@ -302,20 +302,20 @@
       <jump line="82" column="49" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIj09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>or</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiY2hlY2sgMiBzdWNjZWVkZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIm11bHRpcGxpZXIge2kyfSB3aWxsIGNoYW5nZSBieSB7bXVsdF9kaWZmMn0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIj09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIm11bHRfZGlmZjI9e211bHRfZGlmZjJ9IikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -330,28 +330,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoZiJudW1iZXIgb2YgcGFzc2VzIHdpdGhvdXQgZWZmZWN0OiB7bl9wYXNzZXNfd2l0aG91dF9lZmZlY3R9IikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIm11bHRfZGlmZjI9e211bHRfZGlmZjJ9IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImZpbmlzaGVkIHBhc3Mge3Bhc3Nlc30iKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoIj09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHNlbGYuc3VwcG9ydF9pbmRpY2VzOgo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoZiJudW1iZXIgb2YgcGFzc2VzIHdpdGhvdXQgZWZmZWN0OiB7bl9wYXNzZXNfd2l0aG91dF9lZmZlY3R9IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoZiJ0aGUgdHdvIHZhbHVlczogcmVzdWx0PXtyZXN1bHR9LCByZXN1bHQyPXtyZXN1bHQyfSIpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHNlbGYuc3VwcG9ydF9pbmRpY2VzOgogICAgICByZXN1bHQgKz0gc2VsZi5sYWdyX211bHRpcGxpZXJzW2ldICogc2VsZi5sYWJlbHNbaV0gKiAoc2VsZi5kYXRhW2ldLlQgQCBleGFtcGxlKQoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChmImZpbmlzaGVkIHBhc3Mge3Bhc3Nlc30iKQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciBpIGluIHNlbGYuc3VwcG9ydF9pbmRpY2VzOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnQoZiJ0aGUgdHdvIHZhbHVlczogcmVzdWx0PXtyZXN1bHR9LCByZXN1bHQyPXtyZXN1bHQyfSIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImluY3JlYXNlZCBwYXNzZXMgdG8ge3Bhc3Nlc30iKQo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHNlbGYuc3VwcG9ydF9pbmRpY2VzOgogICAgICByZXN1bHQgKz0gc2VsZi5sYWdyX211bHRpcGxpZXJzW2ldICogc2VsZi5sYWJlbHNbaV0gKiAoc2VsZi5kYXRhW2ldLlQgQCBleGFtcGxlKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIEwgPSAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmImZpbmlzaGVkIHBhc3Mge3Bhc3Nlc30iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>30</text>
