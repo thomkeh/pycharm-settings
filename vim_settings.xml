@@ -24,7 +24,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1512756776725">
+      <file name="/Python Console" timestamp="1512757411663">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/wer.py" timestamp="1508337561161">
@@ -74,11 +74,11 @@
         <mark key="." line="247" column="10" />
         <mark key="^" line="247" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" timestamp="1512756999466">
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="26" column="41" />
-        <mark key="^" line="33" column="27" />
-        <mark key="." line="26" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" timestamp="1512758056563">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" timestamp="1508764341785">
         <mark key="'" line="60" column="10" />
@@ -114,8 +114,8 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512743970538">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1512758173271">
+        <mark key="[" line="0" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/cvxopt.py" timestamp="1512752503633">
         <mark key="'" line="55" column="17" />
@@ -156,12 +156,12 @@
         <mark key="^" line="183" column="14" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" timestamp="1512756769268">
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" timestamp="1512758063282">
         <mark key="'" line="29" column="52" />
-        <mark key="[" line="96" column="10" />
-        <mark key="]" line="96" column="35" />
-        <mark key="." line="96" column="35" />
-        <mark key="^" line="96" column="35" />
+        <mark key="[" line="97" column="35" />
+        <mark key="]" line="97" column="41" />
+        <mark key="." line="97" column="41" />
+        <mark key="^" line="97" column="41" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm.py" timestamp="1512740144690">
         <mark key="'" line="18" column="9" />
@@ -315,11 +315,11 @@
       <jump line="28" column="52" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAjIHJldHVybiBjbC5jbGFzc2lmeSh4KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.item()</text>
       </register>
       <register name="/" type="4">
         <text>or</text>
@@ -328,7 +328,7 @@
         <text encoding="base64">dywgYiA9IHN2bS5oeXBlcnBsYW5lKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIHJldHVybiBjbC5jbGFzc2lmeSh4KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -346,25 +346,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGh5cGVycGxhbmUoeCwgc2xvcGUsIHRocmVzaG9sZCwgbWFyZ2luKToKICByZXR1cm4gKC1zbG9wZVswXSAqIHggLSB0aHJlc2hvbGQgKyBtYXJnaW4pIC8gc2xvcGVbMV0KCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHNlbGYuX2JpYXMK</text>
+        <text encoding="base64">ZGVmIGh5cGVycGxhbmUoeCwgc2xvcGUsIHRocmVzaG9sZCwgbWFyZ2luKToKICByZXR1cm4gKC1zbG9wZVswXSAqIHggLSB0aHJlc2hvbGQgKyBtYXJnaW4pIC8gc2xvcGVbMV0KCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgbGluZWFyX2tlcm5lbChzZWxmKToK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHNlbGYuX2JpYXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEdfc2xhY2sgPSAK</text>
+        <text encoding="base64">ICBkZWYgbGluZWFyX2tlcm5lbChzZWxmKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGZvciAoeV9rLCB4X2spIGluIHppcChzdXBwb3J0X3ZlY3Rvcl9sYWJlbHMsIHN1cHBvcnRfdmVjdG9ycykK</text>
+        <text encoding="base64">ICAgIEdfc2xhY2sgPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5fc2FtcGxlcywgbl9mZWF0dXJlcyA9IGRhdGEuc2hhcGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGZvciAoeV9rLCB4X2spIGluIHppcChzdXBwb3J0X3ZlY3Rvcl9sYWJlbHMsIHN1cHBvcnRfdmVjdG9ycykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5fc2FtcGxlcywgbl9mZWF0dXJlcyA9IGRhdGEuc2hhcGUK</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
