@@ -115,7 +115,7 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512670833012">
+      <file name="/Dummy.txt" timestamp="1512743970538">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/features_types.py" timestamp="1508842642592">
@@ -178,12 +178,12 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="165" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512743905612">
-        <mark key="'" line="65" column="90" />
-        <mark key="[" line="69" column="39" />
-        <mark key="]" line="70" column="39" />
-        <mark key="." line="70" column="39" />
-        <mark key="^" line="70" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512744968314">
+        <mark key="'" line="82" column="49" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="42" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="151" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
         <mark key="'" line="66" column="54" />
@@ -200,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
       <jump line="41" column="50" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
       <jump line="44" column="10" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
       <jump line="45" column="8" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" />
@@ -300,22 +299,23 @@
       <jump line="17" column="9" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/svm.py" />
       <jump line="66" column="45" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
       <jump line="65" column="90" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
+      <jump line="82" column="49" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnQoIj09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>instance</text>
+        <text>or</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiY2hlY2sgMiBzdWNjZWVkZWQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImZpbmlzaGVkIHBhc3Mge3Bhc3Nlc30iKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoIj09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -330,44 +330,46 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHNlbGYuc3VwcG9ydF9pbmRpY2VzOgo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoZiJudW1iZXIgb2YgcGFzc2VzIHdpdGhvdXQgZWZmZWN0OiB7bl9wYXNzZXNfd2l0aG91dF9lZmZlY3R9IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoZiJ0aGUgdHdvIHZhbHVlczogcmVzdWx0PXtyZXN1bHR9LCByZXN1bHQyPXtyZXN1bHQyfSIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHNlbGYuc3VwcG9ydF9pbmRpY2VzOgogICAgICByZXN1bHQgKz0gc2VsZi5sYWdyX211bHRpcGxpZXJzW2ldICogc2VsZi5sYWJlbHNbaV0gKiAoc2VsZi5kYXRhW2ldLlQgQCBleGFtcGxlKQoK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChmImZpbmlzaGVkIHBhc3Mge3Bhc3Nlc30iKQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZvciBpIGluIHNlbGYuc3VwcG9ydF9pbmRpY2VzOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnQoZiJ0aGUgdHdvIHZhbHVlczogcmVzdWx0PXtyZXN1bHR9LCByZXN1bHQyPXtyZXN1bHQyfSIpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImluY3JlYXNlZCBwYXNzZXMgdG8ge3Bhc3Nlc30iKQo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHNlbGYuc3VwcG9ydF9pbmRpY2VzOgogICAgICByZXN1bHQgKz0gc2VsZi5sYWdyX211bHRpcGxpZXJzW2ldICogc2VsZi5sYWJlbHNbaV0gKiAoc2VsZi5kYXRhW2ldLlQgQCBleGFtcGxlKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIEwgPSAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmImZpbmlzaGVkIHBhc3Mge3Bhc3Nlc30iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtdWx0aXBsaWVyMiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmImluY3JlYXNlZCBwYXNzZXMgdG8ge3Bhc3Nlc30iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEwgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>30</text>
       </register>
     </registers>
     <search>
-      <last-search>instance</last-search>
+      <last-search>or</last-search>
       <last-offset />
-      <last-pattern>instance</last-pattern>
+      <last-pattern>or</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>target</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>or</entry>
+      </history-search>
       <history-cmd>
         <entry>47</entry>
         <entry>27</entry>
