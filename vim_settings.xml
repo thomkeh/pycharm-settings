@@ -156,12 +156,12 @@
         <mark key="^" line="183" column="14" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" timestamp="1512758063282">
-        <mark key="'" line="29" column="52" />
-        <mark key="[" line="97" column="35" />
-        <mark key="]" line="97" column="41" />
-        <mark key="." line="97" column="41" />
-        <mark key="^" line="97" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" timestamp="1513000603948">
+        <mark key="'" line="97" column="41" />
+        <mark key="[" line="123" column="26" />
+        <mark key="]" line="123" column="26" />
+        <mark key="." line="123" column="26" />
+        <mark key="^" line="123" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm.py" timestamp="1512740144690">
         <mark key="'" line="18" column="9" />
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="8" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
       <jump line="131" column="38" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
       <jump line="80" column="12" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
       <jump line="100" column="35" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
@@ -313,13 +312,14 @@
       <jump line="55" column="17" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/cvxopt.py" />
       <jump line="66" column="3" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" />
       <jump line="28" column="52" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" />
+      <jump line="97" column="41" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIHJldHVybiBjbC5jbGFzc2lmeSh4KQo=</text>
+      <register name="&quot;" type="4">
+        <text>sigma</text>
       </register>
       <register name="-" type="4">
-        <text>.item()</text>
+        <text>sigma</text>
       </register>
       <register name="/" type="4">
         <text>or</text>
@@ -328,7 +328,7 @@
         <text encoding="base64">dywgYiA9IHN2bS5oeXBlcnBsYW5lKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIHJldHVybiBjbC5jbGFzc2lmeSh4KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -343,28 +343,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIHJldHVybiBjbC5jbGFzc2lmeSh4KQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGh5cGVycGxhbmUoeCwgc2xvcGUsIHRocmVzaG9sZCwgbWFyZ2luKToKICByZXR1cm4gKC1zbG9wZVswXSAqIHggLSB0aHJlc2hvbGQgKyBtYXJnaW4pIC8gc2xvcGVbMV0KCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHNlbGYuX2JpYXMK</text>
+        <text encoding="base64">ZGVmIGh5cGVycGxhbmUoeCwgc2xvcGUsIHRocmVzaG9sZCwgbWFyZ2luKToKICByZXR1cm4gKC1zbG9wZVswXSAqIHggLSB0aHJlc2hvbGQgKyBtYXJnaW4pIC8gc2xvcGVbMV0KCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgbGluZWFyX2tlcm5lbChzZWxmKToK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHNlbGYuX2JpYXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEdfc2xhY2sgPSAK</text>
+        <text encoding="base64">ICBkZWYgbGluZWFyX2tlcm5lbChzZWxmKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGZvciAoeV9rLCB4X2spIGluIHppcChzdXBwb3J0X3ZlY3Rvcl9sYWJlbHMsIHN1cHBvcnRfdmVjdG9ycykK</text>
+        <text encoding="base64">ICAgIEdfc2xhY2sgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5fc2FtcGxlcywgbl9mZWF0dXJlcyA9IGRhdGEuc2hhcGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGZvciAoeV9rLCB4X2spIGluIHppcChzdXBwb3J0X3ZlY3Rvcl9sYWJlbHMsIHN1cHBvcnRfdmVjdG9ycykK</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
