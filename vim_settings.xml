@@ -74,11 +74,12 @@
         <mark key="." line="247" column="10" />
         <mark key="^" line="247" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" timestamp="1512758056563">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="19" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" timestamp="1513001068474">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="37" />
+        <mark key="^" line="22" column="37" />
+        <mark key="." line="22" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" timestamp="1508764341785">
         <mark key="'" line="60" column="10" />
@@ -156,12 +157,12 @@
         <mark key="^" line="183" column="14" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" timestamp="1513000603948">
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" timestamp="1513001235052">
         <mark key="'" line="97" column="41" />
-        <mark key="[" line="123" column="26" />
-        <mark key="]" line="123" column="26" />
-        <mark key="." line="123" column="26" />
-        <mark key="^" line="123" column="26" />
+        <mark key="[" line="114" column="6" />
+        <mark key="]" line="114" column="11" />
+        <mark key="." line="114" column="11" />
+        <mark key="^" line="114" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm.py" timestamp="1512740144690">
         <mark key="'" line="18" column="9" />
@@ -213,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="38" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
       <jump line="80" column="12" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
       <jump line="100" column="35" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
       <jump line="26" column="15" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
@@ -313,22 +313,23 @@
       <jump line="66" column="3" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" />
       <jump line="28" column="52" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" />
       <jump line="97" column="41" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sigma</text>
+        <text>vector</text>
       </register>
       <register name="-" type="4">
-        <text>sigma</text>
+        <text>vector</text>
       </register>
       <register name="/" type="4">
         <text>or</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dywgYiA9IHN2bS5oeXBlcnBsYW5lKCkK</text>
+        <text encoding="base64">dHJhaW5lciA9IFNWTVRyYWluZXIobGluZWFyX2tlcm5lbCgpLCBjPTEwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAiIiIKICBDb21wdXRlIHRoZSBpbm5lciBwcm9kdWN0IHdpdGggYSBsaW5lYXIga2VybmVsLiBXZSBhc3N1bWUgdGhhdCB0aGUgbWF0cmljZXMgeCBhbmQgeSBoYXZlIHRoZSB2ZWN0b3JzIGFzIHJvd3MuCgogIEFyZ3M6CiAgICB4OiBtYXRyaXggb2Ygcm93IHZlY3RvcnMKICAgIHk6IG1hdHJpeCBvZiByb3cgdmVjdG9ycwoKICBSZXR1cm5zOgogICAgdmVjdG9yIHdpdGggYWxsIHBvc3NpYmxlIGlubmVyIHByb2R1Y3RzCiAgIiIiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -343,28 +344,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIHJldHVybiBjbC5jbGFzc2lmeSh4KQo=</text>
+        <text encoding="base64">CgpkZWYgY2xhc3NpZnkoeCwgY2wpOgogIHJldHVybiBjbC5jbGFzc2lmeSh4KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIHJldHVybiBjbC5jbGFzc2lmeSh4KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGh5cGVycGxhbmUoeCwgc2xvcGUsIHRocmVzaG9sZCwgbWFyZ2luKToKICByZXR1cm4gKC1zbG9wZVswXSAqIHggLSB0aHJlc2hvbGQgKyBtYXJnaW4pIC8gc2xvcGVbMV0KCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHNlbGYuX2JpYXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgbGluZWFyX2tlcm5lbChzZWxmKToK</text>
+        <text encoding="base64">ZGVmIGh5cGVycGxhbmUoeCwgc2xvcGUsIHRocmVzaG9sZCwgbWFyZ2luKToKICByZXR1cm4gKC1zbG9wZVswXSAqIHggLSB0aHJlc2hvbGQgKyBtYXJnaW4pIC8gc2xvcGVbMV0KCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEdfc2xhY2sgPSAK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHNlbGYuX2JpYXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGZvciAoeV9rLCB4X2spIGluIHppcChzdXBwb3J0X3ZlY3Rvcl9sYWJlbHMsIHN1cHBvcnRfdmVjdG9ycykK</text>
+        <text encoding="base64">ICBkZWYgbGluZWFyX2tlcm5lbChzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
