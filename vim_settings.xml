@@ -24,7 +24,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513092156597">
+      <file name="/Python Console" timestamp="1513095928849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/wer.py" timestamp="1508337561161">
@@ -74,8 +74,8 @@
         <mark key="." line="247" column="10" />
         <mark key="^" line="247" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" timestamp="1513017966483">
-        <mark key="'" line="27" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" timestamp="1513096775267">
+        <mark key="'" line="35" column="12" />
         <mark key="[" line="26" column="37" />
         <mark key="]" line="26" column="37" />
         <mark key="." line="26" column="37" />
@@ -101,12 +101,12 @@
         <mark key="^" line="55" column="74" />
         <mark key="." line="63" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513095460375">
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513096272181">
         <mark key="'" line="9" column="4" />
-        <mark key="[" line="53" column="28" />
-        <mark key="]" line="53" column="28" />
-        <mark key="." line="53" column="28" />
-        <mark key="^" line="53" column="28" />
+        <mark key="[" line="75" column="9" />
+        <mark key="]" line="75" column="16" />
+        <mark key="." line="75" column="16" />
+        <mark key="^" line="75" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
@@ -216,8 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="41" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" />
-      <jump line="16" column="23" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
       <jump line="31" column="56" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
       <jump line="9" column="1" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
       <jump line="149" column="2" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
@@ -316,22 +314,24 @@
       <jump line="40" column="0" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
       <jump line="72" column="2" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
       <jump line="9" column="4" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
+      <jump line="27" column="32" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" />
+      <jump line="35" column="12" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0.1</text>
+        <text>start</text>
       </register>
       <register name="-" type="4">
-        <text>0.1</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoaW5nZV9sb3NzXD4=</text>
+        <text>lins</text>
       </register>
-      <register name="0" type="4">
-        <text>, dtype=np.float64</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwcmludCgic3RhcnQgcGxvdHRpbmciKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3cyA9IG5wLnplcm9zKCgyLCAwKSkKICB3cyA9IG5wLmhzdGFjaygod3MsIHcucmVzaGFwZSgyLCAxKSkpCg==</text>
+        <text encoding="base64">ICBiID0gbnAubWVhbih5IC0geCBAIHcpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -346,37 +346,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdzID0gbnAuaHN0YWNrKCh3cywgdy5yZXNoYXBlKCgyLCAxKSkpKQo=</text>
+        <text encoding="base64">ICB3cyA9IG5wLnplcm9zKCgyLCAwKSkKICB3cyA9IG5wLmhzdGFjaygod3MsIHcucmVzaGFwZSgyLCAxKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiID0gMAo=</text>
+        <text encoding="base64">ICAgIHdzID0gbnAuaHN0YWNrKCh3cywgdy5yZXNoYXBlKCgyLCAxKSkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGIgPSBucC5tZWFuKHkgLSB4IEAgdykK</text>
+        <text encoding="base64">ICBiID0gMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsb3NzLCBncmFkID0gaGluZ2VfbG9zcyh3LCBiLCB4LCB5KQo=</text>
+        <text encoding="base64">ICAgIGIgPSBucC5tZWFuKHkgLSB4IEAgdykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcmludChmImxvc3M6IHtsb3NzfSB2cyB7bG9zczJ9IikKICBwcmludChmImdyYWQ6IHtncmFkfSB2cyB7Z3JhZDJ9IikK</text>
+        <text encoding="base64">ICBsb3NzLCBncmFkID0gaGluZ2VfbG9zcyh3LCBiLCB4LCB5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb3NzLCBncmFkID0gMCwgMAogIGZvciAoeF8sIHlfKSBpbiB6aXAoeCwgeSk6CiAgICB2ID0geV8gKiBucC5kb3QodywgeF8pCiAgICBsb3NzICs9IG1heCgwLCAxIC0gdikKICAgIGdyYWQgKz0gMCBpZiB2ID4gMSBlbHNlIC15XyAqIHhfCg==</text>
+        <text encoding="base64">ICBwcmludChmImxvc3M6IHtsb3NzfSB2cyB7bG9zczJ9IikKICBwcmludChmImdyYWQ6IHtncmFkfSB2cyB7Z3JhZDJ9IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbGxfZ3JhZHNbdiA8PSAxXSArPSAoLXkucmVzaGFwZSgoLTEsIDEpKSAqIHgpW3YgPD0gMSwgOl0K</text>
+        <text encoding="base64">ICBsb3NzLCBncmFkID0gMCwgMAogIGZvciAoeF8sIHlfKSBpbiB6aXAoeCwgeSk6CiAgICB2ID0geV8gKiBucC5kb3QodywgeF8pCiAgICBsb3NzICs9IG1heCgwLCAxIC0gdikKICAgIGdyYWQgKz0gMCBpZiB2ID4gMSBlbHNlIC15XyAqIHhfCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByYXdfZ3JhZHMgPSAtCg==</text>
+        <text encoding="base64">ICBhbGxfZ3JhZHNbdiA8PSAxXSArPSAoLXkucmVzaGFwZSgoLTEsIDEpKSAqIHgpW3YgPD0gMSwgOl0K</text>
       </register>
       <register name=":" type="4">
-        <text>12</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoaW5nZV9sb3NzXD4=</last-search>
+      <last-search>lins</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoaW5nZV9sb3NzXD4=</last-pattern>
+      <last-pattern>lins</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>target</last-substitute>
       <last-dir>1</last-dir>
@@ -387,6 +387,8 @@
         <entry>or</entry>
         <entry>def</entry>
         <entry encoding="base64">XDxoaW5nZV9sb3NzXD4=</entry>
+        <entry>linsp</entry>
+        <entry>lins</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
@@ -394,6 +396,9 @@
         <entry>30</entry>
         <entry>20</entry>
         <entry>12</entry>
+        <entry>set rnu</entry>
+        <entry>is</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
