@@ -101,6 +101,13 @@
         <mark key="^" line="55" column="74" />
         <mark key="." line="63" column="23" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513083819203">
+        <mark key="'" line="71" column="2" />
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="65" column="49" />
+        <mark key="." line="65" column="49" />
+        <mark key="^" line="65" column="49" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
         <mark key="[" line="33" column="0" />
@@ -144,11 +151,6 @@
         <mark key="]" line="4" column="8" />
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/asr_client.py" timestamp="1508516019027">
-        <mark key="[" line="139" column="58" />
-        <mark key="]" line="139" column="58" />
-        <mark key="." line="139" column="58" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" timestamp="1508324242939">
         <mark key="'" line="282" column="71" />
@@ -214,10 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="35" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
-      <jump line="26" column="15" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" />
-      <jump line="137" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" />
       <jump line="51" column="27" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" />
       <jump line="54" column="41" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" />
       <jump line="16" column="23" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
@@ -314,22 +312,26 @@
       <jump line="97" column="41" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/svm_cvxopt.py" />
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" />
       <jump line="23" column="23" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
+      <jump line="72" column="2" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>plt.cm</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>plt.cm</text>
       </register>
       <register name="/" type="4">
-        <text>or</text>
+        <text>def</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWluX3YgLT0gZGlmZgptYXhfdiArPSBkaWZmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">ICBmID0gZmcK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -343,46 +345,47 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">bWF4X3kK</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgbXVsdGlwbGljYXRpb24gd2l0aCBicm9hZGNhc3RpbmcK</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZhY3RvciA9IHdlaWdodHMgKiBzdXBwb3J0X3ZlY3Rvcl9sYWJlbHMK</text>
+        <text encoding="base64">CmltcG9ydCBudW1weSBhcyBucAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZhY3RvciA9ICh3ZWlnaHRzICogc3VwcG9ydF92ZWN0b3JfbGFiZWxzKS5yZXNoYXBlKCgtMSwgMSkpCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICMgbGV0IGZkIGJlIHRoZSBmZWF0dXJlIGRpbWVuc2lvbiwgbnMgdGhlIG51bWJlciBvZiBzdXBwb3J0IHZlY3RvcnMKICAgICMgc3YgKHNlbGYuX3N1cHBvcnRfdmVjdG9ycykgaGFzIHRoZSBzaGFwZSAobnMsIGZkKSBhbmQgZiAoc2VsZi5fZmFjdG9yKSBoYXMgdGhlIHNoYXBlIChucywpCiAgICAjIHdlIGV4cGFuZCBmIHRvIChucywgMSkgc28gdGhhdCB0aGUgYnJvYWRjYXN0aW5nIHdvcmtzCg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgaW4gdGhlIGZvbGxvd2luZyB3ZSBkbyBsb3RzIG9mIHRyYW5zcG9zaW5nLiBUaGlzIGlzIG5lY2Vzc2FyeSBiZWNhdXNlIG9mIHRoZSB3YXkgaG93IGJyb2FkY2FzdGluZyB3b3JrcwogICAgIyBidXQgbWF5YmUgdGhlcmUgaXMgYSBiZXR0ZXIgc29sdXRpb24K</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
       </register>
     </registers>
     <search>
-      <last-search>or</last-search>
+      <last-search>def</last-search>
       <last-offset />
-      <last-pattern>or</last-pattern>
+      <last-pattern>def</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>target</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>or</entry>
+        <entry>def</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
