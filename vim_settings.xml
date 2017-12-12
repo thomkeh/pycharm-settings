@@ -74,12 +74,12 @@
         <mark key="." line="247" column="10" />
         <mark key="^" line="247" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" timestamp="1513099972970">
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" timestamp="1513100968620">
         <mark key="'" line="21" column="7" />
         <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="23" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" timestamp="1508764341785">
         <mark key="'" line="60" column="10" />
@@ -101,12 +101,12 @@
         <mark key="^" line="55" column="74" />
         <mark key="." line="63" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513100726067">
-        <mark key="'" line="63" column="32" />
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513101093498">
+        <mark key="'" line="66" column="32" />
+        <mark key="[" line="64" column="23" />
+        <mark key="]" line="65" column="29" />
+        <mark key="." line="65" column="29" />
+        <mark key="^" line="65" column="29" />
       </file>
       <file name="/Volumes/LocalDataHD/tk324/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513100781399">
         <mark key="[" line="65" column="11" />
@@ -325,10 +325,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>0.00</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>0.00</text>
       </register>
       <register name="/" type="4">
         <text>lins</text>
@@ -337,7 +337,7 @@
         <text encoding="base64">ICAgIHYgPSB4IEAgdyAqIHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyBkbyBJIGhhdmUgdG8gdHJhbnNwb3NlIGl0Pwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -355,22 +355,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmRlZiBoeXBlcnBsYW5lMih4LCBtYXJnaW4sIHByZWQpOgogIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CmRlZiBoeXBlcnBsYW5lMih4LCBtYXJnaW4sIHByZWQpOgogIHJldHVybgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICB3ID0gcHJlZC5fdwogIGIgPSBwcmVkLl9i</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgYjogYmlhcyAoc2NhbGFyKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB4MyA9IG5wLmFycmF5KCgxLCAxLCAxLCAxLCAxKSwgZHR5cGU9bnAuZmxvYXQ2NCkK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB4MyA9IG5wLmFycmF5KCgxLCAxLCAxLCAxLCAxKSwgZHR5cGU9bnAuZmxvYXQ2NCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
