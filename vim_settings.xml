@@ -24,7 +24,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513086441767">
+      <file name="/Python Console" timestamp="1513092156597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/wer.py" timestamp="1508337561161">
@@ -101,12 +101,12 @@
         <mark key="^" line="55" column="74" />
         <mark key="." line="63" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513091607636">
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513093051358">
         <mark key="'" line="9" column="4" />
-        <mark key="[" line="40" column="38" />
-        <mark key="]" line="31" column="6" />
-        <mark key="." line="31" column="6" />
-        <mark key="^" line="31" column="6" />
+        <mark key="[" line="68" column="47" />
+        <mark key="]" line="68" column="47" />
+        <mark key="." line="68" column="47" />
+        <mark key="^" line="68" column="50" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
@@ -319,19 +319,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, b</text>
+        <text encoding="base64">ICsgYg==</text>
       </register>
       <register name="-" type="4">
-        <text>, b</text>
+        <text encoding="base64">ICsgYg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoaW5nZV9sb3NzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcmludChmImxvc3M6IHtsb3NzfSB2cyB7bG9zczJ9IikK</text>
+        <text encoding="base64">ICBsb3NzID0gMC41ICogbnAuZG90KHcsIHcpICsgbnAubWVhbigoMSAtIHYpLmNsaXAoMCwgTm9uZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludChmImxvc3M6IHtsb3NzfSB2cyB7bG9zczJ9IikKICBwcmludChmImdyYWQ6IHtncmFkfSB2cyB7Z3JhZDJ9IikK</text>
+        <text encoding="base64">ICBiID0gMAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -346,28 +346,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsb3NzLCBncmFkID0gMCwgMAogIGZvciAoeF8sIHlfKSBpbiB6aXAoeCwgeSk6CiAgICB2ID0geV8gKiBucC5kb3QodywgeF8pCiAgICBsb3NzICs9IG1heCgwLCAxIC0gdikKICAgIGdyYWQgKz0gMCBpZiB2ID4gMSBlbHNlIC15XyAqIHhfCg==</text>
+        <text encoding="base64">ICAgIGIgPSBucC5tZWFuKHkgLSB4IEAgdykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhbGxfZ3JhZHNbdiA8PSAxXSArPSAoLXkucmVzaGFwZSgoLTEsIDEpKSAqIHgpW3YgPD0gMSwgOl0K</text>
+        <text encoding="base64">ICBsb3NzLCBncmFkID0gaGluZ2VfbG9zcyh3LCBiLCB4LCB5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByYXdfZ3JhZHMgPSAtCg==</text>
+        <text encoding="base64">ICBwcmludChmImxvc3M6IHtsb3NzfSB2cyB7bG9zczJ9IikKICBwcmludChmImdyYWQ6IHtncmFkfSB2cyB7Z3JhZDJ9IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbGxfZ3JhZHMgPSBucC56ZXJvc19saWtlKHgpCg==</text>
+        <text encoding="base64">ICBsb3NzLCBncmFkID0gMCwgMAogIGZvciAoeF8sIHlfKSBpbiB6aXAoeCwgeSk6CiAgICB2ID0geV8gKiBucC5kb3QodywgeF8pCiAgICBsb3NzICs9IG1heCgwLCAxIC0gdikKICAgIGdyYWQgKz0gMCBpZiB2ID4gMSBlbHNlIC15XyAqIHhfCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb3NzMlt2ID4gMF0K</text>
+        <text encoding="base64">ICBhbGxfZ3JhZHNbdiA8PSAxXSArPSAoLXkucmVzaGFwZSgoLTEsIDEpKSAqIHgpW3YgPD0gMSwgOl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByYXdfZ3JhZHMgPSAtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiIiIgCgogIAogIHkgaXMgYSAKICAiIiIK</text>
+        <text encoding="base64">ICBhbGxfZ3JhZHMgPSBucC56ZXJvc19saWtlKHgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBsb3NzMlt2ID4gMF0K</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
