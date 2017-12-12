@@ -101,12 +101,12 @@
         <mark key="^" line="55" column="74" />
         <mark key="." line="63" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513087720667">
-        <mark key="'" line="78" column="2" />
-        <mark key="[" line="26" column="38" />
-        <mark key="]" line="26" column="38" />
-        <mark key="." line="26" column="38" />
-        <mark key="^" line="26" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513089334160">
+        <mark key="'" line="80" column="2" />
+        <mark key="[" line="28" column="59" />
+        <mark key="]" line="29" column="33" />
+        <mark key="." line="29" column="33" />
+        <mark key="^" line="29" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
@@ -319,10 +319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>np.zeros_like(v)</text>
+        <text>grad2 =</text>
       </register>
       <register name="-" type="4">
-        <text>np.zeros_like(v)</text>
+        <text>grad2 =</text>
       </register>
       <register name="/" type="4">
         <text>def</text>
