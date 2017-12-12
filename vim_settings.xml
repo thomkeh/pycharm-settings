@@ -101,11 +101,12 @@
         <mark key="^" line="55" column="74" />
         <mark key="." line="63" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513090080340">
-        <mark key="'" line="74" column="2" />
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="21" column="6" />
-        <mark key="." line="21" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513091607636">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="6" />
+        <mark key="^" line="31" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
@@ -215,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="27" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" />
       <jump line="54" column="41" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" />
       <jump line="16" column="23" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
       <jump line="31" column="56" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
@@ -315,16 +315,17 @@
       <jump line="51" column="0" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
       <jump line="40" column="0" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
       <jump line="72" column="2" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
+      <jump line="9" column="4" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>, b</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>, b</text>
       </register>
       <register name="/" type="4">
-        <text>def</text>
+        <text encoding="base64">XDxoaW5nZV9sb3NzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcmludChmImxvc3M6IHtsb3NzfSB2cyB7bG9zczJ9IikK</text>
@@ -373,18 +374,19 @@
       </register>
     </registers>
     <search>
-      <last-search>def</last-search>
+      <last-search encoding="base64">XDxoaW5nZV9sb3NzXD4=</last-search>
       <last-offset />
-      <last-pattern>def</last-pattern>
+      <last-pattern encoding="base64">XDxoaW5nZV9sb3NzXD4=</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>target</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>or</entry>
         <entry>def</entry>
+        <entry encoding="base64">XDxoaW5nZV9sb3NzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
