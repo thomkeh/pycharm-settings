@@ -24,7 +24,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513097561607">
+      <file name="/Python Console" timestamp="1513099438716">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/wer.py" timestamp="1508337561161">
@@ -74,12 +74,12 @@
         <mark key="." line="247" column="10" />
         <mark key="^" line="247" column="82" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" timestamp="1513096775267">
-        <mark key="'" line="35" column="12" />
-        <mark key="[" line="26" column="37" />
-        <mark key="]" line="26" column="37" />
-        <mark key="." line="26" column="37" />
-        <mark key="^" line="26" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" timestamp="1513099972970">
+        <mark key="'" line="21" column="7" />
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" timestamp="1508764341785">
         <mark key="'" line="60" column="10" />
@@ -101,12 +101,18 @@
         <mark key="^" line="55" column="74" />
         <mark key="." line="63" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513097873882">
-        <mark key="'" line="13" column="4" />
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="15" />
-        <mark key="^" line="11" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513100726067">
+        <mark key="'" line="63" column="32" />
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+      </file>
+      <file name="/Volumes/LocalDataHD/tk324/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513100781399">
+        <mark key="[" line="65" column="11" />
+        <mark key="]" line="65" column="18" />
+        <mark key="." line="65" column="18" />
+        <mark key="^" line="65" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
@@ -194,11 +200,11 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="165" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1512753942855">
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1513099286365">
         <mark key="'" line="82" column="49" />
-        <mark key="[" line="88" column="52" />
-        <mark key="]" line="88" column="55" />
-        <mark key="." line="88" column="55" />
+        <mark key="[" line="82" column="11" />
+        <mark key="]" line="82" column="11" />
+        <mark key="." line="82" column="11" />
         <mark key="^" line="88" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
@@ -216,10 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="56" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
-      <jump line="9" column="1" filename="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" />
-      <jump line="149" column="2" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
       <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
       <jump line="185" column="44" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
       <jump line="54" column="10" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" />
@@ -316,22 +318,26 @@
       <jump line="9" column="4" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
       <jump line="27" column="32" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" />
       <jump line="35" column="12" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" />
+      <jump line="56" column="1" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
+      <jump line="55" column="37" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
+      <jump line="21" column="7" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" />
+      <jump line="62" column="32" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>lins</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcmludCgic3RhcnQgcGxvdHRpbmciKQo=</text>
+        <text encoding="base64">ICAgIHYgPSB4IEAgdyAqIHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB4MyA9IG5wLmFycmF5KCgxLCAxLCAxLCAxLCAxKSwgZHR5cGU9bnAuZmxvYXQ2NCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -349,25 +355,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmRlZiBoeXBlcnBsYW5lMih4LCBtYXJnaW4sIHByZWQpOgogIHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiID0gbnAubWVhbih5IC0geCBAIHcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB3cyA9IG5wLnplcm9zKCgyLCAwKSkKICB3cyA9IG5wLmhzdGFjaygod3MsIHcucmVzaGFwZSgyLCAxKSkpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICB3ID0gcHJlZC5fdwogIGIgPSBwcmVkLl9i</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdzID0gbnAuaHN0YWNrKCh3cywgdy5yZXNoYXBlKCgyLCAxKSkpKQo=</text>
+        <text encoding="base64">ICAgICAgYjogYmlhcyAoc2NhbGFyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiID0gMAo=</text>
+        <text encoding="base64">ICB4MyA9IG5wLmFycmF5KCgxLCAxLCAxLCAxLCAxKSwgZHR5cGU9bnAuZmxvYXQ2NCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGIgPSBucC5tZWFuKHkgLSB4IEAgdykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb3NzLCBncmFkID0gaGluZ2VfbG9zcyh3LCBiLCB4LCB5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
