@@ -39,6 +39,12 @@
       <file name="/a.dummy" timestamp="1512752514223">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/AutoGP/setup.py" timestamp="1515516110574">
+        <mark key="[" line="6" column="102" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
         <mark key="[" line="0" column="64" />
       </file>
@@ -131,7 +137,7 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513872122525">
+      <file name="/Dummy.txt" timestamp="1515516144337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/cvxopt.py" timestamp="1512752503633">
@@ -223,9 +229,15 @@
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/AutoGP/.gitignore" timestamp="1515515500272">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="5" />
+        <mark key="^" line="13" column="5" />
+        <mark key="." line="13" column="5" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
       <jump line="185" column="44" filename="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" />
       <jump line="54" column="10" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" />
       <jump line="63" column="22" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" />
@@ -325,19 +337,20 @@
       <jump line="55" column="37" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
       <jump line="21" column="7" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" />
       <jump line="62" column="32" filename="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/AutoGP/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0.00</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0.00</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>lins</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHYgPSB4IEAgdyAqIHkK</text>
+      <register name="0" type="4">
+        <text>$(python -c 'import tensorflow as tf; print(tf.sysconfig.get_include())')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIyBkbyBJIGhhdmUgdG8gdHJhbnNwb3NlIGl0Pwo=</text>
