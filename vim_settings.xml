@@ -97,12 +97,6 @@
         <mark key="^" line="51" column="17" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/ModuleASRClient.py" timestamp="1508409559154">
-        <mark key="'" line="151" column="20" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_librispeech.py" timestamp="1508926049798">
-        <mark key="'" line="30" column="4" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1508510361769">
         <mark key="'" line="44" column="35" />
         <mark key="[" line="15" column="0" />
@@ -222,12 +216,6 @@
         <mark key="]" line="8" column="19" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/transcribe.py" timestamp="1508840142065">
-        <mark key="'" line="185" column="44" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AutoGP/.gitignore" timestamp="1515515500272">
         <mark key="'" line="0" column="0" />
