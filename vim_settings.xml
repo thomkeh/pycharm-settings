@@ -36,8 +36,14 @@
       <file name="/fragment.py" timestamp="1513872120688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1512752514223">
+      <file name="/a.dummy" timestamp="1517500647994">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/cov/arc_cosine.py" timestamp="1517501052601">
+        <mark key="[" line="85" column="41" />
+        <mark key="]" line="85" column="41" />
+        <mark key="." line="85" column="41" />
+        <mark key="^" line="85" column="41" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AutoGP/setup.py" timestamp="1515516110574">
         <mark key="[" line="6" column="102" />
@@ -47,6 +53,12 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
         <mark key="[" line="0" column="64" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/cov/cov_se.py" timestamp="1517500982041">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="28" column="105" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/.gitignore" timestamp="1512482452436">
         <mark key="'" line="0" column="0" />
@@ -97,6 +109,12 @@
         <mark key="^" line="51" column="17" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/gp.py" timestamp="1517501175010">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1508510361769">
         <mark key="'" line="44" column="35" />
         <mark key="[" line="15" column="0" />
@@ -131,7 +149,7 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517499953787">
+      <file name="/Dummy.txt" timestamp="1517500315512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/cvxopt.py" timestamp="1512752503633">
@@ -174,6 +192,11 @@
         <mark key="]" line="82" column="69" />
         <mark key="^" line="82" column="69" />
         <mark key="." line="82" column="69" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/cov/cov.py" timestamp="1517500680397">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="35" />
+        <mark key="." line="9" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm.py" timestamp="1512740144690">
         <mark key="'" line="18" column="9" />
@@ -328,20 +351,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/AutoGP/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pass</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBjb3ZfZnVuYywK</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>len(lengthscale)</text>
       </register>
       <register name="/" type="4">
         <text>lins</text>
       </register>
-      <register name="0" type="4">
-        <text>$(python -c 'import tensorflow as tf; print(tf.sysconfig.get_include())')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0X3ZhbHVlID0gdGYuY29uc3RhbnRfaW5pdGlhbGl6ZXIobGVuZ3RoX3NjYWxlLCBkdHlwZT10Zi5mbG9hdDMyKQogICAgICAgIHdpdGggdGYudmFyaWFibGVfc2NvcGUoInJhZGlhbF9iYXNpc19wYXJhbWV0ZXJzIik6CiAgICAgICAgICAgIGlmIGlucHV0X3NjYWxpbmc6CiAgICAgICAgICAgICAgICBzZWxmLmxlbmd0aF9zY2FsZSA9IHRmLmdldF92YXJpYWJsZSgibGVuZ3Roc2NhbGUiLCBbb3V0cHV0X2RpbSwgaW5wdXRfZGltXSwgaW5pdGlhbGl6ZXI9aW5pdF92YWx1ZSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYubGVuZ3RoX3NjYWxlID0gdGYuZ2V0X3ZhcmlhYmxlKCJsZW5ndGhzY2FsZSIsIFtvdXRwdXRfZGltXSwgaW5pdGlhbGl6ZXI9aW5pdF92YWx1ZSkKICAgICAgICAgICAgc2VsZi5zdGRfZGV2ID0gdGYuZ2V0X3ZhcmlhYmxlKCJzdGRfZGV2IiwgW291dHB1dF9kaW1dLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbGl6ZXI9dGYuY29uc3RhbnRfaW5pdGlhbGl6ZXIoc3RkX2RldiwgZHR5cGU9dGYuZmxvYXQzMikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIyBkbyBJIGhhdmUgdG8gdHJhbnNwb3NlIGl0Pwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBjb3ZfZnVuYywK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -356,25 +379,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBjb3ZfZnVuYywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBpbmR1Y2luZ19pbnB1dHMsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmRlZiBoeXBlcnBsYW5lMih4LCBtYXJnaW4sIHByZWQpOgogIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4obGVuZ3Roc2NhbGUpICE9IGxlbihzdGRfZGV2KSBvciBsZW4obGVuZ3Roc2NhbGUpICE9IGxlbih3aGl0ZSk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIlBhcmFtZXRlcnMgbXVzdCBoYXZlIHRoZSBzYW1lIGxlbmd0aC4iKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICB3ID0gcHJlZC5fdwogIGIgPSBwcmVkLl9i</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0X3ZhbHVlID0gdGYuY29uc3RhbnQobGVuZ3Roc2NhbGUsIGR0eXBlPXRmLmZsb2F0MzIpCiAgICAgICAgd2l0aCB0Zi52YXJpYWJsZV9zY29wZSgiYXJjX2Nvc2luZV9wYXJhbWV0ZXJzIik6CiAgICAgICAgICAgIGlmIGlucHV0X3NjYWxpbmc6CiAgICAgICAgICAgICAgICBzZWxmLmxlbmd0aHNjYWxlX3JhdyA9IHRmLmdldF92YXJpYWJsZSgibGVuZ3RoX3NjYWxlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluaXRpYWxpemVyPXRmLnRpbGUoaW5pdF92YWx1ZVs6LCB0Zi5uZXdheGlzXSwgWzEsIGlucHV0X2RpbV0pKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgc2VsZi5sZW5ndGhzY2FsZV9yYXcgPSB0Zi5nZXRfdmFyaWFibGUoImxlbmd0aF9zY2FsZSIsIGluaXRpYWxpemVyPWluaXRfdmFsdWUpCiAgICAgICAgICAgIHNlbGYuc3RkX2RldiA9IHRmLmdldF92YXJpYWJsZSgic3RkX2RldiIsIGluaXRpYWxpemVyPXRmLmNvbnN0YW50KHN0ZF9kZXYsIGR0eXBlPXRmLmZsb2F0MzIpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYjogYmlhcyAoc2NhbGFyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB4MyA9IG5wLmFycmF5KCgxLCAxLCAxLCAxLCAxKSwgZHR5cGU9bnAuZmxvYXQ2NCkK</text>
+        <text encoding="base64">ICAgICAgIyBkbyBJIGhhdmUgdG8gdHJhbnNwb3NlIGl0Pwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
