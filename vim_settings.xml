@@ -19,9 +19,6 @@
       <file name="/a.dummy" timestamp="1517500647994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/gp.py" timestamp="1517501359361">
-        <mark key="'" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ethicml/ethicml/utility/heaviside.py" timestamp="1550751692931">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -216,12 +213,6 @@
         <mark key="." line="144" column="0" />
         <mark key="^" line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/cov/cov.py" timestamp="1517501414169">
-        <mark key="'" line="9" column="35" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="9" column="35" />
-      </file>
       <file name="/Volumes/LocalDataHD/tk324/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513100781399">
         <mark key="[" line="65" column="11" />
         <mark key="]" line="65" column="18" />
@@ -243,10 +234,6 @@
         <mark key="]" line="102" column="5" />
         <mark key="^" line="102" column="5" />
         <mark key="." line="102" column="5" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/cov/cov_se.py" timestamp="1517500982041">
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
         <mark key="[" line="0" column="64" />
