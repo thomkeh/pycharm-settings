@@ -143,7 +143,7 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553614819508">
+      <file name="/Dummy.txt" timestamp="1560169356321">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm.py" timestamp="1512740144690">
@@ -375,7 +375,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgIHggPSBkYXRhLnguaWxvY1s6XQo=</text>
       </register>
       <register name="-" type="4">
         <text>ops</text>
@@ -387,7 +387,7 @@
         <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYsIHJhd193ZWlnaHRzLCByYXdfbWVhbnMsIHJhd19jb3ZhcnMsIHJhd19pbmR1Y2luZ19pbnB1dHMsCiAgICAgICAgICAgICAgICB0cmFpbl9pbnB1dHMsIHRyYWluX291dHB1dHMsIG51bV90cmFpbiwgdGVzdF9pbnB1dHMpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgIHggPSBkYXRhLnguaWxvY1s6XQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -402,28 +402,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICBBcmdzOgogICAgICAgICAgICBzb2Z0X291dHB1dDoKCiAgICAgICAgUmV0dXJuczoKCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmNwCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICBBcmdzOgogICAgICAgICAgICBzb2Z0X291dHB1dDoKCiAgICAgICAgUmV0dXJuczoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHRyaV92ZWNfc2hhcGUoTik6CiAgICAiIiIKICAgIENvbXB1dGUgdGhlIGxlbmd0aCBvZiBhIHZlY3RvciB0aGF0IGNvbnRhaW5zIGFsbCBlbGVtZW50cyBvZiBhIHRyaWFuZ2xlIHdpdGggZGltZW5zaW9ucyBOLgogICAgIiIiCiAgICByZXR1cm4gW04gKiAoTiArIDEpIC8vIDJdCgoKZGVmIHZlY190b190cmkodmVjdG9ycyk6CiAgICAiIiIKICAgIFRha2VzIGEgRHhNIHRlbnNvciB2ZWN0b3JzIGFuZCBtYXBzIGl0IHRvIGEgRCB4IG1hdHJpeF9zaXplIHggbWF0cml4X3NpemUKICAgIHRlbnNvciB3aGVyZSB0aGUgbG93ZXIgdHJpYW5nbGUgb2YgZWFjaCBtYXRyaXhfc2l6ZSB4IG1hdHJpeF9zaXplIG1hdHJpeAogICAgaXMgY29uc3RydWN0ZWQgYnkgdW5wYWNraW5nIGVhY2ggTS12ZWN0b3IuCiAgICAiIiIKICAgIE0gPSB2ZWN0b3JzLnNoYXBlWzFdLnZhbHVlCiAgICBOID0gaW50KG5wLmZsb29yKDAuNSAqIG5wLnNxcnQoTSAqIDguICsgMSkgLSAwLjUpKQogICAgYXNzZXJ0IE4gKiAoTiArIDEpID09IDIgKiBNICAjIGNoZWNrIE0gaXMgYSB2YWxpZCB0cmlhbmdsZSBudW1iZXIuCiAgICBpbmRpY2VzID0gdGYuY29uc3RhbnQobnAuc3RhY2sobnAudHJpbF9pbmRpY2VzKE4pKS5ULCBkdHlwZT10Zi5pbnQzMikKCiAgICBkZWYgdmVjX3RvX3RyaV92ZWN0b3IodmVjdG9yKToKICAgICAgICByZXR1cm4gdGYuc2NhdHRlcl9uZChpbmRpY2VzPWluZGljZXMsIHNoYXBlPVtOLCBOXSwgdXBkYXRlcz12ZWN0b3IpCgogICAgcmV0dXJuIHRmLm1hcF9mbih2ZWNfdG9fdHJpX3ZlY3RvciwgdmVjdG9ycykK</text>
+        <text encoding="base64">ICAgIG1vZGVsLmNwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgo=</text>
+        <text encoding="base64">ZGVmIHRyaV92ZWNfc2hhcGUoTik6CiAgICAiIiIKICAgIENvbXB1dGUgdGhlIGxlbmd0aCBvZiBhIHZlY3RvciB0aGF0IGNvbnRhaW5zIGFsbCBlbGVtZW50cyBvZiBhIHRyaWFuZ2xlIHdpdGggZGltZW5zaW9ucyBOLgogICAgIiIiCiAgICByZXR1cm4gW04gKiAoTiArIDEpIC8vIDJdCgoKZGVmIHZlY190b190cmkodmVjdG9ycyk6CiAgICAiIiIKICAgIFRha2VzIGEgRHhNIHRlbnNvciB2ZWN0b3JzIGFuZCBtYXBzIGl0IHRvIGEgRCB4IG1hdHJpeF9zaXplIHggbWF0cml4X3NpemUKICAgIHRlbnNvciB3aGVyZSB0aGUgbG93ZXIgdHJpYW5nbGUgb2YgZWFjaCBtYXRyaXhfc2l6ZSB4IG1hdHJpeF9zaXplIG1hdHJpeAogICAgaXMgY29uc3RydWN0ZWQgYnkgdW5wYWNraW5nIGVhY2ggTS12ZWN0b3IuCiAgICAiIiIKICAgIE0gPSB2ZWN0b3JzLnNoYXBlWzFdLnZhbHVlCiAgICBOID0gaW50KG5wLmZsb29yKDAuNSAqIG5wLnNxcnQoTSAqIDguICsgMSkgLSAwLjUpKQogICAgYXNzZXJ0IE4gKiAoTiArIDEpID09IDIgKiBNICAjIGNoZWNrIE0gaXMgYSB2YWxpZCB0cmlhbmdsZSBudW1iZXIuCiAgICBpbmRpY2VzID0gdGYuY29uc3RhbnQobnAuc3RhY2sobnAudHJpbF9pbmRpY2VzKE4pKS5ULCBkdHlwZT10Zi5pbnQzMikKCiAgICBkZWYgdmVjX3RvX3RyaV92ZWN0b3IodmVjdG9yKToKICAgICAgICByZXR1cm4gdGYuc2NhdHRlcl9uZChpbmRpY2VzPWluZGljZXMsIHNoYXBlPVtOLCBOXSwgdXBkYXRlcz12ZWN0b3IpCgogICAgcmV0dXJuIHRmLm1hcF9mbih2ZWNfdG9fdHJpX3ZlY3RvciwgdmVjdG9ycykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgogICAgcGFzcwo=</text>
+        <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgogICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxpayA9IGxpa19mdW5jCg==</text>
+        <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgogICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
