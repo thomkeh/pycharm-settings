@@ -37,7 +37,6 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/finn-tf/finn/models/partitioned_inn.py" timestamp="1563965627250" />
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1513099286365">
         <mark key="'" line="82" column="49" />
         <mark key="[" line="82" column="11" />
@@ -52,7 +51,6 @@
         <mark key="." line="38" column="58" />
         <mark key="^" line="38" column="58" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/finn-tf/run.py" timestamp="1563965345792" />
       <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/util/__init__.py" timestamp="1517501646961">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="9" />
@@ -135,6 +133,12 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fair-classification/requirements.txt" timestamp="1565887974864">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/util/ops.py" timestamp="1517501576541">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -180,7 +184,6 @@
         <mark key="." line="251" column="41" />
         <mark key="^" line="251" column="41" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/finn-tf/finn/inns.py" timestamp="1563965600260" />
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508421606370">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="0" column="0" />
@@ -222,7 +225,7 @@
         <mark key="." line="65" column="18" />
         <mark key="^" line="65" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563458374018">
+      <file name="/Dummy.txt" timestamp="1565887823740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/wer.py" timestamp="1508337561161">
@@ -243,8 +246,6 @@
         <mark key="]" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/finn-tf/flagsettings/cont_adult_inn.txt" timestamp="1563965371811" />
-      <file name="$USER_HOME$/PycharmProjects/finn-tf/finn/models/vae.py" timestamp="1563965622694" />
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
         <mark key="[" line="0" column="64" />
       </file>
@@ -267,7 +268,6 @@
         <mark key="." line="22" column="69" />
         <mark key="^" line="22" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/finn-tf/finn/train.py" timestamp="1563965594997" />
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/test.py" timestamp="1513872158199">
         <mark key="'" line="21" column="7" />
         <mark key="[" line="25" column="24" />
@@ -386,10 +386,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>buildoutcfg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>buildoutcfg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>lins</text>
@@ -398,7 +398,7 @@
         <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYsIHJhd193ZWlnaHRzLCByYXdfbWVhbnMsIHJhd19jb3ZhcnMsIHJhd19pbmR1Y2luZ19pbnB1dHMsCiAgICAgICAgICAgICAgICB0cmFpbl9pbnB1dHMsIHRyYWluX291dHB1dHMsIG51bV90cmFpbiwgdGVzdF9pbnB1dHMpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHggPSBkYXRhLnguaWxvY1s6XQo=</text>
+        <text encoding="base64">ZmlyZSA9PSAwLjEuMwpCbGFja0JveEF1ZGl0aW5nPT0wLjEuNDAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -413,25 +413,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgIHggPSBkYXRhLnguaWxvY1s6XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICBBcmdzOgogICAgICAgICAgICBzb2Z0X291dHB1dDoKCiAgICAgICAgUmV0dXJuczoKCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmNwCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICBBcmdzOgogICAgICAgICAgICBzb2Z0X291dHB1dDoKCiAgICAgICAgUmV0dXJuczoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHRyaV92ZWNfc2hhcGUoTik6CiAgICAiIiIKICAgIENvbXB1dGUgdGhlIGxlbmd0aCBvZiBhIHZlY3RvciB0aGF0IGNvbnRhaW5zIGFsbCBlbGVtZW50cyBvZiBhIHRyaWFuZ2xlIHdpdGggZGltZW5zaW9ucyBOLgogICAgIiIiCiAgICByZXR1cm4gW04gKiAoTiArIDEpIC8vIDJdCgoKZGVmIHZlY190b190cmkodmVjdG9ycyk6CiAgICAiIiIKICAgIFRha2VzIGEgRHhNIHRlbnNvciB2ZWN0b3JzIGFuZCBtYXBzIGl0IHRvIGEgRCB4IG1hdHJpeF9zaXplIHggbWF0cml4X3NpemUKICAgIHRlbnNvciB3aGVyZSB0aGUgbG93ZXIgdHJpYW5nbGUgb2YgZWFjaCBtYXRyaXhfc2l6ZSB4IG1hdHJpeF9zaXplIG1hdHJpeAogICAgaXMgY29uc3RydWN0ZWQgYnkgdW5wYWNraW5nIGVhY2ggTS12ZWN0b3IuCiAgICAiIiIKICAgIE0gPSB2ZWN0b3JzLnNoYXBlWzFdLnZhbHVlCiAgICBOID0gaW50KG5wLmZsb29yKDAuNSAqIG5wLnNxcnQoTSAqIDguICsgMSkgLSAwLjUpKQogICAgYXNzZXJ0IE4gKiAoTiArIDEpID09IDIgKiBNICAjIGNoZWNrIE0gaXMgYSB2YWxpZCB0cmlhbmdsZSBudW1iZXIuCiAgICBpbmRpY2VzID0gdGYuY29uc3RhbnQobnAuc3RhY2sobnAudHJpbF9pbmRpY2VzKE4pKS5ULCBkdHlwZT10Zi5pbnQzMikKCiAgICBkZWYgdmVjX3RvX3RyaV92ZWN0b3IodmVjdG9yKToKICAgICAgICByZXR1cm4gdGYuc2NhdHRlcl9uZChpbmRpY2VzPWluZGljZXMsIHNoYXBlPVtOLCBOXSwgdXBkYXRlcz12ZWN0b3IpCgogICAgcmV0dXJuIHRmLm1hcF9mbih2ZWNfdG9fdHJpX3ZlY3RvciwgdmVjdG9ycykK</text>
+        <text encoding="base64">ICAgIG1vZGVsLmNwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgo=</text>
+        <text encoding="base64">ZGVmIHRyaV92ZWNfc2hhcGUoTik6CiAgICAiIiIKICAgIENvbXB1dGUgdGhlIGxlbmd0aCBvZiBhIHZlY3RvciB0aGF0IGNvbnRhaW5zIGFsbCBlbGVtZW50cyBvZiBhIHRyaWFuZ2xlIHdpdGggZGltZW5zaW9ucyBOLgogICAgIiIiCiAgICByZXR1cm4gW04gKiAoTiArIDEpIC8vIDJdCgoKZGVmIHZlY190b190cmkodmVjdG9ycyk6CiAgICAiIiIKICAgIFRha2VzIGEgRHhNIHRlbnNvciB2ZWN0b3JzIGFuZCBtYXBzIGl0IHRvIGEgRCB4IG1hdHJpeF9zaXplIHggbWF0cml4X3NpemUKICAgIHRlbnNvciB3aGVyZSB0aGUgbG93ZXIgdHJpYW5nbGUgb2YgZWFjaCBtYXRyaXhfc2l6ZSB4IG1hdHJpeF9zaXplIG1hdHJpeAogICAgaXMgY29uc3RydWN0ZWQgYnkgdW5wYWNraW5nIGVhY2ggTS12ZWN0b3IuCiAgICAiIiIKICAgIE0gPSB2ZWN0b3JzLnNoYXBlWzFdLnZhbHVlCiAgICBOID0gaW50KG5wLmZsb29yKDAuNSAqIG5wLnNxcnQoTSAqIDguICsgMSkgLSAwLjUpKQogICAgYXNzZXJ0IE4gKiAoTiArIDEpID09IDIgKiBNICAjIGNoZWNrIE0gaXMgYSB2YWxpZCB0cmlhbmdsZSBudW1iZXIuCiAgICBpbmRpY2VzID0gdGYuY29uc3RhbnQobnAuc3RhY2sobnAudHJpbF9pbmRpY2VzKE4pKS5ULCBkdHlwZT10Zi5pbnQzMikKCiAgICBkZWYgdmVjX3RvX3RyaV92ZWN0b3IodmVjdG9yKToKICAgICAgICByZXR1cm4gdGYuc2NhdHRlcl9uZChpbmRpY2VzPWluZGljZXMsIHNoYXBlPVtOLCBOXSwgdXBkYXRlcz12ZWN0b3IpCgogICAgcmV0dXJuIHRmLm1hcF9mbih2ZWNfdG9fdHJpX3ZlY3RvciwgdmVjdG9ycykK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgogICAgcGFzcwo=</text>
+        <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgogICAgcGFzcwo=</text>
