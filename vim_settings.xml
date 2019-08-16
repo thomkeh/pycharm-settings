@@ -50,6 +50,13 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fair-classification/disparate_mistreatment/run-classifier/main.py" timestamp="1565975226938">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="37" column="7" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1504712619836">
         <mark key="'" line="81" column="9" />
         <mark key="[" line="34" column="0" />
@@ -88,6 +95,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fair-classification/disparate_impact/run-classifier/main.py" timestamp="1565975224836">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="66" column="26" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/Module-ASR-Client.py" timestamp="1508324242939">
         <mark key="'" line="282" column="71" />
@@ -286,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="35" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" />
       <jump line="80" column="2" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" />
       <jump line="74" column="4" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" />
       <jump line="234" column="39" filename="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" />
@@ -386,22 +398,23 @@
       <jump line="218" column="0" filename="$USER_HOME$/PycharmProjects/AutoGP/autogp/gp.py" />
       <jump line="9" column="35" filename="$USER_HOME$/PycharmProjects/AutoGP/autogp/cov/cov.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/AutoGP/autogp/util/util.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/fair-classification/disparate_mistreatment/run-classifier/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgpkZWYgbWFpbigpOgogICAgdGVzdF9jb21wYXNfZGF0YSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>test_compas_data</text>
       </register>
       <register name="/" type="4">
         <text>lins</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYsIHJhd193ZWlnaHRzLCByYXdfbWVhbnMsIHJhd19jb3ZhcnMsIHJhd19pbmR1Y2luZ19pbnB1dHMsCiAgICAgICAgICAgICAgICB0cmFpbl9pbnB1dHMsIHRyYWluX291dHB1dHMsIG51bV90cmFpbiwgdGVzdF9pbnB1dHMpOgo=</text>
+        <text encoding="base64">CgpkZWYgbG9hZF9qc29uKGZpbGVuYW1lKToKICAgIGYgPSBqc29uLmxvYWQob3BlbihmaWxlbmFtZSkpCiAgICB4ID0gbnAuYXJyYXkoZlsieCJdKQogICAgeSA9IG5wLmFycmF5KGZbImNsYXNzIl0pCiAgICBzZW5zaXRpdmUgPSBkaWN0KChrLCBucC5hcnJheSh2KSkgZm9yIChrLCB2KSBpbiBmWyJzZW5zaXRpdmUiXS5pdGVtcygpKQogICAgcmV0dXJuIHgsIHksIHNlbnNpdGl2ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmlyZSA9PSAwLjEuMwpCbGFja0JveEF1ZGl0aW5nPT0wLjEuNDAK</text>
+        <text encoding="base64">CgpkZWYgbWFpbigpOgogICAgdGVzdF9jb21wYXNfZGF0YSgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -416,28 +429,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHggPSBkYXRhLnguaWxvY1s6XQo=</text>
+        <text encoding="base64">ZnJvbSBsb2FkX2NvbXBhc19kYXRhIGltcG9ydCAqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgIHByaW50CiAgICBwcmludCAiPT0gVW5jb25zdHJhaW5lZCAob3JpZ2luYWwpIGNsYXNzaWZpZXIgPT0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICBBcmdzOgogICAgICAgICAgICBzb2Z0X291dHB1dDoKCiAgICAgICAgUmV0dXJuczoKCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJcbi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tXG4iCgogICAgIiIiIE5vdyBjbGFzc2lmeSBzdWNoIHRoYXQgd2Ugb3B0aW1pemUgZm9yIGFjY3VyYWN5IHdoaWxlIGFjaGlldmluZyBwZXJmZWN0IGZhaXJuZXNzICIiIgoKICAgIHByaW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmNwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHRyaV92ZWNfc2hhcGUoTik6CiAgICAiIiIKICAgIENvbXB1dGUgdGhlIGxlbmd0aCBvZiBhIHZlY3RvciB0aGF0IGNvbnRhaW5zIGFsbCBlbGVtZW50cyBvZiBhIHRyaWFuZ2xlIHdpdGggZGltZW5zaW9ucyBOLgogICAgIiIiCiAgICByZXR1cm4gW04gKiAoTiArIDEpIC8vIDJdCgoKZGVmIHZlY190b190cmkodmVjdG9ycyk6CiAgICAiIiIKICAgIFRha2VzIGEgRHhNIHRlbnNvciB2ZWN0b3JzIGFuZCBtYXBzIGl0IHRvIGEgRCB4IG1hdHJpeF9zaXplIHggbWF0cml4X3NpemUKICAgIHRlbnNvciB3aGVyZSB0aGUgbG93ZXIgdHJpYW5nbGUgb2YgZWFjaCBtYXRyaXhfc2l6ZSB4IG1hdHJpeF9zaXplIG1hdHJpeAogICAgaXMgY29uc3RydWN0ZWQgYnkgdW5wYWNraW5nIGVhY2ggTS12ZWN0b3IuCiAgICAiIiIKICAgIE0gPSB2ZWN0b3JzLnNoYXBlWzFdLnZhbHVlCiAgICBOID0gaW50KG5wLmZsb29yKDAuNSAqIG5wLnNxcnQoTSAqIDguICsgMSkgLSAwLjUpKQogICAgYXNzZXJ0IE4gKiAoTiArIDEpID09IDIgKiBNICAjIGNoZWNrIE0gaXMgYSB2YWxpZCB0cmlhbmdsZSBudW1iZXIuCiAgICBpbmRpY2VzID0gdGYuY29uc3RhbnQobnAuc3RhY2sobnAudHJpbF9pbmRpY2VzKE4pKS5ULCBkdHlwZT10Zi5pbnQzMikKCiAgICBkZWYgdmVjX3RvX3RyaV92ZWN0b3IodmVjdG9yKToKICAgICAgICByZXR1cm4gdGYuc2NhdHRlcl9uZChpbmRpY2VzPWluZGljZXMsIHNoYXBlPVtOLCBOXSwgdXBkYXRlcz12ZWN0b3IpCgogICAgcmV0dXJuIHRmLm1hcF9mbih2ZWNfdG9fdHJpX3ZlY3RvciwgdmVjdG9ycykK</text>
+        <text encoding="base64">ICAgICIiIiBDbGFzc2lmeSB0aGUgZGF0YSB3aGlsZSBvcHRpbWl6aW5nIGZvciBhY2N1cmFjeSAiIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICIiIiBTcGxpdCB0aGUgZGF0YSBpbnRvIHRyYWluIGFuZCB0ZXN0ICIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgaW5mZXJlbmNlKHNlbGYpOgogICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
