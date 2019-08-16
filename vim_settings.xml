@@ -9,136 +9,6 @@
         <mark key="." line="85" column="41" />
         <mark key="^" line="85" column="41" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" timestamp="1508839459918">
-        <mark key="'" line="58" column="41" />
-        <mark key="[" line="87" column="9" />
-        <mark key="]" line="87" column="28" />
-        <mark key="^" line="87" column="28" />
-        <mark key="." line="87" column="28" />
-      </file>
-      <file name="/a.dummy" timestamp="1517500647994">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ethicml/ethicml/utility/heaviside.py" timestamp="1550751692931">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1509099548604">
-        <mark key="'" line="99" column="13" />
-        <mark key="[" line="890" column="39" />
-        <mark key="]" line="890" column="45" />
-        <mark key="." line="890" column="45" />
-        <mark key="^" line="890" column="45" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ethicml/ethicml/metrics/normalized_mutual_information.py" timestamp="1544807992795">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="14" />
-        <mark key="^" line="13" column="14" />
-        <mark key="." line="13" column="14" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1513099286365">
-        <mark key="'" line="82" column="49" />
-        <mark key="[" line="82" column="11" />
-        <mark key="]" line="82" column="11" />
-        <mark key="." line="82" column="11" />
-        <mark key="^" line="88" column="55" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" timestamp="1504702490086">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="38" column="18" />
-        <mark key="]" line="38" column="58" />
-        <mark key="." line="38" column="58" />
-        <mark key="^" line="38" column="58" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/util/__init__.py" timestamp="1517501646961">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="9" />
-        <mark key="." line="3" column="9" />
-        <mark key="^" line="3" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm.py" timestamp="1512740144690">
-        <mark key="'" line="18" column="9" />
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-        <mark key="^" line="1" column="27" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" timestamp="1508772530284">
-        <mark key="'" line="74" column="4" />
-        <mark key="[" line="88" column="34" />
-        <mark key="]" line="88" column="53" />
-        <mark key="." line="88" column="53" />
-        <mark key="^" line="88" column="53" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/clustering.py" timestamp="1505832931487">
-        <mark key="'" line="207" column="2" />
-        <mark key="[" line="247" column="9" />
-        <mark key="]" line="247" column="10" />
-        <mark key="." line="247" column="10" />
-        <mark key="^" line="247" column="82" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1504629874611">
-        <mark key="'" line="18" column="103" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="32" column="50" />
-        <mark key="^" line="31" column="56" />
-        <mark key="." line="31" column="56" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1508510278648">
-        <mark key="'" line="46" column="57" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="64" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="165" column="46" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513101093498">
-        <mark key="'" line="66" column="32" />
-        <mark key="[" line="64" column="23" />
-        <mark key="]" line="65" column="29" />
-        <mark key="." line="65" column="29" />
-        <mark key="^" line="65" column="29" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505998796646">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="93" column="4" />
-        <mark key="]" line="93" column="37" />
-        <mark key="." line="93" column="37" />
-        <mark key="^" line="93" column="37" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/inf/inf.py" timestamp="1517501527709">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" timestamp="1508511883921">
-        <mark key="'" line="9" column="1" />
-        <mark key="[" line="9" column="68" />
-        <mark key="]" line="9" column="68" />
-        <mark key="." line="9" column="68" />
-        <mark key="^" line="57" column="46" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" timestamp="1508764341785">
-        <mark key="'" line="60" column="10" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="51" column="17" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
-        <mark key="'" line="66" column="54" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/fair-classification/requirements.txt" timestamp="1565887974864">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="11" column="4" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/util/ops.py" timestamp="1517501576541">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -157,12 +27,22 @@
       <file name="/fragment.py" timestamp="1513872120688">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/compute_wer.py" timestamp="1508839459918">
+        <mark key="'" line="58" column="41" />
+        <mark key="[" line="87" column="9" />
+        <mark key="]" line="87" column="28" />
+        <mark key="^" line="87" column="28" />
+        <mark key="." line="87" column="28" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/cvxopt.py" timestamp="1512752503633">
         <mark key="'" line="55" column="17" />
         <mark key="[" line="55" column="12" />
         <mark key="]" line="55" column="17" />
         <mark key="^" line="55" column="17" />
         <mark key="." line="55" column="17" />
+      </file>
+      <file name="/a.dummy" timestamp="1517500647994">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AutoGP/setup.py" timestamp="1515516110574">
         <mark key="[" line="6" column="102" />
@@ -183,6 +63,24 @@
         <mark key="]" line="251" column="41" />
         <mark key="." line="251" column="41" />
         <mark key="^" line="251" column="41" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ethicml/ethicml/utility/heaviside.py" timestamp="1550751692931">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/pix2pix.py" timestamp="1509099548604">
+        <mark key="'" line="99" column="13" />
+        <mark key="[" line="890" column="39" />
+        <mark key="]" line="890" column="45" />
+        <mark key="." line="890" column="45" />
+        <mark key="^" line="890" column="45" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ethicml/ethicml/metrics/normalized_mutual_information.py" timestamp="1544807992795">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+        <mark key="." line="13" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone_client/wer.py" timestamp="1508421606370">
         <mark key="'" line="141" column="0" />
@@ -212,6 +110,13 @@
         <mark key="^" line="55" column="74" />
         <mark key="." line="63" column="23" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1513099286365">
+        <mark key="'" line="82" column="49" />
+        <mark key="[" line="82" column="11" />
+        <mark key="]" line="82" column="11" />
+        <mark key="." line="82" column="11" />
+        <mark key="^" line="88" column="55" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/util/util.py" timestamp="1517501584114">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="142" column="60" />
@@ -219,20 +124,61 @@
         <mark key="." line="144" column="0" />
         <mark key="^" line="144" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro_invert.py" timestamp="1504702490086">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="38" column="18" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="58" />
+        <mark key="^" line="38" column="58" />
+      </file>
       <file name="/Volumes/LocalDataHD/tk324/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513100781399">
         <mark key="[" line="65" column="11" />
         <mark key="]" line="65" column="18" />
         <mark key="." line="65" column="18" />
         <mark key="^" line="65" column="18" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/util/__init__.py" timestamp="1517501646961">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+      </file>
       <file name="/Dummy.txt" timestamp="1565887823740">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/svm.py" timestamp="1512740144690">
+        <mark key="'" line="18" column="9" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/definitions.py" timestamp="1508772530284">
+        <mark key="'" line="74" column="4" />
+        <mark key="[" line="88" column="34" />
+        <mark key="]" line="88" column="53" />
+        <mark key="." line="88" column="53" />
+        <mark key="^" line="88" column="53" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/clustering.py" timestamp="1505832931487">
+        <mark key="'" line="207" column="2" />
+        <mark key="[" line="247" column="9" />
+        <mark key="]" line="247" column="10" />
+        <mark key="." line="247" column="10" />
+        <mark key="^" line="247" column="82" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CIEL-ASR/standalone-client/wer.py" timestamp="1508337561161">
         <mark key="[" line="65" column="19" />
         <mark key="]" line="66" column="45" />
         <mark key="." line="66" column="45" />
         <mark key="^" line="66" column="45" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/audioreconstruction/logfbank.py" timestamp="1504629874611">
+        <mark key="'" line="18" column="103" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="32" column="50" />
+        <mark key="^" line="31" column="56" />
+        <mark key="." line="31" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/.gitignore" timestamp="1512482452436">
         <mark key="'" line="0" column="0" />
@@ -246,6 +192,20 @@
         <mark key="]" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_seeds.py" timestamp="1508510278648">
+        <mark key="'" line="46" column="57" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="165" column="46" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/subgradient.py" timestamp="1513101093498">
+        <mark key="'" line="66" column="32" />
+        <mark key="[" line="64" column="23" />
+        <mark key="]" line="65" column="29" />
+        <mark key="." line="65" column="29" />
+        <mark key="^" line="65" column="29" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/features_types.py" timestamp="1504622072461">
         <mark key="[" line="0" column="64" />
       </file>
@@ -253,6 +213,43 @@
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/apps/keyword1.py" timestamp="1505998796646">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="93" column="37" />
+        <mark key="." line="93" column="37" />
+        <mark key="^" line="93" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/AutoGP/autogp/inf/inf.py" timestamp="1517501527709">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fair-classification/fair_classification/funcs_disp_mist.py" timestamp="1565974239137">
+        <mark key="[" line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/transcriptions_for_noisy.py" timestamp="1508511883921">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="9" column="68" />
+        <mark key="]" line="9" column="68" />
+        <mark key="." line="9" column="68" />
+        <mark key="^" line="57" column="46" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pix2pix-tensorflow/utils/tf_helpers.py" timestamp="1508764341785">
+        <mark key="'" line="60" column="10" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="51" column="17" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/XYZ/extras/find_transcription.py" timestamp="1508932733735">
+        <mark key="'" line="66" column="54" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/mfcc.py" timestamp="1504629981327">
         <mark key="'" line="101" column="53" />
@@ -274,6 +271,12 @@
         <mark key="]" line="25" column="24" />
         <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fair-classification/requirements.txt" timestamp="1565887974864">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/first/main.py" timestamp="1517324118870">
         <mark key="[" line="3" column="15" />
