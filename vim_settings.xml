@@ -37,6 +37,11 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="14" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ethicml/type_defs/pandas/_core.pyi" timestamp="1566212938611">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/svm-from-scratch/simple_smo.py" timestamp="1513099286365">
         <mark key="'" line="82" column="49" />
         <mark key="[" line="82" column="11" />
@@ -172,10 +177,7 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/fair-classification/disparate_mistreatment/run-classifier/main.py" timestamp="1565976166201">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
         <mark key="^" line="27" column="35" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/audioreconstruction/pro.py" timestamp="1504712619836">
         <mark key="'" line="81" column="9" />
@@ -221,6 +223,11 @@
         <mark key="]" line="82" column="69" />
         <mark key="^" line="82" column="69" />
         <mark key="." line="82" column="69" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ethicml/ethicml/preprocessing/feature_binning.py" timestamp="1566212890626">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/XYZ/extractors/create_shtooka.py" timestamp="1508510361769">
         <mark key="'" line="44" column="35" />
@@ -406,7 +413,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0YXUgPSA1LjAKICAgICAgICBtdSA9IDEuMgo=</text>
+        <text encoding="base64">ICAgIFN1cHBvcnRzSW50LAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICMgemVybyBjb3ZhcmlhbmNlIHRocmVzaG9sZCwgbWVhbnMgdHJ5IHRvIGdldCB0aGUgZmFpcmVzdCBzb2x1dGlvbg==</text>
@@ -418,7 +425,7 @@
         <text encoding="base64">ZGVmIHByZWRpY3QobW9kZWwsIHgpOgogICAgcmV0dXJuIG5wLnNpZ24obnAuZG90KHgsIG1vZGVsKSkKCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YXUgPSA1LjAKICAgICAgICBtdSA9IDEuMgo=</text>
+        <text encoding="base64">ICAgIFN1cHBvcnRzSW50LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -433,28 +440,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zX3R5cGUgPSAxICMgRlBSIGNvbnN0cmFpbnQgLS0ganVzdCBjaGFuZ2UgdGhlIGNvbnNfdHlwZSwgdGhlIHJlc3Qgb2YgcGFyYW1ldGVycyBzaG91bGQgc3RheSB0aGUgc2FtZQo=</text>
+        <text encoding="base64">ICAgICAgICBhID0gaW50KGRhdGEueFtncm91cF0ubnVuaXF1ZSgpKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIDpwYXJhbSB0cmFpbl9maWxlOiAKICAgIDpwYXJhbSB0ZXN0X2ZpbGU6IAogICAgOnBhcmFtIG91dHB1dF9maWxlOiAKICAgIDpwYXJhbSBjb25zX3R5cGU6IAogICAgOnBhcmFtIHRhdTogCiAgICA6cGFyYW0gbXU6IAogICAgOnJldHVybjog</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0YXUgPSA1LjAKICAgICAgICBtdSA9IDEuMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIiBHZW5lcmF0ZSB0aGUgc3ludGhldGljIGRhdGEgIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zX3R5cGUgPSAxICMgRlBSIGNvbnN0cmFpbnQgLS0ganVzdCBjaGFuZ2UgdGhlIGNvbnNfdHlwZSwgdGhlIHJlc3Qgb2YgcGFyYW1ldGVycyBzaG91bGQgc3RheSB0aGUgc2FtZQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CgojIGRlZiB0cmFpbl9jbGFzc2lmaWVyKHgsIHksIGNvbnRyb2wsIGNvbnNfcGFyYW1zKToKIyAgICAgRVBTID0gMWUtNgojICAgICBsb3NzX2Z1bmN0aW9uID0gImxvZ3JlZyIgICMgcGVyZm9ybSB0aGUgZXhwZXJpbWVudHMgd2l0aCBsb2dpc3RpYyByZWdyZXNzaW9uCiMgICAgIHcgPSBmZG0udHJhaW5fbW9kZWxfZGlzcF9taXN0KAojICAgICAgICAgeCwgeSwgY29udHJvbCwgbG9zc19mdW5jdGlvbiwgRVBTLCBjb25zX3BhcmFtcwojICAgICApCiMgICAgIHJldHVybiB3CiMgCiMgCiMgZGVmIHRlc3RfY2xhc3NpZmllcih3LCB4X3Rlc3QsIHlfdGVzdCwgY29udHJvbF90ZXN0LCB4X3RyYWluLCB5X3RyYWluLCBjb250cm9sX3RyYWluLCBzZW5zaXRpdmVfYXR0cnMpOgojICAgICBfLCB0ZXN0X3Njb3JlLCBfLCBfLCBfLCBzX2F0dHJfdG9fZnBfZm5fdGVzdCA9IGZkbS5nZXRfY2xmX3N0YXRzKAojICAgICAgICAgdywgeF90cmFpbiwgeV90cmFpbiwgY29udHJvbF90cmFpbiwgeF90ZXN0LCB5X3Rlc3QsIGNvbnRyb2xfdGVzdCwgc2Vuc2l0aXZlX2F0dHJzCiMgICAgICkKIyAKIyAgICAgIyBhY2N1cmFjeSBhbmQgRlBSIGFyZSBmb3IgdGhlIHRlc3QgYmVjYXVzZSB3ZSBuZWVkIG9mIGZvciBwbG90dGluZwojICAgICByZXR1cm4gdywgdGVzdF9zY29yZSwgc19hdHRyX3RvX2ZwX2ZuX3Rlc3QK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIDpwYXJhbSB0cmFpbl9maWxlOiAKICAgIDpwYXJhbSB0ZXN0X2ZpbGU6IAogICAgOnBhcmFtIG91dHB1dF9maWxlOiAKICAgIDpwYXJhbSBjb25zX3R5cGU6IAogICAgOnBhcmFtIHRhdTogCiAgICA6cGFyYW0gbXU6IAogICAgOnJldHVybjog</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICIiIiBHZW5lcmF0ZSB0aGUgc3ludGhldGljIGRhdGEgIiIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJcbi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tXG4iCg==</text>
+        <text encoding="base64">CgojIGRlZiB0cmFpbl9jbGFzc2lmaWVyKHgsIHksIGNvbnRyb2wsIGNvbnNfcGFyYW1zKToKIyAgICAgRVBTID0gMWUtNgojICAgICBsb3NzX2Z1bmN0aW9uID0gImxvZ3JlZyIgICMgcGVyZm9ybSB0aGUgZXhwZXJpbWVudHMgd2l0aCBsb2dpc3RpYyByZWdyZXNzaW9uCiMgICAgIHcgPSBmZG0udHJhaW5fbW9kZWxfZGlzcF9taXN0KAojICAgICAgICAgeCwgeSwgY29udHJvbCwgbG9zc19mdW5jdGlvbiwgRVBTLCBjb25zX3BhcmFtcwojICAgICApCiMgICAgIHJldHVybiB3CiMgCiMgCiMgZGVmIHRlc3RfY2xhc3NpZmllcih3LCB4X3Rlc3QsIHlfdGVzdCwgY29udHJvbF90ZXN0LCB4X3RyYWluLCB5X3RyYWluLCBjb250cm9sX3RyYWluLCBzZW5zaXRpdmVfYXR0cnMpOgojICAgICBfLCB0ZXN0X3Njb3JlLCBfLCBfLCBfLCBzX2F0dHJfdG9fZnBfZm5fdGVzdCA9IGZkbS5nZXRfY2xmX3N0YXRzKAojICAgICAgICAgdywgeF90cmFpbiwgeV90cmFpbiwgY29udHJvbF90cmFpbiwgeF90ZXN0LCB5X3Rlc3QsIGNvbnRyb2xfdGVzdCwgc2Vuc2l0aXZlX2F0dHJzCiMgICAgICkKIyAKIyAgICAgIyBhY2N1cmFjeSBhbmQgRlBSIGFyZSBmb3IgdGhlIHRlc3QgYmVjYXVzZSB3ZSBuZWVkIG9mIGZvciBwbG90dGluZwojICAgICByZXR1cm4gdywgdGVzdF9zY29yZSwgc19hdHRyX3RvX2ZwX2ZuX3Rlc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJcbi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tXG4iCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcmludAoKICAgIHByaW50ICJcblxuPT0gQ29uc3RyYWludHMgb24gRlBSID09IgkjIHNldHRpbmcgcGFyYW1ldGVyIGZvciBjb25zdHJhaW50cwo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJcbi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tXG4iCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
